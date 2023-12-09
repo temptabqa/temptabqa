@@ -1,0 +1,67 @@
+[
+   {
+      "subject":"War of the First Coalition",
+      "predicate":"category",
+      "object":"military conflict"
+   },
+   {
+      "subject":"War of the First Coalition",
+      "predicate":"Date",
+      "object":"20 April 1792 - 17 October 1797 | (5 years, 5 months and 4 weeks)"
+   },
+   {
+      "subject":"War of the First Coalition",
+      "predicate":"Location",
+      "object":"France, Central Europe, Italy, Belgium, Netherlands, Spain, West Indies"
+   },
+   {
+      "subject":"War of the First Coalition",
+      "predicate":"Result",
+      "object":"French victory; Treaty of Paris, Peace of Basel, Treaty of Campo Formio | Establishment and survival of the French Republic | Hostilities resume in 1798 with the formation of a Second Coalition against France"
+   },
+   {
+      "subject":"War of the First Coalition",
+      "predicate":"Territorial | changes",
+      "object":"French annexation of the Austrian Netherlands, the Left Bank of the Rhine, and other smaller territories | Several French \"sister republics\" established"
+   },
+   {
+      "subject":"War of the First Coalition",
+      "predicate":"Wars",
+      "object":"Part of the French Revolutionary Wars and the Coalition Wars"
+   },
+   {
+      "subject":"Belligerents",
+      "predicate":"First Coalition",
+      "object":"Kingdom of France | Army of Condé | Dutch Republic | (until 1795) | Great Britain | Holy Roman Empire | (until 1797) | Habsburg Monarchy | Habsburg monarchy | (until 1797) | Naples | (until 1796) | Portugal | Prussia | (until 1795) | Sardinia | (until 1796) | Spain | Spain | (until 1795) | Other Italian states"
+   },
+   {
+      "subject":"Belligerents",
+      "predicate":"French forces",
+      "object":"Kingdom of France | (until 1792) | French First Republic | French Republic | (from 1792) | French satellites | Batavian Republic | (from 1795) | Polish Legions | (from 1797) | Sister republics | Spain | Spain | (from 1796)"
+   },
+   {
+      "subject":"Commanders and leaders",
+      "predicate":"First Coalition",
+      "object":"Dutch Republic | Laurens Pieter van de Spiegel | Habsburg Monarchy | Francis II | Kingdom of Naples | Ferdinand IV & III | Kingdom of Portugal | Prince Regent John | Kingdom of Prussia | Frederick William II | Kingdom of Sardinia | Victor Amadeus III | Spain | Charles IV | (until 1795) | Kingdom of Great Britain | William Pitt"
+   },
+   {
+      "subject":"Commanders and leaders",
+      "predicate":"France",
+      "object":"Constitutional Cabinet of Louis XVI | Jacques Pierre Brissot | Executed | French First Republic | Maximilien Robespierre | Executed | French First Republic | Napoleon Bonaparte | French First Republic | Paul Barras | (from 1795) | Spain | Charles IV | (from 1796)"
+   },
+   {
+      "subject":"Strength",
+      "predicate":"French First Republic",
+      "object":"1794 | 1,169,000"
+   },
+   {
+      "subject":"Casualties and losses",
+      "predicate":"Habsburg Monarchy",
+      "object":"94,000 soldiers killed in combat | ~282,000 died of disease | 220,000 captured | 100,000 wounded"
+   },
+   {
+      "subject":"Casualties and losses",
+      "predicate":"French First Republic",
+      "object":"100,000 soldiers killed in combat | ~300,000 died of disease | 150,000 captured"
+   }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Karen Clark",
+    "predicate": "category",
+    "object": "swimming"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "caption",
+    "object": "Karen Clark"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "full_name",
+    "object": "Karen Lynn Clark"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "born",
+    "object": "April 9, 1972"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "age",
+    "object": "50"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "birthplace",
+    "object": "Montreal, Quebec"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "sport",
+    "object": "swimming"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "strokes",
+    "object": "synchronized swimming"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "representing",
+    "object": "Canada"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "Olympic Games",
+    "object": "Silver medal - second place | 1996 Atlanta | Team"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "World Aquatics Championships",
+    "object": "Silver medal - second place | 1991 Perth | Team"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "World Aquatics Championships",
+    "object": "Silver medal - second place | 1994 Rome | Team"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "Pan American Games",
+    "object": "Silver medal - second place | 1995 Mar del Plata | Solo"
+  },
+  {
+    "subject": "Karen Clark",
+    "predicate": "Pan American Games",
+    "object": "Silver medal - second place | 1995 Mar del Plata | Team"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "subject": "Afghanistan",
+    "predicate": "is a",
+    "object": "cricket team"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_infobox-image",
+    "object": "Afghanistan Cricket Board logo.png"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "is_associated_with",
+    "object": "Afghanistan Cricket Board"
+  },
+  {
+    "subject": "Hashmatullah Shahidi",
+    "predicate": "is",
+    "object": "Test captain of Afghanistan cricket team"
+  },
+  {
+    "subject": "Hashmatullah Shahidi",
+    "predicate": "is",
+    "object": "One Day captain of Afghanistan cricket team"
+  },
+  {
+    "subject": "Mohammad Nabi",
+    "predicate": "is",
+    "object": "T20I captain of Afghanistan cricket team"
+  },
+  {
+    "subject": "Graham Thorpe",
+    "predicate": "is",
+    "object": "Coach of Afghanistan cricket team"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "acquired_Test_status_in",
+    "object": "2017"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_ICC_status",
+    "object": "Affiliate Member (2001) | Associate Member (2013) | Full Member (2017)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "belongs_to_ICC_region",
+    "object": "ACC"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_ICC_rankings",
+    "object": "Test | -- | 9th (1 May 2020), ODI | 10th | 10th (26 December 2015), T20I | 9th | 7th (5 May 2019)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "first_Test",
+    "object": "India at M. Chinnaswamy Stadium, Bangalore, India 14-18 June 2018"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "last_Test",
+    "object": "Zimbabwe at Sheikh Zayed Cricket Stadium, Abu Dhabi; 10-14 March 2021"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_Test_record",
+    "object": "Tests | Played | Won/Lost, Total | 6 | 3/3 | (0 draws), This year | 0 | 0/0 (0 draws)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "first_ODI",
+    "object": "Scotland at Willowmoore Park, Benoni; 19 April 2009"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "last_ODI",
+    "object": "Zimbabwe at Harare Sports Club, Harare; 9 June 2022"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_World_Cup_appearances",
+    "object": "2 ( | first in 2015 | )"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_World_Cup_best_result",
+    "object": "Champions (2018)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_World_Cup_Qualifier_appearances",
+    "object": "2 ( | first in 2009 | )"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_ODI_record",
+    "object": "ODIs | Played | Won/Lost, Total | 138 | 69/65 | (1 ties, 3 no result), This year | 9 | 7/2 | (0 ties, 0 no result)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "first_T20I",
+    "object": "Ireland at P. Sara, Colombo; 1 February 2010"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "last_T20I",
+    "object": "Zimbabwe at Harare Sports Club, Harare; 14 June 2022"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_T20_World_Cup_appearances",
+    "object": "4 ( | first in 2010 | )"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_T20_World_Cup_best_result",
+    "object": "Group stage"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_T20_World_Cup_Qualifier_appearances",
+    "object": "4 ( | first in 2010 | )"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has_T20I_record",
+    "object": "T20Is | Played | Won/Lost, Total | 94 | 64/29 | (1 tie, 0 no result), This year | 5 | 4/1 | (0 ties, 0 no result)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "kits",
+    "object": "Test kit | Kit left arm redborder.png | Kit right arm redborder.png | ODI kit | Kit left arm redborder.png | Kit right arm redborder.png | T20I kit"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "as_of",
+    "object": "14 June 2022"
+  }
+]

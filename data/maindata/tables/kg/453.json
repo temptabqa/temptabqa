@@ -1,0 +1,114 @@
+[
+  {
+    "subject": "Voyager 1",
+    "predicate": "category",
+    "object": "space probe"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "caption",
+    "object": "Voyager 1"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "infobox-image",
+    "object": "Model of the Voyager spacecraft, a small-bodied spacecraft with a large, central dish and many arms and antennas extending from it | Model of the Voyager spacecraft design"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Mission type",
+    "object": "Outer planetary, heliosphere, and interstellar medium exploration"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Operator",
+    "object": "NASA / Jet Propulsion Laboratory"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "COSPAR ID",
+    "object": "1977-084A"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "SATCAT | number",
+    "object": "10321"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Website",
+    "object": "voyager | .jpl | .nasa | .gov"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Mission duration",
+    "object": "44 years, 9 months, 27 days elapsed | Planetary mission: 3 years, 3 months, 9 days | Interstellar mission: 41 years, 6 months, 18 days elapsed"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Spacecraft type",
+    "object": "Mariner Jupiter-Saturn"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Manufacturer",
+    "object": "Jet Propulsion Laboratory"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Launch mass",
+    "object": "825.5 kg (1,820 lb)"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Power",
+    "object": "470 watts (at launch)"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Launch date",
+    "object": "September 5, 1977, 12:56:00 |  ( | 1977-09-05UTC12:56Z | ) |  UTC"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Rocket",
+    "object": "Titan IIIE"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Launch site",
+    "object": "Cape Canaveral Launch Complex 41"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Last contact",
+    "object": "TBD"
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Flyby of Jupiter",
+    "object": {
+      "Closest approach": "March 5, 1979",
+      "Distance": "349,000 km (217,000 mi)"
+    }
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Flyby of Saturn",
+    "object": {
+      "Closest approach": "November 12, 1980",
+      "Distance": "124,000 km (77,000 mi)"
+    }
+  },
+  {
+    "subject": "Voyager 1",
+    "predicate": "Flyby of Titan | (atmosphere study)",
+    "object": {
+      "Closest approach": "November 12, 1980",
+      "Distance": "6,490 km (4,030 mi)",
+      "Flyby of Titan | (atmosphere study)": [
+        "Flagship | ← | Voyager 2 | Galileo | →"
+      ]
+    }
+  }
+]

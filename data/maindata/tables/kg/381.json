@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "George E. Smith",
+    "predicate": "category",
+    "object": "nobel"
+  },
+  {
+    "subject": "George E. Smith",
+    "predicate": "Born",
+    "object": "( | 1930-05-10 | ) | May 10, 1930 |  (age 91) | White Plains, New York, U.S."
+  },
+  {
+    "subject": "George E. Smith",
+    "predicate": "Nationality",
+    "object": "American"
+  },
+  {
+    "subject": "George E. Smith",
+    "predicate": "Alma mater",
+    "object": "University of Chicago | (PhD 1959) | University of Pennsylvania | (BSc 1955)"
+  },
+  {
+    "subject": "George E. Smith",
+    "predicate": "Known for",
+    "object": "Charge-coupled device"
+  },
+  {
+    "subject": "George E. Smith",
+    "predicate": "Awards",
+    "object": "Stuart Ballantine Medal | (1973) | IEEE Morris N. Liebmann Memorial Award | (1974) | Draper Prize | (2006) | Nobel Prize in Physics | (2009) |  Queen Elizabeth Prize for Engineering | (2017)"
+  },
+  {
+    "subject": "George E. Smith",
+    "predicate": "Image",
+    "object": "Nobel Prize 2009-Press Conference KVA-27.jpg | Smith in 2009"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Fields",
+    "object": "Applied physics"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Institutions",
+    "object": "Bell Labs"
+  }
+]

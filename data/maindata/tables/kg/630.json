@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Site 41",
+    "predicate": "category",
+    "object": "launchpad"
+  },
+  {
+    "subject": "Site 41",
+    "predicate": "caption",
+    "object": "Site 41"
+  },
+  {
+    "subject": "Site 41",
+    "predicate": "infobox-image",
+    "object": "Мемориал погибшим испытателям.jpg | The memorial to the fallen of 41 test pad of the Baikonur cosmodrome"
+  },
+  {
+    "subject": "Site 41",
+    "predicate": "Launch site",
+    "object": "Baikonur Cosmodrome"
+  },
+  {
+    "subject": "Site 41",
+    "predicate": "Operator",
+    "object": "RVSN"
+  },
+  {
+    "subject": "Site 41",
+    "predicate": "Total launches",
+    "object": "134"
+  },
+  {
+    "subject": "Site 41",
+    "predicate": "Launch pad(s)",
+    "object": "3"
+  },
+  {
+    "subject": "Site 41/3",
+    "predicate": "Status",
+    "object": "Demolished"
+  },
+  {
+    "subject": "Site 41/3",
+    "predicate": "Launches",
+    "object": "31"
+  },
+  {
+    "subject": "Site 41/3",
+    "predicate": "First launch",
+    "object": "October 24, 1960"
+  },
+  {
+    "subject": "Site 41/3",
+    "predicate": "Last launch",
+    "object": "December 12, 1967"
+  },
+  {
+    "subject": "Site 41/3",
+    "predicate": "Associated rockets",
+    "object": "R-16"
+  },
+  {
+    "subject": "Site 41/4",
+    "predicate": "Status",
+    "object": "Demolished"
+  },
+  {
+    "subject": "Site 41/4",
+    "predicate": "Launches",
+    "object": "81"
+  },
+  {
+    "subject": "Site 41/4",
+    "predicate": "First launch",
+    "object": "February 2, 1961"
+  },
+  {
+    "subject": "Site 41/4",
+    "predicate": "Last launch",
+    "object": "December 27, 1967"
+  },
+  {
+    "subject": "Site 41/4",
+    "predicate": "Associated rockets",
+    "object": "R-16"
+  },
+  {
+    "subject": "Site 41/15",
+    "predicate": "Status",
+    "object": "Demolished"
+  },
+  {
+    "subject": "Site 41/15",
+    "predicate": "Launches",
+    "object": "22"
+  },
+  {
+    "subject": "Site 41/15",
+    "predicate": "First launch",
+    "object": "May 25, 1963 | R-16U"
+  },
+  {
+    "subject": "Site 41/15",
+    "predicate": "Last launch",
+    "object": "August 27, 1968 | Kosmos 3 / Kosmos 236"
+  },
+  {
+    "subject": "Site 41/15",
+    "predicate": "Associated rockets",
+    "object": "R-16 | Kosmos 3"
+  }
+]

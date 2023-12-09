@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "category",
+    "object": "hockey"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Born",
+    "object": "November 1, 1971"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Representing",
+    "object": "Argentina"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Champions Challenge",
+    "object": "Bronze medal - third place | 2001 Kuala Lumpur | Team"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Champions Challenge",
+    "object": "Gold medal - first place | 2005 Alexandria | Team"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Champions Challenge",
+    "object": "Gold medal - first place | 2007 Boom | Team"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Pan American Games",
+    "object": "Gold medal - first place | 1995 Mar del Plata | Team"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Pan American Games",
+    "object": "Silver medal - second place | 1999 Winnipeg | Team"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Pan American Games",
+    "object": "Gold medal - first place | 2003 Santo Domingo | Team"
+  },
+  {
+    "subject": "Jorge Lombi",
+    "predicate": "Pan American Games",
+    "object": "Gold medal - first place | 2007 Rio de Janeiro | Team"
+  }
+]

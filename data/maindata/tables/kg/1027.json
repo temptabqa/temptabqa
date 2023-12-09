@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "IOC code",
+    "object": "ITA"
+  },
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "NOC",
+    "object": "Italian National Olympic Committee"
+  },
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "Website",
+    "object": "www.coni.it (in Italian)"
+  },
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "Medals Ranked 7th",
+    "object": "Gold 257 Silver 224 Bronze 261 Total 742"
+  },
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "Flag",
+    "object": "Flag of Italy.svg"
+  },
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "Summer appearances",
+    "object": "1896 1900 1904 1908 1912 1920 1924 1928 1932 1936 1948 1952 1956 1960 1964 1968 1972 1976 1980 1984 1988 1992 1996 2000 2004 2008 2012 2016 2020"
+  },
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "Winter appearances",
+    "object": "1924 1928 1932 1936 1948 1952 1956 1960 1964 1968 1972 1976 1980 1984 1988 1992 1994 1998 2002 2006 2010 2014 2018 2022"
+  },
+  {
+    "subject": "Italy at the Olympics",
+    "predicate": "Other related appearances",
+    "object": "1906 Intercalated Games"
+  }
+]

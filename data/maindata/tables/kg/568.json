@@ -1,0 +1,114 @@
+[
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "category",
+    "object": "basketball"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "born",
+    "object": "August 8, 1944"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "birthplace",
+    "object": "Cambridge, Massachusetts"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "height",
+    "object": "6 ft 7 in (2.01 m)"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "weight",
+    "object": "210 lb (95 kg)"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "high school",
+    "object": "Cambridge Rindge and Latin (Cambridge, Massachusetts)"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "college",
+    "object": "Mt. SAC (1964-1966), USC (1966-1968)"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "NBA draft",
+    "object": "1968 / Round: 1 / Pick: 11th overall"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "playing career",
+    "object": "1968-1974"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "position",
+    "object": "Small forward"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "number",
+    "object": "30, 31, 27"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "selected by",
+    "object": "Los Angeles Lakers"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "career history",
+    "object": [
+      {
+        "year": "1968-1969",
+        "team": "Los Angeles Lakers"
+      },
+      {
+        "year": "1969-1972",
+        "team": "Detroit Pistons"
+      },
+      {
+        "year": "1972-1973",
+        "team": "Buffalo Braves"
+      },
+      {
+        "year": "1974",
+        "team": "Chicago Bulls"
+      }
+    ]
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "NBA All-Rookie First Team",
+    "object": "1969"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "First-team All-AAWU",
+    "object": "1967, 1968"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "career NBA points",
+    "object": "2,062 (5.7 ppg)"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "career NBA rebounds",
+    "object": "1,994 (5.5 rpg)"
+  },
+  {
+    "subject": "Bill Hewitt",
+    "predicate": "career NBA assists",
+    "object": "469 (1.3 apg)"
+  }
+]

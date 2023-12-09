@@ -1,0 +1,101 @@
+[
+  {
+    "subject": {
+      "name": "Chadian-Libyan conflict"
+    },
+    "predicate": {
+      "name": "category"
+    },
+    "object": {
+      "name": "proxy war"
+    }
+  },
+  {
+    "subject": {
+      "name": "Chadian-Libyan conflict"
+    },
+    "predicate": {
+      "name": "Date"
+    },
+    "object": {
+      "name": "29 January 1978 - 11 September 1987 | (9 years, 7 months, 1 week and 6 days)"
+    }
+  },
+  {
+    "subject": {
+      "name": "Chadian-Libyan conflict"
+    },
+    "predicate": {
+      "name": "Location"
+    },
+    "object": {
+      "name": "Chad"
+    }
+  },
+  {
+    "subject": {
+      "name": "Chadian-Libyan conflict"
+    },
+    "predicate": {
+      "name": "Result"
+    },
+    "object": {
+      "name": "Chadian/French victory"
+    }
+  },
+  {
+    "subject": {
+      "name": "Chadian-Libyan conflict"
+    },
+    "predicate": {
+      "name": "Territorial | changes"
+    },
+    "object": {
+      "name": "Chad keeps control of the Aouzou Strip."
+    }
+  },
+  {
+    "subject": {
+      "name": "Chadian-Libyan conflict"
+    },
+    "predicate": {
+      "name": "Part of"
+    },
+    "object": {
+      "name": "the Cold War and the Arab Cold War"
+    }
+  },
+  {
+    "subject": {
+      "name": "Chadian-Libyan conflict"
+    },
+    "predicate": {
+      "name": "LocationChad.svg"
+    },
+    "object": {
+      "name": ""
+    }
+  },
+  {
+    "subject": {
+      "name": "Anti-Libyan Chadian factions | FAT (1978-1979) | FAN (1978-1983) | FANT (1983-1987) | GUNT (1986-1987) | France | Inter-African Force | Zaire | Nigeria | Senegal | NFSL | Supported by | DR Sudan (1978-1985) | Sudan (1985-1987) | Egypt | Israel | Iraq | Morocco | United States"
+    },
+    "predicate": {
+      "name": "Belligerents"
+    },
+    "object": {
+      "name": "Libya | Islamic Legion | Pro-Libyan Chadian factions | FROLINAT | GUNT (1979-1986) | Codos (1983-1986) | PLO (1987) | Supported by | East Germany | Soviet Union | Vietnam | [ | citation needed | ]"
+    }
+  },
+  {
+    "subject": {
+      "name": "Commanders and leaders"
+    },
+    "predicate": {
+      "name": "Commanders and leaders"
+    },
+    "object": {
+      "name": "Chad | Hissène Habré | Chad | Hassan Djamous | Chad | Idriss Déby | France | V. Giscard d'Estaing | France | François Mitterrand | Libya | Muammar Gaddafi | Libya | Massoud Abdelhafid | Libya | Khalifa Haftar ( | Prisoner of war | ) | Libya | Abdullah Senussi | Libya | Ahmed Oun | Libya | Abu-Bakr Yunis Jabr | Libya | Abdel Fatah Younis | Libya | Radwan Saleh Radwan | Goukouni Oueddei | Palestine Liberation Organization | Mahmoud A. Marzouq"
+    }
+  }
+]

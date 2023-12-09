@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Delaware Extension",
+    "predicate": "is a",
+    "object": "rail line"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "has termini in",
+    "object": "Philadelphia"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "opened by Pennsylvania Railroad in",
+    "object": "1862"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "opened by Penn Central in",
+    "object": "1968"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "opened by Conrail in",
+    "object": "1976"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "closed by Pennsylvania Railroad in",
+    "object": "1968"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "closed by Penn Central in",
+    "object": "1976"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "closed by Conrail and became part of",
+    "object": "unknown (Conrail, became part of Harrisburg Line)"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "has line length",
+    "object": "9.5 mi (15.3 km)"
+  },
+  {
+    "subject": "Delaware Extension",
+    "predicate": "has track gauge",
+    "object": "1,435 mm (4 ft 8 1/2 in) standard gauge"
+  }
+]

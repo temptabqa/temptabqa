@@ -1,0 +1,137 @@
+[
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "category",
+    "object": "body builder"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "image",
+    "object": "Arnold Schwarzenegger by Gage Skidmore 4.jpg | Schwarzenegger in 2019"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "position",
+    "object": "38th Governor of California"
+  },
+  {
+    "subject": "38th Governor of California",
+    "predicate": "In office",
+    "object": "November 17, 2003 - January 3, 2011"
+  },
+  {
+    "subject": "38th Governor of California",
+    "predicate": "Lieutenant",
+    "object": "Cruz Bustamante | John Garamendi | Mona Pasquil (acting) | Abel Maldonado"
+  },
+  {
+    "subject": "38th Governor of California",
+    "predicate": "Preceded by",
+    "object": "Gray Davis"
+  },
+  {
+    "subject": "38th Governor of California",
+    "predicate": "Succeeded by",
+    "object": "Jerry Brown"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "position",
+    "object": "Chairman of the President's Council on Physical Fitness and Sports"
+  },
+  {
+    "subject": "Chairman of the President's Council on Physical Fitness and Sports",
+    "predicate": "In office",
+    "object": "January 22, 1990 - May 27, 1993"
+  },
+  {
+    "subject": "Chairman of the President's Council on Physical Fitness and Sports",
+    "predicate": "President",
+    "object": "George H. W. Bush | Bill Clinton"
+  },
+  {
+    "subject": "Chairman of the President's Council on Physical Fitness and Sports",
+    "predicate": "Preceded by",
+    "object": "Dick Kazmaier"
+  },
+  {
+    "subject": "Chairman of the President's Council on Physical Fitness and Sports",
+    "predicate": "Succeeded by",
+    "object": "Florence Griffith Joyner (co-chair) | Tom McMillen (co-chair)"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "born",
+    "object": "Arnold Schwarzenegger | ( | 1947-07-30 | ) | July 30, 1947 | (age 75) | Thal, Styria, Allied-occupied Austria"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "citizenship",
+    "object": "Austria | United States"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "political party",
+    "object": "Republican"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "spouse",
+    "object": "Maria Shriver | ( | married |  1986; | divorced |  2021)"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "children",
+    "object": "5, including Katherine, Patrick and Joseph Baena"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "parent",
+    "object": "Gustav Schwarzenegger (father)"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "relatives",
+    "object": "Chris Pratt (son-in-law)"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "occupation",
+    "object": "Actor | bodybuilder | businessman | politician | author"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "signature",
+    "object": ""
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "website",
+    "object": "Official website"
+  },
+  {
+    "subject": "Arnold Schwarzenegger",
+    "predicate": "military service",
+    "object": "Austrian Bundesheer"
+  },
+  {
+    "subject": "Military service",
+    "predicate": "Allegiance",
+    "object": "Austria"
+  },
+  {
+    "subject": "Military service",
+    "predicate": "Branch/service",
+    "object": "Bundesheer"
+  },
+  {
+    "subject": "Military service",
+    "predicate": "Years of service",
+    "object": "1965"
+  },
+  {
+    "subject": "Military service",
+    "predicate": "Unit",
+    "object": "Belgier Barracks"
+  }
+]

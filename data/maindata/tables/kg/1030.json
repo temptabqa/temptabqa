@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Men's doubles at the 1983 IBF World Championships",
+    "predicate": "category",
+    "object": "sports event"
+  },
+  {
+    "subject": "Men's doubles at the 1983 IBF World Championships",
+    "predicate": "Venue",
+    "object": "Brøndbyhallen"
+  },
+  {
+    "subject": "Men's doubles at the 1983 IBF World Championships",
+    "predicate": "Location",
+    "object": "Copenhagen, Denmark"
+  },
+  {
+    "subject": "Men's doubles at the 1983 IBF World Championships",
+    "predicate": "Dates",
+    "object": "May 2, 1983 - May 8, 1983"
+  },
+  {
+    "subject": "Steen Fladberg",
+    "predicate": "won",
+    "object": "gold medal"
+  },
+  {
+    "subject": "Jesper Helledie",
+    "predicate": "won",
+    "object": "gold medal"
+  },
+  {
+    "subject": "Denmark",
+    "predicate": "won",
+    "object": "gold medal"
+  },
+  {
+    "subject": "Mike Tredgett",
+    "predicate": "won",
+    "object": "silver medal"
+  },
+  {
+    "subject": "Martin Dew",
+    "predicate": "won",
+    "object": "silver medal"
+  },
+  {
+    "subject": "England",
+    "predicate": "won",
+    "object": "silver medal"
+  },
+  {
+    "subject": "Park Joo-bong",
+    "predicate": "won",
+    "object": "bronze medal"
+  },
+  {
+    "subject": "Lee Eun-ku",
+    "predicate": "won",
+    "object": "bronze medal"
+  },
+  {
+    "subject": "South Korea",
+    "predicate": "won",
+    "object": "bronze medal"
+  },
+  {
+    "subject": "Christian Hadinata",
+    "predicate": "won",
+    "object": "bronze medal"
+  },
+  {
+    "subject": "Bobby Ertanto",
+    "predicate": "won",
+    "object": "bronze medal"
+  },
+  {
+    "subject": "Indonesia",
+    "predicate": "won",
+    "object": "bronze medal"
+  },
+  {
+    "subject": "Men's doubles at the 1983 IBF World Championships",
+    "predicate": "previous event",
+    "object": "1980 Jakarta"
+  },
+  {
+    "subject": "Men's doubles at the 1983 IBF World Championships",
+    "predicate": "next event",
+    "object": "1985 Calgary"
+  }
+]

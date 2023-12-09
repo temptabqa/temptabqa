@@ -1,0 +1,82 @@
+[
+  {
+    "subject": {"type": "concert", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "album_cover", "name": "Pink Friday album cover.jpg", "format": "Standard edition cover"}
+  },
+  {
+    "subject": {"type": "Studio_album", "name": "Pink Friday", "artist": "Nicki Minaj"},
+    "predicate": "has",
+    "object": {"type": "Release_date", "name": "November 22, 2010"}
+  },
+  {
+    "subject": {"type": "Studio_album", "name": "Pink Friday", "artist": "Nicki Minaj"},
+    "predicate": "has",
+    "object": {"type": "Recording_time", "name": "2009-2010"}
+  },
+  {
+    "subject": {"type": "Studio_album", "name": "Pink Friday", "artist": "Nicki Minaj"},
+    "predicate": "has",
+    "object": {"type": "Genre", "name": "Hip hop | pop rap | R&B"}
+  },
+  {
+    "subject": {"type": "Studio_album", "name": "Pink Friday", "artist": "Nicki Minaj"},
+    "predicate": "has",
+    "object": {"type": "Length", "name": "50 | 46"}
+  },
+  {
+    "subject": {"type": "Studio_album", "name": "Pink Friday", "artist": "Nicki Minaj"},
+    "predicate": "has",
+    "object": {"type": "Label", "name": "Young Money | Cash Money | Universal Motown"}
+  },
+  {
+    "subject": {"type": "Studio_album", "name": "Pink Friday", "artist": "Nicki Minaj"},
+    "predicate": "has",
+    "object": {"type": "Producer", "name": "Bangladesh | Blackout Movement | Drew Money | J.R. Rotem | Kane Beatz | Pop & Oak | Skyz Muzik | Swizz Beatz | T-Minus | will.i.am"}
+  },
+  {
+    "subject": {"type": "Nicki_Minaj_chronology", "name": "Nicki Minaj chronology"},
+    "predicate": "includes",
+    "object": {"type": "Album_list", "name": "Beam Me Up Scotty | (2009) | Pink Friday | (2010) | Pink Friday: Roman Reloaded | (2012)"}
+  },
+  {
+    "subject": {"type": "Album", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "Single", "name": "\"Your Love\"", "release_date": "June 1, 2010"}
+  },
+  {
+    "subject": {"type": "Album", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "Single", "name": "\"Check It Out\"", "release_date": "September 3, 2010"}
+  },
+  {
+    "subject": {"type": "Album", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "Single", "name": "\"Right Thru Me\"", "release_date": "September 24, 2010"}
+  },
+  {
+    "subject": {"type": "Album", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "Single", "name": "\"Moment 4 Life\"", "release_date": "December 7, 2010"}
+  },
+  {
+    "subject": {"type": "Album", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "Single", "name": "\"Super Bass\"", "release_date": "April 5, 2011"}
+  },
+  {
+    "subject": {"type": "Album", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "Single", "name": "\"Did It On'em\"", "release_date": "April 7, 2011"}
+  },
+  {
+    "subject": {"type": "Album", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "Single", "name": "\"Girls Fall Like Dominoes\"", "release_date": "April 11, 2011"}
+  },
+  {
+    "subject": {"type": "Album", "name": "Pink Friday"},
+    "predicate": "has",
+    "object": {"type": "Single", "name": "\"Fly\"", "release_date": "August 30, 2011"}
+  }
+]

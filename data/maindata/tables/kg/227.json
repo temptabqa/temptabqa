@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "B-25 Roc",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "Role",
+    "object": "Carrier-based fighter | Type of aircraft"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "Manufacturer",
+    "object": "Blackburn Aircraft | Boulton Paul"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "First flight",
+    "object": "23 December 1938"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "Introduction",
+    "object": "April 1939"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "Retired",
+    "object": "1943"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "Primary user",
+    "object": "Royal Navy"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "Number built",
+    "object": "136"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "Developed from",
+    "object": "Blackburn Skua"
+  },
+  {
+    "subject": "B-25 Roc",
+    "predicate": "Image",
+    "object": "Blackburn Roc.jpg"
+  }
+]

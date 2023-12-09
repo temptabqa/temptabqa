@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "California State Senate",
+    "predicate": "is part of",
+    "object": "California State Legislature"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has",
+    "object": "Coat of arms or logo"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "is a",
+    "object": "Upper house of the California State Legislature"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has term limits",
+    "object": "Elected before 2012: 2 terms (8 years), Elected 2012 and after: 3 terms (12 years)"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "started new session",
+    "object": "December 7, 2020"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has President",
+    "object": "Eleni Kounalakis (D) since January 7, 2019"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has President pro tempore",
+    "object": "Toni Atkins (D) since March 21, 2018"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has Majority Leader",
+    "object": "Mike McGuire (D) since January 19, 2022"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has Minority Leader",
+    "object": "Scott Wilk (R) since January 20, 2021"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has seats",
+    "object": "40"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has political groups",
+    "object": "Majority: Democratic (31), Minority: Republican (9)"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has length of term",
+    "object": "4 years"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has authority",
+    "object": "Article 4, California Constitution"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has salary",
+    "object": "$114,877/year + $211 per diem"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has structure",
+    "object": "Composition of the California State Senate"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has voting system",
+    "object": "Nonpartisan blanket primary"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has last election",
+    "object": "November 3, 2020 (20 seats)"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has next election",
+    "object": "November 8, 2022 (20 seats)"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has redistricting",
+    "object": "California Citizens Redistricting Commission"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has motto",
+    "object": "Senatoris est civitatis libertatem tueri (It is a senator's duty to protect the liberty​​​​​​​ of the people)"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "meets at",
+    "object": "State Senate Chamber, California State Capitol, Sacramento, California"
+  },
+  {
+    "subject": "California State Senate",
+    "predicate": "has website",
+    "object": "senate.ca.gov"
+  }
+]

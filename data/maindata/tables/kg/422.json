@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Capital",
+    "object": "Raqqada | (909-921) | Mahdia | (921-948) | al-Mansuriya | (948-973) | Cairo | (973-1171)"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Common languages",
+    "object": "Arabic | Berber languages | Coptic"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Religion",
+    "object": "Isma'ili Shia | (State religion)"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Government",
+    "object": "Caliphate"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Caliph",
+    "object": ""
+  },
+  {
+    "subject": "Abdullah al-Mahdi Billah",
+    "predicate": "909-934 (first)",
+    "object": "Fatimid Caliphate | founder"
+  },
+  {
+    "subject": "Al-Adid",
+    "predicate": "1160-1171 (last)",
+    "object": "Fatimid Caliphate"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Historical era",
+    "object": "Early Middle Ages"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Overthrow of the Aghlabids",
+    "object": "5 January 909"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Fatimid conquest of Egypt and foundation of Cairo",
+    "object": "969"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Overthrow by Saladin",
+    "object": "17 September 1171"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Fatimid Caliphate",
+    "object": "909-1171 | Evolution of the Fatimid state"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Area",
+    "object": "969 | 4,100,000 km | 2 | (1,600,000 sq mi)"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Currency",
+    "object": "Dinar"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Preceded by",
+    "object": "Abbasid Caliphate | Aghlabid Emirate | Ikhshidid Wilayah | Emirate of Tahert"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "predicate": "Succeeded by",
+    "object": "Ayyubid Sultanate | Crusader States | Emirate of Sicily | Zirid Emirate | Hammadid Emirate | Seljuk Empire | Sulayhids | Sharifate of Mecca"
+  }
+]

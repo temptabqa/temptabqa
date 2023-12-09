@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Role",
+    "object": "Interceptor, air superiority, and multirole fighter | Type of aircraft"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "National origin",
+    "object": "United States"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Manufacturer",
+    "object": "Grumman"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "First flight",
+    "object": "21 December 1970"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Introduction",
+    "object": "22 September 1974"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Retired",
+    "object": "22 September 2006 (United States Navy)"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Status",
+    "object": "In service with the Islamic Republic of Iran Air Force"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Primary users",
+    "object": "United States Navy (historical) | Imperial Iranian Air Force (historical) | Islamic Republic of Iran Air Force"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Produced",
+    "object": "1969-1991"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Number built",
+    "object": "712"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Image",
+    "object": "US Navy 051105-F-5480T-005 An F-14D Tomcat conducts a mission over the Persian Gulf-region.jpg"
+  },
+  {
+    "subject": "F-14 Tomcat",
+    "predicate": "Image description",
+    "object": "A U.S. Navy F-14D conducts a mission over the Persian Gulf region in 2005."
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "category",
+    "object": "show"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "Genre",
+    "object": "Period"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "Written by",
+    "object": "Alex Haley (novel) | David Stevens (teleplay)"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "Directed by",
+    "object": "John Erman"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "Starring",
+    "object": "Halle Berry | Danny Glover | Tucker Stone | Jasmine Guy | Tim Daly | Martin Sheen | Paul Winfield | Raven-Symoné | Ann-Margret"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "Theme music composer",
+    "object": "Christopher Dedrick"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "Country of origin",
+    "object": "United States"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "Original language",
+    "object": "English"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "Number of episodes",
+    "object": "3"
+  },
+  {
+    "subject": "Alex Haley's Queen",
+    "predicate": "image",
+    "object": "QueenVHSCover.jpg | VHS cover of | Alex Haley's Queen"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Producers",
+    "object": "David L. Wolper | Bernard Sofronski"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Editors",
+    "object": "James Galloway | Paul LaMastra"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Running time",
+    "object": "282 minutes"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Production company",
+    "object": "The Wolper Organization"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Distributor",
+    "object": "Warner Bros. Television"
+  },
+  {
+    "subject": "Release",
+    "predicate": "Original network",
+    "object": "CBS"
+  },
+  {
+    "subject": "Release",
+    "predicate": "Original release",
+    "object": "February 14 (1993-02-14) - February 18, 1993 (1993-02-18)"
+  },
+  {
+    "subject": "Chronology",
+    "predicate": "Preceded by",
+    "object": "Roots: The Gift"
+  }
+]

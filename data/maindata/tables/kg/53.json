@@ -1,0 +1,302 @@
+[
+  {
+    "subject": "Madan Lal",
+    "predicate": "category",
+    "object": "cricket"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "full name",
+    "object": "Madan Lal Udhouram Sharma"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "nickname",
+    "object": "Maddi Paa, Maddat Lal"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "batting",
+    "object": "Right-handed"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "bowling",
+    "object": "Right-arm medium"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "role",
+    "object": "All-rounder"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "national side",
+    "object": "India"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "test debut (cap 130)",
+    "object": "6 June 1974 v England"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "last test",
+    "object": "19 June 1986 v England"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "odi debut (cap 5)",
+    "object": "13 July 1974 v England"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "last ODI",
+    "object": "20 March 1987 v Pakistan"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "domestic team (1968-1972)",
+    "object": "Punjab"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "domestic team (1973-1991)",
+    "object": "Delhi"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "test matches",
+    "object": "39"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "ODI matches",
+    "object": "67"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "first class matches",
+    "object": "232"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "list A matches",
+    "object": "111"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "runs scored (Test)",
+    "object": "1,042"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "runs scored (ODI)",
+    "object": "401"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "runs scored (FC)",
+    "object": "10,204"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "runs scored (LA)",
+    "object": "1,171"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "batting average (Test)",
+    "object": "22.65"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "batting average (ODI)",
+    "object": "19.09"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "batting average (FC)",
+    "object": "42.87"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "batting average (LA)",
+    "object": "25.45"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "100s/50s (Test)",
+    "object": "0/5"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "100s/50s (ODI)",
+    "object": "0/1"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "100s/50s (FC)",
+    "object": "22/50"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "100s/50s (LA)",
+    "object": "0/5"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "top score (Test)",
+    "object": "74"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "top score (ODI)",
+    "object": "53*"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "top score (FC)",
+    "object": "223"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "top score (LA)",
+    "object": "64"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "balls bowled (Test)",
+    "object": "5,997"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "balls bowled (ODI)",
+    "object": "3,164"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "balls bowled (FC)",
+    "object": "33,123"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "balls bowled (LA)",
+    "object": "5,456"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "wickets (Test)",
+    "object": "71"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "wickets (ODI)",
+    "object": "73"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "wickets (FC)",
+    "object": "625"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "wickets (LA)",
+    "object": "119"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "bowling average (Test)",
+    "object": "40.08"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "bowling average (ODI)",
+    "object": "29.27"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "bowling average (FC)",
+    "object": "25.50"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "bowling average (LA)",
+    "object": "30.20"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "5 wickets in innings (Test)",
+    "object": "4"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "5 wickets in innings (ODI)",
+    "object": "0"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "5 wickets in innings (FC)",
+    "object": "27"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "5 wickets in innings (LA)",
+    "object": "0"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "10 wickets in match (Test)",
+    "object": "0"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "10 wickets in match (FC)",
+    "object": "5"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "best bowling (Test)",
+    "object": "5/23"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "best bowling (ODI)",
+    "object": "4/20"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "best bowling (FC)",
+    "object": "9/31"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "best bowling (LA)",
+    "object": "4/20"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "catches/stumpings (Test)",
+    "object": "15/-"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "catches/stumpings (ODI)",
+    "object": "18/-"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "catches/stumpings (FC)",
+    "object": "141/-"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "catches/stumpings (LA)",
+    "object": "31/-"
+  },
+  {
+    "subject": "Madan Lal",
+    "predicate": "source",
+    "object": "ESPNCricinfo, 4 August 2014"
+  }
+]

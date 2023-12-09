@@ -1,0 +1,97 @@
+[
+{
+"subject": "Peter III",
+"predicate": "category",
+"object": "emperor"
+},
+{
+"subject": "Peter III",
+"predicate": "image",
+"object": "Pedro III rey de Aragón.jpg | Detail from the | Nuova Cronica"
+},
+{
+"subject": "Peter III",
+"predicate": "title",
+"object": "King of Aragon and Valencia | Count of Barcelona"
+},
+{
+"subject": "Peter III",
+"predicate": "reign",
+"object": "27 July 1276 | ( | 1276-07-27 | ) | - November 1285 | ( | 1285-11 | )"
+},
+{
+"subject": "Peter III",
+"predicate": "predecessor",
+"object": "James I"
+},
+{
+"subject": "Peter III",
+"predicate": "successor",
+"object": "Alfonso III"
+},
+{
+"subject": "Peter III",
+"predicate": "title",
+"object": "King of Sicily | ( | jure uxoris | )"
+},
+{
+"subject": "Peter III",
+"predicate": "reign",
+"object": "4 September 1282 | ( | 1282-09-04 | ) | - November 1285 | ( | 1285-11 | )"
+},
+{
+"subject": "Peter III",
+"predicate": "predecessor",
+"object": "Charles I"
+},
+{
+"subject": "Peter III",
+"predicate": "successor",
+"object": "James I"
+},
+{
+"subject": "Peter III",
+"predicate": "born",
+"object": "circa | \u20091239 | Valencia, Aragon"
+},
+{
+"subject": "Peter III",
+"predicate": "died",
+"object": "November 1285 | (1285-11-00) | (aged 45-46) | Vilafranca del Penedès, Aragon"
+},
+{
+"subject": "Peter III",
+"predicate": "burial",
+"object": "Santes Creus"
+},
+{
+"subject": "Peter III",
+"predicate": "consort",
+"object": "Constance II of Sicily"
+},
+{
+"subject": "Peter III",
+"predicate": "issue",
+"object": "Alfonso III of Aragon | James II of Aragon | Elizabeth, Queen of Portugal | Frederick III of Sicily | Yolande, Duchess of Calabria | Peter of Aragon"
+},
+{
+"subject": "Peter III",
+"predicate": "house",
+"object": "Barcelona"
+},
+{
+"subject": "Peter III",
+"predicate": "father",
+"object": "James I of Aragon"
+},
+{
+"subject": "Peter III",
+"predicate": "mother",
+"object": "Violant of Hungary"
+},
+{
+"subject": "Peter III",
+"predicate": "religion",
+"object": "Roman Catholicism"
+}
+]

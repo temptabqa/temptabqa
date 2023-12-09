@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "has_image",
+    "object": "TooLegitToQuit-MCHammersingle.jpg"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "is_a",
+    "object": "Single by Hammer"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "is_from_album",
+    "object": "Too Legit to Quit"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "released_on",
+    "object": "September 5, 1991"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "recorded",
+    "object": "1989-1991"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "genre",
+    "object": "Hip hop, new jack swing"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "length",
+    "object": "5:10 (7\" version), 5:36 (album version), 7:52 (legit remix), 10:16 (get bucked mix)"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "label",
+    "object": "Capitol"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "songwriter",
+    "object": "Stanley Burrell, James Earley, Michael Kelly, Louis K. Burrell, Felton Pilate"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "producer",
+    "object": "MC Hammer"
+  },
+  {
+    "subject": "Hammer singles chronology",
+    "predicate": "includes",
+    "object": "\"Here Comes the Hammer\" (1990)"
+  },
+  {
+    "subject": "Hammer singles chronology",
+    "predicate": "includes",
+    "object": "\"2 Legit 2 Quit\" (1991)"
+  },
+  {
+    "subject": "Hammer singles chronology",
+    "predicate": "includes",
+    "object": "\"Addams Groove\" (1991)"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Catan",
+    "predicate": "is a",
+    "object": "board game"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "has other names",
+    "object": "The Settlers of Catan"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "designed by",
+    "object": "Klaus Teuber"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "published by",
+    "object": "Kosmos, Catan Studio, Filosofia, 999 Games, GP Inc., Korea Board Games, Smart, Devir, Κάισσα, HaKubia, Galakta, Albi, BrainGames"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "publication",
+    "object": "First edition: 1995; Second edition: 1996; Third edition: 1997; Fourth edition: 2007; Fifth edition: June 2015"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "number of players",
+    "object": "3 to 4 (standard), 5, or 6 (with expansions), 5-12 (movie edition)"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "setup time",
+    "object": "15 minutes"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "playing time",
+    "object": "1-2 hours"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "has random chance",
+    "object": "low-moderate"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "skills required",
+    "object": "Strategy, Negotiation"
+  },
+  {
+    "subject": "Catan",
+    "predicate": "official website",
+    "object": "catan.com"
+  }
+]

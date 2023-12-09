@@ -1,0 +1,237 @@
+[
+  {
+    "subject": "Economy of India",
+    "predicate": "caption",
+    "object": "India"
+  },
+  {
+    "subject": "Economy of India",
+    "predicate": "infobox-image",
+    "object": "Mumbai, the financial centre of India"
+  },
+  {
+    "subject": "Economy of India",
+    "predicate": "Currency",
+    "object": "Indian rupee (INR, ₹)"
+  },
+  {
+    "subject": "Economy of India",
+    "predicate": "Fiscal year",
+    "object": "1 April - 31 March"
+  },
+  {
+    "subject": "Economy of India",
+    "predicate": "Trade organisations",
+    "object": "WTO, WCO, SAFTA, BIMSTEC, WFTU, BRICS, G-20, BIS, AIIB, ADB and others"
+  },
+  {
+    "subject": "Economy of India",
+    "predicate": "Country group",
+    "object": "Developing/Emerging, Lower-middle income economy, Newly industrialized country"
+  },
+  {
+    "subject": "Population of India",
+    "predicate": "increase",
+    "object": "1,389,637,446 (2nd; 2022 est.)"
+  },
+  {
+    "subject": "GDP of India",
+    "predicate": "increase",
+    "object": "$3.535 trillion (nominal; 2022 est.), $11.745 trillion (PPP; 2022 est.)"
+  },
+  {
+    "subject": "GDP rank of India",
+    "predicate": "position",
+    "object": "5th (nominal; 2022), 3rd (PPP; 2022)"
+  },
+  {
+    "subject": "GDP growth of India",
+    "predicate": "change",
+    "object": "-6.6% (2020), 8.7% (2021 estimate), 7.5% (2022 forecast), 7.1% (2023 forecast)"
+  },
+  {
+    "subject": "GDP per capita of India",
+    "predicate": "increase",
+    "object": "$2,543 (nominal; 2022 est.), $8,358 (PPP; 2022 est.)"
+  },
+  {
+    "subject": "GDP per capita rank of India",
+    "predicate": "position",
+    "object": "142nd (nominal; 2022), 128th (PPP; 2022)"
+  },
+  {
+    "subject": "GDP by sector of India",
+    "predicate": "composition",
+    "object": "Agriculture: 16.38%, Industry: 29.34%, Services: 54.27% (FY 2020-21)"
+  },
+  {
+    "subject": "GDP by component of India",
+    "predicate": "composition",
+    "object": "Household consumption: 60.8%, Government consumption: 12.1%, Investment in fixed capital: 26.6%, Other source: 0.9%, Exports of goods and services: 18.7%, Imports of goods and services: −19.1% (2020-21 est.)"
+  },
+  {
+    "subject": "Inflation (CPI) of India",
+    "predicate": "positive decrease",
+    "object": "7.04% (May 2022)"
+  },
+  {
+    "subject": "Base borrowing rate of India",
+    "predicate": "steady",
+    "object": "4.00% (18 March 2022)"
+  },
+  {
+    "subject": "Population below poverty line of India",
+    "predicate": "positive decrease",
+    "object": "6% in extreme poverty (2022 est.)"
+  },
+  {
+    "subject": "Gini coefficient of India",
+    "predicate": "value",
+    "object": "33.9 (medium; 2013)"
+  },
+  {
+    "subject": "Human Development Index of India",
+    "predicate": "increase",
+    "object": "0.645 (medium; 2019) (131st), 0.475 (low; IHDI 2019)"
+  },
+  {
+    "subject": "Labour force of India",
+    "predicate": "increase",
+    "object": "471,295,273 (2021), 48.7% employment rate (2020)"
+  },
+  {
+    "subject": "Labour force by occupation of India",
+    "predicate": "composition",
+    "object": "Agriculture: 42.60%, Industry: 25.12%, Services: 32.28% (2019)"
+  },
+  {
+    "subject": "Unemployment of India",
+    "predicate": "positive decrease",
+    "object": "7.12% (May 2022)"
+  },
+  {
+    "subject": "Main industries of India",
+    "predicate": "list",
+    "object": "Textiles, chemicals, food processing, agribusiness, handicrafts, petroleum, petrochemicals, gems and jewellery, leather, iron ore, steel, aluminium, cement, mining, metals, retail, machinery, information technology, construction, financial services, electric power, consumer goods, pharmaceuticals, automotive, telecommunications, real estate, paper, transportation equipment"
+  },
+  {
+    "subject": "Ease-of-doing-business rank of India",
+    "predicate": "increase",
+    "object": "63rd (easy, 2020)"
+  },
+  {
+    "subject": "Exports of India",
+    "predicate": "increase",
+    "object": "$421.894 billion (FY2021-22)"
+  },
+  {
+    "subject": "Export goods of India",
+    "predicate": "composition",
+    "object": "Manufacturers 70.8%, Fuels and mining products 17.3%, Agricultural products 11.5%, Others 0.4% (2019)"
+  },
+  {
+    "subject": "Main export partners of India",
+    "predicate": "list",
+    "object": "United States 16.89%, United Arab Emirates 6.77%, China 3.45%, Bangladesh 3.38%, Netherlands 3.37%, Other 66.14% (FY 2021-22)"
+  },
+  {
+    "subject": "Imports of India",
+    "predicate": "increase",
+    "object": "$612.608 billion (FY2021-22)"
+  },
+  {
+    "subject": "Import goods of India",
+    "predicate": "composition",
+    "object": "Agricultural products 5.7%, Fuels and mining products 36.5%, Manufacturers 49.4%, Other 8.3 % (2019)"
+  },
+  {
+    "subject": "Main import partners of India",
+    "predicate": "list",
+    "object": "China 12.83%, United Arab Emirates 8.34%, Saudi Arabia 7.12%, United States 7.02%, Iraq 6.72%, Other 57.97% (FY 2021-22)"
+  },
+  {
+    "subject": "FDI stock of India",
+    "predicate": "inward increase",
+    "object": "$83.57 billion (2021-22), $81.97 billion (2020-21)"
+  },
+  {
+    "subject": "FDI stock of India",
+    "predicate": "outward increase",
+    "object": "15.68 billion (2021-22)"
+  },
+  {
+    "subject": "Current account of India",
+    "predicate": "positive decrease",
+    "object": "−$24.6 billion (2020)"
+  },
+  {
+    "subject": "Gross external debt of India",
+    "predicate": "negative increase",
+    "object": "$570.0 billion (2021)"
+  },
+  {
+    "subject": "Net international investment position of India",
+    "predicate": "positive decrease",
+    "object": "−$352.7 billion (2021)"
+  },
+  {
+    "subject": "Public debt of India",
+    "predicate": "positive decrease",
+    "object": "86.902% of GDP (2021), ₹233.023 lakh crore (US$3.1 trillion)"
+  },
+  {
+    "subject": "Budget balance of India",
+    "predicate": "negative increase",
+    "object": "-10% of GDP (2021-22)"
+  },
+  {
+    "subject": "Revenues of India",
+    "predicate": "amount",
+    "object": "₹50.676 lakh crore (US$670 billion) (2022-23)"
+  },
+  {
+    "subject": "Expenses of India",
+    "predicate": "amount",
+    "object": "₹77.34 lakh crore (US$1.0 trillion) (2022-23)"
+  },
+  {
+    "subject": "Economic aid of India",
+    "predicate": "donor",
+    "object": "Increase, $4.234 billion (2021) ($30.59 billions Line of Credit in total)"
+  },
+  {
+    "subject": "Credit rating of India",
+    "predicate": "Standard & Poor's",
+    "object": "BB+, Outlook: Positive"
+  },
+  {
+    "subject": "Credit rating of India",
+    "predicate": "Moody's",
+    "object": "Baa3, Outlook: Stable"
+  },
+  {
+    "subject": "Credit rating of India",
+    "predicate": "Fitch",
+    "object": "BBB−, Outlook: Stable"
+  },
+  {
+    "subject": "Credit rating of India",
+    "predicate": "DBRS",
+    "object": "BBB(low), Outlook: Positive"
+  },
+  {
+    "subject": "Foreign reserves of India",
+    "predicate": "increase",
+    "object": "$601.057 billion (4th) (as of 3 June 2022)"
+  },
+  {
+    "subject": "Main data source",
+    "predicate": "source",
+    "object": "CIA World Fact Book"
+  },
+  {
+    "subject": "Main data source",
+    "predicate": "currency",
+    "object": "US dollars"
+  }
+]

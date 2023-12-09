@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "category",
+    "object": "court"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "Established",
+    "object": "1948 | ; 74 years ago |  ( | 1948 | )"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "Location",
+    "object": "Givat Ram, Jerusalem"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "Composition method",
+    "object": "Presidential appointment upon nomination by the Judicial Selection Committee"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "Authorized by",
+    "object": "Basic Laws of Israel"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "Number of positions",
+    "object": "15"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "Website",
+    "object": "https://supreme.court.gov.il"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "Name in Hebrew and Arabic",
+    "object": "Hebrew | בית המשפט העליון | Arabic | المحكمة العليا"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "predicate": "Emblem",
+    "object": "Emblem of Israel dark blue full.svg | Emblem of Israel"
+  },
+  {
+    "subject": "President",
+    "predicate": "Currently",
+    "object": "Esther Hayut"
+  },
+  {
+    "subject": "President",
+    "predicate": "Since",
+    "object": "26 October 2017"
+  },
+  {
+    "subject": "President",
+    "predicate": "Lead position ends",
+    "object": "16 October 2023"
+  },
+  {
+    "subject": "President",
+    "predicate": "Jurist term ends",
+    "object": "16 October 2023"
+  },
+  {
+    "subject": "Deputy President",
+    "predicate": "Currently",
+    "object": "Uzi Vogelman"
+  },
+  {
+    "subject": "Deputy President",
+    "predicate": "Since",
+    "object": "9 May 2022"
+  },
+  {
+    "subject": "Deputy President",
+    "predicate": "Lead position ends",
+    "object": "16 October 2023"
+  },
+  {
+    "subject": "Deputy President",
+    "predicate": "Jurist term ends",
+    "object": "6 October 2024"
+  }
+]

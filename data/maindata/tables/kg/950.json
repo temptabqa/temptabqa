@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Death Magnetic",
+    "predicate": "description",
+    "object": "A magnetic field around a coffin-shaped structure. Over it is the text 'Metallica - Death Magnetic'."
+  },
+  {
+    "subject": "Death Magnetic",
+    "predicate": "category",
+    "object": "album"
+  },
+  {
+    "subject": "Death Magnetic",
+    "predicate": "Released",
+    "object": "September 12, 2008"
+  },
+  {
+    "subject": "Death Magnetic",
+    "predicate": "Recorded",
+    "object": "March 14, 2007 - May 22, 2008"
+  },
+  {
+    "subject": "Death Magnetic",
+    "predicate": "Studio",
+    "object": "Sound City (Los Angeles) | Shangri-La (Malibu, California) | Metallica's HQ (San Rafael, California)"
+  },
+  {
+    "subject": "Death Magnetic",
+    "predicate": "Genre",
+    "object": "Thrash metal | heavy metal"
+  },
+  {
+    "subject": "Death Magnetic",
+    "predicate": "Length",
+    "object": "74 | 46"
+  },
+  {
+    "subject": "Death Magnetic",
+    "predicate": "Label",
+    "object": "Warner Bros."
+  },
+  {
+    "subject": "Death Magnetic",
+    "predicate": "Producer",
+    "object": "Rick Rubin"
+  },
+  {
+    "subject": "Metallica chronology",
+    "predicate": "includes",
+    "object": "Limited-Edition Vinyl Box Set | (2004) | Death Magnetic | (2008) | The Metallica Collection | (2009)"
+  },
+  {
+    "subject": "Metallica studio album chronology",
+    "predicate": "includes",
+    "object": "St. Anger | (2003) | Death Magnetic | (2008) | Hardwired... to Self-Destruct | (2016)"
+  },
+  {
+    "subject": "Singles from | Death Magnetic",
+    "predicate": "includes",
+    "object": "\"The Day That Never Comes\" | Released: August 21, 2008 | \"All Nightmare Long\" | Released: December 15, 2008 | \"Broken, Beat & Scarred\" | Released: April 3, 2009"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "category",
+    "object": "song"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "image",
+    "object": "2 Hearts 1 Love.jpeg"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "singleBy",
+    "object": "911"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "fromAlbum",
+    "object": "Illuminate... (The Hits and More)"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "released",
+    "object": "8 September 2013"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "recorded",
+    "object": "2013 | Central Sounds Studio, | Glasgow, Scotland"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "genre",
+    "object": "Pop"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "songwriter(s)",
+    "object": "911"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "producer(s)",
+    "object": "John McLaughlin"
+  },
+  {
+    "subject": "2 Hearts 1 Love",
+    "predicate": "911SinglesChronology",
+    "object": [
+      "Wonderland (1999)",
+      "2 Hearts 1 Love (2013)",
+      "I Wish It Could Be Christmas Everyday (2013)"
+    ]
+  }
+]

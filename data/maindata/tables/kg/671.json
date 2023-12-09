@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Claire Leroy",
+    "predicate": "Category",
+    "object": "sailor"
+  },
+  {
+    "subject": "Claire Leroy",
+    "predicate": "Infobox-image",
+    "object": "Claire Leroy St-Quay 2011.jpg | Claire Leroy in Saint-Quay-Portrieux 2011"
+  },
+  {
+    "subject": "Claire Leroy",
+    "predicate": "Born",
+    "object": "9 March 1980 (age 42) in Nantes, France"
+  },
+  {
+    "subject": "Claire Leroy",
+    "predicate": "Representing",
+    "object": "France"
+  },
+  {
+    "subject": "Claire Leroy",
+    "predicate": "World Championships",
+    "object": {
+      "Gold_medal_first_place": [
+        {
+          "year": "2007",
+          "location": "Saint Quay",
+          "category": "Match racing"
+        },
+        {
+          "year": "2008",
+          "location": "Auckland",
+          "category": "Match racing"
+        }
+      ],
+      "Bronze_medal_third_place": [
+        {
+          "year": "2004",
+          "location": "Annapolis",
+          "category": "Match racing"
+        },
+        {
+          "year": "2005",
+          "location": "Hamilton",
+          "category": "Match racing"
+        },
+        {
+          "year": "2011",
+          "location": "Perth",
+          "category": "Match racing"
+        }
+      ]
+    }
+  }
+]

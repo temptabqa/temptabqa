@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "representing",
+    "object": "Germany"
+  },
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "participated in",
+    "object": "Olympic Games"
+  },
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "won",
+    "object": "Silver medal - second place | 1896 Athens | 100 metres"
+  },
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "competed in",
+    "object": "Athletics"
+  },
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "competed in",
+    "object": "Men's artistic gymnastics"
+  },
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "won",
+    "object": "Gold medal - first place | 1896 Athens | Team parallel bars"
+  },
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "won",
+    "object": "Gold medal - first place | 1896 Athens | Team horizontal bar"
+  },
+  {
+    "subject": "Fritz Hofmann",
+    "predicate": "won",
+    "object": "Bronze medal - third place | 1896 Athens | Rope climbing"
+  }
+]

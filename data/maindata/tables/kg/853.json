@@ -1,0 +1,257 @@
+[
+  {
+    "subject": "George Washington",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "description",
+    "object": "Head and shoulders portrait of George Washington | Portrait based on the unfinished | Athenaeum Portrait | by Gilbert Stuart, 1796"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "title",
+    "object": "1st President of the United States"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "term",
+    "object": "In office | April 30, 1789 - March 4, 1797"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Vice President",
+    "object": "John Adams"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Preceded by (Presidency)",
+    "object": "Office established"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Succeeded by (Presidency)",
+    "object": "John Adams"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "title",
+    "object": "7th Senior Officer of the United States Army"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "term",
+    "object": "In office | July 13, 1798 - December 14, 1799"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "President (Army)",
+    "object": "John Adams"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Preceded by (Army)",
+    "object": "James Wilkinson"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Succeeded by (Army)",
+    "object": "Alexander Hamilton"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "title",
+    "object": "Commander in Chief of the | Continental Army"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "term",
+    "object": "In office | June 19, 1775 - December 23, 1783"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Appointed by",
+    "object": "Continental Congress"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Preceded by (Continental Army)",
+    "object": "Office established"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Succeeded by (Continental Army)",
+    "object": "Henry Knox (as Senior Officer)"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "title",
+    "object": "14th Chancellor of the College of William & Mary"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "term",
+    "object": "In office | April 30, 1788 - December 14, 1799"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "President (College)",
+    "object": "James Madison"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Preceded by (College)",
+    "object": "Richard Terrick (1776)"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Succeeded by (College)",
+    "object": "John Tyler (1859)"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "title",
+    "object": "Delegate from Virginia | to the Continental Congress"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "term",
+    "object": "In office | September 5, 1774 - June 16, 1775"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Preceded by (Delegate)",
+    "object": "Office established"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Succeeded by (Delegate)",
+    "object": "Thomas Jefferson"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "title",
+    "object": "Member of the | Virginia House of Burgesses"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "term",
+    "object": "In office | July 24, 1758 - June 24, 1775"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Preceded by (Burgess)",
+    "object": "Hugh West"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Succeeded by (Burgess)",
+    "object": "Office abolished"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Constituency",
+    "object": "Frederick County | (1758-1765) | Fairfax County | (1765-1775)"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Born",
+    "object": "( | 1732-02-22 | ) | February 22, 1732 | Popes Creek, Virginia, | British America"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Died",
+    "object": "December 14, 1799 | (1799-12-14) |  (aged 67) | Mount Vernon, Virginia, U.S."
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Cause of death",
+    "object": "Epiglottitis"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Resting place",
+    "object": "Mount Vernon, Virginia, U.S. | .mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap} | 38°42′28.4″N | 77°05′09.9″W | \ufeff / \ufeff | 38.707889°N 77.086083°W | \ufeff / | 38.707889; -77.086083"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Political party",
+    "object": "Independent"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Spouse(s)",
+    "object": "Martha Dandridge | ( | married | 1759 | )"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Children",
+    "object": "John and Patsy Parke Custis (adopted)"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Parent(s)",
+    "object": "Augustine Washington | Mary Ball Washington"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Relatives",
+    "object": "Washington family"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Residence",
+    "object": "Mount Vernon, Virginia, U.S."
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Occupation",
+    "object": "Military officer | politician"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Awards",
+    "object": "Congressional Gold Medal | Thanks of Congress"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Signature",
+    "object": "Cursive signature in ink"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Military service",
+    "object": "null"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Allegiance",
+    "object": "Great Britain | United States"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Branch/service",
+    "object": "Virginia Militia | Continental Army | United States Army"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Years of service",
+    "object": "1752-1758 (Virginia Militia) | 1775-1783 (Continental Army) | 1798-1799 (U.S. Army)"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Rank",
+    "object": "Colonel (Virginia Militia) | General and Commander in Chief (Continental Army) | Lieutenant General (U.S. Army) | General of the Armies (promoted posthumously in 1976 by Congress)"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Commands",
+    "object": "Virginia Regiment | Continental Army | United States Army"
+  },
+  {
+    "subject": "George Washington",
+    "predicate": "Battles/wars",
+    "object": ".mw-parser-output .treeview ul{padding:0;margin:0}.mw-parser-output .treeview li{padding:0;margin:0;list-style-type:none;list-style-image:none}.mw-parser-output .treeview li li{background:url(\"//upload.wikimedia.org/wikipedia/commons/f/f2/Treeview-grey-line.png\")no-repeat 0 -2981px;padding-left:21px;text-indent:0.3em}.mw-parser-output .treeview li li:last-child{background-position:0 -5971px}.mw-parser-output .treeview li.emptyline>ul>.mw-empty-elt:first-child+.emptyline,.mw-parser-output .treeview li.emptyline>ul>li:first-child{background-position:0 9px} | French and Indian War | Battle of Jumonville Glen | Battle of Fort Necessity | Braddock Expedition | Battle of the Monongahela | Forbes Expedition | American Revolutionary War | Boston campaign | New York and New Jersey campaign | Philadelphia campaign | Yorktown campaign | Northwest Indian War | Whiskey Rebellion"
+  }
+]

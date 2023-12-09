@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "2014 Thai coup d'état",
+        "predicate": "category",
+        "object": "military conflict"
+    },
+    {
+        "subject": "2014 Thai coup d'état",
+        "predicate": "Date",
+        "object": "22 May 2014 | ; 8 years ago |  ( | 2014-05-22 | )"
+    },
+    {
+        "subject": "2014 Thai coup d'état",
+        "predicate": "Location",
+        "object": "Thailand"
+    },
+    {
+        "subject": "2014 Thai coup d'état",
+        "predicate": "Result",
+        "object": "Successful military and police takeover | Caretaker Prime Minister removed | Yingluck's caretaker government dissolved | 2007 Senate dissolved | 2007 Constitution repealed | Military junta, the NCPO established | Prayut endorsed by Bhumibol as NCPO leader and Prime Minister | 2014 interim constitution by NCPO enacted | 2017 constitution by junta NLA enacted"
+    },
+    {
+        "subject": "2014 Thai coup d'état",
+        "predicate": "event_picture_description",
+        "object": "The coup leaders on television announcing their taking control of the government and suspending the constitution. From left: Adul Saengsingkaew, a police commissioner; Prajin Juntong, an air force chief; Prayut Chan-o-cha, an army chief; Narong Pipathanasai, a navy chief; and Worapong Sanganetra, an armed forces chief deputy."
+    },
+    {
+        "subject": "Belligerents",
+        "predicate": "participants",
+        "object": "Royal Thai Armed Forces | Royal Thai Police | Supported by | Monarchy of Thailand | Yingluck cabinet"
+    },
+    {
+        "subject": "Commanders and leaders",
+        "predicate": "leaders",
+        "object": "Thailand | Prayut Chan-o-cha | Niwatthamrong Boonsongpaisan"
+    },
+    {
+        "subject": "Strength",
+        "predicate": "figures",
+        "object": "Thai military: +300,000 | Thai police +200,000 | None"
+    },
+    {
+        "subject": "Casualties and losses",
+        "predicate": "losses",
+        "object": "None | None"
+    }
+]

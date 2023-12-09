@@ -1,0 +1,22 @@
+[
+  {"subject": "Chandrayaan-2", "predicate": "category", "object": "space probe"},
+  {"subject": "Chandrayaan-2", "predicate": "Mission type", "object": "Lunar orbiter, lander, rover"},
+  {"subject": "Chandrayaan-2", "predicate": "Operator", "object": "Indian Space Research Organisation (ISRO)"},
+  {"subject": "Chandrayaan-2", "predicate": "COSPAR ID", "object": "2019-042A"},
+  {"subject": "Chandrayaan-2", "predicate": "SATCAT | number", "object": "44441"},
+  {"subject": "Chandrayaan-2", "predicate": "Website", "object": "www | .isro | .gov | .in | /chandrayaan2-home-0"},
+  {"subject": "Chandrayaan-2", "predicate": "Mission duration", "object": "Orbiter: ~ 7.5 years (planned); | 2 years, 10 months (elapsed) | Vikram | lander: ≤ 14 days (planned); | 0 days (landing failure) | Pragyan | rover: ≤ 14 days (planned); | 0 days (landing failure)"},
+  {"subject": "Chandrayaan-2", "predicate": "Manufacturer", "object": "Indian Space Research Organisation (ISRO)"},
+  {"subject": "Chandrayaan-2", "predicate": "Launch mass", "object": "Combined (wet): 3,850 kg (8,490 lb) | Combined (dry): 1,308 kg (2,884 lb) | Orbiter (wet): 2,379 kg (5,245 lb) | Orbiter (dry): 682 kg (1,504 lb) | Vikram | lander (wet): 1,471 kg (3,243 lb) | Vikram | lander (dry): 626 kg (1,380 lb) | Pragyan | rover: 27 kg (60 lb)"},
+  {"subject": "Chandrayaan-2", "predicate": "Power", "object": "Orbiter: 1000 watts | Vikram | lander: 650 watts | Pragyan | rover: 50 watts"},
+  {"subject": "Chandrayaan-2", "predicate": "Launch date", "object": "22 July 2019, 09:13:12 UTC"},
+  {"subject": "Chandrayaan-2", "predicate": "Rocket", "object": "GSLV Mark III M1"},
+  {"subject": "Chandrayaan-2", "predicate": "Launch site", "object": "Satish Dhawan Space Centre Second Launch Pad"},
+  {"subject": "Chandrayaan-2", "predicate": "Contractor", "object": "Indian Space Research Organisation (ISRO)"},
+  {"subject": "Chandrayaan-2", "predicate": "Orbital insertion", "object": "20 August 2019, 03:32 UTC"},
+  {"subject": "Chandrayaan-2", "predicate": "Pericynthion altitude", "object": "100 km (62 mi)"},
+  {"subject": "Chandrayaan-2", "predicate": "Apocynthion altitude", "object": "100 km (62 mi)"},
+  {"subject": "Chandrayaan-2", "predicate": "Spacecraft component", "object": "Rover"},
+  {"subject": "Chandrayaan-2", "predicate": "Landing date", "object": "6 September 2019, 20:23 UTC"},
+  {"subject": "Chandrayaan-2", "predicate": "Landing site", "object": "Lunar south pole (intended)"}
+]

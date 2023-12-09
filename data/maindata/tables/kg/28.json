@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Status",
+    "object": "Khaganate"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Capital",
+    "object": "Balanjar | ( | circa | 650-720) | Samandar | (720-750) | Atil | (750-c. 965-969)"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Common languages",
+    "object": "Oghuric ( | lingua franca | ) | Old Turkic (dynastic, spoken) | Alanian (spoken) | Knaanic (spoken)"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Religion",
+    "object": "Judaism | Tengrism | Buddhism | Christianity | Islam | Paganism | Religious syncretism"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Qaghan",
+    "object": ""
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "circa | 650",
+    "object": "Irbis"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "8th century",
+    "object": "Bulan"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "9th century",
+    "object": "Benjamin"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "10th century",
+    "object": "David"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "11th century",
+    "object": "Georgios"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Historical era",
+    "object": "Middle Ages"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Established",
+    "object": "circa | 650"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Sacking and razing of Atil",
+    "object": "969"
+  },
+  {
+    "subject": "Khazar Khaganate",
+    "predicate": "Khazar Khaganate",
+    "object": "circa | 650-969, Khazar Khaganate, 650-850 | Khazar Khaganate, 650-850"
+  },
+  {
+    "subject": "Area",
+    "predicate": "850 peak est.",
+    "object": "3,000,000 km | 2 | (1,200,000 sq mi)"
+  },
+  {
+    "subject": "Area",
+    "predicate": "900 peak est.",
+    "object": "1,000,000 km | 2 | (390,000 sq mi)"
+  },
+  {
+    "subject": "Area",
+    "predicate": "Currency",
+    "object": "Sheleg"
+  },
+  {
+    "subject": "Area",
+    "predicate": "Preceded by",
+    "object": "Succeeded by"
+  },
+  {
+    "subject": "Area",
+    "predicate": "Area",
+    "object": "Western Turkic Khaganate, Old Great Bulgaria, Cumania, Pechenegs, Kievan Rus'"
+  }
+]

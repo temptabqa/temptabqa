@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Western al-Bab offensive (September 2016)",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "Western al-Bab offensive (September 2016)",
+    "predicate": "Date",
+    "object": "30 August - 6 September 2016 | (1 week; First phase) | 24-28 September 2016 | (4 days; Second phase)"
+  },
+  {
+    "subject": "Western al-Bab offensive (September 2016)",
+    "predicate": "Location",
+    "object": "Azaz District, Aleppo Governorate"
+  },
+  {
+    "subject": "Western al-Bab offensive (September 2016)",
+    "predicate": "Result",
+    "object": "Limited SDF gains | SDF capture 7 villages | ISIL launches four counter-attacks"
+  },
+  {
+    "subject": "Western al-Bab offensive (September 2016)",
+    "predicate": "Part",
+    "object": "the Syrian Civil War, the Syrian Kurdish-Islamist conflict (2013-present), and the American-led intervention in Syria"
+  },
+  {
+    "subject": "Syrian Democratic Forces | CJTF-OIR | United States",
+    "predicate": "Belligerents",
+    "object": "Islamic State"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "names",
+    "object": "Ahmed Sultan Abu Arraj | (Army of Revolutionaries deputy commander) | Abu Steyf | (Jabhat al-Akrad commander) | Zaidoun Hedo | (SDF official) | Unknown"
+  },
+  {
+    "subject": "Units involved",
+    "predicate": "names",
+    "object": "Syrian Democratic Forces | Army of Revolutionaries | Jabhat al-Akrad | Shahba Women's Front | [ | citation needed | ] | Tel Rifaat Revolutionaries Battalion | Quwat al-Ashair (Tribal Forces) | Syrian opposition | Northern Democratic Brigade | People's Protection Units | Women's Protection Units | Al-Bab Military Council | Unknown"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "numbers",
+    "object": "Unknown | 3,000+ militants"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "details",
+    "object": "40 killed | (SOHR and SDF claim) | One BMP-1 and one T-72 destroyed | 30 killed | (ISIL claim) | 58 killed, 7 vehicles destroyed | (SDF claim)"
+  }
+]

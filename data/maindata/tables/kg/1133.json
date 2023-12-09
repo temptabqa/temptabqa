@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "Role",
+    "object": "Interceptor | Type of aircraft"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "National origin",
+    "object": "United States"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "Manufacturer",
+    "object": "Bell Aircraft"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "First flight",
+    "object": "1 September 1937"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "Introduction",
+    "object": "23 February 1940"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "Retired",
+    "object": "1942"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "Primary user",
+    "object": "United States Army Air Corps"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "Produced",
+    "object": "1937-1939"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "Number built",
+    "object": "13"
+  },
+  {
+    "subject": "YFM-1 Airacuda",
+    "predicate": "Image",
+    "object": "BellYFM1Airacuda.jpg"
+  }
+]

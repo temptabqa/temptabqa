@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "Unified Team at the | Olympics",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Unified Team at the | Olympics",
+    "predicate": "IOC code",
+    "object": "EUN"
+  },
+  {
+    "subject": "Unified Team at the | Olympics",
+    "predicate": "has symbol",
+    "object": "Olympic flag.svg | The Olympic flag"
+  },
+  {
+    "subject": "Summer appearances",
+    "predicate": "attended",
+    "object": "1992"
+  },
+  {
+    "subject": "Winter appearances",
+    "predicate": "attended",
+    "object": "1992"
+  },
+  {
+    "subject": "Other related appearances",
+    "predicate": "includes",
+    "object": "Russian Empire (1900-1912) | Estonia (1920-1936, 1992-) | Latvia (1924-1936, 1992-) | Lithuania (1924-1928, 1992-) | Soviet Union (1952-1988) | Armenia (1994-) | Belarus (1994-) | Georgia (1994-) | Kazakhstan (1994-) | Kyrgyzstan (1994-) | Moldova (1994-) | Russia (1994-2016) | Ukraine (1994-) | Uzbekistan (1994-) | Azerbaijan (1996-) | Tajikistan (1996-) | Turkmenistan (1996-) | Olympic Athletes from Russia (2018) | ROC (2020-2022)"
+  }
+]

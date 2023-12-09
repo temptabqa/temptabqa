@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Australian Defence Force",
+    "predicate": "category",
+    "object": "army"
+  },
+  {
+    "subject": "Australian Defence Force",
+    "predicate": "Founded",
+    "object": "1 January 1901 (1901-01-01) (federation)"
+  },
+  {
+    "subject": "Australian Defence Force",
+    "predicate": "Current form",
+    "object": "9 February 1976 (1976-02-09)"
+  },
+  {
+    "subject": "Australian Defence Force",
+    "predicate": "Service branches",
+    "object": "Royal Australian Navy | Australian Army | Royal Australian Air Force"
+  },
+  {
+    "subject": "Australian Defence Force",
+    "predicate": "Headquarters",
+    "object": "Canberra, ACT, as part of the Australian Defence Organisation"
+  },
+  {
+    "subject": "Australian Defence Force",
+    "predicate": "Flag",
+    "object": "Australian Defence Force tri-service flag.jpg"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Commander-in-Chief",
+    "object": "General David Hurley"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Prime Minister",
+    "object": "Anthony Albanese"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Minister for Defence",
+    "object": "Richard Marles"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Chief of the Defence Force",
+    "object": "General Angus Campbell"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Military age",
+    "object": "16.5 years (for selection) | 17 years (to serve) | 18 years (to deploy) | 19 years (for special forces deployment)"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Conscription",
+    "object": "No, abolished"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Active personnel",
+    "object": "59,095 (30 June 2020)"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Reserve personnel",
+    "object": "28,878 (30 June 2020)"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Deployed personnel",
+    "object": "1,841 (July 2020)"
+  },
+  {
+    "subject": "Expenditures",
+    "predicate": "Budget",
+    "object": "A$44.6 billion (2021-22)"
+  },
+  {
+    "subject": "Expenditures",
+    "predicate": "Percent of GDP",
+    "object": "2.0"
+  },
+  {
+    "subject": "Industry",
+    "predicate": "Domestic suppliers",
+    "object": "Defence industry of Australia"
+  },
+  {
+    "subject": "Industry",
+    "predicate": "Annual exports",
+    "object": "Around A$2 billion (2018)"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "History",
+    "object": "Military history of Australia"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "Ranks",
+    "object": "Australian Defence Force ranks and insignia"
+  }
+]

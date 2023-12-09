@@ -1,0 +1,198 @@
+[
+  {
+    "subject": "Federative Republic of Brazil | República Federativa do Brasil | (Portuguese)",
+    "predicate": "features",
+    "object": "Flag of Brazil | Flag | Coat of arms of Brazil | Coat of arms"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Motto",
+    "object": "Ordem e Progresso | (Portuguese) | \"Order and Progress\""
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Anthem",
+    "object": "Hino Nacional Brasileiro | (Portuguese) | \"Brazilian National Anthem\" | Flag anthem | Hino à Bandeira Nacional | (Portuguese) | \"National Flag Anthem\""
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "National seal",
+    "object": "Selo Nacional do Brasil | National Seal of Brazil | National Seal of Brazil (color).svg"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Capital",
+    "object": "Brasília | 15°47′S | 47°52′W | \ufeff / \ufeff | 15.783°S 47.867°W | \ufeff / | -15.783; -47.867"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Largest city",
+    "object": "São Paulo | 23°33′S | 46°38′W | \ufeff / \ufeff | 23.550°S 46.633°W | \ufeff / | -23.550; -46.633"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Official language and national language",
+    "object": "Portuguese"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Ethnic groups (2010)",
+    "object": "47.73% White | 43.13% Mixed | 7.61% Black | 1.09% East Asian | 0.43% Indigenous"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Religion (2010)",
+    "object": "88.8% Christianity | -64.6% Roman Catholic | -22.2% Protestant | -2.0% Other Christian | 8.0% No religion | 2.0% Spiritism | 1.2% Other"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Demonym(s)",
+    "object": "Brazilian"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Government",
+    "object": "Federal presidential | republic"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "President",
+    "object": "Jair Bolsonaro"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Vice President",
+    "object": "Hamilton Mourão"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "President of the Chamber of Deputies",
+    "object": "Arthur Lira"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "President of the Federal Senate",
+    "object": "Rodrigo Pacheco"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "President of the Supreme Federal Court",
+    "object": "Luiz Fux"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Legislature",
+    "object": "National Congress"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Upper house",
+    "object": "Federal Senate"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Lower house",
+    "object": "Chamber of Deputies"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "National seal",
+    "object": "National Seal of Brazil"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Independence from the United Kingdom of Portugal, Brazil and the Algarves",
+    "object": {
+      "Declared": "7 September 1822",
+      "Recognized": "29 August 1825",
+      "Republic": "15 November 1889",
+      "Current constitution": "5 October 1988"
+    }
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Area",
+    "object": {
+      "Total": "8,515,767 km2 (3,287,956 sq mi) (5th)",
+      "Water (%)": "0.65"
+    }
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Population",
+    "object": {
+      "2019 estimate": "210,147,125 (6th)",
+      "Density": "25/km2 (64.7/sq mi) (200th)"
+    }
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "GDP (PPP)",
+    "object": "2021 estimate"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Total",
+    "object": "Increase |  $1.491 trillion (13th)"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Per capita",
+    "object": "Increase |  $7,010 (87th)"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "GDP (nominal)",
+    "object": "2021 estimate"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Gini (2019)",
+    "object": "Positive decrease |  53.4 | high |  · 10th"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "HDI (2019)",
+    "object": "Increase |  0.765 | high |  · 84th"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Currency",
+    "object": "Real (R$) (BRL)"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Time zone",
+    "object": "UTC−2 to −5 | (BRT)"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Date format",
+    "object": "dd/mm/yyyy (CE)"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Mains electricity",
+    "object": "220 V, 60 Hz and 127 V, 60 Hz"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Driving side",
+    "object": "right"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Calling code",
+    "object": "+55"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "ISO 3166 code",
+    "object": "BR"
+  },
+  {
+    "subject": "Brazil",
+    "predicate": "Internet TLD",
+    "object": ".br"
+  }
+]

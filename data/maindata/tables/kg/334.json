@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Douglas Osheroff",
+    "predicate": "category",
+    "object": "nobel"
+  },
+  {
+    "subject": "Douglas Osheroff",
+    "predicate": "Nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Douglas Osheroff",
+    "predicate": "Citizenship",
+    "object": "United States"
+  },
+  {
+    "subject": "Douglas Osheroff",
+    "predicate": "Alma mater",
+    "object": "California Institute of Technology | (B.S.) | , Cornell University | (Ph.D.)"
+  },
+  {
+    "subject": "Douglas Osheroff",
+    "predicate": "Known for",
+    "object": "Discovering superfluidity in Helium-3"
+  },
+  {
+    "subject": "Douglas Osheroff",
+    "predicate": "Spouse(s)",
+    "object": "Phyllis Liu | ( | married |  1970)"
+  },
+  {
+    "subject": "Douglas Osheroff",
+    "predicate": "Awards",
+    "object": "Nobel Prize in Physics (1996) | Simon Memorial Prize (1976) | Oliver E. Buckley Condensed Matter Prize (1981) | MacArthur Fellowship Program (1981)"
+  },
+  {
+    "subject": "Douglas Osheroff",
+    "predicate": "Douglas Osheroff",
+    "object": "Douglas Osheroff 2011-08-08 cropped.JPG | Osheroff in 2011"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Fields",
+    "object": "Experimental Physics, Condensed Matter Physics"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Institutions",
+    "object": "Stanford University | Bell Labs"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Doctoral advisor",
+    "object": "David Lee"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Influences",
+    "object": "Richard Feynman"
+  }
+]

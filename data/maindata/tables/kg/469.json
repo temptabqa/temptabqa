@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Kiss",
+    "predicate": "category",
+    "object": "musician"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "image",
+    "object": "Kiss Cracow 2019.jpg"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "performance",
+    "object": "2019"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "origin",
+    "object": "New York City, New York, U.S."
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "genres",
+    "object": "Hard rock | heavy metal | shock rock | glam metal | glam rock"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "years active",
+    "object": "1973-present"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "labels",
+    "object": "Casablanca | Mercury | Roadrunner | Kiss | Universal"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "associated acts",
+    "object": "Wicked Lester | Frehley's Comet | Eric Singer Project"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "website",
+    "object": "kissonline | .com"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "members",
+    "object": "Paul Stanley | Gene Simmons | Eric Singer | Tommy Thayer"
+  },
+  {
+    "subject": "Kiss",
+    "predicate": "past members",
+    "object": "Ace Frehley | Peter Criss | Eric Carr | Vinnie Vincent | Mark St. John | Bruce Kulick"
+  }
+]

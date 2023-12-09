@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "HeroClix",
+    "predicate": "category",
+    "object": "board game"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "caption",
+    "object": "HeroClix"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "infobox-image",
+    "object": "WizKids HeroClix Logo Small.png | The HeroClix Logo"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Manufacturers",
+    "object": "WizKids"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Designers",
+    "object": "Monte Cook (2002) | Jeff Quick (2002) | Mike Mulvihill (2002) | Jon Leitheusser (2002-2005) | Jeff Grubb (2003) | Kelly Bonilla (2008) | Scott D'Agostino (2015-Present) | Lead Designer | Seth Johnson (2005-Jun 2009) | Eric Engelhard (Jul 2009-Apr 2020)"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Publishers",
+    "object": "WizKids (2002-2003) | The Topps Company (2003-2009) | NECA (2009-Present)"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Publication",
+    "object": "July 2002 | ; 20 years ago | ( | 2002-07 | )"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Years active",
+    "object": "2002-2008, 2009-present"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Genres",
+    "object": "Board game, Dice game, Wargame"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Languages",
+    "object": "English"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Systems",
+    "object": "Clix"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Players",
+    "object": "2-Unlimited"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Setup time",
+    "object": "< 5 minutes"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Playing time",
+    "object": "Varies, depending on the point build and number of players"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Random chance",
+    "object": "Medium (dice rolling)"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Skills required",
+    "object": "Arithmetic | Reading | Logic | Strategy | Common sense | Metagaming | Opportunity cost | Wargaming | Tactics | Probability | Die Rolling"
+  },
+  {
+    "subject": "HeroClix",
+    "predicate": "Website",
+    "object": "http://www.heroclix.com"
+  }
+]

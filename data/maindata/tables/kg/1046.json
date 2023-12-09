@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "category",
+    "object": "earthquake"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "caption",
+    "object": "2019 Albania earthquake"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "UTC time",
+    "object": "2019-11-26 02:54:12"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "ISC event",
+    "object": "616919407"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "USGS-ANSS",
+    "object": "ComCat"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Local date",
+    "object": "26 November 2019"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Local time",
+    "object": "03:54:12 CET (UTC+1)"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Magnitude",
+    "object": "6.4 Mw"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Depth",
+    "object": "20.0 km (12.4 mi)"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Epicentre",
+    "object": "41.511°N 19.522°E"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Fault",
+    "object": "Shijak Fault"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Type",
+    "object": "Thrust"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Areas affected",
+    "object": "Mamurras, Durrës, Kodër-Thumanë"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Total damage",
+    "object": "14,000+ buildings damaged/destroyed | €844 million in damages | €1.07 billion (estimated reconstruction cost)"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Maximum intensity",
+    "object": "VIII (Severe)"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Peak acceleration",
+    "object": "0.5062 g"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Peak velocity",
+    "object": "43.01 cm/s"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Foreshocks",
+    "object": "Mw 5.6, 21 September 2019"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Aftershocks",
+    "object": "1,300 (by 1 December 2019) | Five Mw ≥ 5.0 (by 27 January 2020) | Forty-five Mw 4-4.9 (by 27 January 2020)"
+  },
+  {
+    "subject": "2019 Albania earthquake",
+    "predicate": "Casualties",
+    "object": "51 dead | Durrës: 25 dead | Thumanë: 25 dead | Lezhë: 1 dead | 3,000+ injured"
+  }
+]

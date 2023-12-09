@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Airbus A319",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Role",
+    "object": "Narrow-body jet airliner | Type of aircraft"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "National origin",
+    "object": "Multinational"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Manufacturer",
+    "object": "Airbus"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "First flight",
+    "object": "25 August 1995"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Introduction",
+    "object": "1996 with Swissair"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Status",
+    "object": "In service"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Primary users",
+    "object": "American Airlines | United Airlines | EasyJet | Delta Air Lines"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Produced",
+    "object": "1994-2021 (A319ceo) | 2017-present (A319neo)"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Number built",
+    "object": "1,491 as of 30 June 2022 | [update]"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Developed from",
+    "object": "Airbus A320"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Variants",
+    "object": "Airbus A318"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "Developed into",
+    "object": "Airbus A319neo"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "image",
+    "object": "Airbus A319 - 8967213029 (cropped).jpg"
+  },
+  {
+    "subject": "Airbus A319",
+    "predicate": "description",
+    "object": "The A319 is a shorter Airbus A320, keeping its low wing, underwing twinjet configuration"
+  }
+]

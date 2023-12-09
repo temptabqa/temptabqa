@@ -1,0 +1,108 @@
+[
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "category",
+    "object": "hockey"
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "caption",
+    "object": "Dhanraj Pillay"
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "infobox-image",
+    "object": "Dhanraj Pillay01.png | Pillay in 2010"
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Full name",
+    "object": "Dhanraj Pillay"
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Born",
+    "object": "16 July 1968 | (age 53) | Khadki, Pune, Maharastra, India"
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Height",
+    "object": "5 ft 8 in (1.73 m)"
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Playing position",
+    "object": "Forward"
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Senior career",
+    "object": {
+      "1992-1993": "Indian Gymkhana",
+      "1993": "HC Lyon",
+      "1994-1997": "Selangor HA",
+      "1997-1999": "Abahani Ltd.",
+      "2000": "HTC Stuttgart Kickers",
+      "2000-2001": "Bank Simpanan Nasional HC",
+      "2002": "Singapore Hockey Federation",
+      "2006-2008": "Maratha Warriors",
+      "2012": "Karnataka Lions",
+      "2004": "Ernst & Young HC",
+      "2005": "Telekom Malaysia HC"
+    }
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "National team",
+    "object": {
+      "Years": "1989-2004",
+      "Team": "India",
+      "Apps": "339",
+      "Gls": "170"
+    }
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Men's field hockey",
+    "object": {}
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Representing | India",
+    "object": {}
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Champions Challenge",
+    "object": {
+      "Gold medal - first place": "2001 Kuala Lumpur",
+      "Team": "Team"
+    }
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Asia Cup",
+    "object": {
+      "Gold medal - first place": "2003 Kuala Lumpur",
+      "Silver medal - second place": [
+        "1989 Delhi",
+        "1994 Hiroshima"
+      ],
+      "Bronze medal - third place": "1999 Kula Lumpur",
+      "Team": "Team"
+    }
+  },
+  {
+    "subject": "Dhanraj Pillay",
+    "predicate": "Asian Games",
+    "object": {
+      "Gold medal - first place": "1998 Bangkok",
+      "Silver medal - second place": [
+        "1990 Beijing",
+        "1994 Hiroshima",
+        "2002 Busan"
+      ],
+      "Team": "Team"
+    }
+  }
+]

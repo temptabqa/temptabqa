@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Ashoka",
+    "predicate": "category",
+    "object": "emperor"
+  },
+  {
+    "subject": "Ashoka",
+    "predicate": "alternate_names",
+    "object": ["Priyadarśin Devanapriya Chakravartin"]
+  },
+  {
+    "subject": "Ashoka",
+    "predicate": "visit",
+    "object": "Ramagrama stupa Sanchi Stupa 1 Southern gateway.jpg | A | circa | \u20091st century BCE/CE | relief from Sanchi, showing Ashoka on his chariot, visiting the Nagas at Ramagrama"
+  },
+  {
+    "subject": "Ashoka",
+    "predicate": "title",
+    "object": "3rd Mauryan Emperor"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Reign",
+    "object": "circa | \u2009268 |  - c. | \u2009232 BCE"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Coronation",
+    "object": "268 BCE"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Predecessor",
+    "object": "Bindusara"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Successor",
+    "object": "Dasharatha"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Born",
+    "object": "c. 304 BCE | Pataliputra, Mauryan Empire (adjacent to present-day Patna, Bihar, India)"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Died",
+    "object": "232 BCE (aged c. 71 - 72) | Pataliputra, modern-day Patna, Bihar, India"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Spouses",
+    "object": ["Devi (Sri Lankan tradition)", "Karuvaki (own inscriptions)", "Padmavati (North Indian tradition)", "Asandhimitra (Sri Lankan tradition)", "Tishyaraksha (Sri Lankan and North Indian tradition)"]
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Issue",
+    "object": ["Mahendra (Sri Lankan tradition)", "Sanghamitra (Sri Lankan tradition)", "Tivala (own inscriptions)", "Kunala (North Indian tradition)", "Charumati"]
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Dynasty",
+    "object": "Maurya"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Father",
+    "object": "Bindusara"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Mother",
+    "object": "Subhadrangi or Dharma"
+  },
+  {
+    "subject": "3rd Mauryan Emperor",
+    "predicate": "Religion",
+    "object": "Buddhism"
+  }
+]

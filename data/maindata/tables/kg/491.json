@@ -1,0 +1,100 @@
+[
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "category",
+    "object": "handball"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "image",
+    "object": "Albin Lagergren 20170118.jpg"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "born",
+    "object": "11 September 1992 (age 29) in Varberg, Sweden"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "nationality",
+    "object": "Swedish"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "height",
+    "object": "1.86 m (6 ft 1 in)"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "playing position",
+    "object": "Right back"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "current club",
+    "object": "Rhein-Neckar Löwen"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "number",
+    "object": "23"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "senior club",
+    "object": [
+      {
+        "years": "0000-2011",
+        "team": "HK Varberg"
+      },
+      {
+        "years": "2011-2012",
+        "team": "Redbergslids IK"
+      },
+      {
+        "years": "2012-2013",
+        "team": "HK Varberg"
+      },
+      {
+        "years": "2013-2018",
+        "team": "IFK Kristianstad"
+      },
+      {
+        "years": "2018-2020",
+        "team": "SC Magdeburg"
+      },
+      {
+        "years": "2020-",
+        "team": "Rhein-Neckar Löwen"
+      }]
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "national team",
+    "object": [
+      {
+        "years": "2016-",
+        "team": "Sweden",
+        "appearances": "81",
+        "goals": "234"
+      }]
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "World Championship achievement",
+    "object": "Silver medal - second place (2021 Egypt)"
+  },
+  {
+    "subject": "Albin Lagergren",
+    "predicate": "European Championship achievements",
+    "object": [
+      {
+        "medal": "Gold medal - first place",
+        "year": "2022 Hungary/Slovakia"
+      },
+      {
+        "medal": "Silver medal - second place",
+        "year": "2018 Croatia"
+      }]
+  }
+]

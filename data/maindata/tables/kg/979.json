@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Ethiopian Civil War",
+    "predicate": "category",
+    "object": "civil war"
+  },
+  {
+    "subject": "Ethiopian Civil War",
+    "predicate": "Date",
+    "object": "12 September 1974 - 28 May 1991 | (16 years, 8 months, 3 weeks and 2 days)"
+  },
+  {
+    "subject": "Ethiopian Civil War",
+    "predicate": "Location",
+    "object": "Ethiopia; Eritrea"
+  },
+  {
+    "subject": "Ethiopian Civil War",
+    "predicate": "Result",
+    "object": "EPLF/TPLF rebel victory | Fall of the Ethiopian Empire and subsequent implementation of military rule | Creation, then collapse, of the People's Democratic Republic of Ethiopia by the Derg | Installation of the TPLF-led transitional government which would later become the EPRDF government in Ethiopia | Installation of the EPLF-established PFDJ government in Eritrea after independence from Ethiopia"
+  },
+  {
+    "subject": "Ethiopian Civil War",
+    "predicate": "Territorial | changes",
+    "object": "Independence of Eritrea; Ethiopia becomes a landlocked country."
+  },
+  {
+    "subject": "Ethiopian Civil War",
+    "predicate": "Part of",
+    "object": "the conflicts in the Horn of Africa and the Cold War"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "EPRDF | TPLF | EPDM | Logo of the Ethiopian Peoples Revolutionary Party.svg | EPRP | MEISON (from 1977) | EDU | OLF | WSLF | ALF | SLF (1978-1984) | ONLF | Eritrean separatists | ELF (until 1981) | EPLF",
+    "object": "Derg | (1974-1987) | PDR Ethiopia | (1987-1991) | MEISON (until 1977)"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Supported by",
+    "object": "Egypt | Egypt | Libya (1977-1985) | Somalia"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Supported by",
+    "object": "Soviet Union (1977-1990) | Cuba | North Korea | Libya (1985-1991) | Israel (from 1990) | Yugoslavia (1974-1976)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Meles Zenawi | Tsadkan Gebretensae | Isaias Afwerki | Elemo Qiltu | † | Mengesha Seyoum",
+    "object": "Mengistu Haile Mariam | Tesfaye Gebre Kidan"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Strength",
+    "object": "141,000 (1991) | 110,000 (1990) | 13,000 (1991) | 230,000 (1991)"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Casualties and losses",
+    "object": "~400,000-579,000 killed | ~1,200,000 deaths from famine"
+  }
+]

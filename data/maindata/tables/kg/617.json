@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "American Family Field",
+    "predicate": "category",
+    "object": "stadium"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "caption",
+    "object": "American Family Field"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Former names",
+    "object": "Miller Park (2001-2020)"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Address",
+    "object": "1 Brewers Way"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Location",
+    "object": "Milwaukee, Wisconsin"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Coordinates",
+    "object": "43°1′42″N, 87°58′16″W"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Owner",
+    "object": "Southeast Wisconsin Professional Baseball Park District, Milwaukee Brewers"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Operator",
+    "object": "Southeast Wisconsin Professional Baseball Park District, Milwaukee Brewers"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Capacity",
+    "object": "41,900"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Record attendance",
+    "object": "46,218"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Field size",
+    "object": "Left Field: 342 feet, Left-Center: 371 feet, Center Field: 400 feet, Right-Center: 374 feet, Right Field: 337 feet, Backstop: 56 feet"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Surface",
+    "object": "Kentucky Bluegrass"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Scoreboard",
+    "object": "1080 display, 5,940-square-foot video board, 55 feet high x 110 feet wide"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Construction broke ground",
+    "object": "November 9, 1996"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Construction built",
+    "object": "1996-2001"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Construction opened",
+    "object": "April 6, 2001"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Construction cost",
+    "object": "US$400 million"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Architect",
+    "object": "HKS, Inc., NBBJ, Eppstein Uhen Architects"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Project manager",
+    "object": "International Facilities Group, LLC."
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Structural engineer",
+    "object": "Arup/Flad Structural Engineers"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Services engineer",
+    "object": "Arup/Kapur & Associates"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "General contractor",
+    "object": "HCH Miller Park Joint Venture (Hunt Construction; Clark Construction; Hunzinger Co.)"
+  },
+  {
+    "subject": "American Family Field",
+    "predicate": "Tenants",
+    "object": "Milwaukee Brewers (MLB) (2001-present)"
+  }
+]

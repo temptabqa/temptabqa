@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "1995 Atlantic hurricane season",
+    "predicate": "category",
+    "object": "cyclone"
+  },
+  {
+    "subject": "1995 Atlantic hurricane season",
+    "predicate": "summary map",
+    "object": "1995 Atlantic hurricane season summary map.png"
+  },
+  {
+    "subject": "Seasonal boundaries",
+    "predicate": "First system formed",
+    "object": "June 2, 1995"
+  },
+  {
+    "subject": "Seasonal boundaries",
+    "predicate": "Last system dissipated",
+    "object": "November 1, 1995"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "Name",
+    "object": "Opal"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "Maximum winds",
+    "object": "150 mph (240 km/h) | ( | 1-minute sustained | )"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "Lowest pressure",
+    "object": "916 mbar (hPa; 27.05 inHg)"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Total depressions",
+    "object": "21"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Total storms",
+    "object": "19"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Hurricanes",
+    "object": "11"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Major hurricanes (Cat. 3+)",
+    "object": "5"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Total fatalities",
+    "object": "182 total"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Total damage",
+    "object": "$12.32 billion (1995 USD)"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "Timeline of the 1995 Atlantic hurricane season",
+    "object": "1995 Pacific hurricane season"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "1995 Pacific hurricane season",
+    "object": "1995 Pacific typhoon season"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "1995 Pacific typhoon season",
+    "object": "1995 North Indian Ocean cyclone season"
+  },
+  {
+    "subject": "Atlantic hurricane seasons",
+    "predicate": "1993, 1994,",
+    "object": "1995, 1996, 1997"
+  }
+]

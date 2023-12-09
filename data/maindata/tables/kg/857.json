@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "category",
+    "object": "nobel"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "image",
+    "object": "J.J Thomson.jpg"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "position",
+    "object": "42nd President of the Royal Society"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "in office",
+    "object": "1915-1920"
+  },
+  {
+    "subject": "1915-1920",
+    "predicate": "preceded by",
+    "object": "William Crookes"
+  },
+  {
+    "subject": "1915-1920",
+    "predicate": "succeeded by",
+    "object": "Charles Scott Sherrington"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "position",
+    "object": "Master of Trinity College, Cambridge"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "in office",
+    "object": "1918-1940"
+  },
+  {
+    "subject": "1918-1940",
+    "predicate": "preceded by",
+    "object": "Henry Montagu Butler"
+  },
+  {
+    "subject": "1918-1940",
+    "predicate": "succeeded by",
+    "object": "George Macaulay Trevelyan"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "born",
+    "object": "Joseph John Thomson | ( | 1856-12-18 | ) | 18 December 1856 | Cheetham Hill, Manchester, England"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "died",
+    "object": "30 August 1940 | (1940-08-30) |  (aged 83) | Cambridge, England"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "citizenship",
+    "object": "British"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "nationality",
+    "object": "English"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "children",
+    "object": "George Paget Thomson, Joan Paget Thomson"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "alma mater",
+    "object": "Owens College (now the University of Manchester) | Trinity College, Cambridge (BA)"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "known for",
+    "object": "Plum pudding model | Discovery of electron | Discovery of isotopes | Mass spectrometer invention | Electromagnetic mass | First m/e measurement | Proposed first waveguide | Gibbs-Thomson equation | Thomson scattering | Thomson problem | Coining term 'delta ray' | Coining term 'epsilon radiation' | Thomson (unit)"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "awards",
+    "object": "Smith's Prize (1880) | Royal Medal (1894) | Hughes Medal (1902) | Nobel Prize in Physics (1906) | Elliott Cresson Medal (1910) | Copley Medal (1914) | Albert Medal (1915) | Franklin Medal (1922) | Faraday Medal (1925) | Dalton Medal (1931)"
+  },
+  {
+    "subject": "Sir J. J. Thomson OM PRS",
+    "predicate": "scientific career",
+    "object": ""
+  },
+  {
+    "subject": "scientific career",
+    "predicate": "fields",
+    "object": "Physics"
+  },
+  {
+    "subject": "scientific career",
+    "predicate": "institutions",
+    "object": "Trinity College, Cambridge"
+  },
+  {
+    "subject": "scientific career",
+    "predicate": "academic advisors",
+    "object": "John Strutt (Rayleigh) | Edward John Routh"
+  },
+  {
+    "subject": "scientific career",
+    "predicate": "notable students",
+    "object": "Charles Glover Barkla | Charles T. R. Wilson | Ernest Rutherford | Francis William Aston |  John Townsend | J. Robert Oppenheimer | Owen Richardson | William Henry Bragg | H. Stanley Allen | John Zeleny | Daniel Frost Comstock | Max Born | T. H. Laby | Paul Langevin | Balthasar van der Pol | Geoffrey Ingram Taylor | Niels Bohr | George Paget Thomson | Debendra Mohan Bose |  Lawrence Bragg"
+  }
+]

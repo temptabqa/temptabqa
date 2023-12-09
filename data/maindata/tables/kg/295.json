@@ -1,0 +1,38 @@
+[
+{"subject": "Jennifer Jones", "predicate": "category", "object": "curling"},
+{"subject": "Jennifer Jones", "predicate": "Other names", "object": "Jennifer Judith Jones"},
+{"subject": "Jennifer Jones", "predicate": "Born", "object": "July 7, 1974 (age 48) in Winnipeg, Manitoba, Canada"},
+{"subject": "Jennifer Jones", "predicate": "Job", "object": "Curler"},
+{"subject": "Jennifer Jones", "predicate": "Image", "object": "Jennifer Jones 2019.jpg (Jones in April 2019)"},
+
+{"subject": "Team", "predicate": "Curling club", "object": "St. Vital CC (Winnipeg, MB) and Alliston CC (Alliston, ON)"},
+{"subject": "Team", "predicate": "Skip", "object": "Jennifer Jones"},
+{"subject": "Team", "predicate": "Third", "object": "Mackenzie Zacharias"},
+{"subject": "Team", "predicate": "Second", "object": "Karlee Burgess"},
+{"subject": "Team", "predicate": "Lead", "object": "Emily Zacharias"},
+{"subject": "Team", "predicate": "Alternate", "object": "Lauren Lenentine"},
+{"subject": "Team", "predicate": "Mixed doubles partner", "object": "Brent Laing"},
+
+{"subject": "Career", "predicate": "Member Association", "object": "Manitoba"},
+{"subject": "Career", "predicate": "Hearts appearances", "object": "16 (2002, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2018, 2019, 2020, 2021)"},
+{"subject": "Career", "predicate": "World Championship appearances", "object": "6 (2005, 2008, 2009, 2010, 2015, 2018)"},
+{"subject": "Career", "predicate": "Olympic appearances", "object": "2 (2014, 2022)"},
+{"subject": "Career", "predicate": "Top CTRS ranking", "object": "1st (2005-06, 2006-07, 2007-08, 2009-10, 2010-11, 2011-12, 2013-14, 2014-15, 2017-18)"},
+{"subject": "Career", "predicate": "Grand Slam victories", "object": "16 (2006 Players', 2007 Autumn Gold, 2007 Players', 2008 Wayden Transportation, 2009 Players', 2009 Autumn Gold, 2010 Sobeys Slam, 2011 Players', 2013 Manitoba Liquor & Lotteries, 2013 Colonial Square, 2014 Players', 2014 Autumn Gold, 2016 Champions Cup, 2017 Players', 2017 Masters, 2017 National)"},
+
+{"subject": "Jennifer Jones", "predicate": "Representing", "object": "Canada"},
+{"subject": "Jennifer Jones", "predicate": "Winter Olympics", "object": "Gold medal - first place (2014 Sochi, Team)"},
+{"subject": "Jennifer Jones", "predicate": "World Championships", "object": "Gold medal - first place (2008 Vernon)"},
+{"subject": "Jennifer Jones", "predicate": "World Championships", "object": "Gold medal - first place (2018 North Bay)"},
+{"subject": "Jennifer Jones", "predicate": "World Championships", "object": "Silver medal - second place (2015 Sapporo)"},
+{"subject": "Jennifer Jones", "predicate": "World Championships", "object": "Bronze medal - third place (2010 Swift Current)"},
+{"subject": "Jennifer Jones", "predicate": "Scotties Tournament of Hearts", "object": "Bronze medal - third place (2020 Moose Jaw)"},
+
+{"subject": "Jennifer Jones", "predicate": "Representing", "object": "Manitoba"},
+{"subject": "Jennifer Jones", "predicate": "Canadian Olympic Curling Trials", "object": "Gold medal - first place (2013 Winnipeg)"},
+{"subject": "Jennifer Jones", "predicate": "Canadian Olympic Curling Trials", "object": "Gold medal - first place (2021 Saskatoon)"},
+{"subject": "Jennifer Jones", "predicate": "Canadian Olympic Curling Trials", "object": "Bronze medal - third place (2017 Ottawa)"},
+
+{"subject": "Jennifer Jones", "predicate": "Representing", "object": "Ontario"},
+{"subject": "Jennifer Jones", "predicate": "Canadian Mixed Doubles Championship", "object": "Bronze medal - third place (2017 Saskatoon)"}
+]

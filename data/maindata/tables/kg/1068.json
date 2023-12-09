@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "has_image",
+    "object": "TooLegitToQuit-MCHammersingle.jpg"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "is_a",
+    "object": "song"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "is_a",
+    "object": "Single by Hammer"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "is_from_album",
+    "object": "Too Legit to Quit"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "release_date",
+    "object": "September 5, 1991"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "recorded",
+    "object": "1989-1991"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "genre",
+    "object": "Hip hop"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "genre",
+    "object": "new jack swing"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "various_lengths",
+    "object": "7 | 12 | 5:10 (7\" version) | 5:36 (album version) | 7:52 (legit remix) | 10:16 (get bucked mix)"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "label",
+    "object": "Capitol"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "songwriters",
+    "object": "Stanley Burrell"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "songwriters",
+    "object": "James Earley"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "songwriters",
+    "object": "Michael Kelly"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "songwriters",
+    "object": "Louis K. Burrell"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "songwriters",
+    "object": "Felton Pilate"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "producers",
+    "object": "MC Hammer"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "part_of",
+    "object": "Hammer singles chronology"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "part_of",
+    "object": "Hammer singles chronology"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "preceded_by",
+    "object": "Here Comes the Hammer"
+  },
+  {
+    "subject": "2 Legit 2 Quit",
+    "predicate": "followed_by",
+    "object": "Addams Groove"
+  }
+]

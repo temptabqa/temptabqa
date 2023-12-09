@@ -1,0 +1,106 @@
+[
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "category",
+    "object": "curling"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Other names",
+    "object": "Dawn Kathleen McEwen"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Born",
+    "object": "Dawn Kathleen Askin | ( | 1980-07-03 | ) | July 3, 1980 | (age 42) | Ottawa, Ontario, Canada"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "photo",
+    "object": "Dawn McEwen April 2022.jpg | McEwen at the 2022 Players' Championship"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Curling club",
+    "object": "Ottawa CC, Ottawa | St. Vital CC, Winnipeg, MB"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Member Association",
+    "object": "Ontario (2003-2007) | Manitoba (2007-2022)"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Hearts appearances",
+    "object": "12 (2005, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2018, 2019, 2020)"
+  },
+  {
+    "subject": "Career",
+    "predicate": "World Championship appearances",
+    "object": "5 (2008, 2009, 2010, 2015, 2018)"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Olympic appearances",
+    "object": "2 (2014, 2022)"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Top CTRS ranking",
+    "object": "1st (2007-08, 2009-10, 2010-11, 2011-12, 2013-14, 2014-15, 2017-18)"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Grand Slam victories",
+    "object": "15: Masters: 1 (2017); The National: 1 (2017); Players' Championships: 5 (2007, 2009, 2011, 2014, 2017); Champions Cup: 1 (2016); Autumn Gold: 3 (2007, 2009, 2014); Manitoba Liquor & Lotteries: 1 (2013); Wayden Transportation: 1 (2008); Sobeys Slam: 1 (2010); Colonial Square: 1 (2013)"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Representing",
+    "object": "Canada"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Winter Olympics",
+    "object": "Gold medal - first place | 2014 Sochi"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "World Championships",
+    "object": [
+      "Gold medal - first place | 2008 Vernon",
+      "Gold medal - first place | 2018 North Bay",
+      "Silver medal - second place | 2015 Sapporo",
+      "Bronze medal - third place | 2010 Swift Current"
+    ]
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Representing",
+    "object": "Manitoba"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Canadian Olympic Curling Trials",
+    "object": [
+      "Gold medal - first place | 2013 Winnipeg",
+      "Gold medal - first place | 2021 Saskatoon",
+      "Bronze medal - third place | 2017 Ottawa"
+    ]
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Scotties Tournament of Hearts",
+    "object": "Bronze medal - third place | 2020 Moose Jaw"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Representing",
+    "object": "Ontario"
+  },
+  {
+    "subject": "Dawn McEwen",
+    "predicate": "Representing",
+    "object": "Manitoba | Team Wild Card"
+  }
+]

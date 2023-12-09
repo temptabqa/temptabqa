@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "category",
+    "object": "character"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "First appearance",
+    "object": "Sonic the Hedgehog 3 (1994)"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "Created by",
+    "object": "Takashi Yuda"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "Voiced by",
+    "object": "English: Brian Drummond (Sonic Underground), Bill Wise (OVA), Michael McGaharn (1999), Ryan Drummond (2000), Scott Dreier (2001-2004), Dan Green (2003-2010), Travis Willingham (2010-2018), Dave B. Mitchell (2019-present), Idris Elba (live action franchise, since 2022 film), Fred Tatasciore (2022; Sonic Drone Home), Japanese: Yasunori Matsumoto (1996 OVA), Nobutoshi Canna (1998-present), Subaru Kimura (live action films, since 2022 film)"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "is a",
+    "object": "Sonic the Hedgehog character"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "artwork",
+    "object": "Promotional artwork of Knuckles for Sonic Adventure (1998) by Yuji Uekawa"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "Species",
+    "object": "Short-beaked echidna"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "Gender",
+    "object": "Male"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "Position",
+    "object": "Guardian of the Master Emerald"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "Origin",
+    "object": "Angel Island"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "Age",
+    "object": "16"
+  },
+  {
+    "subject": "Knuckles the Echidna",
+    "predicate": "Height",
+    "object": "3'7\""
+  }
+]

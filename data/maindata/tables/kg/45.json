@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "Fred Perry",
+    "predicate": "category",
+    "object": "tennis"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "infobox-image",
+    "object": "Fred Perry 01.jpg"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "full name",
+    "object": "Frederick John Perry"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "country (sports)",
+    "object": "United Kingdom | Great Britain"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "died",
+    "object": "2 February 1995 | (1995-02-02) | (aged 85) | Melbourne, Victoria, Australia"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "height",
+    "object": "6 ft (1.83 m)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "turned pro",
+    "object": "1936 (amateur from 1929)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "retired",
+    "object": "1959"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "plays",
+    "object": "Right-handed (one-handed backhand)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "Int. Tennis HoF",
+    "object": "1975 | (member page)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "singles career record",
+    "object": "695-281 (71.2%)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "singles career titles",
+    "object": "62"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "singles highest ranking",
+    "object": "No. | 1 | (1934 | , A. Wallis Myers | )"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "Australian Open",
+    "object": "W | (1934)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "French Open",
+    "object": "W | (1935)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "Wimbledon",
+    "object": "W | (1934, 1935, 1936)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "US Open",
+    "object": "W | (1933, 1934, 1936)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "US Pro",
+    "object": "W | (1938, 1941)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "Wembley Pro",
+    "object": "QF (1951, 1952)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "Australian Open doubles",
+    "object": "W | (1934)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "French Open doubles",
+    "object": "W | (1933)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "Wimbledon doubles",
+    "object": "F (1932)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "French Open mixed doubles",
+    "object": "W | (1932)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "Wimbledon mixed doubles",
+    "object": "W | (1935, 1936)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "US Open mixed doubles",
+    "object": "W | (1932)"
+  },
+  {
+    "subject": "Fred Perry",
+    "predicate": "Davis Cup",
+    "object": "W | (1933, 1934, 1935, 1936)"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "Metamorphosis Alpha",
+    "predicate": "category",
+    "object": "game"
+  },
+  {
+    "subject": "Metamorphosis Alpha",
+    "predicate": "infobox-image",
+    "object": "Metamorphosis Alpha, 1st edition.jpg | Cover of the first edition"
+  },
+  {
+    "subject": "Metamorphosis Alpha",
+    "predicate": "Designers",
+    "object": "James M. Ward, Slade Henson | (2 | nd | edition)"
+  },
+  {
+    "subject": "Metamorphosis Alpha",
+    "predicate": "Publishers",
+    "object": "TSR | (1 | st | edition and 2 | nd | edition) | , Fast Forward Entertainment | (3 | rd | edition - also known as the 25th Anniversary Edition) | , Mudpuppy Games | (4 | th | edition) | , WardCo. | (1 | st | edition revised pdf and print edition)"
+  },
+  {
+    "subject": "Metamorphosis Alpha",
+    "predicate": "Publication",
+    "object": "1976 | (1 | st | edition) | 1994 | (2 | nd | edition) | 2002 | (3 | rd | edition) | 2006 | (4 | th | edition) | 2007 | (1 | st | edition revised pdf)' | 2011 | (1 | st | Lulu reprinted of 1st edition revised)'"
+  },
+  {
+    "subject": "Metamorphosis Alpha",
+    "predicate": "Genres",
+    "object": "Science fiction"
+  },
+  {
+    "subject": "Metamorphosis Alpha",
+    "predicate": "Systems",
+    "object": "Custom | (1 | st | edition) | , Amazing Engine | (2 | nd | edition) | , 3d6 | (3 | rd | and 4 | th | editions)"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "category",
+    "object": "earthquake"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "location",
+    "object": "Sulawesi"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "location",
+    "object": "Indonesia"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "UTC time",
+    "object": "2018-09-28 10:02:44"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "ISC event",
+    "object": "616642238"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "USGS-ANSS",
+    "object": "ComCat"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Local date",
+    "object": "28 September 2018"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Local time",
+    "object": "18:02:44 WITA (Indonesia Central Standard Time)"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Magnitude",
+    "object": "7.5 Mw"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Depth",
+    "object": "20.0 km (12.4 mi)"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Epicentre",
+    "object": "0°10′41″S 119°50′24″E"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Fault",
+    "object": "Palu-Koro fault"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Type",
+    "object": "Strike-slip"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Maximum intensity",
+    "object": "X (Extreme)"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Tsunami",
+    "object": "Yes (highest 10.7 m (35 ft) in Donggala Regency)"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Landslides",
+    "object": "Yes"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Foreshocks",
+    "object": "Mw 6.1, M5.4, M5.0"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Aftershocks",
+    "object": "32 (As of December 31, 2018)"
+  },
+  {
+    "subject": "2018 Sulawesi earthquake and tsunami",
+    "predicate": "Casualties",
+    "object": "4,340 dead, 10,679 injured, 667 missing, 70,821 evacuated, 206,524 made refugees as of 10/28"
+  }
+]

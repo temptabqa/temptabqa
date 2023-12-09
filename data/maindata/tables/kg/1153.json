@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "Trump: The Game",
+    "predicate": "category",
+    "object": "game"
+  },
+  {
+    "subject": "Trump: The Game",
+    "predicate": "infobox-image",
+    "object": "Trump The Game box cover.jpg | 2004 box cover"
+  },
+  {
+    "subject": "Trump: The Game",
+    "predicate": "Publishers",
+    "object": "Milton Bradley Company | (1989 version) | Parker Brothers | (2004 version)"
+  },
+  {
+    "subject": "Trump: The Game",
+    "predicate": "Publication",
+    "object": "May 1989 | ; 33 years ago | ( | 1989-05 | ) | July 2004 | ; 18 years ago | ( | 2004-07 | ) | (rerelease)"
+  },
+  {
+    "subject": "Trump: The Game",
+    "predicate": "Languages",
+    "object": "English"
+  },
+  {
+    "subject": "Trump: The Game",
+    "predicate": "Players",
+    "object": "3-4"
+  }
+]

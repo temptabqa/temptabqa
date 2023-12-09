@@ -1,0 +1,23 @@
+[
+    {"subject": "Kanye West", "predicate": "category", "object": "musician"},
+    {"subject": "Kanye West", "predicate": "Born", "object": "Kanye Omari West |  ( | 1977-06-08 | ) | June 8, 1977 |  (age 44) | Atlanta, Georgia, U.S."},
+    {"subject": "Kanye West", "predicate": "Other names", "object": "Saint Pablo | Yeezus | Yeezy | Louis Vuitton Don"},
+    {"subject": "Kanye West", "predicate": "Education", "object": "Chicago State University (no degree)"},
+    {"subject": "Kanye West", "predicate": "Occupation", "object": "Rapper | songwriter | record producer | fashion designer | entrepreneur"},
+    {"subject": "Kanye West", "predicate": "Years active", "object": "1996-present"},
+    {"subject": "Kanye West", "predicate": "Organization", "object": "Donda | Yeezy | GOOD"},
+    {"subject": "Kanye West", "predicate": "Political party", "object": "Independent / Birthday Party (campaign)"},
+    {"subject": "Kanye West", "predicate": "Other political affiliations", "object": "Republican (voter registration)"},
+    {"subject": "Kanye West", "predicate": "Spouse(s)", "object": "Kim Kardashian | ( | married |  2014; | separated |  2021)"},
+    {"subject": "Kanye West", "predicate": "Children", "object": "4"},
+    {"subject": "Kanye West", "predicate": "Parent(s)", "object": "Donda West (mother)"},
+    {"subject": "Kanye West", "predicate": "Relatives", "object": "Tony Williams (cousin)"},
+    {"subject": "Kanye West", "predicate": "Awards", "object": "Full list"},
+    {"subject": "Kanye West", "predicate": "Kanye West", "object": "Kanye West at the 2009 Tribeca Film Festival (cropped).jpg | West in 2009"},
+    {"subject": "Musical career", "predicate": "Origin", "object": "Chicago, Illinois, U.S."},
+    {"subject": "Musical career", "predicate": "Genres", "object": "Hip hop | progressive rap | pop | art pop"},
+    {"subject": "Musical career", "predicate": "Instruments", "object": "Vocals | sampler | keyboards | drum machine"},
+    {"subject": "Musical career", "predicate": "Labels", "object": "GOOD | Def Jam | Roc-A-Fella | Mercury (Late Orchestration)"},
+    {"subject": "Musical career", "predicate": "Associated acts", "object": "Child Rebel Soldier | Kids See Ghosts | Sunday Service Choir | Big Sean | Common | Consequence | JAY-Z | John Legend | Mike Dean | No I.D. | Pusha T | Rihanna | Ty Dolla Sign"},
+    {"subject": "Musical career", "predicate": "Website", "object": "kanyewest.com"}
+]

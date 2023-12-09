@@ -1,0 +1,139 @@
+[
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "Status",
+    "object": "Colonial empire"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "King",
+    "object": "Victor Emmanuel II",
+    "date": "1869-1878"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "King",
+    "object": "Umberto I",
+    "date": "1878-1900"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "King",
+    "object": "Victor Emmanuel III",
+    "date": "1900-1946"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "King",
+    "object": "Umberto II",
+    "date": "1946"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Purchase of Assab",
+    "date": "1869"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Italian Eritrea",
+    "date": "1882"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Eritrea War",
+    "date": "1887-1889"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Italian Somalia",
+    "date": "1889"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Boxer Rebellion",
+    "date": "1900"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Italo-Turkish War",
+    "date": "1911-1912"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Albanian Protectorate",
+    "date": "1939-1943"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Pacification of Libya",
+    "date": "1923-1932"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "2nd Italo-Ethiopian War",
+    "date": "1935-1936"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "East Africa Campaign",
+    "date": "1940-1941"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "North African campaign",
+    "date": "1940-1943"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Empire formally relinquished",
+    "date": "1947"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "History",
+    "event": "Trust Territory of Somaliland",
+    "date": "1950-1960"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "dates",
+    "object": "1882-1947"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "Flag",
+    "object": "Flag of Italian Empire | Flag"
+  },
+  {
+    "subject": "Italian Empire | Impero italiano",
+    "predicate": "Kingdom of Italy | Colonies of Italy | Protectorates and areas occupied during World War II",
+    "object": "Italian Colonial Empire (orthographic projection).svg"
+  },
+  {
+    "subject": "Area",
+    "predicate": "1938",
+    "object": "3,798,000 km | 2 | (1,466,000 sq mi)"
+  },
+  {
+    "subject": "Area",
+    "predicate": "1941",
+    "object": "3,824,879 km | 2 | (1,476,794 sq mi)"
+  }
+]

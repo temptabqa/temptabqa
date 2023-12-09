@@ -1,0 +1,287 @@
+[
+  {
+    "subject": "West Indies",
+    "predicate": "category",
+    "object": "national cricket team"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "caption",
+    "object": "West Indies"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "infobox-image",
+    "object": "Cricket West Indies Logo 2017.png"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Nickname(s)",
+    "object": "Windies, Men in Maroon"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Association",
+    "object": "Cricket West Indies"
+  },
+  {
+    "subject": "Kraigg Brathwaite",
+    "predicate": "role",
+    "object": "Test captain of West Indies"
+  },
+  {
+    "subject": "Nicholas Pooran",
+    "predicate": "role",
+    "object": "One Day captain of West Indies"
+  },
+  {
+    "subject": "Nicholas Pooran",
+    "predicate": "role",
+    "object": "T20I captain of West Indies"
+  },
+  {
+    "subject": "Phil Simmons",
+    "predicate": "role",
+    "object": "Coach of West Indies"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Test status acquired",
+    "object": "1928"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ICC status",
+    "object": "Full Member (1926)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ICC region",
+    "object": "Americas"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Test ranking",
+    "object": "8th"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Best-ever Test ranking",
+    "object": "1st (1 January 1964)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODI ranking",
+    "object": "9th"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Best-ever ODI ranking",
+    "object": "1st (1 June 1981)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20I ranking",
+    "object": "7th"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Best-ever T20I ranking",
+    "object": "1st (10 January 2016)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "First Test",
+    "object": "v. England at Lord's, London; 23-26 June 1928"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Last Test",
+    "object": "v. Bangladesh at Darren Sammy National Cricket Stadium, Gros Islet; 24-27 June 2022"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "World Test Championship appearances",
+    "object": "1 (first in 2019-2021)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Best result in World Test Championship",
+    "object": "8th place (2019-2021)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Tests played",
+    "object": "565"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Tests won",
+    "object": "181"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Tests lost",
+    "object": "204"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Tests drawn",
+    "object": "179"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Test ties",
+    "object": "1"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Tests played this year",
+    "object": "5"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Tests won this year",
+    "object": "3"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Tests drawn this year",
+    "object": "2"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "First ODI",
+    "object": "v. England at Headingley, Leeds; 5 September 1973"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Last ODI",
+    "object": "v. Bangladesh at Providence Stadium, Providence; 13 July 2022"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "World Cup appearances",
+    "object": "12 (first in 1975)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Best result in World Cup",
+    "object": "Runners-up (2018)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "World Cup Qualifier appearances",
+    "object": "1 (first in 2018)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODIs played",
+    "object": "845"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODIs won",
+    "object": "409"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODIs lost",
+    "object": "396"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODI ties",
+    "object": "10"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODI no results",
+    "object": "30"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODIs played this year",
+    "object": "14"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODIs won this year",
+    "object": "4"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "ODIs lost this year",
+    "object": "10"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "First T20I",
+    "object": "v. New Zealand at Eden Park, Auckland; 16 February 2006"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Last T20I",
+    "object": "v. Bangladesh at Providence Stadium, Providence; 7 July 2022"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20 World Cup appearances",
+    "object": "6 (first in 2007)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "Best result in T20 World Cup",
+    "object": "Champions (2012, 2016)"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20Is played",
+    "object": "162"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20Is won",
+    "object": "68"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20Is lost",
+    "object": "81"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20I ties",
+    "object": "3"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20I no results",
+    "object": "10"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20Is played this year",
+    "object": "10"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20Is won this year",
+    "object": "5"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20Is lost this year",
+    "object": "4"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "T20I no results this year",
+    "object": "1"
+  },
+  {
+    "subject": "West Indies",
+    "predicate": "As of",
+    "object": "13 July 2022"
+  }
+]

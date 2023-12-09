@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hasPhoto",
+    "object": "2017 World Figure Skating Championships Olivia Smart Adrià Díaz jsfb dave2430.jpg"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "isInCategory",
+    "object": "figure skating"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hasFullName",
+    "object": "Adrián Díaz Bronchud"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hasAlternativeNames",
+    "object": "Adrià Díaz"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "representsCountry",
+    "object": "Spain"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "wasBornOn",
+    "object": "1990-09-17"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "wasBornIn",
+    "object": "Barcelona, Spain"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hasHomeTown",
+    "object": "Barcelona / Montreal, Canada"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hasHeight",
+    "object": "1.72 m"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hadPartner",
+    "object": "Sara Hurtado, Olivia Smart"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hadCoach",
+    "object": "Marie-France Dubreuil, Patrice Lauzon, Romain Haguenauer, Pascal Denis, John Dunn"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hadChoreographer",
+    "object": "Ginette Cournoyer, Marie-France Dubreuil, David Wilson, Antonio Najarro, Patrice Lauzon, Pasquale Camerlengo, Romain Haguenauer, John Dunn"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "wasMemberOfSkatingClub",
+    "object": "F.C. Barcelona, SAD Majadahonda"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hadTrainingLocations",
+    "object": "Madrid, London, Montreal"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "beganSkating",
+    "object": "1995"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "retiredOn",
+    "object": "May 23, 2022"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hasISUPersonalBestCombinedTotal",
+    "object": "199.11"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hasISUPersonalBestShortDance",
+    "object": "79.40"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "hasISUPersonalBestFreeDance",
+    "object": "121.41"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "represented",
+    "object": "Spain"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "participatedIn",
+    "object": "Figure skating: Ice dancing"
+  },
+  {
+    "subject": "Adrián Díaz",
+    "predicate": "wonSilverMedalIn",
+    "object": "2015 Granada Winter Universiade - Ice dancing"
+  }
+]

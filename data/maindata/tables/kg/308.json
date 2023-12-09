@@ -1,0 +1,90 @@
+[
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "category",
+    "object": "nobel"
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Born",
+    "object": "21 February 1961, Mumbai, Maharashtra, India"
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Citizenship",
+    "object": "United States"
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Spouse(s)",
+    "object": [
+      "Arundhati Tuli Banerjee (divorced 2014)",
+      "Esther Duflo (married 2015)"
+    ]
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Institution",
+    "object": [
+      "Massachusetts Institute of Technology",
+      "Harvard University",
+      "Princeton University"
+    ]
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Field",
+    "object": [
+      "Development economics",
+      "Social economics"
+    ]
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Alma mater",
+    "object": [
+      "University of Calcutta (BSc)",
+      "Jawaharlal Nehru University (MA)",
+      "Harvard University (PhD)"
+    ]
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Doctoral advisor",
+    "object": "Eric Maskin"
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Doctoral students",
+    "object": [
+      "Esther Duflo",
+      "Dean Karlan",
+      "Benjamin Jones",
+      "Nancy Qian"
+    ]
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Contributions",
+    "object": "Abdul Latif Jameel Poverty Action Lab"
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Awards",
+    "object": "Nobel Memorial Prize in Economic Sciences (2019)"
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "Images",
+    "object": [
+      "Abhijit Banerjee FT Goldman Sachs Business Book of the Year Award 2011 (cropped).jpg"
+    ]
+  },
+  {
+    "subject": "Abhijit Vinayak Banerjee",
+    "predicate": "External links",
+    "object": [
+      "Information at IDEAS / RePEc"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has category",
+    "object": "golf"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has image",
+    "object": "Golfer Harry Cooper 1936.jpg"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "attended",
+    "object": "1936 Masters Tournament"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has full name",
+    "object": "Henry Edward Cooper"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has nickname",
+    "object": "Lighthorse Harry"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "was born in",
+    "object": "August 4, 1904, Leatherhead, England"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "died in",
+    "object": "October 17, 2000, White Plains, New York, US"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has height",
+    "object": "5 ft 8.5 in (1.74 m)"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has weight",
+    "object": "152 lb (69 kg; 10.9 st)"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has sporting nationality",
+    "object": "England, United States"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has spouse",
+    "object": "Emma Buchanan Cooper (1910-2002)"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "turned professional in",
+    "object": "1923"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has former tour",
+    "object": "PGA Tour"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has professional wins",
+    "object": "36"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has PGA Tour wins",
+    "object": "30"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has other wins",
+    "object": "6"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has best result in Masters Tournament",
+    "object": "2nd/T2: 1936, 1938"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has best result in PGA Championship",
+    "object": "T3: 1925"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has best result in U.S. Open",
+    "object": "2nd: 1927, 1936"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "has best result in The Open Championship",
+    "object": "DNP"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "awarded World Golf Hall of Fame",
+    "object": "1992"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "awarded Vardon Trophy",
+    "object": "1937"
+  },
+  {
+    "subject": "Harry Cooper",
+    "predicate": "was PGA Tour leading money winner",
+    "object": "1937"
+  }
+]

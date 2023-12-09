@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Connie Garner",
+    "predicate": "hasCategory",
+    "object": "body builder"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "isA",
+    "object": "Bodybuilder"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "hasNickname",
+    "object": "Pocket Rocket"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "born",
+    "object": "22 May 1979 (age 43) in Canberra, Australia"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "hasHeight",
+    "object": "5 ft 2 in (1.57 m)"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "hasWeight",
+    "object": "In season: 105-110 lb, Off-season: 120-130 lb"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "hasBestWin",
+    "object": "2000 Miss World Fitness Champion, NABBA"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "hasChampionship",
+    "object": "2001 Miss Fitness Australia Champion"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "hasChampionship",
+    "object": "2000 Miss Fitness Australia Champion"
+  },
+  {
+    "subject": "Connie Garner",
+    "predicate": "hasBestYears",
+    "object": "2000 and 2001"
+  }
+]

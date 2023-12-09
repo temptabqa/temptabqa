@@ -1,0 +1,16 @@
+[
+  {"subject": "Gavin Prout", "predicate": "category", "object": "lacrosse"},
+  {"subject": "Gavin Prout", "predicate": "infobox-image", "object": "Gavin Prout.jpg"},
+  {"subject": "Gavin Prout", "predicate": "age", "object": "44"},
+  {"subject": "Gavin Prout", "predicate": "location", "object": "Whitby, Ontario, Canada"},
+  {"subject": "Gavin Prout", "predicate": "Nationality", "object": "Canadian"},
+  {"subject": "Gavin Prout", "predicate": "Height", "object": "5 ft 10 in (1.78 m)"},
+  {"subject": "Gavin Prout", "predicate": "Weight", "object": "188 pounds (85 kg)"},
+  {"subject": "Gavin Prout", "predicate": "Shoots", "object": "Right"},
+  {"subject": "Gavin Prout", "predicate": "Position", "object": "Forward"},
+  {"subject": "Gavin Prout", "predicate": "NCAA team", "object": "Loyola (2001)"},
+  {"subject": "Gavin Prout", "predicate": "NLL draft", "object": "1st overall, 2001 | New York Saints"},
+  {"subject": "Gavin Prout", "predicate": "NLL team | Former teams", "object": "Colorado Mammoth | Edmonton Rush | Rochester Knighthawks | New York Saints"},
+  {"subject": "Gavin Prout", "predicate": "MLL team | Former teams", "object": "Free Agent | Hamilton Nationals | Rochester Rattlers | Baltimore Bayhawks"},
+  {"subject": "Gavin Prout", "predicate": "Pro career", "object": "2002-2013"}
+]

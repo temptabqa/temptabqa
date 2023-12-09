@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "category",
+    "object": "nobel"
+  },
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "Born",
+    "object": "December 19, 1852 | Strelno, Kingdom of Prussia, German Confederation"
+  },
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "Died",
+    "object": "May 9, 1931 | Pasadena, California, U.S."
+  },
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "Nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "Alma mater",
+    "object": "United States Naval Academy | University of Berlin"
+  },
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "Known for",
+    "object": "Speed of light | Hyperfine structure | Fine structure | Michelson-Morley experiment | Michelson-Gale-Pearson experiment | Michelson interferometer | Michelson stellar interferometer"
+  },
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "Spouse(s)",
+    "object": "Margaret Hemingway (married 1877; divorced 1898; 3 children) | Edna Stanton (married 1899; 3 children)"
+  },
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "Awards",
+    "object": "Matteucci Medal (1903) | Nobel Prize in Physics (1907) | Copley Medal (1907) | Elliott Cresson Medal (1912) | Henry Draper Medal (1916) | Albert Medal (1920) | Franklin Medal (1923) | Duddell Medal and Prize (1929)"
+  },
+  {
+    "subject": "Albert A. Michelson",
+    "predicate": "image",
+    "object": "Albert Abraham Michelson2.jpg"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Fields",
+    "object": "Physics"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Institutions",
+    "object": "Case Western Reserve University | Clark University | University of Chicago"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Doctoral advisor",
+    "object": "Hermann Helmholtz"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Other academic advisors",
+    "object": "Georg Hermann Quincke | Alfred Cornu"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Doctoral students",
+    "object": "Robert Millikan | William Smythe"
+  },
+  {
+    "subject": "Signature",
+    "predicate": "Signature",
+    "object": "Albert A Michelson Signature.svg"
+  }
+]

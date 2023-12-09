@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Disease",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Virus strain",
+    "object": "SARS-CoV-2"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Location",
+    "object": "Johor, Malaysia"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "First outbreak",
+    "object": "Wuhan, Hubei, China"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Index case",
+    "object": "Iskandar Puteri"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Arrival date",
+    "object": "25 January 2020"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Confirmed cases",
+    "object": "215,263 (as of 25 October 2021)"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Active cases",
+    "object": "<10,000 (as of 25 October 2021)"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Recovered",
+    "object": "201,423 (as of 25 October)"
+  },
+  {
+    "subject": "COVID-19 pandemic in Johor",
+    "predicate": "Deaths",
+    "object": "3,588 (as of 24 October)"
+  },
+  {
+    "subject": "Government website",
+    "predicate": "Government website",
+    "object": "https://newslab.malaysiakini.com/covid-19/en/state/johor (Non government)"
+  }
+]

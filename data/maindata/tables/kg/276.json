@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Pancho Carter",
+    "predicate": "category",
+    "object": "car driver"
+  },
+  {
+    "subject": "Pancho Carter",
+    "predicate": "Nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Pancho Carter",
+    "predicate": "Born",
+    "object": "( | 1950-06-11 | ) | June 11, 1950 | (age 72) | Racine, Wisconsin, U.S."
+  },
+  {
+    "subject": "Pancho Carter",
+    "predicate": "Achievements",
+    "object": "1972 USAC Midget Car Champion | 1974, 1976 USAC Sprint Car Champion"
+  },
+  {
+    "subject": "Pancho Carter",
+    "predicate": "Awards",
+    "object": "National Midget Auto Racing Hall of Fame Inductee, 1990 | National Sprint Car Hall of Fame Inductee, 1991"
+  },
+  {
+    "subject": "Pancho Carter",
+    "predicate": "Photo",
+    "object": "Pancho carter at indy500 in 2011 (cropped).JPG | Carter at the 2011 Indianapolis 500"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "Best finish in the championship",
+    "object": "3rd (1981)"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "First race",
+    "object": "1974 Indy 500 (Indy)"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "Last race",
+    "object": "1992 Marlboro 500 (Michigan)"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "First win",
+    "object": "1981 Norton Michigan 500 (Michigan)"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "Career summary",
+    "object": "165 races run over 18 years | Wins | Podiums | Poles | 1 | 14 | 1 | NASCAR driver"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Best finish in the championship",
+    "object": "38th (1986)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "First race",
+    "object": "1985 Southern 500 (Darlington)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Last race",
+    "object": "1995 UAW-GM Teamwork 500 (Pocono)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Career summary",
+    "object": "14 races run over 6 years | Wins | Top tens | Poles | 0 | 0 | 0"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Best finish in the championship",
+    "object": "49th (1995)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "First race",
+    "object": "1995 Ford Credit 125 (Mesa Marin)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Last race",
+    "object": "1995 Maxx Race Cards 200 (Portland)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Career summary",
+    "object": "2 races run over 1 year | Wins | Top tens | Poles | 0 | 0 | 0"
+  }
+]

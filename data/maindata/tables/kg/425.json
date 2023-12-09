@@ -1,0 +1,121 @@
+[
+  {
+    "subject": "French Republic | République française | (French)",
+    "predicate": "has",
+    "object": "Flag of France | Flag | Emblem of France | Emblem"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasMotto",
+    "object": "\"Liberté, égalité, fraternité\""
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasAnthem",
+    "object": "\"La Marseillaise\""
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasGreatSeal",
+    "object": "Obverse | Reverse"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasCapital",
+    "object": "Paris | 48°51′N | 2°21′E |  / | 48.850°N 2.350°E |  / | 48.850; 2.350"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasOfficialLanguage",
+    "object": "French"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasNationality",
+    "object": "93.0% French | 7.0% Others"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasReligion",
+    "object": "58.1% Christianity | 31.9% No religion | 8.3% Islam | 0.7% Others"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasDemonym",
+    "object": "French"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasGovernment",
+    "object": "Unitary semi-presidential republic"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasPresident",
+    "object": "Emmanuel Macron"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasPrimeMinister",
+    "object": "Jean Castex"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasLegislature",
+    "object": "Parliament"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasUpperHouse",
+    "object": "Senate"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasLowerHouse",
+    "object": "National Assembly"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasGreatSeal",
+    "object": "EU-France (orthographic projection).svg | Metropolitan France (European part of France) on the globe | EU-France.svg | Metropolitan France in Europe | France in the World (+Antarctica claims).svg | France in the world | Location of France (red or dark green) | - in Europe (green & dark grey) | - in the European Union (green)"
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasEstablishment",
+    "object": {
+      "Reign of Clovis I as King of the Franks": "500",
+      "Treaty of Verdun": "10 August 843",
+      "Kingdom of France": "3 July 987",
+      "Republic established": "22 September 1792",
+      "Founded the EEC": "1 January 1958",
+      "Current constitution": "4 October 1958"
+    }
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasArea",
+    "object": {
+      "Total": "640,679 km | 2 |  (247,368 sq mi) (42nd)",
+      "Water (%)": "0.86 (as of 2015)",
+      "Metropolitan France (IGN)": "551,695 km | 2 |  (213,011 sq mi) (50th)",
+      "Metropolitan France (Cadastre)": "543,940.9 km | 2 |  (210,016.8 sq mi) (50th)"
+    }
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasPopulation",
+    "object": {
+      "May 2021 estimate": "Neutral increase |  67,413,000 (20th)",
+      "Density": "116/km | 2 |  (300.4/sq mi) (89th)",
+      "Metropolitan France, estimate as of May 2021 | [update]": "Neutral increase |  65,239,000 (23rd)"
+    }
+  },
+  {
+    "subject": "French Republic",
+    "predicate": "hasGDP",
+    "object": {
+      "PPP": "2021 estimate",
+      "Total": "Increase |  $3.232"
+    }
+  }
+]

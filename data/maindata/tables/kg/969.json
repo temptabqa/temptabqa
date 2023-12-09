@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "2013 Latakia offensive",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "2013 Latakia offensive",
+    "predicate": "part of",
+    "object": "Syrian Civil War"
+  },
+  {
+    "subject": "2013 Latakia offensive",
+    "predicate": "date",
+    "object": "4-19 August 2013 | (2 weeks and 1 day)"
+  },
+  {
+    "subject": "2013 Latakia offensive",
+    "predicate": "location",
+    "object": "Latakia Governorate, Syria"
+  },
+  {
+    "subject": "2013 Latakia offensive",
+    "predicate": "result",
+    "object": "Syrian Army victory | Rebel forces initially capture 13 villages | Army counter-attack recaptures all of the villages | Rebels kill at least 190 civilians and took more than 200 as hostages"
+  },
+  {
+    "subject": "Al-Qaeda | Islamic State of Iraq and the Levant | Al-Nusra Front | Syrian Islamic Front | Ahrar ash-Sham | Ansar al-Sham | Junud al-Sham | Harakat Sham al-Islam | Free Syrian Army",
+    "predicate": "belligerent",
+    "object": "Syria | Syrian Arab Republic | Syrian Armed Forces | National Defense Force | Syrian Resistance"
+  },
+  {
+    "subject": "Walid Aouss | † | (Rejal Ahoudou Allah Leader) | Kahtane Haaj Mohammed | † | (al-Tawhid Brigade Commander) | Ans Chyghani | † | (Al Izzatullah wal nasr minAllah Brigade Commander) | Abu Moaz | (Ahrar al-Sham Commander) | Abu Mustafa | (Ansar al-Din Commander) | Muslim Abu Walid al Shishani | (Junud al-Sham Commander) | Abu al-Hassan Ammar | † | (FSA spokesman)",
+    "predicate": "commander",
+    "object": "Hilal al-Assad | (Latakia NDF commander) | Nizar al-Khatib | † | (Tartus NDF commander) | Mihrac Ural | (Syrian Resistance Commander)"
+  },
+  {
+    "subject": "2013 Latakia offensive",
+    "predicate": "units involved",
+    "object": "Suqour al-Ezz | Liwa al-Mujahideen | Kataib Ansar al-Sham | Harakat Sham al-Islam | Katibat al Muhajiroon | Ahrar ash-Sham | Ansar al-Din Front | Junud al-Sham | 1st Armoured Division | 58th Mechanized Brigade | 3rd Armoured Division | 47th Armoured Brigade | Syrian Air Force"
+  },
+  {
+    "subject": "2013 Latakia offensive",
+    "predicate": "strength",
+    "object": "1,500-2,000 fighters | Islamic State of Iraq and the Levant | 1,500 | 5,000 soldiers"
+  },
+  {
+    "subject": "2013 Latakia offensive",
+    "predicate": "casualties and losses",
+    "object": "107 fighters killed | (up until Army counter-attack) | 114-127 soldiers and 44 militiamen killed | 190-205 civilians killed"
+  }
+]

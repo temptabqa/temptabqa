@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "category",
+    "object": "scientist"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Born",
+    "object": "( | 1901-09-29 | ) | 29 September 1901 | Rome, Kingdom of Italy"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Died",
+    "object": "28 November 1954 | (1954-11-28) | (aged 53) | Chicago, Illinois, US"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Citizenship",
+    "object": "Italian (1901-1944) | American (1944-1954)"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Alma mater",
+    "object": "Scuola Normale Superiore of Pisa"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Known for",
+    "object": "Demonstrating first self-sustaining nuclear chain reaction | Fermion | Fermi gas | Fermi-Dirac statistics | Fermi's golden rule | Fermi paradox | Fermi method | Thomas-Fermi model | Thomas-Fermi screening | Fermi theory of beta decay | Chandrasekhar-Fermi method"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Spouse(s)",
+    "object": "Laura Capon Fermi"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Children",
+    "object": "2"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Awards",
+    "object": "Matteucci Medal (1926) | Nobel Prize (1938) | Hughes Medal (1942) | Medal for Merit (1946) | Franklin Medal (1947) | ForMemRS (1950) | Barnard Medal for Meritorious Service to Science (1950) | Rumford Prize (1953) | Max Planck Medal (1954)"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Image",
+    "object": "Enrico Fermi 1943-49.jpg | Fermi in 1943"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Scientific career",
+    "object": ""
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Fields",
+    "object": "Physics"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Institutions",
+    "object": "Scuola Normale Superiore of Pisa | University of Göttingen | Leiden University | University of Florence | Sapienza University of Rome | Columbia University | University of Chicago"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Academic advisors",
+    "object": "Luigi Puccianti | Max Born | Paul Ehrenfest"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Doctoral students",
+    "object": "Harold Agnew | Edoardo Amaldi | Owen Chamberlain | Geoffrey Chew | Mildred Dresselhaus | Jerome Friedman | Richard Garwin | Marvin Goldberger | Tsung-Dao Lee | Ettore Majorana | Arthur Rosenfeld | Emilio Segrè | Sam Treiman"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Other notable students",
+    "object": "Jack Steinberger | Chen Ning Yang"
+  },
+  {
+    "subject": "Enrico Fermi",
+    "predicate": "Signature",
+    "object": "Enrico Fermi signature.svg"
+  }
+]

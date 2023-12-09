@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_category",
+    "object": "rugby"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_caption",
+    "object": "Dexter Jackson"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "infobox-image",
+    "object": "Jackson with the Cincinnati Bengals in 2006"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_position",
+    "object": "Safety"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "born_on",
+    "object": "July 28, 1977"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "born_in",
+    "object": "Quincy, Florida"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_height",
+    "object": "6 ft 0 in (1.83 m)"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_weight",
+    "object": "210 lb (95 kg)"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "attended_high_school",
+    "object": "Quincy (FL) Shanks"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "attended_college",
+    "object": "Florida State"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_nfl_draft",
+    "object": "1999 / Round: 4 / Pick: 113"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_career_history",
+    "object": ["Tampa Bay Buccaneers (1999-2002)", "Arizona Cardinals (2003)", "Tampa Bay Buccaneers (2004-2005)", "Cincinnati Bengals (2006-2008)", "Florida Tuskers (2009)"]
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_career_highlights_and_awards",
+    "object": ["Super Bowl champion (XXXVII)", "Super Bowl MVP (XXXVII)"]
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_total_tackles",
+    "object": "457"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_sacks",
+    "object": "5.0"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_forced_fumbles",
+    "object": "5"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_fumble_recoveries",
+    "object": "5"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_interceptions",
+    "object": "17"
+  },
+  {
+    "subject": "Dexter Jackson",
+    "predicate": "has_player_stats_website",
+    "object": "NFL.com"
+  }
+]

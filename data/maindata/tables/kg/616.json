@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "category",
+    "object": "stadium"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "full name",
+    "object": "Al-Shaab International Stadium"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "location",
+    "object": "Baghdad, Iraq"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "coordinates",
+    "object": "33.3248694, 44.4353028"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "owner",
+    "object": "Government of Iraq"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "capacity",
+    "object": "34,200 (original standing capacity was 50,000 prior to being made all-seated in 2010)"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "surface",
+    "object": "Grass and track"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "broke ground",
+    "object": "April 21, 1960"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "built",
+    "object": "1960-1966 (6 years)"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "opened",
+    "object": "November 6, 1966"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "renovated",
+    "object": "2005, 2010, 2015"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "closed",
+    "object": "2003-2005, 2009-2010"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "construction cost",
+    "object": "IQD 1,200,000 (1966)"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "architect",
+    "object": "Francisco Keil do Amaral & Carlos Manuel Ramos"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "project manager",
+    "object": "Calouste Gulbenkian Foundation"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "main contractors",
+    "object": "Tahsin Nu'man Rif'at"
+  },
+  {
+    "subject": "Al-Shaab Stadium",
+    "predicate": "tenants",
+    "object": "Al Shorta SC (2014-present), Al-Zawra'a SC (2012-present), Iraq national football team (1966-2013), 1985 Arab Club Champions Cup, 1982 Arab Club Champions Cup Final, 5th Arabian Gulf Cup"
+  }
+]

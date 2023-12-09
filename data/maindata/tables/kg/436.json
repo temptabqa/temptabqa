@@ -1,0 +1,183 @@
+[
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "symbol"},
+        "object": {"type": ["Flag", "Emblem"], "value": "Flag of Algeria,Emblem of Algeria"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "motto"},
+        "object": {"value": "بالشعب وللشعب ('By the people and for the people')"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "anthem"},
+        "object": {"value": "Kassaman ('We Pledge')"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "capital_largest_city"},
+        "object": {"value": "Algiers (36°42′N, 3°13′E)"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "official_languages"},
+        "object": {"value": "Arabic, Berber"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "other_languages"},
+        "object": {"value": "Algerian Arabic (Darja), French"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "ethnic_groups"},
+        "object": {"value": "Arab-Berber 99%, 1% others"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "religion"},
+        "object": {"value": "99% Sunni Islam (official), 1% other (inc. Christians and Jews)"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "demonym"},
+        "object": {"value": "Algerian"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "government"},
+        "object": {"value": "Unitary semi-presidential republic"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "President"},
+        "object": {"value": "Abdelmadjid Tebboune"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "Prime_Minister"},
+        "object": {"value": "Aymen Benabderrahmane"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "Council_President"},
+        "object": {"value": "Salah Goudjil"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "Assembly_President"},
+        "object": {"value": "Ibrahim Boughali"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "legislature"},
+        "object": {"value": "Parliament"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "upper_house"},
+        "object": {"value": "Council of the Nation"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "lower_house"},
+        "object": {"value": "People's National Assembly"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "formation"},
+        "object": {
+            "value": {
+                "Numidia_Unification": "202 BC",
+                "Rustamid_dynasty": "776",
+                "Zirid_dynasty": "972",
+                "Hammadid_dynasty": "1015",
+                "Zayyanid_dynasty": "1236",
+                "Al_Jazâ'ir": "1516",
+                "French_occupation": "5 July 1830",
+                "Independence": "5 July 1962"
+            }
+        }
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "area"},
+        "object": {"value": "2,381,741 km² (919,595 sq mi) (10th)"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "water_percentage"},
+        "object": {"value": "1.1%"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "population"},
+        "object": {"value": "44,700,000 (32nd)"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "density"},
+        "object": {"value": "17.7/km² (45.8/sq mi) (168th)"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "GDP_PPP"},
+        "object": {"value": {"total": "$163.512 billion (58th)", "per_capita": "$3,638 (130th)"}, "year": "2021"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "GDP_nominal"},
+        "object": {"value": {"total": "Increase |  $163.512 billion (58th)", "per_capita": "Increase |  $3,638 (130th)"}, "year": "2021"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "Gini"},
+        "object": {"value": "27.6", "year": "2011", "label": "low"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "HDI"},
+        "object": {"value": "0.748", "year": "2019", "label": "high", "ranking": "91st"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "currency"},
+        "object": {"value": "Algerian dinar (DZD)"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "time_zone"},
+        "object": {"value": "UTC+1 (CET)"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "date_format"},
+        "object": {"value": "dd/mm/yyyy"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "driving_side"},
+        "object": {"value": "right"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "calling_code"},
+        "object": {"value": "+213"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "ISO_3166_code"},
+        "object": {"value": "DZ"}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "Internet_TLD"},
+        "object": {"value": ".dz, الجزائر."}
+    },
+    {
+        "subject": {"name": "People's Democratic Republic of Algeria", "type": "country"},
+        "predicate": {"type": "location"},
+        "object": {"value": "Location of Algeria (dark green)"}
+    }
+]

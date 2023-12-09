@@ -1,0 +1,12 @@
+[
+  {"subject": "Charles Brenton Huggins", "predicate": "category", "object": "nobel"},
+  {"subject": "Charles Brenton Huggins", "predicate": "Born", "object": "( | 1901-09-22 | ) | September 22, 1901 | Halifax, Nova Scotia"},
+  {"subject": "Charles Brenton Huggins", "predicate": "Died", "object": "January 12, 1997 | (1997-01-12) | (aged 95) | Chicago, Illinois"},
+  {"subject": "Charles Brenton Huggins", "predicate": "Citizenship", "object": "Canadian / American"},
+  {"subject": "Charles Brenton Huggins", "predicate": "Alma mater", "object": "Acadia University | Harvard University"},
+  {"subject": "Charles Brenton Huggins", "predicate": "Known for", "object": "prostate cancer | hormones"},
+  {"subject": "Charles Brenton Huggins", "predicate": "Awards", "object": "Nobel Prize for Physiology or Medicine | (1966) | Cameron Prize for Therapeutics of the University of Edinburgh | (1956) | Gairdner Foundation International Award | (1966)"},
+  {"subject": "Charles Brenton Huggins", "predicate": "image", "object": "Charles Brenton Huggins nobel.jpg | Charles Brenton Huggins"},
+  {"subject": "Scientific career", "predicate": "Fields", "object": "physiology"},
+  {"subject": "Scientific career", "predicate": "Institutions", "object": "University of Michigan, University of Chicago"}
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Women's 200 metre breaststroke | at the 2019 World Aquatics Championships",
+    "predicate": "category",
+    "object": "sports event"
+  },
+  {
+    "subject": "Women's 200 metre breaststroke | at the 2019 World Aquatics Championships",
+    "predicate": "Venue",
+    "object": "Nambu University Municipal Aquatics Center"
+  },
+  {
+    "subject": "Women's 200 metre breaststroke | at the 2019 World Aquatics Championships",
+    "predicate": "Location",
+    "object": "Gwangju, South Korea"
+  },
+  {
+    "subject": "Women's 200 metre breaststroke | at the 2019 World Aquatics Championships",
+    "predicate": "Dates",
+    "object": "25 July (heats and semifinals) | 26 July (final)"
+  },
+  {
+    "subject": "Women's 200 metre breaststroke | at the 2019 World Aquatics Championships",
+    "predicate": "Competitors",
+    "object": "34 from 27 nations"
+  },
+  {
+    "subject": "Women's 200 metre breaststroke | at the 2019 World Aquatics Championships",
+    "predicate": "Winning time",
+    "object": "2:20.17"
+  },
+  {
+    "subject": "gold medalist",
+    "predicate": "name",
+    "object": "Yuliya Yefimova"
+  },
+  {
+    "subject": "gold medalist",
+    "predicate": "country",
+    "object": "Russia"
+  },
+  {
+    "subject": "silver medalist",
+    "predicate": "name",
+    "object": "Tatjana Schoenmaker"
+  },
+  {
+    "subject": "silver medalist",
+    "predicate": "country",
+    "object": "South Africa"
+  },
+  {
+    "subject": "bronze medalist",
+    "predicate": "name",
+    "object": "Sydney Pickrem"
+  },
+  {
+    "subject": "bronze medalist",
+    "predicate": "country",
+    "object": "Canada"
+  },
+  {
+    "subject": "Women's 200 metre breaststroke | at the 2019 World Aquatics Championships",
+    "predicate": "previous event",
+    "object": "2017"
+  },
+  {
+    "subject": "Women's 200 metre breaststroke | at the 2019 World Aquatics Championships",
+    "predicate": "next event",
+    "object": "2022"
+  }
+]

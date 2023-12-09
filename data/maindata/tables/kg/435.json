@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "New Kingdom",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Capital",
+    "object": "Thebes | c. 1550 - 1352 BC | 17th dynasty and 18th dynasty until Akhenaten | Akhetaten | c. 1352 - 1336 BC | Akhenaten of the 18th dynasty | Thebes | c. 1336 - 1279 BC | 18th and 19th dynasty until Ramesses II | Pi-Ramesses | c. 1279 -1213 BC | Ramesses II of the 19th dynasty | Memphis | c. 1213 - 1069 BC | from Merneptah of the 19th dynasty and 20th dynasty"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Common languages",
+    "object": "Ancient Egyptian, Nubian, Canaanite"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Religion",
+    "object": "Ancient Egyptian religion | Atenism (during the Amarna Period)"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Government",
+    "object": "Divine absolute monarchy"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Pharaoh",
+    "object": "c. 1550 - 1525 BC: Ahmose I (first)"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Pharaoh",
+    "object": "c. 1107 - 1077 BC: Ramesses XI (last)"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "History",
+    "object": "Established: circa 1550 BC"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "History",
+    "object": "Disestablished: c. 1069 BC"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Population",
+    "object": "13th century BCE: 3 to 5 million"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Preceded by",
+    "object": "Second Intermediate Period of Egypt"
+  },
+  {
+    "subject": "Kingdom of Kerma",
+    "predicate": "Preceded by",
+    "object": "Succeeded by"
+  },
+  {
+    "subject": "New Kingdom",
+    "predicate": "Succeeded by",
+    "object": "Third Intermediate Period of Egypt"
+  },
+  {
+    "subject": "Kingdom of Kush",
+    "predicate": "Succeeded by",
+    "object": "Philistia"
+  }
+]

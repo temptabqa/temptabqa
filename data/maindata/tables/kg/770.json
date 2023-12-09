@@ -1,0 +1,80 @@
+[
+  {
+    "subject": "Alex Harvey",
+    "predicate": "category",
+    "object": "skier"
+  },
+  {
+    "subject": "Alex Harvey",
+    "predicate": "Country",
+    "object": "Canada"
+  },
+  {
+    "subject": "Alex Harvey",
+    "predicate": "Born",
+    "object": "7 September 1988, Saint-Ferréol-les-Neiges, Quebec, Canada"
+  },
+  {
+    "subject": "Alex Harvey",
+    "predicate": "Height",
+    "object": "184 cm (6 ft 0 in)"
+  },
+  {
+    "subject": "Alex Harvey",
+    "predicate": "Ski club",
+    "object": "Club Nordique Mont St. Anne"
+  },
+  {
+    "subject": "Alex Harvey",
+    "predicate": "World Cup career",
+    "object": {
+      "Seasons": "12 - (2008- 2019)",
+      "Individual wins": "8",
+      "Team wins": "1",
+      "Individual podiums": "30",
+      "Team podiums": "3",
+      "Individual starts": "258",
+      "Team starts": "11",
+      "Overall titles": "0 - (3rd in 2014, 2017)",
+      "Discipline titles": "0 - (2nd in Distance in 2017)"
+    }
+  },
+  {
+    "subject": "Alex Harvey",
+    "predicate": "Representation",
+    "object": "Canada"
+  },
+  {
+    "subject": "Alex Harvey",
+    "predicate": "World Championships",
+    "object": {
+      "Gold": [
+        "2011 Oslo - Team sprint",
+        "2017 Lahti - 50 km freestyle"
+      ],
+      "Silver": [
+        "2015 Falun - Individual sprint"
+      ],
+      "Bronze": [
+        "2013 Val di Fiemme - Individual sprint",
+        "2015 Falun - 30 km skiathlon"
+      ]
+    }
+  },
+  {
+    "subject": "Alex Harvey",
+    "predicate": "Junior World Championships",
+    "object": {
+      "Gold": [
+        "2011 Otepää - 30 km skiathlon"
+      ],
+      "Silver": [
+        "2008 Mals - 10 km classical"
+      ],
+      "Bronze": [
+        "2007 Tarvisio - 10 km freestyle",
+        "2007 Tarvisio - 20 km skiathlon"
+      ]
+    }
+  }
+]

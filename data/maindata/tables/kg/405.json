@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Benny McCoy",
+    "predicate": "category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "image",
+    "object": "Benny McCoy 1.jpg"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "Double Play",
+    "object": "baseball card"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "card year",
+    "object": "1941"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "card number",
+    "object": "#130"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "position",
+    "object": "Second baseman / Shortstop"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "born",
+    "object": "November 9, 1915"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "birth place",
+    "object": "Jenison, Michigan"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "died",
+    "object": "November 9, 2011"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "date of death",
+    "object": "(2011-11-09)"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "age at death",
+    "object": "(aged 96)"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "death place",
+    "object": "Grandville, Michigan"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "batted",
+    "object": "Left"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "MLB debut",
+    "object": "September 14, 1938, for the Detroit Tigers"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "last MLB appearance",
+    "object": "September 28, 1941, for the Philadelphia Athletics"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "batting average",
+    "object": ".269"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "hits",
+    "object": "327"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "RBI",
+    "object": "156"
+  },
+  {
+    "subject": "Benny McCoy",
+    "predicate": "teams",
+    "object": "Detroit Tigers (1938-1939) | Philadelphia Athletics (1940-1941)"
+  }
+]

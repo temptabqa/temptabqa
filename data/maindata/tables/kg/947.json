@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Bad Company",
+    "predicate": "category",
+    "object": "album"
+  },
+  {
+    "subject": "Bad Company",
+    "predicate": "album_cover",
+    "object": "BadCompanyBadCompany.jpg"
+  },
+  {
+    "subject": "Studio album by Bad Company",
+    "predicate": "Released",
+    "object": "15 June 1974"
+  },
+  {
+    "subject": "Studio album by Bad Company",
+    "predicate": "Recorded",
+    "object": "November 1973"
+  },
+  {
+    "subject": "Studio album by Bad Company",
+    "predicate": "Studio",
+    "object": "Headley Grange, East Hampshire, England"
+  },
+  {
+    "subject": "Studio album by Bad Company",
+    "predicate": "Genre",
+    "object": "Hard rock | blues rock"
+  },
+  {
+    "subject": "Studio album by Bad Company",
+    "predicate": "Length",
+    "object": "34 | 45"
+  },
+  {
+    "subject": "Studio album by Bad Company",
+    "predicate": "Label",
+    "object": "Island (UK) | Swan Song (US)"
+  },
+  {
+    "subject": "Studio album by Bad Company",
+    "predicate": "Producer",
+    "object": "Bad Company"
+  },
+  {
+    "subject": "Bad Company chronology",
+    "predicate": "albums",
+    "object": "Bad Company | (1974) | Straight Shooter | (1975)"
+  },
+  {
+    "subject": "Singles from Bad Company",
+    "predicate": "songs_and_release_dates",
+    "object": "\"Can't Get Enough\" | Released: 12 August 1974 | \"Movin' On\" | Released: 1974 | \"Bad Company\" | Released: 1974"
+  }
+]

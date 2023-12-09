@@ -1,0 +1,19 @@
+[
+  {"subject": "Andrea Anastasi", "predicate": "category", "object": "volleyball"},
+  {"subject": "Andrea Anastasi", "predicate": "image", "object": "Andrea Anastasi 2013.jpg"},
+  {"subject": "Andrea Anastasi", "predicate": "Nickname", "object": "Nano"},
+  {"subject": "Andrea Anastasi", "predicate": "Nationality", "object": "Italy | Italian"},
+  {"subject": "Andrea Anastasi", "predicate": "Born", "object": "( | 1960-10-08 | ) | 8 October 1960 | (age 61) | Poggio Rusco, Italy"},
+  {"subject": "Andrea Anastasi", "predicate": "Height", "object": "1.83 m (6 ft 0 in)"},
+  {"subject": "Andrea Anastasi", "predicate": "Current team", "object": "Italy | Sir Safety Perugia"},
+  {"subject": "Andrea Anastasi", "predicate": "Previous teams coached", "object": "1994-1995 | 1995-1999 | 1999-2003 | 2003-2005 | 2005-2007 | 2007-2010 | 2011-2013 | 2014-2019 | 2018 | 2019-2022 | 2022- | Pallavolo Brescia | Gabeca Pallavolo | Italy | Piemonte Volley | Spain | Italy | Poland | Trefl Gdańsk | Belgium | Projekt Warsaw | Sir Safety Perugia"},
+  {"subject": "Andrea Anastasi", "predicate": "Position", "object": "Outside hitter"},
+  {"subject": "Andrea Anastasi", "predicate": "Career", "object": "1977-1980 | 1980-1983 | 1983-1987 | 1987-1991 | 1991-1992 | 1992-1993 | Italy | Pallavolo Parma | Italy | Panini Modena | Italy | Kutiba Falconara | Italy | Sisley Treviso | Italy | Jockey Fas Schio | Italy | Gallo Gioia Del Colle"},
+  {"subject": "Andrea Anastasi", "predicate": "National team", "object": "1981-1991 | Italy | (141)"},
+  {"subject": "Andrea Anastasi", "predicate": "FIVB World Championship", "object": "Gold medal - first place | 1990 Brazil"},
+  {"subject": "Andrea Anastasi", "predicate": "CEV European Championship", "object": "Gold medal - first place | 2007 Russia"},
+  {"subject": "Andrea Anastasi", "predicate": "FIVB World League", "object": "Gold medal - first place | 2012 Bulgaria"},
+  {"subject": "Andrea Anastasi", "predicate": "FIVB World League (bronze)", "object": "Bronze medal - third place | 2011 Poland"},
+  {"subject": "Andrea Anastasi", "predicate": "Olympic Games", "object": "Bronze medal - third place | 2000 Sydney"},
+  {"subject": "Andrea Anastasi", "predicate": "FIVB World Cup", "object": "Silver medal - second place | 2011 Japan"}
+]

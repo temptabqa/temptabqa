@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Dangerous",
+    "predicate": "category",
+    "object": "album"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Original album artwork by",
+    "object": "Mark Ryden"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Studio album by",
+    "object": "Michael Jackson"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Released",
+    "object": "November 26, 1991"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Recorded",
+    "object": "June 1989 - October 1991"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Studio",
+    "object": "Record One (Los Angeles) | Westlake (Los Angeles) | Larrabee Sound (Los Angeles) | Record Plant (Los Angeles) | Ocean Way Recording (Hollywood) | Smoketree Ranch (Chatsworth, California) | Toad Hall (Pasadena, California)"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Genre",
+    "object": "New jack swing | R&B | pop"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Length",
+    "object": "77 | 03"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Label",
+    "object": "Epic"
+  },
+  {
+    "subject": "Dangerous",
+    "predicate": "Producer",
+    "object": "Bill Bottrell | Bruce Swedien | Michael Jackson | Teddy Riley"
+  },
+  {
+    "subject": "Michael Jackson chronology",
+    "predicate": "Dangerous",
+    "object": "The Original Soul of Michael Jackson | (1987) | Dangerous | (1991) | HIStory: Past, Present and Future, Book I | (1995)"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "Black or White",
+    "object": "Released: November 11, 1991"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "Remember the Time",
+    "object": "Released: January 14, 1992"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "In the Closet",
+    "object": "Released: April 9, 1992"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "Jam",
+    "object": "Released: July 13, 1992"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "Who Is It",
+    "object": "Released: August 31, 1992"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "Heal the World",
+    "object": "Released: November 23, 1992"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "Give In to Me",
+    "object": "Released: February 15, 1993"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "Will You Be There",
+    "object": "Released: June 28, 1993"
+  },
+  {
+    "subject": "Singles from Dangerous",
+    "predicate": "Gone Too Soon",
+    "object": "Released: December 1, 1993"
+  }
+]

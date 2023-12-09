@@ -1,0 +1,142 @@
+[
+  {
+    "subject": "Hayabusa2",
+    "predicate": "category",
+    "object": "space probe"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "caption",
+    "object": "Hayabusa2"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "infobox-image",
+    "object": "Hayabusa2 Ion thruster.jpg | Artist's impression of | Hayabusa2 | firing its ion thrusters"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Mission type",
+    "object": "Asteroid sample-return"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Operator",
+    "object": "JAXA"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "COSPAR ID",
+    "object": "2014-076A | Edit this at Wikidata"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "SATCAT | number",
+    "object": "40319"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Website",
+    "object": "www | .hayabusa2 | .jaxa | .jp | /en | /"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Mission duration",
+    "object": "6 years (planned) | (7 years, 6 months and 29 days elapsed)"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Spacecraft type",
+    "object": "Hayabusa"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Manufacturer",
+    "object": "NEC"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Launch mass",
+    "object": "610 kg (1,340 lb)"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Dry mass",
+    "object": "490 kg (1,080 lb)"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Dimensions",
+    "object": "Spacecraft bus: 1 × 1.6 × 1.25 m (3 ft 3 in × 5 ft 3 in × 4 ft 1 in) | Solar panel: 6 m × 4.23 m (19.7 ft × 13.9 ft)"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Power",
+    "object": "2.6 kW (at 1 au), 1.4 kW (at 1.4 au)"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Launch date",
+    "object": "3 December 2014, | 04:22:04 UTC"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Rocket",
+    "object": "H-IIA 202"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Launch site",
+    "object": "Tanegashima Space Center, LA-Y"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Contractor",
+    "object": "Mitsubishi Heavy Industries"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Landing date",
+    "object": "Re-entry capsule | 5 December 2020 UTC"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Landing site",
+    "object": "Woomera, Australia"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Flyby of Earth Closest approach",
+    "object": "3 December 2015"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Flyby of Earth Distance",
+    "object": "3,090 km (1,920 mi)"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Rendezvous with | (162173) Ryugu Arrival date",
+    "object": "27 June 2018, 09:35 UTC"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Rendezvous with | (162173) Ryugu Departure date",
+    "object": "12 November 2019"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Sample mass",
+    "object": "5.4 grams(including gas samples)"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "(162173) Ryugu lander Landing date",
+    "object": "11 July 2019"
+  },
+  {
+    "subject": "Hayabusa2",
+    "predicate": "Flyby of Earth | (Sample return) Closest approach",
+    "object": "5 December 2020 UTC"
+  }
+]

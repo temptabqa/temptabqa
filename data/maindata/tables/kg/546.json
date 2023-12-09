@@ -1,0 +1,72 @@
+[
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "category"},
+    "object": {"value": "nfl"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "infobox-image"},
+    "object": {"value": "Palmer in a three-point stance in a Browns uniform, circa 1950 | Palmer during his Browns career"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "number"},
+    "object": {"value": "42, 72"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "position"},
+    "object": {"value": "Tackle"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "born"},
+    "object": {"value": "August 27, 1922 | Breckenridge, Texas"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "died"},
+    "object": {"value": "February 22, 2009 | (aged 86) | Cleburne, Texas"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "height"},
+    "object": {"value": "6 ft 2 in (1.88 m)"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "weight"},
+    "object": {"value": "240 lb (109 kg)"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "high school"},
+    "object": {"value": "Albany (TX)"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "college"},
+    "object": {"value": "Texas Christian"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "NFL Draft"},
+    "object": {"value": "1943 / Round: 6 / Pick: 49"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "career history"},
+    "object": {"value": "New York Yankees (1946-1948) | Cleveland Browns (1949-1953)"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "career highlights and awards"},
+    "object": {"value": "All American (1943) | AAFC champion (1949) | NFL champion (1950) | TCU Hall of Fame (1978)"}
+  },
+  {
+    "subject": {"name": "Derrell Palmer"},
+    "predicate": {"type": "attribute", "name": "career NFL statistics"},
+    "object": {"value": "Games: 95"}
+  }
+]

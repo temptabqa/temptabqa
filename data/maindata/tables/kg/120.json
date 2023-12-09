@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Louis XIV",
+    "predicate": "category",
+    "object": "emperor"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "portrait",
+    "object": "Portrait of Louis XIV aged 63 | Portrait of Louis XIV | (Hyacinthe Rigaud, 1701)"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "reign",
+    "object": "14 May 1643 - 1 September 1715"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "coronation",
+    "object": "7 June 1654 | Reims Cathedral"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "predecessor",
+    "object": "Louis XIII"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "successor",
+    "object": "Louis XV"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "regent",
+    "object": "Anne of Austria (1643-1651)"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "chief ministers",
+    "object": "See list | Jules Mazarin (1643-1661) | Jean-Baptiste Colbert (1661-1683) | The Marquis of Louvois (1683-1691)"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "born",
+    "object": "5 September 1638 | Château de Saint-Germain-en-Laye, Saint-Germain-en-Laye, France"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "died",
+    "object": "1 September 1715 | (aged 76) | Palace of Versailles, Versailles, France"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "burial",
+    "object": "9 September 1715 | Basilica of Saint-Denis"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "spouse",
+    "object": "Maria Theresa of Spain | (married 1660; died 1683) | Françoise d'Aubigné, Marquise de Maintenon (private) | (married  1683)"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "issue",
+    "object": "Louis, Grand Dauphin | Marie Thérèse, Madame Royale | Philippe Charles, Duke of Anjou | Illegitimate | Marie Anne, Princess of Conti and Duchess of La Vallière | Louis, Count of Vermandois | Louis Auguste, Duke of Maine | Louis César, Count of Vexin | Louise Françoise, Princess of Condé | Louise Marie Anne, Mademoiselle de Tours | Louise, Baroness of La Queue | Françoise Marie, Duchess of Orléans | Louis Alexandre, Count of Toulouse"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "house",
+    "object": "Bourbon"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "father",
+    "object": "Louis XIII of France"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "mother",
+    "object": "Anne of Austria"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "religion",
+    "object": "Roman Catholicism (Gallican Rite)"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "signature",
+    "object": "Louis XIV's signature"
+  },
+  {
+    "subject": "Louis XIV",
+    "predicate": "names",
+    "object": "French | Louis Dieudonné de Bourbon"
+  }
+]

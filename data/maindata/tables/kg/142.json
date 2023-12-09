@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "subcategory",
+    "object": "tabletennis"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "image",
+    "object": "Jung Young-sik 2018.jpg"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "image_caption",
+    "object": "Jeoung at the 2018 Asian Games"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Nationality",
+    "object": "Korean"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Born",
+    "object": "20 January 1992"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Age",
+    "object": "30"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Playing style",
+    "object": "Attack, shakehand"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Equipment",
+    "object": "Blade: Icecream Azx"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Highest ranking",
+    "object": "7 (February 2017)"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Height",
+    "object": "1.80 m (5 ft 11 in)"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Representing",
+    "object": "South Korea"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "World Championships",
+    "object": [
+      "Bronze medal - third place | 2010 Moscow | Team",
+      "Bronze medal - third place | 2011 Rotterdam | Doubles",
+      "Bronze medal - third place | 2012 Dortmund | Team",
+      "Bronze medal - third place | 2016 Kuala Lumpur | Team",
+      "Bronze medal - third place | 2017 Düsseldorf | Doubles",
+      "Bronze medal - third place | 2018 Halmstad | Team"
+    ]
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "World Cup",
+    "object": "Bronze medal - third place | 2018 London | Team"
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Asian Games",
+    "object": [
+      "Silver medal - second place | 2010 Guangzhou | Team",
+      "Silver medal - second place | 2018 Jakarta | Men's team",
+      "Bronze medal - third place | 2010 Guangzhou | Doubles"
+    ]
+  },
+  {
+    "subject": "Jeoung Young-sik",
+    "predicate": "Asian Championships",
+    "object": [
+      "Silver medal - second place | 2012 Macau | Doubles",
+      "Bronze medal - third place | 2012 Macau | Team",
+      "Bronze medal - third place | 2013 Busan | Team"
+    ]
+  }
+]

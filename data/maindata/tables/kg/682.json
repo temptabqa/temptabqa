@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "category",
+    "object": "swimming"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "nationality",
+    "object": "Brazilian"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "born",
+    "object": "7 December 1934, Rio Claro, São Paulo, Brazil"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "died",
+    "object": "27 June 2010, São Paulo, São Paulo, Brazil"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "height",
+    "object": "1.75 m (5 ft 9 in)"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "weight",
+    "object": "81 kg (179 lb)"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "sport",
+    "object": "swimming"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "strokes",
+    "object": "backstroke, freestyle"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "representing",
+    "object": "Brazil"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "gold medal - Pan American Games",
+    "object": "1963 São Paulo, water polo"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "silver medal - Pan American Games",
+    "object": "1967 Winnipeg, water polo"
+  },
+  {
+    "subject": "João Gonçalves Filho",
+    "predicate": "bronze medal - Pan American Games",
+    "object": "1959 Chicago, water polo"
+  }
+]

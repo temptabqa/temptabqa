@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Project Mercury",
+    "predicate": "category",
+    "object": "space program"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "caption",
+    "object": "Project Mercury"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "infobox-image",
+    "object": "Mercury-patch-g.png | Retroactive logo"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Country",
+    "object": "United States"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Organization",
+    "object": "NASA"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Purpose",
+    "object": "Crewed orbital flight"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Status",
+    "object": "Completed"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - Cost",
+    "object": "$277 million (1965) | $2.25 billion (2019)"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - Duration",
+    "object": "1958-1963"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - First flight",
+    "object": "Big Joe 1 | September 9, 1959"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - First crewed flight",
+    "object": "Mercury-Redstone 3 | May 5, 1961"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - Last flight",
+    "object": "Mercury-Atlas 9 | May 15, 1963"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - Successes",
+    "object": "11"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - Failures",
+    "object": "3 (MA-1, MA-3, and MR-1)"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - Partial failures",
+    "object": "1 (Big Joe 1)"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Program history - Launch site(s)",
+    "object": "Cape Canaveral | Wallops"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Vehicle information - Crewed vehicle(s)",
+    "object": "Mercury capsule"
+  },
+  {
+    "subject": "Project Mercury",
+    "predicate": "Vehicle information - Launch vehicle(s)",
+    "object": "Atlas LV-3B | Big Joe | Blue Scout II | Little Joe | Mercury-Redstone"
+  }
+]

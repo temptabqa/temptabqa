@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "American Gangster",
+    "predicate": "category",
+    "object": "album"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "description",
+    "object": "A silhouette of a man in a suit walking into a closed business where the chairs have been put on the tables."
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "artist",
+    "object": "Jay-Z"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "Released",
+    "object": "November 6, 2007"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "Studio",
+    "object": "Audiovision Studio and South Beach Studios in Miami; SoundTrap Studios in Atlanta; Hot Beats Recording Studios in Atlanta; and Baseline Studios, Daddy's House, KMA Studios, and Rock The Mic in New York"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "Genre",
+    "object": "Hip hop, Mafioso rap"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "Length",
+    "object": "58 | 38"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "Label",
+    "object": "Roc-A-Fella | Def Jam"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "Producer",
+    "object": "Shawn Carter | (exec.) | Antonio \"L.A.\" Reid | (exec.) | Sean \"Diddy\" Combs with The Hitmen | (also assoc.) | Bigg D | Chris Flame | Idris \"Driis\" Elba | Jermaine Dupri | Just Blaze | Skyz Muzik | The Neptunes | No I.D. | Toomp | Mario Winans"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "Jay-Z chronology",
+    "object": "Kingdom Come | (2006) | American Gangster | (2007) | The Blueprint 3 | (2009)"
+  },
+  {
+    "subject": "American Gangster",
+    "predicate": "Singles",
+    "object": "\"Blue Magic\" | Released: September 20, 2007 | \"Roc Boys (And the Winner Is)...\" | Released: October 10, 2007 | \"I Know\" | Released: November 4, 2007"
+  }
+]

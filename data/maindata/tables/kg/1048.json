@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "2020 Tour",
+    "predicate": "category",
+    "object": "concert"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "caption",
+    "object": "2020 Tour"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "World tour",
+    "object": "by Maroon 5"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "Location",
+    "object": "Latin America | North America | Africa | Asia | Europe"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "Associated album",
+    "object": "Jordi"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "Start date",
+    "object": "February 23, 2020"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "End date",
+    "object": "July 3, 2023"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "Legs",
+    "object": "9"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "Number of shows",
+    "object": "77"
+  },
+  {
+    "subject": "2020 Tour",
+    "predicate": "World tour by Maroon 5",
+    "object": "The 2020 World Tour.jpg | Promotional poster for the 2020 Tour"
+  },
+  {
+    "subject": "Maroon 5 concert chronology",
+    "predicate": "",
+    "object": ""
+  },
+  {
+    "subject": "Red Pill Blues Tour | (2018-2019) | 2020 Tour | (2020-2023) | M5LV | The Residency | (2023)",
+    "predicate": "",
+    "object": ""
+  }
+]

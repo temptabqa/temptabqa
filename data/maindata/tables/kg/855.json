@@ -1,0 +1,282 @@
+[
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "image",
+    "object": "Vladimir Putin (2018-03-01) 03 (cropped).jpg"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position",
+    "object": "President of Russia"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position start date",
+    "object": "7 May 2012"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Prime Minister",
+    "object": ["Dmitry Medvedev", "Mikhail Mishustin"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Preceded by",
+    "object": "Dmitry Medvedev"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position",
+    "object": "Prime Minister of Russia"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position start date",
+    "object": "8 May 2008"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position end date",
+    "object": "7 May 2012"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "First Deputy",
+    "object": ["Sergei Ivanov", "Viktor Zubkov", "Igor Shuvalov"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Preceded by",
+    "object": "Viktor Zubkov"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Succeeded by",
+    "object": "Dmitry Medvedev"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position",
+    "object": "Secretary of the Security Council"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position start date",
+    "object": "9 March 1999"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position end date",
+    "object": "9 August 1999"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Preceded by",
+    "object": "Nikolay Bordyuzha"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Succeeded by",
+    "object": "Sergei Ivanov"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position",
+    "object": "Director of the Federal Security Service"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position start date",
+    "object": "25 July 1998"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position end date",
+    "object": "29 March 1999"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Preceded by",
+    "object": "Nikolay Kovalyov"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Succeeded by",
+    "object": "Nikolai Patrushev"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position",
+    "object": "Leader of All-Russia People's Front"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position start date",
+    "object": "12 June 2013"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Preceded by",
+    "object": "Office established"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position",
+    "object": "Chairman of the Council of Ministers of the Union State"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position start date",
+    "object": "27 May 2008"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position end date",
+    "object": "18 July 2012"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Chm of Sup. Cncl.",
+    "object": "Alexander Lukashenko"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "General Secretary",
+    "object": "Pavel Borodin"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Preceded by",
+    "object": "Viktor Zubkov"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Succeeded by",
+    "object": "Dmitry Medvedev"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position",
+    "object": "Leader of United Russia"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position start date",
+    "object": "7 May 2008"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "position end date",
+    "object": "26 May 2012"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Preceded by",
+    "object": "Boris Gryzlov"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "Succeeded by",
+    "object": "Dmitry Medvedev"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "born",
+    "object": "7 October 1952"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "birthplace",
+    "object": "Leningrad, Russian SFSR, Soviet Union (now Saint Petersburg, Russia)"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "age",
+    "object": "69"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "political party",
+    "object": "Independent"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "political affiliations",
+    "object": ["People's Front", "United Russia", "Unity", "Our Home - Russia", "CPSU"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "spouse",
+    "object": "Lyudmila Shkrebneva"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "marriage date",
+    "object": "1983"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "divorce date",
+    "object": "2014"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "children",
+    "object": ["Maria", "Katerina"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "parents",
+    "object": ["Vladimir Spiridonovich Putin", "Maria Ivanovna Putina"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "residence",
+    "object": "Novo-Ogaryovo, Moscow"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "alma mater",
+    "object": ["Saint Petersburg State University (LLB)", "Saint Petersburg Mining Institute (PhD)"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "awards",
+    "object": "Order of Honour"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "website",
+    "object": "Official website"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "military allegiance",
+    "object": ["Soviet Union", "Russia"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "military branch/service",
+    "object": ["KGB", "FSB", "Russian Armed Forces"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "military years of service",
+    "object": ["1975-1991", "1998-1999", "2000-present"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "military rank",
+    "object": ["Colonel", "Supreme Commander-in-chief"]
+  },
+  {
+    "subject": "Vladimir Putin",
+    "predicate": "military battles/wars",
+    "object": ["Second Chechen War", "Russo-Georgian War", "Russo-Ukrainian War", "Syrian Civil War"]
+  }
+]

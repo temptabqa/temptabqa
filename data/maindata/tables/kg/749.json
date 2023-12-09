@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "category",
+    "object": "monument"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "image",
+    "object": "The glass facade of 7 World Trade Center, a skyscraper in New York's World Trade Center | The new 7 World Trade Center from the southwest (2008)"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "status",
+    "object": "Complete"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "type",
+    "object": "Office"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "location",
+    "object": "250 Greenwich Street | Manhattan, New York City 10006, United States"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "coordinates",
+    "object": "40.7133°N 74.0120°W"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "construction started",
+    "object": "May 7, 2002"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "completed",
+    "object": "2006"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "opened",
+    "object": "May 23, 2006"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "architectural height",
+    "object": "743 ft (226 m)"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "roof",
+    "object": "741 ft (226 m)"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "top floor",
+    "object": "679 ft (207 m)"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "floor count",
+    "object": "52"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "floor area",
+    "object": "1,681,118 sq ft (156,181 m2)"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "lifts/elevators",
+    "object": "29"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "architect",
+    "object": "David Childs of SOM"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "developer",
+    "object": "Silverstein Properties"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "structural engineer",
+    "object": "WSP Cantor Seinuk"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "main contractor",
+    "object": "Tishman Construction"
+  },
+  {
+    "subject": "7 World Trade Center",
+    "predicate": "website",
+    "object": "7 World Trade Center, wtc.com"
+  }
+]

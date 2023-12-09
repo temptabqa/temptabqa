@@ -1,0 +1,16 @@
+[
+  {"subject": "Supreme Court of Appeal", "predicate": "category", "object": "court"},
+  {"subject": "Supreme Court of Appeal", "predicate": "established", "object": "1910 (Appellate Division)"},
+  {"subject": "Supreme Court of Appeal", "predicate": "location", "object": "Bloemfontein"},
+  {"subject": "Supreme Court of Appeal", "predicate": "coordinates", "object": "29°06′55″S 26°12′59″E / -29.1154; 26.2163"},
+  {"subject": "Supreme Court of Appeal", "predicate": "composition method", "object": "Presidential appointment on the advice of the Judicial Service Commission"},
+  {"subject": "Supreme Court of Appeal", "predicate": "authorized by", "object": "Chapter 8 of the Constitution; Superior Courts Act, 2013"},
+  {"subject": "Supreme Court of Appeal", "predicate": "appeals to", "object": "Constitutional Court"},
+  {"subject": "Supreme Court of Appeal", "predicate": "number of positions", "object": "22"},
+  {"subject": "Supreme Court of Appeal", "predicate": "website", "object": "www.supremecourtofappeal.org.za"},
+  {"subject": "Supreme Court of Appeal", "predicate": "building image", "object": "High Court, Bloemfontein, South Africa.JPG"},
+  {"subject": "President of Supreme Court of Appeal", "predicate": "currently", "object": "Ray Zondo"},
+  {"subject": "President of Supreme Court of Appeal", "predicate": "since", "object": "01 April 2022"},
+  {"subject": "Deputy President of Supreme Court of Appeal", "predicate": "currently", "object": "Xola Petse"},
+  {"subject": "Deputy President of Supreme Court of Appeal", "predicate": "since", "object": "21 June 2019"}
+]

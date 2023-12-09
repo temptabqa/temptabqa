@@ -1,0 +1,89 @@
+[
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "category",
+    "object": "racing"
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "Born",
+    "object": "Anthony James Allmendinger | ( | 1981-12-16 | ) | December 16, 1981 | (age 40) | Los Gatos, California, U.S."
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "Achievements",
+    "object": "2-time IKF Champion | 2002 Barber Dodge Pro Series champion | 2003 Champ Car Atlantic champion | 2008, 2014, 2018 Monster Energy Open Winner | 2012 Rolex 24 at Daytona winner | 2014 Cheez-It 355 at The Glen winner | 2021 Verizon 200 at The Brickyard Winner | 2021 NASCAR Xfinity Series Regular Season Champion | 2022 NASCAR Xfinity Series Regular Season Champion"
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "Awards",
+    "object": "2004 Champ Car World Series Rookie of the year"
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "Image",
+    "object": "Aj allmendinger (52261464219) (cropped).jpg | Allmendinger at Indianapolis Motor Speedway in 2022"
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "NASCAR Cup Series career",
+    "object": {
+      "Car no., team": "No. 16 (Kaulig Racing)",
+      "2021 position": "43rd",
+      "Best finish in the championship": "13th (2014)",
+      "First race": "2007 Food City 500 (Bristol)",
+      "Last race": "2022 Xfinity 500 (Martinsville)",
+      "First win": "2014 Cheez-It 355 at The Glen (Watkins Glen)",
+      "Last win": "2021 Verizon 200 at the Brickyard (Indianapolis G.P.)",
+      "Career stats": "392 races run over 14 years | Wins | Top tens | Poles : 2 | 68 | 4"
+    }
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "NASCAR Xfinity Series career",
+    "object": {
+      "Car no., team": "No. 16 (Kaulig Racing)",
+      "2021 position": "4th",
+      "Best finish in the championship": "4th (2021)",
+      "First race": "2007 Camping World 300 (Fontana)",
+      "Last race": "2022 Dead On Tools 250 (Martinsville)",
+      "First win": "2013 Johnsonville Sausage 200 (Road America)",
+      "Last win": "2022 Drive for the Cure 250 (Charlotte Roval)",
+      "Career stats": "91 races run over 8 years | Wins | Top tens | Poles : 15 | 62 | 8"
+    }
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "NASCAR Camping World Truck Series career",
+    "object": {
+      "2021 position": "111th",
+      "Best finish in the championship": "34th (2007)",
+      "First race": "2006 New Hampshire 200 (Loudon)",
+      "Last race": "2021 United Rentals 176 at The Glen (Watkins Glen)",
+      "Career stats": "14 races run over 4 years | Wins | Top tens | Poles : 0 | 3 | 0"
+    }
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "IndyCar Series career",
+    "object": {
+      "2013 position": "27th",
+      "Best finish in the championship": "27th (2013)",
+      "First race": "2013 Indy Grand Prix of Alabama (Birmingham)",
+      "Last race": "2013 MAVTV 500 (Fontana)",
+      "Career stats": "6 races run over 1 year | Wins | Podiums | Poles : 0 | 0 | 0"
+    }
+  },
+  {
+    "subject": "A. J. Allmendinger",
+    "predicate": "Champ Car career",
+    "object": {
+      "Best finish in the championship": "3rd (2006)",
+      "First race": "2004 Toyota Grand Prix of Long Beach (Long Beach)",
+      "Last race": "2006 Lexmark Indy 300 (Surfers Paradise)",
+      "First win": "2006 Grand Prix of Portland (Portland)",
+      "Last win": "2006 Grand Prix of Road America (Road America)",
+      "Career stats": "40 races run over 3 years | Wins | Podiums | Poles : 5 | 14 | 2 | Statistics current as of October 1, 2022."
+    }
+  }
+]

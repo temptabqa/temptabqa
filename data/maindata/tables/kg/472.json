@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Percy Faith",
+    "predicate": "category",
+    "object": "musician"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "work",
+    "object": "Faith at work in 1949"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Born",
+    "object": "April 7, 1908"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Birthplace",
+    "object": "Toronto, Ontario, Canada"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Died",
+    "object": "February 9, 1976"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Death Date",
+    "object": "1976-02-09"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Age at Death",
+    "object": "aged 67"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Death Place",
+    "object": "Encino, California, U.S."
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Occupation",
+    "object": "Bandleader"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Occupation",
+    "object": "orchestrator"
+  },
+  {
+    "subject": "Percy Faith",
+    "predicate": "Occupation",
+    "object": "composer"
+  }
+]

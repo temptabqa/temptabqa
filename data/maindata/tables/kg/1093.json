@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "category",
+    "object": "rail line"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "has_station",
+    "object": "Les Diablerets railway station"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "station_image_year",
+    "object": "2008"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "operator",
+    "object": "Transports Publics du Chablais"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "opened",
+    "object": "22 December 1913"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "line_length",
+    "object": "22.3 km (13.9 mi)"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "track_gauge",
+    "object": "Metre (3 ft 3 3/8 in)"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "electrification",
+    "object": "1500 V DC"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "highest_elevation",
+    "object": "1,175 m (3,855 ft)"
+  },
+  {
+    "subject": "Aigle-Sépey-Diablerets",
+    "predicate": "maximum_incline",
+    "object": "60‰"
+  }
+]

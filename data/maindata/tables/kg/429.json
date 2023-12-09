@@ -1,0 +1,154 @@
+[
+  {
+    "subject": "Islamic Emirate of Afghanistan",
+    "predicate": "has flag",
+    "object": "Flag of Afghanistan"
+  },
+  {
+    "subject": "Islamic Emirate of Afghanistan",
+    "predicate": "has coat of arms",
+    "object": "Coat of Arms of the Islamic Emirate [1]"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "has anthem",
+    "object": "This is the Home of the Brave"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "status",
+    "object": "UN member state under an unrecognized government"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "capital and largest city",
+    "object": "Kabul"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "major languages",
+    "object": "Pashto, Dari"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "ethnic groups",
+    "object": "42% Pashtun, 27% Tajik, 9% Hazara, 9% Uzbek, 4% Aimaq, 3% Turkmen, 2% Baloch, 4% Others"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "religion",
+    "object": "99.7% Islam (official), 0.3% Others"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "demonym(s)",
+    "object": "Afghan"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "government",
+    "object": "Unitary autocratic Islamic provisional government"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "leader",
+    "object": "Hibatullah Akhundzada"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "prime minister",
+    "object": "Hasan Akhund (acting)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "chief justice",
+    "object": "Abdul Hakim Ishaqzai"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "formation",
+    "object": {
+      "Afghan Empire": "1451-1526",
+      "Hotak Empire": "1709-1738",
+      "Durrani Empire": "1747-1823",
+      "Emirate": "1823-1839",
+      "Restoration of the Durrani Empire": "1839-1842",
+      "Restoration of the Emirate": "1842-1926",
+      "Protected State of the United Kingdom": "26 May 1879",
+      "Independence": "19 August 1919",
+      "Kingdom": "9 June 1926",
+      "Republic": "17 July 1973",
+      "Democratic Republic": "27-28 April 1978",
+      "Islamic State": "28 April 1992",
+      "Islamic Emirate": "7 September 1996",
+      "Islamic Republic": "26 January 2004",
+      "Restoration of Islamic Emirate": "15 August 2021"
+    }
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "area",
+    "object": {
+      "Total": "652,864 km2 (252,072 sq mi) (40th)",
+      "Water (%)": "negligible"
+    }
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "population",
+    "object": {
+      "2021 estimate": "40,218,234 (37th)",
+      "Density": "48.08/km2 (124.5/sq mi) (174th)"
+    }
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "GDP (PPP)",
+    "object": {
+      "2018 estimate": {
+        "Total": "$21.657 billion (111st)",
+        "Per capita": "$493 (177th)"
+      }
+    }
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "GDP (nominal)",
+    "object": "2018 estimate"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "HDI (2019)",
+    "object": "Increase 0.511, low, 169th"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "currency",
+    "object": "Afghani (افغانی) (AFN)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "time zone",
+    "object": "UTC+4:30 Solar Calendar (D†)"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "driving side",
+    "object": "right"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "calling code",
+    "object": "+93"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "ISO 3166 code",
+    "object": "AF"
+  },
+  {
+    "subject": "Afghanistan",
+    "predicate": "internet TLD",
+    "object": ".af, افغانستان."
+  }
+]

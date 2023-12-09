@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "category",
+    "object": "railway"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Location",
+    "object": "English Channel (Strait of Dover)"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Coordinates",
+    "object": "51°00′45″N 1°30′15″E"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Status",
+    "object": "Active"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Start",
+    "object": "Folkestone, Kent, England, United Kingdom"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "End",
+    "object": "Coquelles, Pas-de-Calais, Hauts-de-France, France"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Opened",
+    "object": "6 May 1994 (tunnel), 1 June 1994 (freight), 14 November 1994 (passenger service)"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Owner",
+    "object": "Getlink"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Operator",
+    "object": "DB Cargo UK, Eurostar, Getlink"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Character",
+    "object": "Passenger trains, freight trains, vehicle shuttle trains"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Line length",
+    "object": "50.46 km (31.35 mi)"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Number of tracks",
+    "object": "2 single track tunnels, 1 service tunnel"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Track gauge",
+    "object": "1,435 mm (4 ft 8 1/2 in) standard gauge"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Electrified",
+    "object": "25 kV AC overhead lines, 5.87 m"
+  },
+  {
+    "subject": "Channel Tunnel",
+    "predicate": "Operating speed",
+    "object": "160 km/h (100 mph) (track safety restrictions), 200 km/h (120 mph) (possible by track geometry, not yet allowed)"
+  }
+]

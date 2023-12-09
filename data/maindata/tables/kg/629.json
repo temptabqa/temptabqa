@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Site 200",
+    "predicate": "category",
+    "object": "launchpad"
+  },
+  {
+    "subject": "Site 200",
+    "predicate": "caption",
+    "object": "Site 200"
+  },
+  {
+    "subject": "Site 200",
+    "predicate": "infobox-image",
+    "object": "ExoMars 2016 Launch.jpg | A Proton-M with the ExoMars on LC-200/39"
+  },
+  {
+    "subject": "Site 200",
+    "predicate": "Launch site",
+    "object": "Baikonur Cosmodrome"
+  },
+  {
+    "subject": "Site 200",
+    "predicate": "Operator",
+    "object": "RVSN, VKS, RKA"
+  },
+  {
+    "subject": "Site 200",
+    "predicate": "Total launches",
+    "object": "232"
+  },
+  {
+    "subject": "Site 200",
+    "predicate": "Launch pad(s)",
+    "object": "Two"
+  },
+  {
+    "subject": "Site 200",
+    "predicate": "Orbital inclination | range",
+    "object": "49° - 99°"
+  },
+  {
+    "subject": "Site 200/39 launch history",
+    "predicate": "Status",
+    "object": "Active"
+  },
+  {
+    "subject": "Site 200/39 launch history",
+    "predicate": "Launches",
+    "object": "169"
+  },
+  {
+    "subject": "Site 200/39 launch history",
+    "predicate": "First launch",
+    "object": "20 February 1980 | Proton-K/DM / Raduga 6"
+  },
+  {
+    "subject": "Site 200/39 launch history",
+    "predicate": "Last launch",
+    "object": "13 December 2021 | Proton-M / Ekspress-AMU3/7"
+  },
+  {
+    "subject": "Site 200/39 launch history",
+    "predicate": "Associated | rockets",
+    "object": "Proton-K (retired) | Proton-M (active)"
+  },
+  {
+    "subject": "Site 200/40 launch history",
+    "predicate": "Status",
+    "object": "Inactive"
+  },
+  {
+    "subject": "Site 200/40 launch history",
+    "predicate": "Launches",
+    "object": "63"
+  },
+  {
+    "subject": "Site 200/40 launch history",
+    "predicate": "First launch",
+    "object": "23 July 1977 | Proton-K/DM / Raduga 3"
+  },
+  {
+    "subject": "Site 200/40 launch history",
+    "predicate": "Last launch",
+    "object": "31 March 1991 | Proton-K/DM-2 / Almaz 1"
+  },
+  {
+    "subject": "Site 200/40 launch history",
+    "predicate": "Associated | rockets",
+    "object": "Proton-K (retired)"
+  }
+]

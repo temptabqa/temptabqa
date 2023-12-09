@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Pirateer",
+    "predicate": "category",
+    "object": "game"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "caption",
+    "object": "Pirateer"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "originally Privateer",
+    "object": "Manufacturers"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "Manufacturers",
+    "object": "Mendocino Game Company"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "Designers",
+    "object": "Scott Peterson"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "Illustrators",
+    "object": "Mark Ferrari"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "Publication",
+    "object": "1978 | ; 44 years ago |  ( | 1978 | ) | as Privateer | 1995 | ; 27 years ago |  ( | 1995 | ) | as Pirateer"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "Genres",
+    "object": "Board game"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "Players",
+    "object": "2-4"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "Playing time",
+    "object": "1 hour"
+  },
+  {
+    "subject": "Pirateer",
+    "predicate": "originally Privateer",
+    "object": "8 years or older"
+  }
+]

@@ -1,0 +1,225 @@
+[
+  {
+    "subject": {
+      "id": "Australia_national_football_team",
+      "name": "Australia",
+      "type": "national football team"
+    },
+    "predicate": {
+      "id": "has_nickname",
+      "name": "Nickname(s)"
+    },
+    "object": {
+      "id": "Olyroos",
+      "name": "Olyroos"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_association",
+      "name": "Association"
+    },
+    "object": {
+      "id": "Football_Australia",
+      "name": "Football Australia"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_confederation",
+      "name": "Confederation"
+    },
+    "object": {
+      "id": "AFC_Asia",
+      "name": "AFC (Asia)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_sub-confederation",
+      "name": "Sub-confederation"
+    },
+    "object": {
+      "id": "AFF_Southeast_Asia",
+      "name": "AFF (Southeast Asia)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_head_coach",
+      "name": "Head coach"
+    },
+    "object": {
+      "id": "Tony_Vidmar",
+      "name": "Tony Vidmar"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_captain",
+      "name": "Captain"
+    },
+    "object": {
+      "id": "Tyrese_Francois",
+      "name": "Tyrese Francois"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_most_caps",
+      "name": "Most caps"
+    },
+    "object": {
+      "id": "Brett_Emerton_Mark_Milligan_25",
+      "name": "Brett Emerton | Mark Milligan | (25 each)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_top_scorer",
+      "name": "Top scorer"
+    },
+    "object": {
+      "id": "Mark_Viduka_17",
+      "name": "Mark Viduka (17)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_FIFA_code",
+      "name": "FIFA code"
+    },
+    "object": {
+      "id": "AUS",
+      "name": "AUS"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_first_international",
+      "name": "First international"
+    },
+    "object": {
+      "id": "New_Caledonia_2-1_Australia_6_November_1967",
+      "name": "New Caledonia 2-1 Australia | (Nouméa, New Caledonia; 6 November 1967)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_biggest_win",
+      "name": "Biggest win"
+    },
+    "object": {
+      "id": "Australia_12-0_Vanuatu_25_January_1996",
+      "name": "Australia 12-0 Vanuatu | (Adelaide, Australia; 25 January 1996)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_biggest_defeat",
+      "name": "Biggest defeat"
+    },
+    "object": {
+      "id": "Australia_1-6_Poland_Australia_0-5_Japan",
+      "name": "Australia 1-6 Poland | (Barcelona, Spain; 5 August 1992) | Australia 0-5 Japan | (Pekanbaru, Indonesia; 15 July 2012)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_Summer_Olympics_Appearances",
+      "name": "Summer Olympics Appearances"
+    },
+    "object": {
+      "id": "6_first_in_1992",
+      "name": "6 ( | first in 1992 | )"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_Summer_Olympics_Best_result",
+      "name": "Summer Olympics Best result"
+    },
+    "object": {
+      "id": "Fourth_place_1992",
+      "name": "Fourth place (1992)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_AFC_U-23_Asian_Cup_Appearances",
+      "name": "AFC U-23 Asian Cup Appearances"
+    },
+    "object": {
+      "id": "4_first_in_2013",
+      "name": "4 ( | first in 2013 | )"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_AFC_U-23_Asian_Cup_Best_result",
+      "name": "AFC U-23 Asian Cup Best result"
+    },
+    "object": {
+      "id": "Third_place_2020",
+      "name": "Third place (2020)"
+    }
+  },
+  {
+    "subject": {
+      "id": "Australia_national_football_team"
+    },
+    "predicate": {
+      "id": "has_website",
+      "name": "Website"
+    },
+    "object": {
+      "id": "Website",
+      "name": "Website"
+    }
+  }
+]

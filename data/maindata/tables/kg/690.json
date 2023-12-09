@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Mark Spitz",
+    "predicate": "category",
+    "object": "Swimming"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Caption",
+    "object": "Mark Spitz"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "infobox-image",
+    "object": "Mark Spitz.jpg | Mark Spitz in December 2012"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Full name",
+    "object": "Mark Andrew Spitz"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Nickname(s)",
+    "object": "Mark the Shark"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "National team",
+    "object": "United States"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Born",
+    "object": "February 10, 1950 | (age 72) | Modesto, California"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Height",
+    "object": "6 ft 0 in (1.83 m)"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Weight",
+    "object": "161 lb (73 kg)"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Sport",
+    "object": "Swimming"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Strokes",
+    "object": "Butterfly, freestyle"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Club",
+    "object": "Arden Hills Swim Club | Santa Clara Swim Club"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "College team",
+    "object": "Indiana University"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Olympic Games",
+    "object": "9 gold, 1 silver, 1 bronze"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Pan American Games",
+    "object": "5 gold"
+  },
+  {
+    "subject": "Mark Spitz",
+    "predicate": "Maccabiah Games",
+    "object": "10 gold"
+  }
+]

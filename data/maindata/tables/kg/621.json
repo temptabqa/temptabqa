@@ -1,0 +1,76 @@
+[
+  {
+    "subject": "Carrier Dome",
+    "predicate": "category",
+    "object": "stadium"
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Address",
+    "object": "900 Irving Avenue"
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Location",
+    "object": "Syracuse, New York"
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Coordinates",
+    "object": "43.03611°N 76.13639°W"
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Owner",
+    "object": "Syracuse University"
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Capacity",
+    "object": {
+      "Football": [
+        "49,057 (2020-present)",
+        "49,262 (2003-2020)",
+        "49,550 (1998-2002)",
+        "50,000 (1980-1997)"
+      ],
+      "Basketball": "33,000",
+      "Concerts": "56,250"
+    }
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Record attendance",
+    "object": {
+      "Football": "50,564 (September 20, 1980)",
+      "Basketball": "35,642 (February 23, 2019)"
+    }
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Surface",
+    "object": {
+      "AstroTurf": "1980-2004",
+      "FieldTurf": "2005-present"
+    }
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Construction",
+    "object": {
+      "Broke ground": "November 11, 1978",
+      "Opened": "September 20, 1980",
+      "Construction cost": "$25.63 million",
+      "Architect": "Finch-Heery | Hueber Hares Glavin",
+      "Structural engineer": "Geiger Associates",
+      "General contractor": "Huber, Hunt & Nichols"
+    }
+  },
+  {
+    "subject": "Carrier Dome",
+    "predicate": "Tenants",
+    "object": {
+      "Tenants": "Syracuse Orange (NCAA) (1980-present)"
+    }
+  }
+]

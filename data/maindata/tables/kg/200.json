@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Judo | Women's 70 kg | at the 2021 European Judo Championships",
+    "predicate": "category",
+    "object": "sports event"
+  },
+  {
+    "subject": "Judo | Women's 70 kg | at the 2021 European Judo Championships",
+    "predicate": "Venue",
+    "object": "Altice Arena"
+  },
+  {
+    "subject": "Judo | Women's 70 kg | at the 2021 European Judo Championships",
+    "predicate": "Location",
+    "object": "Portugal | Lisbon, Portugal"
+  },
+  {
+    "subject": "Judo | Women's 70 kg | at the 2021 European Judo Championships",
+    "predicate": "Date",
+    "object": "17 April"
+  },
+  {
+    "subject": "Judo | Women's 70 kg | at the 2021 European Judo Championships",
+    "predicate": "Competitors",
+    "object": "18 from 16 nations"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "gold medal",
+    "object": "Sanne van Dijke (2nd title) | Netherlands"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "silver medal",
+    "object": "Margaux Pinot | France"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "bronze medal",
+    "object": "Madina Taimazova | Russia"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "bronze medal",
+    "object": "Bárbara Timo | Portugal"
+  },
+  {
+    "subject": "Competition at external databases",
+    "predicate": "Links",
+    "object": "IJF JudoInside"
+  },
+  {
+    "subject": "Competition at external databases",
+    "predicate": "Competition at external databases",
+    "object": "← Prague 2020 | Sofia 2022 →"
+  }
+]

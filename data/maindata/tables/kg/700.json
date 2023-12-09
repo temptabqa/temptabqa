@@ -1,0 +1,367 @@
+[
+{
+  "subject": "Usain Bolt",
+  "predicate": "category",
+  "object": "athelete"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "caption",
+  "object": "The Honourable | Usain Bolt | OJ CD | OLY"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "infobox-image",
+  "object": "Bolt se aposenta com medalha de ouro no 4 x 100 metros 1039118-19.08.2016 frz-9565 (cropped).jpg | Bolt at the 2016 Summer Olympics"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Full name",
+  "object": "Usain St. Leo Bolt"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Nickname(s)",
+  "object": "Lightning Bolt"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Nationality",
+  "object": "Jamaican"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Born",
+  "object": "( | 1986-08-21 | ) | 21 August 1986 | (age 35) | Sherwood Content, Jamaica"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Height",
+  "object": "1.95 m (6 ft 5 in)"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Weight",
+  "object": "94 kg (207 lb)"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Sport",
+  "object": "Track and field"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Event(s)",
+  "object": "Sprints"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Club",
+  "object": "Racers Track Club"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Coached by",
+  "object": "Glen Mills"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Retired",
+  "object": "2017"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Personal best(s)",
+  "object": "40 yd | : 4.22 (Atlanta, 2019) | 100 m | : 9.58 | WR | (Berlin 2009) | 150 m straight | : 14.35 | WB | (Manchester 2009) | 200 m | : 19.19 | WR | (Berlin 2009) | 300 m | : 30.97 | NR | (Ostrava 2010) | 400 m | : 45.28 (Kingston 2007) | 800 m | : 2:05"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "Event | 1 | st | 2 | nd | 3 | rd"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "Olympic Games | 8 | 0 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "World Championships | 11 | 2 | 1"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "World Relays | 0 | 1 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "CAC Championships | 1 | 0 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "Commonwealth Games | 1 | 0 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "World Junior Championships | 1 | 2 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "World Youth Championships | 1 | 0 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "Total | 23 | 5 | 1"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "Event | 1 | st | 2 | nd | 3 | rd"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "100 m | 6 | 0 | 1"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "200 m | 10 | 1 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "4×100 m relay | 7 | 3 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "4×400 m relay | 0 | 1 | 0"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Representing Jamaica",
+  "object": "Total | 23 | 5 | 1"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Gold medal - first place | 2008 Beijing | 100 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Gold medal - first place | 2008 Beijing | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Gold medal - first place | 2012 London | 100 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Gold medal - first place | 2012 London | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Gold medal - first place | 2012 London | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Gold medal - first place | 2016 Rio de Janeiro | 100 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Gold medal - first place | 2016 Rio de Janeiro | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Gold medal - first place | 2016 Rio de Janeiro | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Olympic Games",
+  "object": "Disqualified | 2008 Beijing | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2009 Berlin | 100 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2009 Berlin | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2009 Berlin | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2011 Daegu | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2011 Daegu | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2013 Moscow | 100 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2013 Moscow | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2013 Moscow | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2015 Beijing | 100 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2015 Beijing | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Gold medal - first place | 2015 Beijing | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Silver medal - second place | 2007 Osaka | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Silver medal - second place | 2007 Osaka | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Championships",
+  "object": "Bronze medal - third place | 2017 London | 100 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Athletics Relays",
+  "object": "Silver medal - second place | 2015 Nassau | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Diamond League",
+  "object": "Winner | 2012 | 100 metres"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CAC Championships",
+  "object": "Gold medal - first place | 2005 Nassau | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "Commonwealth Games",
+  "object": "Gold medal - first place | 2014 Glasgow | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Junior Championships",
+  "object": "Gold medal - first place | 2002 Kingston | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Junior Championships",
+  "object": "Silver medal - second place | 2002 Kingston | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Junior Championships",
+  "object": "Silver medal - second place | 2002 Kingston | 4×400 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Youth Championships",
+  "object": "Gold medal - first place | 2003 Sherbrooke | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CAC Junior Championships (U17)",
+  "object": "Gold medal - first place | 2002 Bridgetown | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CAC Junior Championships (U17)",
+  "object": "Gold medal - first place | 2002 Bridgetown | 400 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CAC Junior Championships (U17)",
+  "object": "Gold medal - first place | 2002 Bridgetown | 4×100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CAC Junior Championships (U17)",
+  "object": "Gold medal - first place | 2002 Bridgetown | 4×400 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CARIFTA Games | Junior (U20)",
+  "object": "Gold medal - first place | 2003 Port of Spain | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CARIFTA Games | Junior (U20)",
+  "object": "Gold medal - first place | 2003 Port of Spain | 400 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CARIFTA Games | Junior (U20)",
+  "object": "Gold medal - first place | 2003 Port of Spain | 4x100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CARIFTA Games | Junior (U20)",
+  "object": "Gold medal - first place | 2003 Port of Spain | 4x400 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CARIFTA Games | Junior (U20)",
+  "object": "Gold medal - first place | 2004 Hamilton | 200 m"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CARIFTA Games | Junior (U20)",
+  "object": "Gold medal - first place | 2004 Hamilton | 4x100 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "CARIFTA Games | Junior (U20)",
+  "object": "Gold medal - first place | 2004 Hamilton | 4x400 m relay"
+},
+{
+  "subject": "Usain Bolt",
+  "predicate": "World Cup",
+  "object": "Silver medal - second place | 2006 Athens | 200 m"
+}
+]

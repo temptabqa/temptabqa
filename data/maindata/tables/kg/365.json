@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Sir Charles Scott Sherrington OM GBE FRS PRS FRCP FRCS",
+    "predicate": "category",
+    "object": "nobel"
+  },
+  {
+    "subject": "Sir Charles Scott Sherrington OM GBE FRS PRS FRCP FRCS",
+    "predicate": "Born",
+    "object": "27 November 1857, Islington, Middlesex, England, United Kingdom of Great Britain and Ireland"
+  },
+  {
+    "subject": "Sir Charles Scott Sherrington OM GBE FRS PRS FRCP FRCS",
+    "predicate": "Died",
+    "object": "4 March 1952, Eastbourne, Sussex, England, United Kingdom"
+  },
+  {
+    "subject": "Sir Charles Scott Sherrington OM GBE FRS PRS FRCP FRCS",
+    "predicate": "Citizenship",
+    "object": "British"
+  },
+  {
+    "subject": "Sir Charles Scott Sherrington OM GBE FRS PRS FRCP FRCS",
+    "predicate": "Alma mater",
+    "object": "Ipswich School, Royal College of Surgeons of England, University of Cambridge"
+  },
+  {
+    "subject": "Sir Charles Scott Sherrington OM GBE FRS PRS FRCP FRCS",
+    "predicate": "Awards",
+    "object": "FRS (1893), Royal Medal (1905), Copley Medal (1927), Nobel Prize in Physiology or Medicine (1932)"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Fields",
+    "object": "Physiology, Pathology, Histology, Neurology, Bacteriology"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Institutions",
+    "object": "King's College, London, University of Liverpool, University of Oxford"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Academic advisors",
+    "object": "Michael Foster, John Newport Langley"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Doctoral students",
+    "object": "John Farquhar Fulton, John Carew Eccles, Howard Florey"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Influences",
+    "object": "Johannes Müller, Thomas Ashe, Jean Fernel, Thomas Browne, Rudolf Virchow"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Influenced",
+    "object": "Sir John Eccles, Ragnar Granit, Alfred Fröhlich, E.M. Tansey, Archibald Hill, Wilder Penfield"
+  }
+]

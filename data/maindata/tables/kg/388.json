@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Madonna",
+    "predicate": "category",
+    "object": "musician"
+  },
+  {
+    "subject": "Madonna",
+    "predicate": "Born",
+    "object": "Madonna Louise Ciccone |  ( | 1958-08-16 | ) | August 16, 1958 |  (age 63) | Bay City, Michigan, U.S."
+  },
+  {
+    "subject": "Madonna",
+    "predicate": "Occupation",
+    "object": "Singer-songwriter | actress | dancer | record producer | director | author | businesswoman"
+  },
+  {
+    "subject": "Madonna",
+    "predicate": "Years active",
+    "object": "1979-present"
+  },
+  {
+    "subject": "Madonna",
+    "predicate": "Spouse(s)",
+    "object": "Sean Penn | ( | married |  1985; | divorced |  1989) | Guy Ritchie | ( | married |  2000; | divorced |  2008)"
+  },
+  {
+    "subject": "Madonna",
+    "predicate": "Partner(s)",
+    "object": "Carlos Leon (1995-1997)"
+  },
+  {
+    "subject": "Madonna",
+    "predicate": "Children",
+    "object": "6"
+  },
+  {
+    "subject": "Madonna",
+    "predicate": "Awards",
+    "object": "Full list"
+  },
+  {
+    "subject": "Madonna",
+    "predicate": "image",
+    "object": "Madonna standing in front of a microphone | Madonna performing on her Rebel Heart Tour in 2015"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Origin",
+    "object": "New York City, U.S."
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Genres",
+    "object": "Pop | electronica | dance"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Instruments",
+    "object": "Vocals | guitar"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Labels",
+    "object": "Sire | Warner Bros. | Maverick | Interscope"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Associated acts",
+    "object": "Breakfast Club"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Website",
+    "object": "madonna | .com"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "type",
+    "object": "Musical artist"
+  }
+]

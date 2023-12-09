@@ -1,0 +1,21 @@
+[
+  {"subject": "3M Company", "predicate": "category", "object": "company"},
+  {"subject": "3M Company", "predicate": "caption", "object": "3M Company"},
+  {"subject": "3M Company", "predicate": "infobox-image", "object": "3-M Building Maplewood MN1.jpg | 3M headquarters in Maplewood, Minnesota"},
+  {"subject": "3M Company", "predicate": "Formerly", "object": "Minnesota Mining and Manufacturing Company (1902-2002)"},
+  {"subject": "3M Company", "predicate": "Type", "object": "Public"},
+  {"subject": "3M Company", "predicate": "Traded as", "object": "NYSE: MMM | DJIA component | S&P 100 component | S&P 500 component"},
+  {"subject": "3M Company", "predicate": "Industry", "object": "Conglomerate"},
+  {"subject": "3M Company", "predicate": "Founded", "object": "June 13, 1902 | ; 119 years ago |  ( | 1902-06-13 | ) | (as Minnesota Mining and Manufacturing Company) | Two Harbors, Minnesota, U.S."},
+  {"subject": "3M Company", "predicate": "Founders", "object": "Dr. J. Danley Budd | Henry. S. Bryan | William A. McGonagle | John Dwan | Hermon W. Cable"},
+  {"subject": "3M Company", "predicate": "Headquarters", "object": "Maplewood, Minnesota | , | U.S."},
+  {"subject": "3M Company", "predicate": "Area served", "object": "Worldwide"},
+  {"subject": "3M Company", "predicate": "Key people", "object": "Mike Roman | (Chairman, President, & CEO)"},
+  {"subject": "3M Company", "predicate": "Revenue", "object": "Increase |  US$32.18 billion (2020)"},
+  {"subject": "3M Company", "predicate": "Operating income", "object": "Increase | US$7.161 billion | (2020)"},
+  {"subject": "3M Company", "predicate": "Net income", "object": "Increase | US$5.38 billion | (2020)"},
+  {"subject": "3M Company", "predicate": "Total assets", "object": "Increase | US$47.3 billion | (2020)"},
+  {"subject": "3M Company", "predicate": "Total equity", "object": "Increase | US$12.931 billion | (2020)"},
+  {"subject": "3M Company", "predicate": "Number of employees", "object": "Decrease |  94,987 (2020)"},
+  {"subject": "3M Company", "predicate": "Website", "object": "www | .3m | .com"}
+]

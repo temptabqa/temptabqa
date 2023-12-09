@@ -1,0 +1,89 @@
+[
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "category",
+    "object": "stadium"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "infobox-image",
+    "object": "Bangabandhu National Stadium, Dhaka, Bangladesh.jpg | Aerial view of the stadium"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "Location",
+    "object": "Dhaka"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "Coordinates",
+    "object": "23°43′40.2″N | 90°24′48.4″E |  / | 23.727833°N 90.413444°E |  / | 23.727833; 90.413444"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "Owner",
+    "object": "National Sports Council"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "Capacity",
+    "object": "36,000"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "Field size",
+    "object": "105 × 68 metres"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "Surface",
+    "object": "Desso GrassMaster"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "Opened",
+    "object": "1954 | ; 68 years ago (1954)"
+  },
+  {
+    "subject": "Bangladesh national football team",
+    "predicate": "Tenants",
+    "object": "Bangabandhu National Stadium"
+  },
+  {
+    "subject": "Abahani Limited Dhaka",
+    "predicate": "Tenants",
+    "object": "Bangabandhu National Stadium"
+  },
+  {
+    "subject": "Mohammedan Sporting Club Brothers Union Limited",
+    "predicate": "Tenants",
+    "object": "Bangabandhu National Stadium"
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "Ground information",
+    "object": {
+      "Capacity": "36,000",
+      "Owner": "National Sports Council",
+      "Operator": "National Sports Council",
+      "Tenants": "Bangladesh national cricket team Bangladesh Football Federation",
+      "Last used": "1 March 2005"
+    }
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "End names",
+    "object": ["Pavilion End", "Paltan End"]
+  },
+  {
+    "subject": "Bangabandhu National Stadium",
+    "predicate": "International information",
+    "object": {
+      "First Test": "1-4 January 1955 | Pakistan v | India",
+      "Last Test": "14-18 January 2005 | Bangladesh v | Zimbabwe",
+      "First ODI": "27 October 1988 | Pakistan v | Sri Lanka",
+      "Last ODI": "31 January 2005 | Bangladesh v | Zimbabwe",
+      "International information": "As of 22 March 2017 | Source: ESPNcricinfo"
+    }
+  }
+]

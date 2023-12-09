@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Donald Trump",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Official portrait",
+    "object": "2017"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "position",
+    "object": "45th President of the United States"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "In office",
+    "object": "January 20, 2017 - January 20, 2021"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Vice President",
+    "object": "Mike Pence"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Preceded by",
+    "object": "Barack Obama"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Succeeded by",
+    "object": "Joe Biden"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Born",
+    "object": "June 14, 1946, Queens, New York City, U.S."
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Political party",
+    "object": "Republican (1987-1999, 2009-2011, 2012-present)"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Other political affiliations",
+    "object": "Reform (1999-2001), Democratic (2001-2009), Independent (2011-2012)"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Spouse(s)",
+    "object": "Ivana Zelníčková (married 1977; divorced 1992), Marla Maples (married 1993; divorced 1999), Melania Knauss (married 2005)"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Children",
+    "object": "Donald Jr., Ivanka, Eric, Tiffany, Barron"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Parent(s)",
+    "object": "Fred Trump, Mary Anne MacLeod"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Relatives",
+    "object": "Family of Donald Trump"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Residence",
+    "object": "Mar-a-Lago"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Alma mater",
+    "object": "Wharton School (BS Econ.)"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Occupation",
+    "object": "Politician, businessman, television presenter"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Awards",
+    "object": "List of honors and awards"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Signature",
+    "object": "Donald J. Trump stylized autograph, in ink"
+  },
+  {
+    "subject": "Donald Trump",
+    "predicate": "Website",
+    "object": "Official website, Presidential Library, White House Archives"
+  }
+]

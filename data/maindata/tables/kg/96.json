@@ -1,0 +1,117 @@
+[
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "hasCategory",
+    "object": "volleyball"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "hasImage",
+    "object": "Thiago Soares Alves.jpg"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "hasFullName",
+    "object": "Thiago Soares Alves"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "wasBornOn",
+    "object": "1986-07-26"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "wasBornIn",
+    "object": "Porto Alegre, Rio Grande do Sul, Brazil"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "hasAge",
+    "object": 35
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "hasHeight",
+    "object": "1.96 m (6 ft 5 in)"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "playsPosition",
+    "object": "Outside spiker"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "belongsToClub",
+    "object": "Montes Claros Vôlei"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "hasNumber",
+    "object": 17
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "hasCareer",
+    "object": [
+        "2000-2003 | Brazil | Grêmio Náutico União",
+        "2003-2004 | Brazil | Bento Gonçalves",
+        "2004-2005 | Brazil | On Line Novo Hamburgo",
+        "2006-2007 | Brazil | Unisul/Florianópolis",
+        "2007-2009 | Brazil | Cimed/Florianópolis",
+        "2009-2010 | Brazil | Cimed Malwee",
+        "2010-2011 | Brazil | SESI-SP",
+        "2011-2012 | Japan | Panasonic Panthers",
+        "2012-2013 | Brazil | RJX",
+        "2013-2014 | Turkey | Fenerbahçe Grundig",
+        "2014-2015 | Japan | Panasonic Panthers",
+        "2015-2016 | Brazil | SESI-SP",
+        "2016-2017 | Italy | Vibo Valentia",
+        "2017-2018 | Brazil | Maringá Vôlei",
+        "2018-2019 | Brazil | Apan Vôlei/Blumenau",
+        "2019- | Brazil | Montes Claros Vôlei"
+      ]
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "playedForNationalTeam",
+    "object": "2007-2013 | Brazil"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "wonOlympicGames",
+    "object": "Silver medal - second place | 2012 London | Team"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "wonWorldGrandChampionsCup",
+    "object": [
+      "Gold medal - first place | 2009 Japan | Team",
+      "Gold medal - first place | 2013 Japan | Team"
+    ]
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "wonWorldLeague",
+    "object": [
+        "Gold medal - first place | 2007 Katowice | Team",
+        "Gold medal - first place | 2009 Belgrade | Team",
+        "Gold medal - first place | 2010 Córdoba | Team",
+        "Silver medal - second place | 2011 Gdansk",
+        "Silver medal - second place | 2013 Mar del Plata | Team"
+      ]
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "wonPanAmericanGames",
+    "object": "Gold medal - first place | 2011 Guadalajara | Team"
+  },
+  {
+    "subject": {"name": "Thiago Alves"},
+    "predicate": "wonSouthAmericanChampionship",
+    "object": [
+      "Gold medal - first place | 2007 Chile",
+      "Gold medal - first place | 2009 Colombia",
+      "Gold medal - first place | 2011 Brazil"
+    ]
+  }
+]

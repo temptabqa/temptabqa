@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Marina Alabau",
+    "predicate": "category",
+    "object": "sailor"
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "name",
+    "object": "Marina Alabau Neira"
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "nationality",
+    "object": "Spanish"
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "born",
+    "object": "31 August 1985 (age 36) in Seville, Spain"
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "height",
+    "object": "1.64 m (5 ft 5 in)"
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "weight",
+    "object": "55 kg (121 lb)"
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "representing",
+    "object": "Spain"
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "Olympic Games achievement",
+    "object": "Gold medal - first place | 2012 London | RS:X"
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "World Championships achievements",
+    "object": [
+      "Gold medal - first place | 2009 Weymouth | RS:X",
+      "Silver medal - second place | 2006 Torbole | RS:X",
+      "Silver medal - second place | 2014 Santander | RS:X",
+      "Bronze medal - third place | 2008 Auckland | RS:X",
+      "Bronze medal - third place | 2011 Perth | RS:X"
+    ]
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "European Championships achievements",
+    "object": [
+      "Gold medal - first place | 2007 Limassol | RS:X",
+      "Gold medal - first place | 2008 Brest | RS:X",
+      "Gold medal - first place | 2009 Tel-Aviv | RS:X",
+      "Gold medal - first place | 2010 Sopot | RS:X",
+      "Gold medal - first place | 2012 Madeira | RS:X"
+    ]
+  },
+  {
+    "subject": "Marina Alabau",
+    "predicate": "Mediterranean Games achievements",
+    "object": [
+      "Silver medal - second place | 2018 Tarragona | RS:X",
+      "Updated on 6 August 2012."
+    ]
+  }
+]

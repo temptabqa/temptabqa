@@ -1,0 +1,19 @@
+[
+   {"subject": "Dungeons & Dragons", "predicate": "type", "object": "board game"},
+   {"subject": "Dungeons & Dragons", "predicate": "depicted in", "object": "D&D Game 1.jpg"},
+   {"subject": "Dungeons & Dragons", "predicate": "designers", "object": "Gary Gygax"},
+   {"subject": "Dungeons & Dragons", "predicate": "designers", "object": "Dave Arneson"},
+   {"subject": "Dungeons & Dragons", "predicate": "publishers", "object": "TSR (1974-1997)"},
+   {"subject": "Dungeons & Dragons", "predicate": "publishers", "object": "Wizards of the Coast (1997-present)"},
+   {"subject": "Dungeons & Dragons", "predicate": "first published", "object": "1974"},
+   {"subject": "Dungeons & Dragons", "predicate": "years active", "object": "1974-present"},
+   {"subject": "Dungeons & Dragons", "predicate": "genres", "object": "Fantasy"},
+   {"subject": "Dungeons & Dragons", "predicate": "system", "object": "d20 System (3rd Edition)"},
+   {"subject": "Dungeons & Dragons", "predicate": "playing time", "object": "Varies"},
+   {"subject": "Dungeons & Dragons", "predicate": "random chance", "object": "dice rolling"},
+   {"subject": "Dungeons & Dragons", "predicate": "skills required", "object": "Role-playing"},
+   {"subject": "Dungeons & Dragons", "predicate": "skills required", "object": "improvisation"},
+   {"subject": "Dungeons & Dragons", "predicate": "skills required", "object": "tactics"},
+   {"subject": "Dungeons & Dragons", "predicate": "skills required", "object": "arithmetic"},
+   {"subject": "Dungeons & Dragons", "predicate": "website", "object": "dnd.wizards.com"}
+]

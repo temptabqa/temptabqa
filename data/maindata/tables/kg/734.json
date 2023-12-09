@@ -1,0 +1,20 @@
+[
+  {"subject": "Daniil Barantsev", "predicate": "category", "object": "figure skating"},
+  {"subject": "Daniil Barantsev", "predicate": "image", "object": "WESTER BARANTSEV by Carmichael.jpg | Wester and Barantsev at the 2008 Trophée Eric Bompard"},
+  {"subject": "Daniil Barantsev", "predicate": "full name", "object": "Daniil Sergeevich Barantsev"},
+  {"subject": "Daniil Barantsev", "predicate": "country represented", "object": "United States"},
+  {"subject": "Daniil Barantsev", "predicate": "former country(ies) represented", "object": "Russia"},
+  {"subject": "Daniil Barantsev", "predicate": "born", "object": "March 10, 1982 | (age 40) | Yekaterinburg, Russian SFSR, Soviet Union"},
+  {"subject": "Daniil Barantsev", "predicate": "height", "object": "1.80 m (5 ft 11 in)"},
+  {"subject": "Daniil Barantsev", "predicate": "partner", "object": "Jennifer Wester"},
+  {"subject": "Daniil Barantsev", "predicate": "former partner", "object": "Natalia Romaniuta (RUS)"},
+  {"subject": "Daniil Barantsev", "predicate": "former coach", "object": "Angelika Krylova, Pasquale Camerlengo, Nikolai Morozov, Valter Rizzo, Alexei Gorshkov, Pavel Kovtun"},
+  {"subject": "Daniil Barantsev", "predicate": "former choreographer", "object": "Angelika Krylova, Pasquale Camerlengo, Nikolai Morozov"},
+  {"subject": "Daniil Barantsev", "predicate": "skating club", "object": "Dallas FSC"},
+  {"subject": "Daniil Barantsev", "predicate": "began skating", "object": "1986"},
+  {"subject": "Daniil Barantsev", "predicate": "retired", "object": "2010"},
+  {"subject": "Daniil Barantsev", "predicate": "ISU personal best scores combined total", "object": "174.37 | 2008 Four Continents"},
+  {"subject": "Daniil Barantsev", "predicate": "ISU personal best scores comp. dance", "object": "30.95 | 2008 Four Continents"},
+  {"subject": "Daniil Barantsev", "predicate": "ISU personal best scores original dance", "object": "55.44 | 2008 Four Continents"},
+  {"subject": "Daniil Barantsev", "predicate": "ISU personal best scores free dance", "object": "87.98 | 2008 Four Continents"}
+]

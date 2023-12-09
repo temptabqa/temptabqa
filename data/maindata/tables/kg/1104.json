@@ -1,0 +1,90 @@
+[
+  {
+    "subject": {
+      "@id": "Monks"
+    },
+    "predicate": {
+      "@id": "category"
+    },
+    "object": {
+      "@value": "character"
+    }
+  },
+  {
+    "subject": {
+      "@id": "Monks"
+    },
+    "predicate": {
+      "@id": "Portrayed by"
+    },
+    "object": {
+      "@value": "Carl Stockdale (1922 film) | Ralph Truman (1948 film) | Oliver Cotton (1982 TV film) | Pip Donaghy (1985 TV serial) | Marc Warren (1999 miniseries) | Julian Rhind-Tutt (2007 miniseries)"
+    }
+  },
+  {
+    "subject": {
+      "@id": "Monks"
+    },
+    "predicate": {
+      "@id": "Depicted"
+    },
+    "object": {
+      "@value": "James Mahoney"
+    }
+  },
+  {
+    "subject": {
+      "@id": "Edward Leeford"
+    },
+    "predicate": {
+      "@id": "In-universe information"
+    },
+    "object": {
+      "@value": "Full name"
+    }
+  },
+  {
+    "subject": {
+      "@id": "Edward Leeford"
+    },
+    "predicate": {
+      "@id": "Gender"
+    },
+    "object": {
+      "@value": "Male"
+    }
+  },
+  {
+    "subject": {
+      "@id": "Edward Leeford"
+    },
+    "predicate": {
+      "@id": "Occupation"
+    },
+    "object": {
+      "@value": "Criminal"
+    }
+  },
+  {
+    "subject": {
+      "@id": "Edward Leeford"
+    },
+    "predicate": {
+      "@id": "Family"
+    },
+    "object": {
+      "@value": "Edwin Leeford (father, deceased) | Mrs Leeford (mother, deceased) | Oliver Twist (half-brother) "
+    }
+  },
+  {
+    "subject": {
+      "@id": "Edward Leeford"
+    },
+    "predicate": {
+      "@id": "Nationality"
+    },
+    "object": {
+      "@value": "English"
+    }
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "subject": "Russo-Ukrainian War",
+    "predicate": "Date",
+    "object": "20 February 2014 - present | (8 years, 4 months, 1 week and 5 days) | Russian invasion of Ukraine: 24 February 2022 - present | (4 months, 1 week and 1 day)"
+  },
+  {
+    "subject": "Russo-Ukrainian War",
+    "predicate": "Location",
+    "object": "Ukraine (with spillover into Russia)"
+  },
+  {
+    "subject": "Russo-Ukrainian War",
+    "predicate": "Status",
+    "object": "Ongoing"
+  },
+  {
+    "subject": "Russo-Ukrainian War",
+    "predicate": "Territorial | changes",
+    "object": "Changes prior to 2022 invasion | Annexation of Crimea by Russia | Occupation of the Kherson Oblast portion of Crimean peninsula (Strilkove) from March to December 2014 | Pro-Russian forces control the eastern Donbas"
+  },
+  {
+    "subject": "Russo-Ukrainian War",
+    "predicate": "Part of",
+    "object": "post-Soviet conflicts",
+    "extra": [
+      {
+        "predicate": "(additional information)",
+        "object": "2022 Russian invasion of Ukraine.svg | The military situation as of 28 June 2022 | [update] |, during the 2022 Russian invasion of Ukraine | .mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid #000;background-color:transparent;color:#000} | Controlled by Ukraine | Occupied by Russia and pro-Russian forces | For a more detailed map, see the Russo-Ukrainian War detailed map"
+      }
+    ]
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Participants",
+    "object": "Ukraine, Russia, Donetsk People's Republic, Luhansk People's Republic, Belarus (since 2022)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Names",
+    "object": "Volodymyr Zelenskyy, Petro Poroshenko, Oleksandr Turchynov, Vladimir Putin, Sergei Shoigu"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Details",
+    "object": "See Annexation of Crimea by the Russian Federation, Combatants of the war in Donbas, Order of battle for the 2022 Russian invasion of Ukraine"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Ukraine and allies",
+    "object": "4,619 killed, 9,700-10,700 wounded, 70 missing, 2,768 captured, 300+ T-64 tanks"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Russia and allies",
+    "object": "5,768 killed, 12,700-13,700 wounded"
+  },
+  {
+    "subject": "Russo-Ukrainian War",
+    "predicate": "Civilian casualties",
+    "object": "3,393 killed, 7,000-9,000 wounded"
+  }
+]

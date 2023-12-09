@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Mattias Falck",
+    "predicate": "category",
+    "object": "tabletennis"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "image",
+    "object": "Mattias Karlsson WTTC2016 4.jpeg | Falck in 2016"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "nationality",
+    "object": "Swedish"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "born",
+    "object": "7 September 1991 | (age 30) | Karlskrona, Sweden"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "playing style",
+    "object": "Right-handed, shakehand grip"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "equipment",
+    "object": "Yasaka Ma Lin Soft Carbon blade; Yasaka Rakza PO (Black, 2.00mm, FH); Yasaka Rakza X (Red, 2.3mm, BH)"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "height",
+    "object": "1.91 m (6 ft 3 in)"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "weight",
+    "object": "88 kg (194 lb)"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "representing",
+    "object": "Sweden"
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "world championships",
+    "object": [
+      "Gold medal - first place | 2021 Houston | Doubles",
+      "Silver medal - second place | 2019 Budapest | Singles",
+      "Bronze medal - third place | 2018 Halmstad | Team"
+    ]
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "european games",
+    "object": [
+      "Silver medal - second place | 2019 Minsk | Team"
+    ]
+  },
+  {
+    "subject": "Mattias Falck",
+    "predicate": "european championships",
+    "object": [
+      "Silver medal - second place | 2011 Gdansk-Sopot | Team",
+      "Silver medal - second place | 2012 Herning | Doubles",
+      "Silver medal - second place | 2016 Budapest | Mixed doubles",
+      "Silver medal - second place | 2018 Alicante | Doubles",
+      "Bronze medal - third place | 2015 Yekaterinburg | Doubles",
+      "Bronze medal - third place | 2016 Budapest | Doubles",
+      "Bronze medal - third place | 2019 Nantes | Team",
+      "Bronze medal - third place | 2020 Warsaw | Singles"
+    ]
+  }
+]

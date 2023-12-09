@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Doug Williams",
+    "predicate": "category",
+    "object": "rugby"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "position",
+    "object": "Senior advisor"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "born",
+    "object": "August 9, 1955 (age 66)"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "birthplace",
+    "object": "Zachary, Louisiana"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "height",
+    "object": "6 ft 4 in (1.93 m)"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "weight",
+    "object": "220 lb (100 kg)"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "high school",
+    "object": "Chaneyville (Zachary, Louisiana)"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "college",
+    "object": "Grambling State (1974-1977)"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "NFL draft",
+    "object": "1978 / Round: 1 / Pick: 17"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "played for",
+    "object": "Tampa Bay Buccaneers (1978-1982), Oklahoma/Arizona Outlaws (1984-1985), Washington Redskins (1986-1989)"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "coached",
+    "object": "Pointe Coupee Central (LA) (1991), Northeast HS (LA) (1993), Navy (1994), Scottish Claymores (1995), Jacksonville Jaguars (1995-1996), Morehouse (1997), Grambling State (1998-2003, 2011-2013)"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "worked as an executive",
+    "object": "Tampa Bay Buccaneers (2004-2008), Tampa Bay Buccaneers (2009-2010), Virginia Destroyers (2010-2011), Washington Redskins (2014-2016), Washington Redskins (2017-2019), Washington Football Team (2020), Washington Football Team / Commanders (2021-present)"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "career highlights and awards",
+    "object": "Super Bowl champion (XXII), Super Bowl MVP (XXII), PFWA All-Rookie Team (1978), 80 Greatest Redskins, Washington Commanders Ring of Fame, Tampa Stadium Krewe of Honor, Tampa Bay Buccaneers Ring of Honor"
+  },
+  {
+    "subject": "Doug Williams",
+    "predicate": "career NFL statistics",
+    "object": "Games played: 88, TD-INT: 100-93, Passing yards: 16,998, Pass attempts: 2,507, Pass completions: 1,240, Percentage: 49.5, Passer rating: 69.4"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "belongsToCategory"},
+    "object": {"text": "volleyball"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "hasImage"},
+    "object": {"text": "Aszkielowicz Wojno Halina.jpg"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "hasFullName"},
+    "object": {"text": "Halina Aszkiełowicz-Wojno"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "hasNationality"},
+    "object": {"text": "Polish"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "bornIn"},
+    "object": {"text": "Słupsk, Poland"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "bornOn"},
+    "object": {"text": "4 February 1947"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "diedOn"},
+    "object": {"text": "22 June 2018"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "hasVolleyballPosition"},
+    "object": {"text": "Middle-blocker"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "playedForNationalTeamBetween"},
+    "object": {"text": "1965-1973"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "playedForNationalTeamCaps"},
+    "object": {"text": "177"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "wonBronzeMedalIn"},
+    "object": {"text": "1968 Mexico Olympic Games"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "wonSilverMedalIn"},
+    "object": {"text": "1967 Turkey European Championship"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "wonBronzeMedalIn"},
+    "object": {"text": "1971 Italy European Championship"}
+  },
+  {
+    "subject": {"name": "Halina Aszkielowicz-Wojno"},
+    "predicate": {"type": "knowledgeGraphLastUpdated"},
+    "object": {"text": "26 June 2015"}
+  }
+]

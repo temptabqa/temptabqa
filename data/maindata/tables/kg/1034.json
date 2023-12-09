@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "12th Annual Honda Civic Tour",
+    "predicate": "category",
+    "object": "concert"
+  },
+  {
+    "subject": "12th Annual Honda Civic Tour",
+    "predicate": "Associated album",
+    "object": "Overexposed | Greatest Hits: Chapter One"
+  },
+  {
+    "subject": "12th Annual Honda Civic Tour",
+    "predicate": "Start date",
+    "object": "August 1, 2013 | ( | 2013-08-01 | )"
+  },
+  {
+    "subject": "12th Annual Honda Civic Tour",
+    "predicate": "End date",
+    "object": "October 6, 2013 | ( | 2013-10-06 | )"
+  },
+  {
+    "subject": "12th Annual Honda Civic Tour",
+    "predicate": "Legs",
+    "object": "1"
+  },
+  {
+    "subject": "12th Annual Honda Civic Tour",
+    "predicate": "Number | of shows",
+    "object": "33 in North America"
+  },
+  {
+    "subject": "12th Annual Honda Civic Tour",
+    "predicate": "Website",
+    "object": "civictour | .honda | .com"
+  },
+  {
+    "subject": "12th Annual Honda Civic Tour",
+    "predicate": "Tour | by | Honda Civic",
+    "object": "2013 Honda Civic Tour Poster.jpg | Promotional poster for tour"
+  },
+  {
+    "subject": "Maroon 5 tour chronology",
+    "predicate": "12th Annual Honda Civic Tour",
+    "object": "Overexposed Tour | (2012-2014) | 12th Annual Honda Civic Tour | (2013) | Overexposed Tour | (2012-2014)"
+  },
+  {
+    "subject": "Kelly Clarkson tour chronology",
+    "predicate": "12th Annual Honda Civic Tour",
+    "object": "Stronger Tour | (2012) | 12th Annual Honda Civic Tour | (2013) | Piece by Piece Tour | (2015)"
+  }
+]

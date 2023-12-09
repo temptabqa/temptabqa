@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Linkin Park",
+    "predicate": "category",
+    "object": "musician"
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "image",
+    "object": "Linkin Park performing in October 2010. From left to right: Joe Hahn, Dave Farrell, Brad Delson, Mike Shinoda, Rob Bourdon and Chester Bennington."
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "also known as",
+    "object": "Xero (1996-1999) | Hybrid Theory (1999-2000)"
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "origin",
+    "object": "Agoura Hills, California, U.S."
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "genres",
+    "object": "Alternative rock | nu metal | alternative metal | rap rock | electronic rock | pop rock"
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "years active",
+    "object": "1996-2017 | 2020-present"
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "labels",
+    "object": "Warner | Machine Shop"
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "associated acts",
+    "object": "Jay-Z | Steve Aoki"
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "website",
+    "object": "linkinpark.com"
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "members",
+    "object": "Rob Bourdon | Brad Delson | Mike Shinoda | Dave Farrell | Joe Hahn"
+  },
+  {
+    "subject": "Linkin Park",
+    "predicate": "past members",
+    "object": "Mark Wakefield | Chester Bennington"
+  }
+]

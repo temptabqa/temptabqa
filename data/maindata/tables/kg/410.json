@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Ed McFarland",
+    "predicate": "hasImage",
+    "object": "Ed McFarland.jpg"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "isA",
+    "object": "Catcher"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "bornOn",
+    "object": "1874-08-03"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "bornIn",
+    "object": "Cleveland, Ohio"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "diedOn",
+    "object": "1959-11-28"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "diedIn",
+    "object": "Cleveland, Ohio"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "batted",
+    "object": "Right"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "MLBDebut",
+    "object": "July 7, 1893, for the Cleveland Spiders"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "lastMLBAppearance",
+    "object": "June 26, 1908, for the Boston Red Sox"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "battingAverage",
+    "object": ".275"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "homeRuns",
+    "object": "13"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "runsBattedIn",
+    "object": "383"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "teams",
+    "object": "Cleveland Spiders (1893) | St. Louis Browns (1896-1897) | Philadelphia Phillies (1897-1901) | Chicago White Sox (1902-1907) | Boston Red Sox (1908)"
+  },
+  {
+    "subject": "Ed McFarland",
+    "predicate": "careerHighlightsAndAwards",
+    "object": "World Series champion (1906)"
+  }
+]

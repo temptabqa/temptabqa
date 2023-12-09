@@ -1,0 +1,64 @@
+[
+  {
+    "subject": "Archie Hahn",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Archie Hahn",
+    "predicate": "born",
+    "object": "September 14, 1880, Dodgeville, Wisconsin"
+  },
+  {
+    "subject": "Archie Hahn",
+    "predicate": "died",
+    "object": "January 21, 1955, Charlottesville, Virginia"
+  },
+  {
+    "subject": "Archie Hahn",
+    "predicate": "track",
+    "object": {
+      "1915-1920": "Brown",
+      "1920-1923": "Michigan (assistant)",
+      "1928": "Princeton",
+      "1929-1950": "Virginia"
+    }
+  },
+  {
+    "subject": "Archie Hahn",
+    "predicate": "football",
+    "object": {
+      "1907-1908": "Pacific (OR)",
+      "1910": "Monmouth (IL)",
+      "1911-1914": "Whitman",
+      "1915-1919": "Brown (backfield)",
+      "1920-1922": "Michigan (trainer)"
+    }
+  },
+  {
+    "subject": "Archie Hahn",
+    "predicate": "basketball",
+    "object": {
+      "1910-1911": "Monmouth (IL)"
+    }
+  },
+  {
+    "subject": "Archie Hahn",
+    "predicate": "head coaching record",
+    "object": "2-11 (basketball)"
+  },
+  {
+    "subject": "Archie Hahn",
+    "predicate": "Olympic Games achievements",
+    "object": [
+      "Gold medal - first place |  1904 St. Louis | 60 metres",
+      "Gold medal - first place |  1904 St. Louis | 100 metres",
+      "Gold medal - first place |  1904 St. Louis | 200 metres"
+    ]
+  },
+  {
+    "subject": "Archie Hahn",
+    "predicate": "Intercalated Games achievements",
+    "object": "Gold medal - first place |  1906 Athens | 100 metres"
+  }
+]

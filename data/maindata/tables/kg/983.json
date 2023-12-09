@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Guatemalan Civil War",
+    "predicate": "category",
+    "object": "civil war"
+  },
+  {
+    "subject": "Guatemalan Civil War",
+    "predicate": "Date",
+    "object": "13 November 1960 - 29 December 1996 | (36 years, 1 month, 2 weeks and 2 days)"
+  },
+  {
+    "subject": "Guatemalan Civil War",
+    "predicate": "Location",
+    "object": "Guatemala"
+  },
+  {
+    "subject": "Guatemalan Civil War",
+    "predicate": "Result",
+    "object": "Peace accord signed in 1996"
+  },
+  {
+    "subject": "Guatemalan Civil War",
+    "predicate": "Territorial | changes",
+    "object": "Guatemala border | Franja Transversal del Norte"
+  },
+  {
+    "subject": "Guatemalan Civil War",
+    "predicate": "description",
+    "object": "Part of the Central American crisis and Cold War"
+  },
+  {
+    "subject": "Guatemalan Civil War",
+    "predicate": "description",
+    "object": "Exhumation in the ixil triangle in Guatemala.jpg | Ixil people carrying their loved ones' remains after an exhumation in the Ixil Triangle in February 2012."
+  },
+  {
+    "subject": "URNG | (from 1982) | PGT | (until 1998) | MR-13 | (1960-1971) | FAR | (1960-1971) | EGP | (1971-1996) | ORPA | (1979-1996) | Supported by | Cuba | FMLN | [ | citation needed | ] | Nicaragua | (1979-1990)",
+    "predicate": "Belligerents",
+    "object": "Government of Guatemala and Guatemalan military | Government-led paramilitary organizations | Mano Blanca | Supported by | Argentina | (1976-1983) | United States | (1962-1996) | Logistics | Israel | Taiwan | Chile | South Africa | [ | citation needed | ]"
+  },
+  {
+    "subject": "Rolando Morán | Luis Turcios | † | Marco Yon | † | Bernardo Alvarado | † | Rodrigo Asturias | Ricardo Rosales",
+    "predicate": "Commanders and leaders",
+    "object": "Miguel Ydígoras | Enrique Peralta | Julio Méndez | Carlos Arana | Kjell Laugerud | Romeo Lucas | Efraín Ríos Montt | Oscar Mejía | Vinicio Cerezo | Jorge Serrano | Ramiro de León | Álvaro Arzú"
+  },
+  {
+    "subject": "URNG | 6,000 (1982) | 1,500-3,000 (1994)",
+    "predicate": "Strength",
+    "object": "Military | 51,600 (1985) | 45,000 (1994) | Paramilitary | 300,000 (1982) | 500,000 (1985) | 32,000 (1986)"
+  },
+  {
+    "subject": "Guatemalan Civil War",
+    "predicate": "Casualties and losses",
+    "object": "Between 140,000-200,000 dead and missing (estimated)"
+  }
+]

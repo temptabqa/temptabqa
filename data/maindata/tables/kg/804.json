@@ -1,0 +1,321 @@
+[
+  {
+    "subject": {
+      "name": "Marja-Liisa Kirvesniemi"
+    },
+    "predicate": {
+      "type": "category"
+    },
+    "object": {
+      "value": "skier"
+    }
+  },
+  {
+    "subject": {
+      "name": "Marja-Liisa Kirvesniemi"
+    },
+    "predicate": {
+      "type": "Country"
+    },
+    "object": {
+      "value": "Finland"
+    }
+  },
+  {
+    "subject": {
+      "name": "Marja-Liisa Kirvesniemi"
+    },
+    "predicate": {
+      "type": "Born"
+    },
+    "object": {
+      "value": "Marja-Liisa Hämäläinen | ( | 1955-09-10 | ) | 10 September 1955 | (age 66) | Simpele, South Karelia, Finland"
+    }
+  },
+  {
+    "subject": {
+      "name": "Marja-Liisa Kirvesniemi"
+    },
+    "predicate": {
+      "type": "Spouse(s)"
+    },
+    "object": {
+      "value": "Harri Kirvesniemi | ( | married |  1984; | divorced |  2011)"
+    }
+  },
+  {
+    "subject": {
+      "name": "Marja-Liisa Kirvesniemi"
+    },
+    "predicate": {
+      "type": "Ski club"
+    },
+    "object": {
+      "value": "Simpeleen Urheilijat"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Cup career"
+    },
+    "predicate": {
+      "type": "Seasons"
+    },
+    "object": {
+      "value": "10 - (1982-1985, 1988-1989, 1991-1994)"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Cup career"
+    },
+    "predicate": {
+      "type": "Individual wins"
+    },
+    "object": {
+      "value": "11"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Cup career"
+    },
+    "predicate": {
+      "type": "Team wins"
+    },
+    "object": {
+      "value": "1"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Cup career"
+    },
+    "predicate": {
+      "type": "Individual podiums"
+    },
+    "object": {
+      "value": "27"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Cup career"
+    },
+    "predicate": {
+      "type": "Team podiums"
+    },
+    "object": {
+      "value": "8"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Cup career"
+    },
+    "predicate": {
+      "type": "Individual starts"
+    },
+    "object": {
+      "value": "64"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Cup career"
+    },
+    "predicate": {
+      "type": "Team starts"
+    },
+    "object": {
+      "value": "15"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Cup career"
+    },
+    "predicate": {
+      "type": "Overall titles"
+    },
+    "object": {
+      "value": "2 - (1983, 1984)"
+    }
+  },
+  {
+    "subject": {
+      "name": "Marja-Liisa Kirvesniemi"
+    },
+    "predicate": {
+      "type": "Representing"
+    },
+    "object": {
+      "value": "Finland"
+    }
+  },
+  {
+    "subject": {
+      "name": "Olympic Games"
+    },
+    "predicate": {
+      "type": "Gold medal - first place"
+    },
+    "object": {
+      "value": "1984 Sarajevo | 5 km"
+    }
+  },
+  {
+    "subject": {
+      "name": "Olympic Games"
+    },
+    "predicate": {
+      "type": "Gold medal - first place"
+    },
+    "object": {
+      "value": "1984 Sarajevo | 10 km"
+    }
+  },
+  {
+    "subject": {
+      "name": "Olympic Games"
+    },
+    "predicate": {
+      "type": "Gold medal - first place"
+    },
+    "object": {
+      "value": "1984 Sarajevo | 20 km"
+    }
+  },
+  {
+    "subject": {
+      "name": "Olympic Games"
+    },
+    "predicate": {
+      "type": "Bronze medal - third place"
+    },
+    "object": {
+      "value": "1984 Sarajevo | 4 × 5 km relay"
+    }
+  },
+  {
+    "subject": {
+      "name": "Olympic Games"
+    },
+    "predicate": {
+      "type": "Bronze medal - third place"
+    },
+    "object": {
+      "value": "1988 Calgary | 4 × 5 km relay"
+    }
+  },
+  {
+    "subject": {
+      "name": "Olympic Games"
+    },
+    "predicate": {
+      "type": "Bronze medal - third place"
+    },
+    "object": {
+      "value": "1994 Lillehammer | 5 km classical"
+    }
+  },
+  {
+    "subject": {
+      "name": "Olympic Games"
+    },
+    "predicate": {
+      "type": "Bronze medal - third place"
+    },
+    "object": {
+      "value": "1994 Lillehammer | 30 km classical"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Championships"
+    },
+    "predicate": {
+      "type": "Gold medal - first place"
+    },
+    "object": {
+      "value": "1978 Lahti | 4 × 5 km relay"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Championships"
+    },
+    "predicate": {
+      "type": "Gold medal - first place"
+    },
+    "object": {
+      "value": "1989 Lahti | 10 km classical"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Championships"
+    },
+    "predicate": {
+      "type": "Gold medal - first place"
+    },
+    "object": {
+      "value": "1989 Lahti | 4 × 5 km relay"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Championships"
+    },
+    "predicate": {
+      "type": "Silver medal - second place"
+    },
+    "object": {
+      "value": "1985 Seefeld | 5 km"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Championships"
+    },
+    "predicate": {
+      "type": "Silver medal - second place"
+    },
+    "object": {
+      "value": "1985 Seefeld | 10 km"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Championships"
+    },
+    "predicate": {
+      "type": "Silver medal - second place"
+    },
+    "object": {
+      "value": "1989 Lahti | 15 km classical"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Championships"
+    },
+    "predicate": {
+      "type": "Silver medal - second place"
+    },
+    "object": {
+      "value": "1991 Val di Fiemme | 5 km classical"
+    }
+  },
+  {
+    "subject": {
+      "name": "World Championships"
+    },
+    "predicate": {
+      "type": "Silver medal - second place"
+    },
+    "object": {
+      "value": "1993 Falun | 15 km classical"
+    }
+  }
+]

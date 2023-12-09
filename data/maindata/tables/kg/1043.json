@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "category",
+    "object": "earthquake"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "UTC time",
+    "object": "2015-04-25 06:11:25"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "ISC event",
+    "object": "607208674"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "USGS-ANSS",
+    "object": "ComCat"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Local date",
+    "object": "25 April 2015"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Local time",
+    "object": "11:56:25 NST"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Magnitude",
+    "object": "7.8 Mw, 8.1 Ms"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Depth",
+    "object": "8.2 km (5.1 mi)"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Epicenter",
+    "object": "28.230°N 84.731°E"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Fault",
+    "object": "Main Himalayan Thrust"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Type",
+    "object": "Thrust"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Maximum intensity",
+    "object": "X (Extreme)"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Peak acceleration",
+    "object": "0.25 g"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Peak velocity",
+    "object": "108 cm/s"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Aftershocks",
+    "object": "7.3 Mw on 12 May at 12:50, 6.7 Mw on 26 April at 12:54, 459 aftershocks of 4 Mw and above as of 24 May 2016"
+  },
+  {
+    "subject": "2015 Nepal earthquake",
+    "predicate": "Casualties",
+    "object": "8,857 dead in Nepal and 8,964 in total, 21,952 injured, 3.5 million homeless"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "category",
+    "object": "office holder"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "official portrait",
+    "object": "Official portrait of Bill Esterson MP crop 2.jpg | Official portrait, 2020"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "role",
+    "object": "Shadow Minister for Business and Industry"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "incumbent status",
+    "object": "Incumbent"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "assumed office",
+    "object": "4 December 2021"
+  },
+  {
+    "subject": "4 December 2021",
+    "predicate": "leader",
+    "object": "Keir Starmer"
+  },
+  {
+    "subject": "4 December 2021",
+    "predicate": "preceded by",
+    "object": "Office established"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "role",
+    "object": "Shadow Minister for International Trade"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "in office",
+    "object": "18 October 2016 - 4 December 2021"
+  },
+  {
+    "subject": "18 October 2016 - 4 December 2021",
+    "predicate": "leader",
+    "object": "Jeremy Corbyn | Sir Keir Starmer"
+  },
+  {
+    "subject": "18 October 2016 - 4 December 2021",
+    "predicate": "preceded by",
+    "object": "Office established"
+  },
+  {
+    "subject": "18 October 2016 - 4 December 2021",
+    "predicate": "succeeded by",
+    "object": "Nia Griffith"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "role",
+    "object": "Shadow Minister for Small Business"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "in office",
+    "object": "18 September 2015 - 9 April 2020"
+  },
+  {
+    "subject": "18 September 2015 - 9 April 2020",
+    "predicate": "leader",
+    "object": "Jeremy Corbyn"
+  },
+  {
+    "subject": "18 September 2015 - 9 April 2020",
+    "predicate": "preceded by",
+    "object": "Toby Perkins"
+  },
+  {
+    "subject": "18 September 2015 - 9 April 2020",
+    "predicate": "succeeded by",
+    "object": "Lucy Powell"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "role",
+    "object": "Member of Parliament for Sefton Central"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "assumed office",
+    "object": "6 May 2010"
+  },
+  {
+    "subject": "6 May 2010",
+    "predicate": "preceded by",
+    "object": "Constituency Created"
+  },
+  {
+    "subject": "6 May 2010",
+    "predicate": "majority",
+    "object": "15,122 (29.7%)"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "born",
+    "object": "William Roffen Esterson | 27 October 1966 | Kent, England"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "nationality",
+    "object": "British"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "political party",
+    "object": "Labour"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "alma mater",
+    "object": "University of Leeds"
+  },
+  {
+    "subject": "Bill Esterson MP",
+    "predicate": "website",
+    "object": "Official website"
+  }
+]

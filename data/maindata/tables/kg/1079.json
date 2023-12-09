@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "An American in Paris",
+    "predicate": "category",
+    "object": "movie"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Directed by",
+    "object": "Vincente Minnelli"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Written by",
+    "object": "Alan Jay Lerner"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Produced by",
+    "object": "Arthur Freed"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Starring",
+    "object": "Gene Kelly | Leslie Caron | Oscar Levant | Georges Guétary | Nina Foch"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Cinematography",
+    "object": "Alfred Gilks | Ballet | John Alton"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Edited by",
+    "object": "Adrienne Fazan"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Music by",
+    "object": "George Gershwin | Lyrics | Ira Gershwin | Musical direction | Johnny Green | Saul Chaplin"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Production | company",
+    "object": "Metro-Goldwyn-Mayer"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Distributed by",
+    "object": "Loew's Inc."
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Release dates",
+    "object": "October 4, 1951 | ( | 1951-10-04 | ) | (New York) | January 11, 1952 | ( | 1952-01-11 | ) | (USA)"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Running time",
+    "object": "113 minutes"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Country",
+    "object": "United States"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Language",
+    "object": "English"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Budget",
+    "object": "$2.7 million"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "Box office",
+    "object": "$7 million"
+  },
+  {
+    "subject": "An American in Paris",
+    "predicate": "An American in Paris",
+    "object": "An American in Paris (1951 film poster).jpg | Theatrical release poster"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "subject": "Dante Amaral",
+    "predicate": "category",
+    "object": "volleyball"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "full name",
+    "object": "Dante Guimarães Santos do Amaral"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "nationality",
+    "object": "Brazilian"
+  },
+  {
+	    "subject": "Dante Amaral",
+    "predicate": "born",
+    "object": "30 September 1980 |  ( | 1980-09-30 | ) | (age | 41) | Itumbiara, GO, Brazil"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "height",
+    "object": "201 cm (6 ft 7 in)"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "weight",
+    "object": "86 kg (190 lb)"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "spike",
+    "object": "345 cm (136 in)"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "block",
+    "object": "327 cm (129 in)"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "volleyball position",
+    "object": "Outside spiker"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "current club",
+    "object": "Retired"
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "career",
+    "object": [
+      "1999-2000 | Três Corações",
+      "2000-2001 | Suzano São Paulo",
+      "2001-2002 | Minas Tênis Clube",
+      "2002-2005 | Pallavolo Modena",
+      "2005-2008 | Panathinaikos V.C.",
+      "2008-2011 | VC Dynamo Moscow",
+      "2011-2012 | RJX",
+      "2012-2014 | Panasonic Panthers",
+      "2014-2015 | Funvic Taubaté",
+      "2015-2016 | EC São José",
+      "2016-2017 | PAOK Thessaloniki",
+      "2017-2018 | Funvic Taubaté"
+    ]
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "national team",
+    "object": [
+      "1999-2013 | Brazil"
+    ]
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "Olympic Games",
+    "object": [
+      "Gold medal - first place | 2004 Athens | Team",
+      "Silver medal - second place | 2008 Beijing | Team",
+      "Silver medal - second place | 2012 London | Team"
+    ]
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "World Championship",
+    "object": [
+      "Gold medal - first place | 2002 Argentina | Team",
+      "Gold medal - first place | 2006 Japan | Team",
+      "Gold medal - first place | 2010 Italy | Team"
+    ]
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "World Cup",
+    "object": [
+      "Gold medal - first place | 2003 Japan | Team",
+      "Gold medal - first place | 2007 Japan | Team",
+      "Bronze medal - third place | 2011 Japan | Team"
+    ]
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "World Grand Champions Cup",
+    "object": [
+      "Silver medal - second place | 2001 Japan | Team"
+    ]
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "World League",
+    "object": [
+      "Gold medal - first place | 2001 Katowice | Team",
+      "Gold medal - first place | 2003 Madrid | Team",
+      "Gold medal - first place | 2004 Rome | Team",
+      "Gold medal - first place | 2005 Belgrade | Team",
+      "Gold medal - first place | 2006 Moscow | Team",
+      "Gold medal - first place | 2007 Katowice | Team",
+      "Gold medal - first place | 2010 Córdoba | Team",
+      "Silver medal - second place | 2002 Belo Horizonte | Team",
+      "Silver medal - second place | 2011 Gdańsk | Team",
+      "Silver medal - second place | 2013 Mar del Plata | Team"
+    ]
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "Pan American Games",
+    "object": [
+      "Gold medal - first place | 2007 Rio de Janeiro | Team",
+      "Bronze medal - third place | 2003 Santo Domingo | Team"
+    ]
+  },
+  {
+    "subject": "Dante Amaral",
+    "predicate": "South American Championship",
+    "object": [
+      "Gold medal - first place | 2011 Cuiabá | Team",
+      "Gold medal - first place | 2013 Cabo Frio | Team"
+    ]
+  }
+]

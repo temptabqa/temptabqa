@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "category",
+    "object": "company"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "formerly",
+    "object": "Illusion Softworks, a.s. (1997-2008); 2K Czech, a.s. (2008-2011)"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "type",
+    "object": "Subsidiary"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "industry",
+    "object": "Video games"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "predecessor",
+    "object": "Vochozka Trading"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "founded",
+    "object": "1997; 25 years ago"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "founders",
+    "object": "Petr Vochozka, Jan Kudera"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "defunct",
+    "object": "2017"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "fate",
+    "object": "Merged into Hangar 13"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "headquarters",
+    "object": "Brno, Czech Republic"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "number_of_locations",
+    "object": "2 studios (2017)"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "number_of_employees",
+    "object": "~100 (2017)"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "parent",
+    "object": "2K (2008-2017)"
+  },
+  {
+    "subject": "2K Czech, s.r.o.",
+    "predicate": "website",
+    "object": "2kczech.com"
+  }
+]

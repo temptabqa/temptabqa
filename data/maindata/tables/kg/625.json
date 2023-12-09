@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Launch Complex 4",
+    "predicate": "category",
+    "object": "launchpad"
+  },
+  {
+    "subject": "Launch Complex 4",
+    "predicate": "Launch site",
+    "object": "Cape Canaveral Space Force Station"
+  },
+  {
+    "subject": "Launch Complex 4",
+    "predicate": "Location",
+    "object": "28.466667, -80.535669"
+  },
+  {
+    "subject": "Launch Complex 4",
+    "predicate": "Short name",
+    "object": "LC-4"
+  },
+  {
+    "subject": "Launch Complex 4",
+    "predicate": "Operator",
+    "object": "US Space Force"
+  },
+  {
+    "subject": "Launch Complex 4",
+    "predicate": "Total launches",
+    "object": "28"
+  },
+  {
+    "subject": "Launch Complex 4",
+    "predicate": "Launch pad(s)",
+    "object": "2"
+  },
+  {
+    "subject": "LC-4 launch history",
+    "predicate": "Status",
+    "object": "Dismantled"
+  },
+  {
+    "subject": "LC-4 launch history",
+    "predicate": "Launches",
+    "object": "25"
+  },
+  {
+    "subject": "LC-4 launch history",
+    "predicate": "First launch",
+    "object": "3 September 1958 | Bomarc 621-1"
+  },
+  {
+    "subject": "LC-4 launch history",
+    "predicate": "Last launch",
+    "object": "15 April 1960 | Bomarc 631-8"
+  },
+  {
+    "subject": "LC-4 launch history",
+    "predicate": "Associated | rockets",
+    "object": "CIM-10 Bomarc | MGM-1 Matador | PGM-11 Redstone"
+  },
+  {
+    "subject": "LC-4A launch history",
+    "predicate": "Status",
+    "object": "Dismantled"
+  },
+  {
+    "subject": "LC-4A launch history",
+    "predicate": "Launches",
+    "object": "3"
+  },
+  {
+    "subject": "LC-4A launch history",
+    "predicate": "First launch",
+    "object": "3 September 1958 | Bomarc 624-XY3"
+  },
+  {
+    "subject": "LC-4A launch history",
+    "predicate": "Last launch",
+    "object": "27 January 1959 | Bomarc 624-XY11"
+  },
+  {
+    "subject": "LC-4A launch history",
+    "predicate": "Associated | rockets",
+    "object": "CIM-10 Bomarc"
+  }
+]

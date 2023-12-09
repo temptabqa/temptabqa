@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "category",
+    "object": "emperor"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "alias",
+    "object": "皇帝"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "image",
+    "object": "QinShiHuang19century.jpg"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "title",
+    "object": "Emperor of the Qin dynasty"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "reign",
+    "object": "221-210 BCE"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "successor",
+    "object": "Qin Er Shi"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "title",
+    "object": "King of Qin"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "reign",
+    "object": "247-221 BCE"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "predecessor",
+    "object": "King Zhuangxiang"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "successor",
+    "object": "Himself as Emperor"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "born",
+    "object": " Ying Zheng ( | 嬴政 | ) or | Zhao Zheng ( | 趙政 | ) | 259 BCE"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "died",
+    "object": "210 BCE (aged 49)"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "burial",
+    "object": "Mausoleum, Mount Li, Lintong, Xi'an"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "issue",
+    "object": "Prince Fusu | Prince Huhai | Prince Gao | Prince Jianglü"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "ancestral_name",
+    "object": "Ying (嬴)"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "clan_name",
+    "object": "Zhao (趙)"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "given_name",
+    "object": "Zheng (政)"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "dynasty",
+    "object": "Qin"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "father",
+    "object": "King Zhuangxiang"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "mother",
+    "object": "Queen Dowager Zhao"
+  },
+  {
+    "subject": "Qin Shi Huang",
+    "predicate": "regnal_name",
+    "object": "Shi Huangdi ( | 始皇帝 | )"
+  }
+]

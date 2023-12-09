@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "has image",
+    "object": "Немов, Алексей.jpg"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "full name",
+    "object": "Alexei Yurievich Nemov"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "country represented",
+    "object": "Russia"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "born",
+    "object": "28 May 1976 (age 45) in Barashevo, Mordovian ASSR, Soviet Union"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "hometown",
+    "object": "Tolyatti"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "height",
+    "object": "173 cm (5 ft 8 in)"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "discipline",
+    "object": "Men's artistic gymnastics"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "years on national team",
+    "object": "1992-2004 (RUS)"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "club",
+    "object": "Trade Union"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "head coach",
+    "object": "Evgeny Nikolko"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "assistant coach",
+    "object": "A. Shestakova"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "retired",
+    "object": "2004"
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "Olympic Games achievements",
+    "object": [
+      "Gold medal - first place |  1996 Atlanta | Team",
+      "Gold medal - first place |  1996 Atlanta | Vault",
+      "Gold medal - first place |  2000 Sydney | All-Around",
+      "Gold medal - first place |  2000 Sydney | High Bar",
+      "Silver medal - second place |  1996 Atlanta | All-Around",
+      "Silver medal - second place |  2000 Sydney | Floor",
+      "Bronze medal - third place |  1996 Atlanta | Floor",
+      "Bronze medal - third place |  1996 Atlanta | High Bar",
+      "Bronze medal - third place |  1996 Atlanta | Pommel Horse",
+      "Bronze medal - third place |  2000 Sydney | Team",
+      "Bronze medal - third place |  2000 Sydney | Pommel Horse",
+      "Bronze medal - third place |  2000 Sydney | Parallel Bars"
+    ]
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "World Championships achievements",
+    "object": [
+      "Gold medal - first place |  1995 Sabae | Vault",
+      "Gold medal - first place |  1996 San Juan | Vault",
+      "Gold medal - first place |  1997 Lausanne | Floor",
+      "Gold medal - first place |  1999 Tianjin | Floor",
+      "Gold medal - first place |  1999 Tianjin | Pommel Horse",
+      "Silver medal - second place |  1994 Dortmund | Team",
+      "Silver medal - second place |  1996 San Juan | Parallel Bars",
+      "Silver medal - second place |  1999 Tianjin | Team",
+      "Silver medal - second place |  2003 Anaheim | Parallel Bars",
+      "Bronze medal - third place |  1994 Brisbane | Parallel Bars",
+      "Bronze medal - third place |  1996 San Juan | Pommel Horse",
+      "Bronze medal - third place |  1997 Lausanne | Team",
+      "Bronze medal - third place |  2003 Anaheim | High Bar"
+    ]
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "European Championships achievements",
+    "object": [
+      "Gold medal - first place |  1994 Prague | Parallel Bars",
+      "Gold medal - first place |  1998 St. Petersburg | Floor",
+      "Gold medal - first place |  2002 Patras | Floor",
+      "Bronze medal - third place |  1998 St. Petersburg | All-Around"
+    ]
+  },
+  {
+    "subject": "Alexei Nemov",
+    "predicate": "European Team Championships achievements",
+    "object": [
+      "Gold medal - first place |  1999 Patras | Team",
+      "Gold medal - first place |  2003 Moscow | Team"
+    ]
+  }
+]

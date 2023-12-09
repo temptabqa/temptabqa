@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "category",
+    "object": "martial artist"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Nationality",
+    "object": "Russian"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Height",
+    "object": "185 cm (6 ft 1 in)"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Weight",
+    "object": "135 kg (298 lb; 21 st 4 lb)"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Division",
+    "object": "Heavyweight"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Style",
+    "object": "Sambo, Judo"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Trainer",
+    "object": "Sergey Sebelev | Victor Nevzorov | Arambiy Hapay"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Rank",
+    "object": "Honoured Master of Sport of Russia"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "hasPortrait",
+    "object": "Мурат Хасанов.jpg"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Representing",
+    "object": "Russia"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Men's Sambo"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "World Championships",
+    "object": [
+      "Gold medal - first place | 2006 Sofia | +100 kg",
+      "Gold medal - first place | 2005 Astana | +100 kg",
+      "Gold medal - first place | 2004 Chișinău | +100 kg",
+      "Gold medal - first place | 2003 St. Petersburg | +100 kg",
+      "Gold medal - first place | 2002 Panama City | +100 kg",
+      "Gold medal - first place | 2001 Krasnoyarsk | +100 kg",
+      "Gold medal - first place | 2000 Kyiv | +100 kg",
+      "Gold medal - first place | 1999 Gijón | +100 kg",
+      "Gold medal - first place | 1998 Kaliningrad | +100 kg",
+      "Silver medal - second place | 1997 Tbilisi | +100 kg",
+      "Bronze medal - third place | 1996 Tokyo | +100 kg",
+      "Gold medal - first place | 1995 Sofia | +100 kg",
+      "Gold medal - first place | 1994 Novi Sad | +100 kg"
+    ]
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Men's Judo"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "World Masters Munich",
+    "object": "Silver medal - second place | 2000 Munich | +100 kg"
+  },
+
+  {
+    "subject": "Murat Ruslanovich Khasanov",
+    "predicate": "Russian Championships",
+    "object": [
+      "Gold medal - first place | 1999 Kstovo | +100 kg",
+      "Bronze medal - third place | 1998 Kstovo | +100 kg",
+      "Silver medal - second place | 1997 Moscow | +95 kg"
+    ]
+  }
+]

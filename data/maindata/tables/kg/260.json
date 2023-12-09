@@ -1,0 +1,70 @@
+[
+  {
+    "subject": "Kevin Magnussen",
+    "predicate": "category",
+    "object": "racing"
+  },
+  {
+    "subject": "Kevin Magnussen",
+    "predicate": "infobox-image",
+    "object": "Kevin Magnussen, 2019 Formula One Tests Barcelona (cropped).jpg"
+  },
+  {
+    "subject": "Kevin Magnussen",
+    "predicate": "Born",
+    "object": "5 October 1992, Roskilde, Denmark"
+  },
+  {
+    "subject": "Kevin Magnussen",
+    "predicate": "Nationality",
+    "object": "Danish"
+  },
+  {
+    "subject": "Kevin Magnussen",
+    "predicate": "Formula One World Championship career",
+    "object": {
+      "2022 team": "Haas-Ferrari",
+      "Car number": "20",
+      "Entries": "140 (139 starts)",
+      "Championships": "0",
+      "Wins": "0",
+      "Podiums": "1",
+      "Career points": "182",
+      "Pole positions": "0",
+      "Fastest laps": "2",
+      "First entry": "2014 Australian Grand Prix",
+      "Last entry": "2022 Mexico City Grand Prix",
+      "2020 position": "20th (1 pt)"
+    }
+  },
+  {
+    "subject": "Kevin Magnussen",
+    "predicate": "IndyCar Series career",
+    "object": {
+      "2021 position": "42nd",
+      "Best finish in the championship": "42nd (2021)",
+      "First race": "2021 REV Group Grand Prix at Road America (Road America)",
+      "Last race": "2021 REV Group Grand Prix at Road America (Road America)",
+      "Website": "Official website",
+      "IndyCar Series career": [
+        "1 race run over 1 year",
+        "Wins | Podiums | Poles",
+        "0 | 0 | 0"
+      ]
+    }
+  },
+  {
+    "subject": "Kevin Magnussen",
+    "predicate": "Previous series",
+    "object": {
+      "2012-2013 | 2011 | 2010 | 2009 | 2009 | 2008 | 2008": "Formula Renault 3.5 Series | British Formula 3 | German Formula Three | Formula Renault 2.0 NEC | Eurocup Formula Renault 2.0 | Danish Formula Ford | ADAC Formel Masters"
+    }
+  },
+  {
+    "subject": "Kevin Magnussen",
+    "predicate": "Championship titles",
+    "object": {
+      "2013 | 2008": "Formula Renault 3.5 Series | Danish Formula Ford"
+    }
+  }
+]

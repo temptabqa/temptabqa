@@ -1,0 +1,37 @@
+[
+  {
+    "subject": {"name": "Atlantic Time Zone", "category": "time zone"},
+    "predicate": "is a",
+    "object": "Time zone"
+  },
+  {
+    "subject": {"name": "Atlantic Time Zone", "category": "time zone"},
+    "predicate": "has image",
+    "object": "Timezoneswest.PNG | Atlantic Time Zone"
+  },
+  {
+    "subject": {"name": "AST", "category": "UTC offset"},
+    "predicate": "has UTC offset",
+    "object": "UTC−04:00"
+  },
+  {
+    "subject": {"name": "ADT", "category": "UTC offset"},
+    "predicate": "has UTC offset",
+    "object": "UTC−03:00"
+  },
+  {
+    "subject": {"name": "Current time", "category": "time zone"},
+    "predicate": "has AST time",
+    "object": "08:40, 28 June 2022"
+  },
+  {
+    "subject": {"name": "Current time", "category": "time zone"},
+    "predicate": "has ADT time",
+    "object": "09:40, 28 June 2022"
+  },
+  {
+    "subject": {"name": "Observance of DST", "category": "time zone"},
+    "predicate": "states",
+    "object": "DST is observed in parts of this time zone."
+  }
+]

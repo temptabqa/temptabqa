@@ -1,0 +1,202 @@
+[
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "also_known_as",
+"object": "조선민주주의인민공화국, Chosŏn Minjujuŭi Inmin Konghwaguk"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Flag",
+"object": "Flag of North Korea"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Emblem",
+"object": "Emblem of North Korea"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Motto",
+"object": "강성대국, Kangsŏngdaeguk, Strong and Prosperous Nation"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Anthem",
+"object": "애국가, Aegukka, The Patriotic Song"
+},
+{
+"subject": "DPRK Territory",
+"predicate": "controlled",
+"object": "Territory controlled by the Democratic People's Republic of Korea (dark green)"
+},
+{
+"subject": "DPRK Territory",
+"predicate": "claimed_but_uncontrolled",
+"object": "Territory claimed but uncontrolled by the Democratic People's Republic of Korea (lighter green)"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Capital_and_largest_city",
+"object": "Pyongyang"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Official_languages",
+"object": "Korean (Munhwaŏ)"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Official_script",
+"object": "Chosŏn'gŭl"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Religion",
+"object": "State atheism"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "demonym",
+"object": "North Korean, Korean"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Government",
+"object": "Unitary Jucheist one-party socialist parliamentary republic under a totalitarian hereditary dictatorship"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "General_Secretary_of_the_WPK_and_President_of_the_SAC",
+"object": "Kim Jong-un"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Chairman_of_the_SPA_Standing_Committee_and_First_Vice_President_of_the_SAC",
+"object": "Choe Ryong-hae"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Vice_President_of_the_SAC_and_Premier_of_Cabinet",
+"object": "Kim Tok-hun"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Chairman_of_the_SPA",
+"object": "Pak Thae-song"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Legislature",
+"object": "Supreme People's Assembly"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Formation_Soviet_administration",
+"object": "3 October 1945"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Formation_1st_provisional_govt",
+"object": "8 February 1946"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Formation_2nd_provisional_govt",
+"object": "22 February 1947"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Formation_DPRK_established",
+"object": "9 September 1948"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Formation_Current_constitution",
+"object": "27 December 1972"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Formation_Admitted_to_the_UN",
+"object": "17 September 1991"
+},
+{ 
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Formation_Panmunjom_Declaration",
+"object": "27 April 2018"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Area_Total",
+"object": "120,540 km² (46,540 sq mi) (97th)"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Area_Water_percent",
+"object": "0.11"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Population_2018_estimate",
+"object": "25,549,604 (55th)"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Population_2008_census",
+"object": "24,052,231"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Population_Density",
+"object": "212/km² (549.1/sq mi) (45th)"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "GDP_PPP_2015_estimate_Total",
+"object": "$30 billion"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "GDP_PPP_2015_estimate_Per_capita",
+"object": "$1,300"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "GDP_nominal_2017_estimate",
+"object": "-"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Currency",
+"object": "Korean People's won (₩) (KPW)"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Time_zone",
+"object": "UTC+9 (Pyongyang Time)"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Date_format",
+"object": "yy, yyyy년 mm월 dd일, yy, yyyy/mm/dd (AD-1911 / AD)"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Driving_side",
+"object": "right"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Calling_code",
+"object": "+850"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "ISO_3166_code",
+"object": "KP"
+},
+{
+"subject": "Democratic People's Republic of Korea",
+"predicate": "Internet_TLD",
+"object": ".kp"
+}
+]

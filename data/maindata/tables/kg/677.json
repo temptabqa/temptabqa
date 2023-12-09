@@ -1,0 +1,50 @@
+[
+  {
+    "subject": "Heiko Kroeger",
+    "predicate": "category",
+    "object": "sailor"
+  },
+  {
+    "subject": "Heiko Kroeger",
+    "predicate": "infobox-image",
+    "object": "Heiko Kröger 2022.jpg"
+  },
+  {
+    "subject": "Heiko Kroeger",
+    "predicate": "Personal information|Nationality",
+    "object": "German"
+  },
+  {
+    "subject": "Heiko Kroeger",
+    "predicate": "Personal information|Born",
+    "object": "27 March 1966 (age 56) Waldbröl"
+  },
+  {
+    "subject": "Heiko Kroeger",
+    "predicate": "Paralympic Games",
+    "object": [
+      "Gold medal - first place | 2000 Sydney | 2.4m",
+      "Silver medal - second place | 2012 London | Norlin Mk3"
+    ]
+  },
+  {
+    "subject": "Heiko Kroeger",
+    "predicate": "World Championships in Sailing",
+    "object": [
+      "Gold medal - first place | 2016 Disabled | 2.4m",
+      "Gold medal - first place | 2014 Disabled | 2.4m",
+      "Gold medal - first place | 2006 Disabled | 2.4m",
+      "Gold medal - first place | 2003 Disabled | 2.4m",
+      "Gold medal - first place | 2002 Disabled | 2.4m",
+      "Gold medal - first place | 2001 Disabled | 2.4m",
+      "Gold medal - first place | 2001 Open | 2.4m",
+      "Gold medal - first place | 1999 Disabled | 2.4m",
+      "Silver medal - second place | 2015 Disabled | 2.4m",
+      "Silver medal - second place | 2013 Disabled | 2.4m",
+      "Silver medal - second place | 2010 Disabled | 2.4m",
+      "Silver medal - second place | 2009 Disabled | 2.4m",
+      "Silver medal - second place | 2007 Disabled | 2.4m",
+      "Silver medal - second place | 2005 Disabled | 2.4m"
+    ]
+  }
+]

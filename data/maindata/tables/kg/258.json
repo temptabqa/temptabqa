@@ -1,0 +1,187 @@
+[
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "category",
+    "object": "f1"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "caption",
+    "object": "Fernando Alonso"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "infobox-image",
+    "object": "Alonso 2016.jpg | Alonso in 2016"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Born",
+    "object": "Fernando Alonso Díaz | ( | 1981-07-29 | ) | 29 July 1981 | (age 40) | Oviedo, Asturias, Spain"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Nationality",
+    "object": "Spain | Spanish"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|2022 team",
+    "object": "Alpine-Renault"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Car number",
+    "object": "14"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Entries",
+    "object": "345 (342 starts)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Championships",
+    "object": "2 (2005, 2006)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Wins",
+    "object": "32"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Podiums",
+    "object": "98"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Career points",
+    "object": "1998"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Pole positions",
+    "object": "22"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Fastest laps",
+    "object": "23"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|First entry",
+    "object": "2001 Australian Grand Prix"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|First win",
+    "object": "2003 Hungarian Grand Prix"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Last win",
+    "object": "2013 Spanish Grand Prix"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|Last entry",
+    "object": "2022 Canadian Grand Prix"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Formula One World Championship career|2021 position",
+    "object": "10th (81 pts)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "FIA World Endurance Championship career|Debut season",
+    "object": "2018-19"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "FIA World Endurance Championship career|Current team",
+    "object": "Toyota Gazoo Racing"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "FIA World Endurance Championship career|Car number",
+    "object": "8"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "FIA World Endurance Championship career|Starts",
+    "object": "8"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "FIA World Endurance Championship career|Championships",
+    "object": "1 (2018-19)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "FIA World Endurance Championship career|Wins",
+    "object": "5"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "FIA World Endurance Championship career|Poles",
+    "object": "4"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "IndyCar Series career|Team(s)",
+    "object": "No. 66 (Arrow McLaren SP)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "IndyCar Series career|2020 position",
+    "object": "31st"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "IndyCar Series career|Best finish in the championship",
+    "object": "21st (2017)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "IndyCar Series career|First race",
+    "object": "2017 Indianapolis 500 (Indianapolis)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "IndyCar Series career|Last race",
+    "object": "2020 Indianapolis 500 (Indianapolis)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "IndyCar Series career|IndyCar Series career",
+    "object": ["2 races run over 3 years", "Wins | Podiums | Poles", "0 | 0 | 0"]
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "24 Hours of Le Mans career|Participating years",
+    "object": "2018-2019"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "24 Hours of Le Mans career|Teams",
+    "object": "Toyota Gazoo Racing Europe GmbH"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "24 Hours of Le Mans career|Best finish",
+    "object": "1st (2018, 2019)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "24 Hours of Le Mans career|Class wins",
+    "object": "2 (2018, 2019)"
+  },
+  {
+    "subject": "Fernando Alonso",
+    "predicate": "Signature|Signature",
+    "object": ["Fernando Alonso signature"]
+  }
+]

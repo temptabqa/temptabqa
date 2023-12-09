@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "Sam Snead",
+    "predicate": "category",
+    "object": "golf"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "image",
+    "object": "Sam Snead 1967.JPG"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "full name",
+    "object": "Samuel Jackson Snead"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "nickname",
+    "object": "The Slammer | Slammin' Sammy"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "born",
+    "object": "May 27, 1912 | Ashwood, Virginia, U.S."
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "died",
+    "object": "May 23, 2002 | Hot Springs, Virginia, U.S."
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "height",
+    "object": "5 ft 11 in (180 cm)"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "weight",
+    "object": "185 lb (84 kg)"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "sporting nationality",
+    "object": "United States"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "spouse",
+    "object": "Audrey Karnes Snead"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "children",
+    "object": "Sam Jr., Terrence"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "turned professional",
+    "object": "1934"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "former tour(s)",
+    "object": "PGA Tour | Champions Tour"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "professional wins",
+    "object": "142"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "PGA Tour wins",
+    "object": "82 (Tied 1st all time)"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "LPGA Tour wins",
+    "object": "1"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "other wins",
+    "object": "45 (regular) | 14 (senior)"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "Masters Tournament",
+    "object": "Won | : 1949, 1952, 1954"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "PGA Championship",
+    "object": "Won | : 1942, 1949, 1951"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "U.S. Open",
+    "object": "2nd/T2: 1937, 1947, 1949, 1953"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "The Open Championship",
+    "object": "Won | : 1946"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "World Golf Hall of Fame",
+    "object": "1974"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "PGA leading money winner",
+    "object": "1938, 1949, 1950"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "PGA Golfer of the Year",
+    "object": "1949"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "Vardon Trophy",
+    "object": "1938, 1949, 1950, 1955"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "PGA Tour Lifetime Achievement Award",
+    "object": "1998"
+  }
+]

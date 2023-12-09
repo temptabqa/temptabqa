@@ -1,0 +1,27 @@
+[
+  {
+    "subject": "Mackenzie Foy",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Mackenzie Foy",
+    "predicate": "Born",
+    "object": "Mackenzie Christine Foy |  ( | 2000-11-10 | ) | November 10, 2000 |  (age 21) | Los Angeles, California, U.S."
+  },
+  {
+    "subject": "Mackenzie Foy",
+    "predicate": "Occupation",
+    "object": "Actress | model"
+  },
+  {
+    "subject": "Mackenzie Foy",
+    "predicate": "Years active",
+    "object": "2009-present"
+  },
+  {
+    "subject": "Mackenzie Foy",
+    "predicate": "Mackenzie Foy",
+    "object": "Mackenzie Foy Cannes 2015.jpg | Foy at the 2015 Cannes Film Festival"
+  }
+]

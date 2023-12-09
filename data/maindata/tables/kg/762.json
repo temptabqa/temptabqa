@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Cnut",
+    "predicate": "is a",
+    "object": "emperor"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "has portrait",
+    "object": "Contemporary portrait of King Cnut from the New Minster Liber Vitae, 1031"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was King of",
+    "object": "England"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "reigned in England",
+    "object": "1016-1035"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was coronated in",
+    "object": "London, 1017"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "succeeded in England by",
+    "object": "Edmund II"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "preceded in England by",
+    "object": "Harold I"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was King of",
+    "object": "Denmark"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "reigned in Denmark",
+    "object": "1018-1035"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "succeeded in Denmark by",
+    "object": "Harald II"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "preceded in Denmark by",
+    "object": "Harthacnut"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was King of",
+    "object": "Norway"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "reigned in Norway",
+    "object": "1028-1035"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "succeeded in Norway by",
+    "object": "St Olaf II"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "preceded in Norway by",
+    "object": "Magnus the Good"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was Co-King in Norway with",
+    "object": "Svein Knutsson"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was born in",
+    "object": "c. 990 Denmark"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "died on",
+    "object": "12 November 1035 (aged around 45) in Shaftesbury, Dorset, England"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "buried at",
+    "object": "Old Minster, Winchester, England. Bones now in Winchester Cathedral, Winchester, England"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was married to",
+    "object": "Ælfgifu of Northampton and Emma of Normandy"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "had issue",
+    "object": "Svein Knutsson, Harold Harefoot, Harthacnut, Gunhilda, Queen of the Germans"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was from the House of",
+    "object": "Jelling"
+  },
+  {
+    "subject": "Cnut",
+    "predicate": "was the son of",
+    "object": "Sweyn Forkbeard"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Date",
+    "object": "April 1999 - 2005"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Location",
+    "object": "East Timor"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "East Timorese tactical victory"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "Defeat of pro-Indonesian militia"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "Stabilisation of East Timor"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "East Timorese independence referendum"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "US embargo of military sales to Indonesia from 9 September 1999 to 22 November 2005"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "UK embargo of military sales to Indonesia from 11 September 1999 to 11 April 2012"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "Australia embargo military sales to Indonesia September 1999"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "European Union (EU) embargo military sales to Indonesia 16 September 1999 - 17 January 2000"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "Pro-Indonesia militia strategic victory"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Status",
+    "object": "80% of East Timor's infrastructure destroyed by Scorched Earth Operation"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Part",
+    "object": "Indonesian invasion of East Timor"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Part",
+    "object": "Decolonisation of Asia"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Part",
+    "object": "Fall of Suharto"
+  },
+  {
+    "subject": "1999 East Timorese crisis",
+    "predicate": "Image",
+    "object": "Destroyed houses in Dili"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "East Timor",
+    "object": "Supported by"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "East Timor",
+    "object": "Australia - 5,000"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "East Timor",
+    "object": "New Zealand - 1,250"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "East Timor",
+    "object": "Thailand - 1,600"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "13,000"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "Aitarak"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "Besi Merah Putih"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "Laksaur"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "Mahidi"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "Supported by"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "Kopassus (alleged)"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "BIN"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Pro-Indonesian militias",
+    "object": "Jakarta lobby"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Australia",
+    "object": "John Howard"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Australia",
+    "object": "Peter Cosgrove"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "New Zealand",
+    "object": "Jenny Shipley"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "New Zealand",
+    "object": "Helen Clark"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "New Zealand",
+    "object": "Carey Adamson"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Brazil",
+    "object": "Sérgio Vieira de Mello"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Portugal",
+    "object": "Brig. Gen. Paulo Pereira Guerreiro"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Indonesia",
+    "object": "Wiranto"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Indonesia",
+    "object": "Eurico Guterres"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Casualties and losses",
+    "object": "1,400 civilians"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Casualties and losses",
+    "object": "220,000+ refugees"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Casualties and losses",
+    "object": "3 UNHCR staff killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Casualties and losses",
+    "object": "2 journalists killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Casualties and losses",
+    "object": "1 Indonesian soldier killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Casualties and losses",
+    "object": "1 Indonesian police killed"
+  }
+]

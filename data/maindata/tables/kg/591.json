@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "category",
+    "object": "company"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "caption",
+    "object": "Arrow Electronics, Inc."
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "infobox-image",
+    "object": "Arrow, 9151 East Panorama Circle, Arapahoe County, CO 2020-05-21.jpg | One of three corporate offices in Arapahoe County, Colorado"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Type",
+    "object": "Public company"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Traded as",
+    "object": "NYSE: ARW | S&P 400 Component"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Industry",
+    "object": "Electronics"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Founded",
+    "object": "1935, New York City"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Headquarters",
+    "object": "Centennial, Colorado"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Key people",
+    "object": "Michael J. Long, President & CEO, |  Chris Stansbury SVP and CFO"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Revenue",
+    "object": "Increase | US$28.7 billion | ( | FY 2019 | )"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Operating income",
+    "object": "Increase | US$1.1 billion | ( | FY 2019 | )"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Number of employees",
+    "object": "19,300 (February 2020)"
+  },
+  {
+    "subject": "Arrow Electronics, Inc.",
+    "predicate": "Website",
+    "object": "arrow | .com"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "is a",
+    "object": "scientist"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "has image",
+    "object": "Dr Alex Zelinsky.jpg"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "has title",
+    "object": "Professor"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "is Vice-Chancellor of",
+    "object": "the University of Newcastle"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "assumed office as Vice-Chancellor in",
+    "object": "November 2018"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "preceded by",
+    "object": "Caroline McMillen"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "was Chief Defence Scientist",
+    "object": ""
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "held office as Chief Defence Scientist from",
+    "object": "March 2012 - November 2018"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "preceded by",
+    "object": "Robert Clark"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "succeeded by",
+    "object": "Tanya Monro"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "born",
+    "object": "5 March 1960 (age 62) in Wollongong, New South Wales"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "nationality",
+    "object": "Australian"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "graduated from",
+    "object": "University of Wollongong"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "awards",
+    "object": "Officer of the Order of Australia, M. A. Sargent Medal"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "research fields",
+    "object": "Mobile robotics"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "affiliated institutions",
+    "object": "University of Newcastle, Defence Science and Technology Group, CSIRO, Australian National University, University of Wollongong"
+  },
+  {
+    "subject": "Alex Zelinsky",
+    "predicate": "thesis",
+    "object": "Environment exploration and path planning algorithms for mobile robot navigation using sonar (1991)"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "INS Trishul",
+    "predicate": "is a",
+    "object": "navy vessel"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Ordered",
+    "object": "17 November 1997"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Builder",
+    "object": "Baltiysky Zavod"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Laid down",
+    "object": "24 September 1999"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Launched",
+    "object": "24 November 2000"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Commissioned",
+    "object": "25 June 2003"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Status",
+    "object": "in active service"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Class and type",
+    "object": "Talwar-class frigate"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Displacement",
+    "object": "3620 tons (standard) | 4035 tons (full)"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Length",
+    "object": "124.8 m (409 ft)"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Beam",
+    "object": "15.2 m (50 ft)"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Draught",
+    "object": "4.5 m (15 ft)"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Propulsion",
+    "object": "2 × DS-71 cruise turbines | 2 × DT-59 boost turbines"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Speed",
+    "object": "30 knots (56 km/h; 35 mph)"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Range",
+    "object": "4,850 nautical miles (8,980 km; 5,580 mi) at 14 knots (26 km/h; 16 mph) | 1,600 nautical miles (3,000 km; 1,800 mi) at 30 knots (56 km/h; 35 mph)"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Complement",
+    "object": "180 (18 Officers)"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Armament",
+    "object": "Anti-air missiles | 24 × Shtil-1 medium range missiles | 8 × Igla-1E (SA-16) | Anti-ship/Land-attack missiles | 8 × VLS launched Klub, anti-ship cruise missiles | Guns | 1 × 100 mm (3.9 in) A-190E naval gun | 2 × Kashtan CIWS | Anti-submarine warfare | 2 × 2 533 mm (21.0 in) torpedo tubes | 1 × RBU-6000 (RPK-8) rocket launcher"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Aircraft carried",
+    "object": "1 Ka-28 Helix-A, Ka-31 Helix B or HAL Dhruv"
+  },
+  {
+    "subject": "INS Trishul",
+    "predicate": "Namesake",
+    "object": "Trident"
+  },
+  {
+    "subject": "INS Talwar seal",
+    "predicate": "is the",
+    "object": "Badge of INS Trishul"
+  }
+]

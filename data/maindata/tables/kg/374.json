@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Charles John Pedersen",
+    "predicate": "category",
+    "object": "nobel"
+  },
+  {
+    "subject": "Charles John Pedersen",
+    "predicate": "Born",
+    "object": "( | 1904-10-03 | ) | October 3, 1904 | Busan, Korean Empire"
+  },
+  {
+    "subject": "Charles John Pedersen",
+    "predicate": "Died",
+    "object": "October 26, 1989 | (1989-10-26) |  (aged 85) | Salem, New Jersey, U.S."
+  },
+  {
+    "subject": "Charles John Pedersen",
+    "predicate": "Nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Charles John Pedersen",
+    "predicate": "Alma mater",
+    "object": "University of Dayton, Massachusetts Institute of Technology"
+  },
+  {
+    "subject": "Charles John Pedersen",
+    "predicate": "Awards",
+    "object": "Nobel Prize in Chemistry (1987)"
+  },
+  {
+    "subject": "Charles John Pedersen",
+    "predicate": "Charles John Pedersen",
+    "object": "Charles J. Pedersen.jpg"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Fields",
+    "object": "Organic chemistry"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Institutions",
+    "object": "DuPont"
+  }
+]

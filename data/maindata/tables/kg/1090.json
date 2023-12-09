@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "2002 Atlantic hurricane season",
+    "predicate": "category",
+    "object": "cyclone"
+  },
+  {
+    "subject": "2002 Atlantic hurricane season",
+    "predicate": "summary map",
+    "object": "2002 Atlantic hurricane season summary map.png"
+  },
+  {
+    "subject": "Seasonal boundaries",
+    "predicate": "First system formed",
+    "object": "July 14, 2002"
+  },
+  {
+    "subject": "Seasonal boundaries",
+    "predicate": "Last system dissipated",
+    "object": "October 16, 2002"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "Name",
+    "object": "Isidore"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "Maximum winds",
+    "object": "125 mph (205 km/h) (1-minute sustained)"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "Lowest pressure",
+    "object": "934 mbar (hPa; 27.58 inHg)"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Total depressions",
+    "object": "14"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Total storms",
+    "object": "12"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Hurricanes",
+    "object": "4"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Major hurricanes (Cat. 3+)",
+    "object": "2"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Total fatalities",
+    "object": "50 total"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "Total damage",
+    "object": "$2.47 billion (2002 USD)"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "Related articles",
+    "object": "Timeline of the 2002 Atlantic hurricane season, 2002 Pacific hurricane season, 2002 Pacific typhoon season, 2002 North Indian Ocean cyclone season"
+  },
+  {
+    "subject": "Atlantic hurricane seasons",
+    "predicate": "Years",
+    "object": "2000, 2001, 2002, 2003, 2004"
+  }
+]

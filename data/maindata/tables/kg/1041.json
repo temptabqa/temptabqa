@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "category",
+    "object": "earthquake"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "caption",
+    "object": "2010 Haiti earthquake"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "infobox-image",
+    "object": "Ruins of Haiti National Palace - Port au Prince 2012.jpg"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "UTC time",
+    "object": "2010-01-12 21:53:10"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "ISC event",
+    "object": "14226221"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "USGS-ANSS",
+    "object": "ComCat"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Local date",
+    "object": "12 January 2010"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Local time",
+    "object": "16:53:10 EST"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Magnitude",
+    "object": "7.0 Mw"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Depth",
+    "object": "13 km (8.1 mi)"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Epicenter",
+    "object": "18°28′N 72°32′W"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Areas affected",
+    "object": "Haiti, Dominican Republic"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Total damage",
+    "object": "$7.8 billion - 8.5 billion"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Maximum intensity",
+    "object": "X (Extreme)"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Peak acceleration",
+    "object": "0.5 g"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Tsunami",
+    "object": "Yes (localized)"
+  },
+  {
+    "subject": "2010 Haiti earthquake",
+    "predicate": "Casualties",
+    "object": "100,000 to 316,000 deaths"
+  }
+]

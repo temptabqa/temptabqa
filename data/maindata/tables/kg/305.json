@@ -1,0 +1,103 @@
+[
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "category",
+    "object": "curling"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Born",
+    "object": "October 7, 1984 (age 37), Harbin, Heilongjiang"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "occupation",
+    "object": "Curler"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "image",
+    "object": "Wang Bingyu-1.png"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Curling club",
+    "object": "Harbin CC, Harbin, Heilongjiang"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Member Association",
+    "object": "China"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "World Championship appearances",
+    "object": "10 (2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2017)"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Pacific-Asia Championship appearances",
+    "object": "11 (2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2016)"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Olympic appearances",
+    "object": "3 (2010, 2014, 2018)"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Grand Slam victories",
+    "object": "1 (2010 Autumn Gold Curling Classic)"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Winter Olympics",
+    "object": "Bronze medal - third place | 2010 Vancouver"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "World Championships",
+    "object": ["Gold medal - first place | 2009 Gangneung",
+               "Silver medal - second place | 2008 Vernon",
+               "Bronze medal - third place | 2011 Esbjerg"]
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Pacific-Asia Championships",
+    "object": ["Gold medal - first place | 2006 Tokyo",
+               "Gold medal - first place | 2007 Beijing",
+               "Gold medal - first place | 2008 Naseby",
+               "Gold medal - first place | 2009 Karuizawa",
+               "Gold medal - first place | 2011 Nanjing",
+               "Gold medal - first place | 2012 Naseby",
+               "Silver medal - second place | 2004 Chuncheon",
+               "Silver medal - second place | 2005 Taipei",
+               "Silver medal - second place | 2010 Uiseong",
+               "Silver medal - second place | 2013 Shanghai",
+               "Silver medal - second place | 2016 Uiseong"]
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Pacific Junior Championships",
+    "object": ["Gold medal - first place | 2005 Tokoro",
+               "Gold medal - first place | 2006 Beijing"]
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Asian Winter Games",
+    "object": ["Gold medal - first place | 2017 Sapporo",
+               "Bronze medal - third place | 2003 Aomori",
+               "Bronze medal - third place | 2007 Changchun"]
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "Winter Universiade",
+    "object": "Gold medal - first place | 2009 Harbin"
+  },
+  {
+    "subject": "Wang Bingyu",
+    "predicate": "New Zealand Winter Games",
+    "object": ["Silver medal - second place | 2009 Naseby",
+               "Silver medal - second place | 2011 Naseby"]
+  }
+]

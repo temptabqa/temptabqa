@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "India",
+    "predicate": "Status",
+    "object": "Imperial political structure (comprising British India and the Princely States.)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Capital",
+    "object": "Calcutta | (1858-1911) | New Delhi | (1911/1931-1947)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Official languages",
+    "object": "English and Urdu"
+  },
+  {
+    "subject": "India",
+    "predicate": "Government",
+    "object": "British Colonial Government"
+  },
+  {
+    "subject": "India",
+    "predicate": "King-Emperor/Queen-Empress",
+    "object": "Victoria (1858-1901)"
+  },
+  {
+    "subject": "India",
+    "predicate": "King-Emperor/Queen-Empress",
+    "object": "Edward VII (1901-1910)"
+  },
+  {
+    "subject": "India",
+    "predicate": "King-Emperor/Queen-Empress",
+    "object": "George V (1910-1936)"
+  },
+  {
+    "subject": "India",
+    "predicate": "King-Emperor/Queen-Empress",
+    "object": "Edward VIII (1936)"
+  },
+  {
+    "subject": "India",
+    "predicate": "King-Emperor/Queen-Empress",
+    "object": "George VI (1936-1947)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Viceroy",
+    "object": "Charles Canning (1858-1862)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Viceroy",
+    "object": "William Hare (1947)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Secretary of State",
+    "object": "Edward Stanley (1858-1859)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Legislature",
+    "object": "Imperial Legislative Council"
+  },
+  {
+    "subject": "India",
+    "predicate": "History",
+    "object": "Indian Rebellion (10 May 1857)"
+  },
+  {
+    "subject": "India",
+    "predicate": "History",
+    "object": "Government of India Act (2 August 1858)"
+  },
+  {
+    "subject": "India",
+    "predicate": "History",
+    "object": "Indian Independence Act (18 July 1947)"
+  },
+  {
+    "subject": "India",
+    "predicate": "History",
+    "object": "Partition of India (14 and 15 August 1947)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Currency",
+    "object": "Indian rupee"
+  },
+  {
+    "subject": "India",
+    "predicate": "Preceded by",
+    "object": "Mughal Empire (1858)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Preceded by",
+    "object": "Company rule in India"
+  },
+  {
+    "subject": "India",
+    "predicate": "Succeeded by",
+    "object": "Dominion of India (1947)"
+  },
+  {
+    "subject": "India",
+    "predicate": "Succeeded by",
+    "object": "Dominion of Pakistan"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "category",
+    "object": "sailor"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "full name",
+    "object": "Jordi Xammar Hernández"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "nationality",
+    "object": "Spain"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "born",
+    "object": "2 December 1993 (age 28) in Barcelona, Spain"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "sailing career - class(es)",
+    "object": "470"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "sailing career - club",
+    "object": "Club Náutico de Garraf"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "representing",
+    "object": "Spain"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "Olympic Games result",
+    "object": "Bronze medal - third place in 2020 Tokyo 470"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "World Championships result",
+    "object": "Silver medal - second place in 2019 Enoshima 470"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "World Championships result",
+    "object": "Bronze medal - third place in 2018 Aarhus 470"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "World Championships result",
+    "object": "Bronze medal - third place in 2021 Vilamoura 470"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "European Championships result",
+    "object": "Silver medal - second place in 2019 Sanremo 470"
+  },
+  {
+    "subject": "Jordi Xammar",
+    "predicate": "European Championships result",
+    "object": "Bronze medal - third place in 2017 Monaco 470"
+  }
+]

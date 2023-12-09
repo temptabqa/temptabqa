@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "PBY Catalina",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Role",
+    "object": "Maritime patrol bomber, search and rescue seaplane | Type of aircraft"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "National origin",
+    "object": "United States"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Manufacturer",
+    "object": "Consolidated Aircraft"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Built by",
+    "object": "Boeing Canada (PB2B) | Canadian Vickers (PBV) | Naval Aircraft Factory (PBN) | Soviet Gidrosamolet Transportnii factory at Taganrog (GST)"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "First flight",
+    "object": "21 March 1935"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Introduction",
+    "object": "October 1936, United States Navy"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Retired",
+    "object": "January 1957 (United States Navy Reserve) | 1982 (Brazilian Air Force)"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Primary users",
+    "object": "United States Navy | United States Army Air Forces | Royal Air Force | Royal Canadian Air Force"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Produced",
+    "object": "1936-1945"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Number built",
+    "object": "3,308 (2,661 U.S.-built, 620 Canadian-built, 27 Soviet-built)"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "Variants",
+    "object": "Bird Innovator"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "image",
+    "object": "Consolidated PBV-1A Catalina '433915' Miss Pick Up (G-PBYA).jpg"
+  },
+  {
+    "subject": "PBY Catalina",
+    "predicate": "image",
+    "object": "A restored OA-10 Catalina in US Army Air Corps colors"
+  }
+]

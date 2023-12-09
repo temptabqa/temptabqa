@@ -1,0 +1,19 @@
+[
+  {"subject": "8 Mile", "predicate": "category", "object": "movie"},
+  {"subject": "8 Mile", "predicate": "Directed by", "object": "Curtis Hanson"},
+  {"subject": "8 Mile", "predicate": "Written by", "object": "Scott Silver"},
+  {"subject": "8 Mile", "predicate": "Produced by", "object": "Curtis Hanson | Brian Grazer | Jimmy Iovine"},
+  {"subject": "8 Mile", "predicate": "Starring", "object": "Eminem | Mekhi Phifer | Brittany Murphy | Kim Basinger | Eugene Byrd"},
+  {"subject": "8 Mile", "predicate": "Cinematography", "object": "Rodrigo Prieto"},
+  {"subject": "8 Mile", "predicate": "Edited by", "object": "Jay Rabinowitz | Craig Kitson"},
+  {"subject": "8 Mile", "predicate": "Music by", "object": "Eminem"},
+  {"subject": "8 Mile", "predicate": "Production | companies", "object": "Imagine Entertainment | Mikona Productions GmbH & Co. KG"},
+  {"subject": "8 Mile", "predicate": "Distributed by", "object": "Universal Pictures"},
+  {"subject": "8 Mile", "predicate": "Release date", "object": "November 8, 2002 | ( | 2002-11-08 | )"},
+  {"subject": "8 Mile", "predicate": "Running time", "object": "110 minutes"},
+  {"subject": "8 Mile", "predicate": "Country", "object": "United States"},
+  {"subject": "8 Mile", "predicate": "Language", "object": "English"},
+  {"subject": "8 Mile", "predicate": "Budget", "object": "$41 million"},
+  {"subject": "8 Mile", "predicate": "Box office", "object": "$242.9 million"},
+  {"subject": "8 Mile", "predicate": "8 Mile", "object": "Eight mile ver2.jpg | Theatrical release poster"}
+]

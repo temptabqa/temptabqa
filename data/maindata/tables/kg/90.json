@@ -1,0 +1,103 @@
+[
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "category",
+    "object": "nba"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "caption",
+    "object": "Shaquille O'Neal"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "infobox-image",
+    "object": "Shaquille O'Neal October 2017 (cropped).jpg | O'Neal in 2017"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Born",
+    "object": "( | 1972-03-06 | ) | March 6, 1972 | (age 50) | Newark, New Jersey, U.S."
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Listed height",
+    "object": "7 ft 1 in (216 cm)"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Listed weight",
+    "object": "325 lb (147 kg)"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "High school",
+    "object": "Fulda American | (Fulda, Germany) | Robert G. Cole (San Antonio, Texas)"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "College",
+    "object": "LSU (1989-1992)"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "NBA draft",
+    "object": "1992 / Round: 1 / Pick: 1st overall"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Playing career",
+    "object": "1992-2011"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Position",
+    "object": "Center"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Number",
+    "object": "32, 34, 33, 36"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Career information",
+    "object": "Selected by the Orlando Magic"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Career history",
+    "object": {
+      "1992-1996": "Orlando Magic",
+      "1996-2004": "Los Angeles Lakers",
+      "2004-2008": "Miami Heat",
+      "2008-2009": "Phoenix Suns",
+      "2009-2010": "Cleveland Cavaliers",
+      "2010-2011": "Boston Celtics"
+    }
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Career highlights and awards",
+    "object": "4× NBA champion (2000-2002, 2006) | 3× NBA Finals MVP (2000-2002) | NBA Most Valuable Player (2000) | 15× NBA All-Star (1993-1998, 2000-2007, 2009) | 3× NBA All-Star Game MVP (2000, 2004, 2009) | 8× All-NBA First Team (1998, 2000-2006) | 2× All-NBA Second Team (1995, 1999) | 4× All-NBA Third Team (1994, 1996, 1997, 2009) | 3× NBA All-Defensive Second Team (2000, 2001, 2003) | NBA Rookie of the Year (1993) | NBA All-Rookie First Team (1993) | 2× NBA scoring champion (1995, 2000) | 2× IBM Award (2000, 2001) | NBA anniversary team (50th, 75th) | No. 34 retired by Los Angeles Lakers | No. 32 retired by Miami Heat | Associated Press Player of the Year (1991) | UPI Player of the Year (1991) | Adolph Rupp Trophy (1991) | 2× Consensus first-team All-American (1991, 1992) | 2× SEC Player of the Year (1991, 1992) | NCAA blocks leader (1992) | NCAA rebounding leader (1991) | No. 33 retired by LSU Tigers | FIBA World Championship MVP (1994) | USA Basketball Male Athlete of the Year (1994) | McDonald's All-American Game Co-MVP (1989) | First-team | Parade | All-American (1989) | Texas Mr. Basketball (1989)"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Career statistics",
+    "object": {
+      "Points": "28,596 (23.7 ppg)",
+      "Rebounds": "13,099 (10.9 rpg)",
+      "Blocks": "2,732 (2.3 bpg)"
+    }
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "Olympic Games",
+    "object": "Gold medal - first place | 1996 Atlanta | Team competition"
+  },
+  {
+    "subject": "Shaquille O'Neal",
+    "predicate": "FIBA World Cup",
+    "object": "Gold medal - first place | 1994 Toronto | Team competition"
+  }
+]

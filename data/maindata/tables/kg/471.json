@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "The Police",
+    "predicate": "is a",
+    "object": "musician"
+  },
+  {
+    "subject": "The Police",
+    "predicate": "has a photo description",
+    "object": "The Police onstage | Andy Summers (far right), Sting (front), Stewart Copeland (drums). The Police performing at Madison Square Garden, New York City, 1 August 2007"
+  },
+  {
+    "subject": "The Police",
+    "predicate": "origin",
+    "object": "London, England"
+  },
+  {
+    "subject": "The Police",
+    "predicate": "has genres",
+    "object": "New wave | reggae rock | post-punk | pop rock"
+  },
+  {
+    "subject": "The Police",
+    "predicate": "years active",
+    "object": "1977-1986 | 2003 | 2007-2008"
+  },
+  {
+    "subject": "The Police",
+    "predicate": "has labels",
+    "object": "Illegal | A&M"
+  },
+  {
+    "subject": "The Police",
+    "predicate": "associated acts",
+    "object": "Strontium 90 | Eberhard Schoener"
+  },
+  {
+    "subject": "The Police",
+    "predicate": "has website",
+    "object": "www | .thepolice | .com"
+  },
+  {
+    "subject": "The Police",
+    "predicate": "past members",
+    "object": "Sting | Stewart Copeland | Henry Padovani | Andy Summers"
+  }
+]

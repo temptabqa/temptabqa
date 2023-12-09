@@ -1,0 +1,17 @@
+[
+  {"subject": "Fredrik Bergström", "predicate": "category", "object": "sailor"},
+  {"subject": "Fredrik Bergström", "predicate": "full name", "object": "Carl Fredrik Bergström"},
+  {"subject": "Fredrik Bergström", "predicate": "nationality", "object": "Swedish"},
+  {"subject": "Fredrik Bergström", "predicate": "born", "object": "9 July 1990 (age 32) | Onsala, Sweden"},
+  {"subject": "Fredrik Bergström", "predicate": "height", "object": "176 cm (5 ft 9 in)"},
+  {"subject": "Fredrik Bergström", "predicate": "weight", "object": "64 kg (141 lb)"},
+  {"subject": "Fredrik Bergström", "predicate": "class", "object": "470"},
+  {"subject": "Fredrik Bergström", "predicate": "club", "object": "Royal Swedish Yacht Club"},
+  {"subject": "Fredrik Bergström", "predicate": "Olympic Games achievement", "object": "Silver medal - second place | 2020 Tokyo | Men's 470"},
+  {"subject": "Fredrik Bergström", "predicate": "World Championships achievement", "object": "Gold medal - first place | 2021 Vilamoura | Men's 470"},
+  {"subject": "Fredrik Bergström", "predicate": "World Championships achievement", "object": "Silver medal - second place | 2017 Thessaloniki | Men's 470"},
+  {"subject": "Fredrik Bergström", "predicate": "World Championships achievement", "object": "Bronze medal - third place | 2019 Enoshima | Men's 470"},
+  {"subject": "Fredrik Bergström", "predicate": "European Championships achievement", "object": "Gold medal - first place | 2018 Burgas | Men's 470"},
+  {"subject": "Fredrik Bergström", "predicate": "European Championships achievement", "object": "Gold medal - first place | 2019 Sanremo | Men's 470"},
+  {"subject": "Fredrik Bergström", "predicate": "Star Sailors League achievement", "object": "Crew | rank | Highest | 4 | 1 March 2022 | 3"}
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Al McBean",
+    "predicate": "category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "image",
+    "object": "Al McBean - Pittsburgh Pirates - 1966.jpg"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "born",
+    "object": "May 15, 1938"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "age",
+    "object": "84"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "birthplace",
+    "object": "Charlotte Amalie, United States Virgin Islands"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "batted",
+    "object": "Right"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "MLB debut",
+    "object": "July 2, 1961, for the Pittsburgh Pirates"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Last MLB appearance",
+    "object": "May 10, 1970, for the Pittsburgh Pirates"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Win-loss record",
+    "object": "67-50"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Earned run average",
+    "object": "3.13"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Strikeouts",
+    "object": "575"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Saves",
+    "object": "63"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Teams",
+    "object": "Pittsburgh Pirates (1961-1968)"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Teams",
+    "object": "San Diego Padres (1969)"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Teams",
+    "object": "Los Angeles Dodgers (1969-1970)"
+  },
+  {
+    "subject": "Al McBean",
+    "predicate": "Teams",
+    "object": "Pittsburgh Pirates (1970)"
+  }
+]

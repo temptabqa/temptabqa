@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "West Iran clashes",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "West Iran clashes",
+    "predicate": "Date",
+    "object": "Since 19 April 2016 (6 years, 2 months, 3 weeks and 1 day)"
+  },
+  {
+    "subject": "West Iran clashes",
+    "predicate": "Location",
+    "object": "Kurdistan Province and southern parts of West Azerbaijan Province, Iran | Soran and Sidekan districts of Iraqi Kurdistan"
+  },
+  {
+    "subject": "West Iran clashes",
+    "predicate": "Result",
+    "object": "Ongoing"
+  },
+  {
+    "subject": "West Iran clashes",
+    "predicate": "part_of",
+    "object": "Kurdish separatism in Iran and Iran-PJAK conflict"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "involved",
+    "object": "Iran | KDP-I | KDP | Komala-PIK | Komala-CPI | Komala-KTP | Komala-RF | PJAK | PAK | Khebat"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "represented",
+    "object": "Iran | Ali Khamenei | Iran | Ebrahim Raisi | Iran | Abdolrahim Mousavi | Iran | Kioumars Heydari | Iran | Hamid Vahedi | Iran | Aziz Nasirzadeh (2018-2021) | Iran | Hossein Salami | Iran | Mohammad Pakpour | Iran | Hossein Ashtari | Iran | Hassan Rouhani (2016-2021) | Mustafa Hijri | Khalid Azizi | Qadir Qadri | † | Sabah Rahmani | † | Abdullah Mohtadi | Ibrahim Alizade | Omar Ilkhanizade | Abdulla Konaposhi | Husein Yazdanpanah | Siamand Moini | Zîlan Vejîn"
+  },
+  {
+    "subject": "Units involved",
+    "predicate": "consists_of",
+    "object": "Revolutionary Guards | Border Guard | Army | Ministry of Intelligence | PDKI Peshmerga | Komala Peshmerga | HAK-R | YRK"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "KDPI",
+    "object": "1,000-1,500"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Komala",
+    "object": "<1,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "PJAK",
+    "object": "⩽3,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "PAK",
+    "object": "100-900"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Total Iranian Military Casualties (IRGC, Border Guards and Basij etc)",
+    "object": "14 to 18-26+ killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Basiji",
+    "object": "2 to 9 killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Border guards",
+    "object": "6 killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "PDKI",
+    "object": "20+ to 33-40 killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Komala",
+    "object": "3 killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Unidentified",
+    "object": "3 killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "PJAK",
+    "object": "12-13 to 17 killed"
+  },
+  {
+    "subject": "14 Iranian civilians killed | 6 Iraqi Kurdistan civilians wounded | 5 Kurdish activists executed Hundreds displaced | Total | : 75-82 to 157-161+ armed men killed; and 19 Iranian and Iraqi civilians killed or executed",
+    "predicate": "citation",
+    "object": ".mw-parser-output .citation{word-wrap:break-word}.mw-parser-output .citation:target{background-color:rgba(0,127,255,.133)} | a | Iranian claim | b | Kurdish rebels claim"
+  }
+]

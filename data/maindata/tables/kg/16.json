@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Status",
+    "object": "Empire"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Capital",
+    "object": "Kufa (750-752), Anbar (752-762), al-Rumiyyah (some month in 762), Baghdad (762-796, 809-836, 892-1258), Raqqa (796-809), Merv (811-815), Samarra (836-892), Cairo (1261-1517)"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Common languages",
+    "object": "Classical Arabic (central administration); various regional languages"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Religion",
+    "object": "Sunni Islam"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Government",
+    "object": "Caliphate (Hereditary)"
+  },
+  {
+    "subject": "As-Saffah",
+    "predicate": "Caliph of Abbasid Caliphate",
+    "object": "750-754 (first)"
+  },
+  {
+    "subject": "Al-Musta'sim",
+    "predicate": "Caliph of Abbasid Caliphate",
+    "object": "1242-1258 (last Caliph in Baghdad)"
+  },
+  {
+    "subject": "al-Mutawakkil III",
+    "predicate": "Caliph of Abbasid Caliphate",
+    "object": "1508-1517 (last Caliph in Cairo)"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Establishment",
+    "object": "750"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Decline",
+    "object": "861"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Beginning of Later Abbasid era",
+    "object": "940-1258 (Death of Al-Radi)"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Mongol sack of Baghdad",
+    "object": "1258"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Disestablished",
+    "object": "1517"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Currency",
+    "object": "Dinar (gold coin), Dirham (silver coin), Fals (copper coin)"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Preceded by",
+    "object": "Umayyad Caliphate"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "predicate": "Succeeded by",
+    "object": "Mamluk Sultanate, Mongol Empire, Ottoman Empire, Emirate of Córdoba, Idrisid dynasty, Ziyarid dynasty, Sajid dynasty, Saffarid dynasty, Fatimid Caliphate, Buyid dynasty, Ottoman Caliphate"
+  }
+]

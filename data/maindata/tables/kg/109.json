@@ -1,0 +1,98 @@
+[
+  {
+    "subject": "Paul Coll",
+    "predicate": "category",
+    "object": "squash"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "nickname",
+    "object": "Superman"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "country",
+    "object": "New Zealand"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "residence",
+    "object": "Hoofddorp, Netherlands"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "height",
+    "object": "1.79 m (5 ft 10 in)"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "weight",
+    "object": "83 kg (183 lb)"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "turned pro",
+    "object": "2010"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "retired",
+    "object": "Active"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "plays",
+    "object": "Right Handed"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "coached by",
+    "object": "Rob Owen"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "racquet used",
+    "object": "Head Squash"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "website",
+    "object": "paulcoll.com"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "men's singles highest ranking",
+    "object": "No. 1 (1 March 2022)"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "men's singles current ranking",
+    "object": "No. 2 (1 June 2022)"
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "World Championships",
+    "object": [
+      "Silver medal - second place | 2019-20 Doha | Singles",
+      "Bronze medal - third place | 2020-21 Chicago | Singles"
+    ]
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "World Doubles Championships",
+    "object": [
+      "Gold medal - first place | 2016 Darwin | Mixed doubles",
+      "Gold medal - first place | 2017 Manchester | Mixed doubles",
+      "Bronze medal - third place | 2016 Darwin | Doubles",
+      "Bronze medal - third place | 2017 Manchester | Doubles"
+    ]
+  },
+  {
+    "subject": "Paul Coll",
+    "predicate": "Commonwealth Games",
+    "object": [
+      "Silver medal - second place | 2018 Gold Coast | Singles",
+      "Bronze medal - third place | 2018 Gold Coast | Mixed doubles"
+    ]
+  }
+]

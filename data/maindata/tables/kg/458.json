@@ -1,0 +1,147 @@
+[
+  {
+    "subject": "InSight",
+    "predicate": "category",
+    "object": "space probe"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Names",
+    "object": "Interior Exploration using Seismic Investigations, Geodesy and Heat Transport | Geophysical Monitoring Station (GMS) | Discovery # 12"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Mission type",
+    "object": "Mars lander"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Operator",
+    "object": "NASA / Jet Propulsion Laboratory"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "COSPAR ID",
+    "object": "2018-042A | Edit this at Wikidata"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "SATCAT | number",
+    "object": "43457"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Website",
+    "object": "Mars.NASA.gov/InSight"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Mission duration",
+    "object": "Planned: 709 sols (728 days) | Elapsed: 1279 sols (3 years, 7 months, 5 days)"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Spacecraft properties/Manufacturer",
+    "object": "Lockheed Martin Space Systems"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Spacecraft properties/Launch mass",
+    "object": "694 kg (1,530 lb)"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Spacecraft properties/Landing mass",
+    "object": "358 kg (789 lb)"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Spacecraft properties/Dimensions",
+    "object": "6.0 × 1.56 × 1.0 m (19.7 × 5.1 × 3.3 ft) (deployed)"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Spacecraft properties/Power",
+    "object": "600 watts, solar / lithium-ion battery"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Start of mission/Launch date",
+    "object": "5 May 2018, 11:05:01 UTC"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Start of mission/Rocket",
+    "object": "Atlas V 401"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Start of mission/Launch site",
+    "object": "Vandenberg, SLC-3E"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Start of mission/Contractor",
+    "object": "United Launch Alliance"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Start of mission/Entered service",
+    "object": "26 November 2018"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "End of mission/Last contact",
+    "object": "December 2022 (estimated)"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Mars lander/Landing date",
+    "object": "26 November 2018, 19:52:59 UTC | MSD 51511 05:14 AMT"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Mars lander/Landing site",
+    "object": "Elysium Planitia | 4°30′09″N | 135°37′24″E | 4.5024°N 135.6234°E | 4.5024; 135.6234 | InSight landing site"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Flyby of Mars/Spacecraft component",
+    "object": "Mars Cube One (MarCO)"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Flyby of Mars/Closest approach",
+    "object": "26 November 2018, 19:52:59 UTC"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Flyby of Mars/Distance",
+    "object": "3,500 km (2,200 mi)"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Instruments/SEIS",
+    "object": "Seismic Experiment for Interior Structure"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Instruments/HP | 3",
+    "object": "Heat Flow and Physical Properties Package"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Instruments/RISE",
+    "object": "Rotation and Interior Structure Experiment"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "Instruments/TWINS",
+    "object": "Temperature and Winds for InSight"
+  },
+  {
+    "subject": "InSight",
+    "predicate": "InSight Mission Logo.svg | InSight mission logo | Discovery Program | ← | GRAIL | Lucy |  →",
+    "object": ""
+  }
+]

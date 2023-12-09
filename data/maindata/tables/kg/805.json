@@ -1,0 +1,98 @@
+[
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "category",
+    "object": "skier"
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Country",
+    "object": "Finland"
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Full name",
+    "object": "Matti Ensio Nykänen"
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Born",
+    "object": "17 July 1963, Jyväskylä, Finland"
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Died",
+    "object": "4 February 2019, Lappeenranta, Finland"
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Height",
+    "object": "1.74 m (5 ft 8 1/2 in)"
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Personal best",
+    "object": "191 m (627 ft), Planica, 15 March 1985"
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Image",
+    "object": "Matti Nykänen 2014-01-30 001.jpg"
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "World Cup career",
+    "object": {
+      "Seasons": "1981-1991",
+      "Individual wins": "46",
+      "Individual podiums": "76",
+      "Individual starts": "130",
+      "Overall titles": "4 (1983, 1985, 1986, 1988)",
+      "Four Hills titles": "2 (1983, 1988)"
+    }
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Olympic Games",
+    "object": [
+      "Gold medal - first place | 1984 Sarajevo | Individual LH",
+      "Gold medal - first place | 1988 Calgary | Individual NH",
+      "Gold medal - first place | 1988 Calgary | Individual LH",
+      "Gold medal - first place | 1988 Calgary | Team LH",
+      "Silver medal - second place | 1984 Sarajevo | Individual NH"
+    ]
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Ski Jumping World Championships",
+    "object": [
+      "Gold medal - first place | 1982 Oslo | Individual LH",
+      "Gold medal - first place | 1984 Engelberg | Team LH",
+      "Gold medal - first place | 1985 Seefeld | Team LH",
+      "Gold medal - first place | 1987 Oberstdorf | Team LH",
+      "Gold medal - first place | 1989 Lahti | Team LH",
+      "Silver medal - second place | 1987 Oberstdorf | Individual NH",
+      "Bronze medal - third place | 1982 Oslo | Team LH",
+      "Bronze medal - third place | 1985 Seefeld | Individual LH",
+      "Bronze medal - third place | 1989 Lahti | Individual LH"
+    ]
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Ski Flying World Championships",
+    "object": [
+      "Gold medal - first place | 1985 Planica | Individual",
+      "Silver medal - second place | 1990 Vikersund | Individual",
+      "Bronze medal - third place | 1983 Harrachov | Individual",
+      "Bronze medal - third place | 1986 Bad Mitterndorf | Individual",
+      "Bronze medal - third place | 1988 Oberstdorf | Individual"
+    ]
+  },
+  {
+    "subject": "Matti Nykänen",
+    "predicate": "Junior World Championships",
+    "object": [
+      "Gold medal - first place | 1981 Schonach | Individual NH"
+    ]
+  }
+]

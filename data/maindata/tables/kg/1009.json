@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "War of the Second Coalition",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "War of the Second Coalition",
+    "predicate": "Date",
+    "object": "29 November 1798 - 25 March 1802 | (3 years, 3 months, 3 weeks and 4 days)"
+  },
+  {
+    "subject": "War of the Second Coalition",
+    "predicate": "Location",
+    "object": "Europe, Middle East, Mediterranean Sea, Caribbean Sea"
+  },
+  {
+    "subject": "War of the Second Coalition",
+    "predicate": "Result",
+    "object": "French victory, Treaty of Lunéville, Treaty of Amiens | Survival of the French Republic | Previous annexations by France confirmed | Hostilities resume in 1803 with the formation of a Third Coalition against France"
+  },
+  {
+    "subject": "War of the Second Coalition",
+    "predicate": "Part of",
+    "object": "French Revolutionary Wars and the Coalition Wars"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Second Coalition",
+    "object": "Holy Roman Empire | (until 1801) | Habsburg Monarchy | Austria | (until 1801) | Great Britain | (pre-1801) | United Kingdom | (post-1801) | Russia | (until 1799) | Ottoman Empire | Egyptian Mamluks | (1798) | Ottoman Empire | Ottoman Syria | Naples | (until 1801) | Tuscany | Tuscany | (until 1801) | Portugal | Kingdom of France | French Royalists | Co-belligerents | Sovereign Military Order of Malta | Malta | (1798) | United States | (Quasi-War) | (until 1800)"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "French Republic",
+    "object": "Spain | Spain | Polish Legions | French client republics | Batavian Republic | Kingdom of Italy (Napoleonic) | Cisalpine Republic | Helvetic Republic | Helvetic Republic | Kingdom of Italy (Napoleonic) | Parthenopean Republic | (1799) | Egyptian Mamluks | (1798 - 1801) | Kingdom of Italy (Napoleonic) | Roman Republic | (until 1799)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Habsburg Monarchy",
+    "object": "Francis II"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Kingdom of Naples",
+    "object": "Ferdinand IV"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Sovereign Military Order of Malta",
+    "object": "Ferdinand von Hompesch zu Bolheim | Surrendered"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Ottoman Empire",
+    "object": "Selim III"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Portugal",
+    "object": "Mary I"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Russian Empire",
+    "object": "Paul I | (Until 1799)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Tuscany",
+    "object": "Ferdinand III"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "United Kingdom of Great Britain and Ireland",
+    "object": "William Pitt | (Until 1801)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "United Kingdom of Great Britain and Ireland",
+    "object": "Henry Addington | (From 1801)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "United States",
+    "object": "John Adams"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "French First Republic",
+    "object": "Paul Barras | (Until 1799)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "French First Republic",
+    "object": "Napoleon Bonaparte | (From 1799)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Spain",
+    "object": "Charles IV"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Habsburg Monarchy",
+    "object": "200,000 killed and wounded | 140,000 captured"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "French First Republic",
+    "object": "75,000 killed in combat | 140,000 captured"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {"subject": "Draško Nenadić", "predicate": "category", "object": "handball"},
+  {"subject": "Draško Nenadić", "predicate": "image", "object": "Draško Nenadić 1.jpg"},
+  {"subject": "Draško Nenadić", "predicate": "born", "object": "15 February 1990"},
+  {"subject": "Draško Nenadić", "predicate": "nationality", "object": "Serbian"},
+  {"subject": "Draško Nenadić", "predicate": "height", "object": "2.03 m (6 ft 8 in)"},
+  {"subject": "Draško Nenadić", "predicate": "playing position", "object": "left back"},
+  {"subject": "Draško Nenadić", "predicate": "current club", "object": "RK Crvena zvezda"},
+  {"subject": "Draško Nenadić", "predicate": "number", "object": "5"},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2007-2010", "team": "RK Crvena zvezda"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2010-2012", "team": "BM Granollers"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2012-2013", "team": "BM Guadalajara"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2013-2015", "team": "SG Flensburg-Handewitt"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2015-2016", "team": "HSV Hamburg"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2017", "team": "Füchse Berlin"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2018", "team": "Bjerringbro-Silkeborg"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2018-2019", "team": "RK Celje"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2019-2020", "team": "BM Granollers"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2020-2021", "team": "HSC 2000 Coburg"}},
+  {"subject": "Draško Nenadić", "predicate": "senior club", "object": {"years": "2021-", "team": "RK Crvena zvezda"}},
+  {"subject": "Draško Nenadić", "predicate": "national team", "object": {"years": "2012-", "team": "Serbia", "appearances": "32", "goals": "32"}}
+]

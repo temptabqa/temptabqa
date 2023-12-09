@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "Emmanuel Amoroso | CBE FRCS FRCOG FRS",
+    "predicate": "category",
+    "object": "scientist"
+  },
+  {
+    "subject": "Emmanuel Amoroso | CBE FRCS FRCOG FRS",
+    "predicate": "Born",
+    "object": "Emmanuel Ciprian Amoroso | ( | 1901-09-16 | ) | 16 September 1901 | Woodbrook, Port of Spain, Trinidad and Tobago, West Indies"
+  },
+  {
+    "subject": "Emmanuel Amoroso | CBE FRCS FRCOG FRS",
+    "predicate": "Died",
+    "object": "30 October 1982 | (1982-10-30) | (aged 81) | Leeds, England, United Kingdom"
+  },
+  {
+    "subject": "Emmanuel Amoroso | CBE FRCS FRCOG FRS",
+    "predicate": "Other names",
+    "object": "E. C. Amoroso"
+  },
+  {
+    "subject": "Emmanuel Amoroso | CBE FRCS FRCOG FRS",
+    "predicate": "Awards",
+    "object": "BSc 1926 | MB BCh BAO NUI 1929 | PhD London 1934 | FRS 1957 | FRCS by election 1960 | Hon DSc NUI 1963 | FRCOG 1965 | FRCP 1966 | Hon DVSc Chile 1966 | Hon DSc Illinois 1967 | CBE 1969 | Hon DSc Nottingham 1970 | Hon DSc West Indies 1971 | FRCPath 1973 | Hon DSc Guelph 1976 | Trinity Cross 1977"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Fields",
+    "object": "Reproductive physiology and developmental biology"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Institutions",
+    "object": "Royal Veterinary College | University College London"
+  }
+]

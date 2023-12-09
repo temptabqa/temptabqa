@@ -1,0 +1,121 @@
+[
+  {
+    "subject": "Burgundian State",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Status",
+    "object": "Personal union"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Common languages",
+    "object": "Latin, Middle French, Middle Dutch"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Religion",
+    "object": "Roman Catholicism"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Government",
+    "object": "Monarchy"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Duke of Burgundy"
+  },
+  {
+    "subject": "Philip the Bold",
+    "predicate": "Duke of Burgundy",
+    "object": "1363-1404"
+  },
+  {
+    "subject": "John the Fearless",
+    "predicate": "Duke of Burgundy",
+    "object": "1404-1419"
+  },
+  {
+    "subject": "Philip the Good",
+    "predicate": "Duke of Burgundy",
+    "object": "1419-1467"
+  },
+  {
+    "subject": "Charles the Bold",
+    "predicate": "Duke of Burgundy",
+    "object": "1467-1477"
+  },
+  {
+    "subject": "Mary of Burgundy",
+    "predicate": "Duke of Burgundy",
+    "object": "1477-1482"
+  },
+  {
+    "subject": "Philip the Handsome",
+    "predicate": "Duke of Burgundy",
+    "object": "1482-1506"
+  },
+  {
+    "subject": "Charles V",
+    "predicate": "Duke of Burgundy",
+    "object": "1506-1555"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Legislature",
+    "object": "States General of the Netherlands and Estates of Burgundy"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Historical era",
+    "object": "Late Middle Ages"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Accession to Flanders",
+    "object": "30 January 1384"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Treaty of Arras",
+    "object": "21 September 1435"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Battle of Nancy",
+    "object": "5 January 1477"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Mary's death",
+    "object": "27 March 1482"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Creation of the Burgundian Circle",
+    "object": "1512"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Flag",
+    "object": "Flag of Valois Burgundy | Bandera cruz de Borgoña 3.svg | Above: Ducal banner | Below: Cross of Burgundy | of Valois Burgundy | Coat of arms"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Greatest extent",
+    "object": "under Charles the Bold"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Succeeded by",
+    "object": "Habsburg Monarchy"
+  },
+  {
+    "subject": "Burgundian State",
+    "predicate": "Succeeded by",
+    "object": "Kingdom of France"
+  }
+]

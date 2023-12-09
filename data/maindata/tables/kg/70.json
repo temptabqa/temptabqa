@@ -1,0 +1,127 @@
+[
+  {
+    "subject": "Sam Snead",
+    "predicate": "isRelatedTo",
+    "object": "golf"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasImage",
+    "object": "Sam Snead 1967.JPG"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasFullName",
+    "object": "Samuel Jackson Snead"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasNickname",
+    "object": "The Slammer | Slammin' Sammy"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "diedOn",
+    "object": "May 23, 2002"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasHeight",
+    "object": "5 ft 11 in (180 cm)"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasWeight",
+    "object": "185 lb (84 kg)"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasSportingNationality",
+    "object": "United States"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasSpouse",
+    "object": "Audrey Karnes Snead"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasChildren",
+    "object": "Sam Jr., Terrence"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "turnedProfessionalIn",
+    "object": "1934"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasFormerTours",
+    "object": "PGA Tour | Champions Tour"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasProfessionalWins",
+    "object": "142"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasPGATourWins",
+    "object": "82 (Tied 1st all time)"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasLPGATourWins",
+    "object": "1"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasOtherWins",
+    "object": "45 (regular) | 14 (senior)"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasMastersTournamentWins",
+    "object": "1949, 1952, 1954"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasPGAChampionshipWins",
+    "object": "1942, 1949, 1951"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasUSOpenResults",
+    "object": "2nd/T2: 1937, 1947, 1949, 1953"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasTheOpenChampionshipWins",
+    "object": "1946"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasWorldGolfHallOfFameInduction",
+    "object": "1974"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasPGALeadingMoneyWinner",
+    "object": "1938, 1949, 1950"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasPGAGolferOfTheYear",
+    "object": "1949"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasVardonTrophy",
+    "object": "1938, 1949, 1950, 1955"
+  },
+  {
+    "subject": "Sam Snead",
+    "predicate": "hasPGATourLifetimeAchievementAward",
+    "object": "1998"
+  }
+]

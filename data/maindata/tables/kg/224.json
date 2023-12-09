@@ -1,0 +1,142 @@
+[
+  {
+    "subject": "HMS Somerset",
+    "predicate": "category",
+    "object": "ship"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Name",
+    "object": "HMS | Somerset"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Operator",
+    "object": "Royal Navy"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Ordered",
+    "object": "January 1992"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Builder",
+    "object": "Yarrow Shipbuilders"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Laid down",
+    "object": "12 October 1992"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Launched",
+    "object": "25 June 1994"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Sponsored by",
+    "object": "Lady Layard"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Commissioned",
+    "object": "20 September 1996"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Refit",
+    "object": "Major 2012-2013, LIFEX 2019 onwards"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Homeport",
+    "object": "HMNB Devonport, Plymouth"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Identification",
+    "object": "IMO number: 8949680 | MMSI number: 234635000 | Callsign: GDIP"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Motto",
+    "object": "Foy pour Devoir | 'Faith for Duty'"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Status",
+    "object": "in active service"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Badge",
+    "object": "Hms Somerset badge.gif"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Class and type",
+    "object": "Type 23 Frigate"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Displacement",
+    "object": "4,900 t (4,800 long tons; 5,400 short tons)"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Length",
+    "object": "133 m (436 ft 4 in)"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Beam",
+    "object": "16.1 m (52 ft 10 in)"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Draught",
+    "object": "7.3 m (23 ft 11 in)"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Propulsion",
+    "object": "CODLAG | Four 1510 kW (2,025 shp) Paxman Valenta 12CM diesel generators | Two GEC electric motors delivering 2980kW (4000 shp) | Two Rolls-Royce Spey SM1C delivering 23,190 kW (31,100 shp)"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Speed",
+    "object": "In excess of 28 kn (52 km/h; 32 mph)"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Range",
+    "object": "7,500 nautical miles (14,000 km) at 15 kn (28 km/h)"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Complement",
+    "object": "185 (accommodation for up to 205)"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Electronic warfare & decoys",
+    "object": "UAF-1 ESM, | or | , UAT Mod 1 | Seagnat | Type 182 towed torpedo decoy | Surface Ship Torpedo Defence"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Armament",
+    "object": "Anti-air missiles | 1 × 32-cell GWS 35 Vertical Launching System (VLS) for | 32 × Sea Ceptor missiles (1-25+ km) | Anti-ship missiles | Up to 2 × quad Harpoon launchers (8 × missiles) | Anti-submarine torpedoes | 2 × twin 12.75 | in (324 | mm) Sting Ray torpedo tubes | Guns | 1 × BAE 4.5 | inch Mk | 8 naval gun | 2 × 30 | mm DS30M Mk2 guns, | or | , 2 × 30 | mm DS30B guns | 2 × Miniguns | 4 × General-purpose machine gun"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Aircraft carried",
+    "object": "1 × Westland Wildcat HMA2, armed with; | 2 × anti submarine torpedoes | or | 1 × Westland Merlin HM2, armed with; | 4 × anti submarine torpedoes"
+  },
+  {
+    "subject": "HMS Somerset",
+    "predicate": "Aviation facilities",
+    "object": "Flight deck | Enclosed hangar"
+  }
+]

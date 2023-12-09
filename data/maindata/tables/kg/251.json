@@ -1,0 +1,177 @@
+[
+  {
+    "subject": "Economy",
+    "predicate": "is in",
+    "object": "Mongolia"
+  },
+  {
+    "subject": "Currency",
+    "predicate": "is",
+    "object": "Mongolian tögrög (MNT, ₮)"
+  },
+  {
+    "subject": "Fiscal year",
+    "predicate": "is",
+    "object": "Calendar year"
+  },
+  {
+    "subject": "Country group",
+    "predicate": "is",
+    "object": "Developing/Emerging | Lower-middle income economy"
+  },
+  {
+    "subject": "Population",
+    "predicate": "is",
+    "object": "3,170,208 (2018)"
+  },
+  {
+    "subject": "GDP",
+    "predicate": "is",
+    "object": "$14.233 billion (nominal, 2021 est.) | $42.412 billion (PPP, 2021)"
+  },
+  {
+    "subject": "GDP rank",
+    "predicate": "is",
+    "object": "132th (nominal, 2021) | 122th (PPP, 2021)"
+  },
+  {
+    "subject": "GDP growth",
+    "predicate": "is",
+    "object": "6.9% (2018) 4.8% (2019e) | −0.5% (2020f) 4.9% (2021f)"
+  },
+  {
+    "subject": "GDP per capita",
+    "predicate": "is",
+    "object": "$4,172 (nominal, 2021 est.) | $12,431 (PPP, 2021 est.)"
+  },
+  {
+    "subject": "GDP per capita rank",
+    "predicate": "is",
+    "object": "106th (nominal, 2021) | 100th (PPP, 2021)"
+  },
+  {
+    "subject": "GDP by sector",
+    "predicate": "is",
+    "object": "agriculture: 12.1% | industry: 38.2% | services: 49.7% | (2017 est.)"
+  },
+  {
+    "subject": "Inflation (CPI)",
+    "predicate": "is",
+    "object": "14.3% (2022 est.)"
+  },
+  {
+    "subject": "Population below poverty line",
+    "predicate": "is",
+    "object": "28.4% (2018) | 5.6% on less than $3.20 (2018)"
+  },
+  {
+    "subject": "Gini coefficient",
+    "predicate": "is",
+    "object": "32.7 | medium | (2018)"
+  },
+  {
+    "subject": "Human Development Index",
+    "predicate": "is",
+    "object": "0.735 | high | (2018) (92nd) | 0.635 | medium | IHDI (2018)"
+  },
+  {
+    "subject": "Labor force by occupation",
+    "predicate": "is",
+    "object": "agriculture: 31.1% | industry: 18.5% | services: 50.5% | (2016)"
+  },
+  {
+    "subject": "Unemployment",
+    "predicate": "is",
+    "object": "6.3% (2020 est.) | 9.9% (Q3, 2019) | 16.8% youth unemployment (2018)"
+  },
+  {
+    "subject": "Main industries",
+    "predicate": "is",
+    "object": "construction and construction materials, mining (coal, copper, molybdenum, fluorspar, tin, tungsten, and gold), oil, food and beverages, processing of animal products, cashmere wool and natural fiber manufacturing"
+  },
+  {
+    "subject": "Ease-of-doing-business rank",
+    "predicate": "is",
+    "object": "81st (easy, 2020)"
+  },
+  {
+    "subject": "Exports",
+    "predicate": "are",
+    "object": "$5.834 billion (2017 est.)"
+  },
+  {
+    "subject": "Export goods",
+    "predicate": "are",
+    "object": "copper, apparel, livestock, animal products, cashmere, wool, hides, fluorspar, other nonferrous metals, coal, crude oil"
+  },
+  {
+    "subject": "Main export partners",
+    "predicate": "are",
+    "object": "China(+) 85% | United Kingdom(+) 10.7% | (2017)"
+  },
+  {
+    "subject": "Imports",
+    "predicate": "are",
+    "object": "$4.345 billion (2017 est.)"
+  },
+  {
+    "subject": "Import goods",
+    "predicate": "are",
+    "object": "machinery and equipment, fuel, cars, food products, industrial consumer goods, chemicals, building materials, cigarettes and tobacco, appliances, soap and detergent"
+  },
+  {
+    "subject": "Main import partners",
+    "predicate": "are",
+    "object": "China(+) 32.6% | Russia(+) 28.1% | Japan(+) 8.4% | United States(+) 4.8% | South Korea(+) 4.6% | (2017)"
+  },
+  {
+    "subject": "FDI stock",
+    "predicate": "is",
+    "object": "$18.02 billion (31 December 2017 est.) | Abroad: $495 million (31 December 2017 est.)"
+  },
+  {
+    "subject": "Current account",
+    "predicate": "is",
+    "object": "−$1.155 billion (2017 est.)"
+  },
+  {
+    "subject": "Gross external debt",
+    "predicate": "is",
+    "object": "$25.33 billion (31 December 2017 est.)"
+  },
+  {
+    "subject": "Public debt",
+    "predicate": "is",
+    "object": "91.4% of GDP (2017 est.)"
+  },
+  {
+    "subject": "Budget balance",
+    "predicate": "is",
+    "object": "−6.4% (of GDP) (2017 est.)"
+  },
+  {
+    "subject": "Revenues",
+    "predicate": "are",
+    "object": "2.967 billion (2017 est.)"
+  },
+  {
+    "subject": "Expenses",
+    "predicate": "are",
+    "object": "3.681 billion (2017 est.)"
+  },
+  {
+    "subject": "Economic aid",
+    "predicate": "is",
+    "object": "$185.94 million (2008)"
+  },
+  {
+    "subject": "Credit rating",
+    "predicate": "is",
+    "object": "Standard & Poor's | BB- (Domestic) | BB- (Foreign) | BB (T&C Assessment) | Outlook: Stable | Moody's | B1 | Outlook: Stable | Fitch | B+ | Outlook: Stable"
+  },
+  {
+    "subject": "Foreign reserves",
+    "predicate": "are",
+    "object": "$3.016 billion (31 December 2017 est.)"
+  }
+]

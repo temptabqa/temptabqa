@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Venabygd Church",
+    "predicate": "isA",
+    "object": "church"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasLocation",
+    "object": "Ringebu Municipality, Innlandet"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "isInCountry",
+    "object": "Norway"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasDenomination",
+    "object": "Church of Norway"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasPreviousDenomination",
+    "object": "Catholic Church"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasChurchmanship",
+    "object": "Evangelical Lutheran"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasHistoryStatus",
+    "object": "Parish church"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "wasFoundedIn",
+    "object": "13th century"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "wasConsecratedIn",
+    "object": "1780"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasFunctionalStatus",
+    "object": "Active"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasArchitecturalType",
+    "object": "Long church"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "wasCompletedIn",
+    "object": "1780"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasCapacity",
+    "object": "170"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "isMadeOf",
+    "object": "Wood"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "belongsToDiocese",
+    "object": "Hamar bispedømme"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "belongsToDeanery",
+    "object": "Sør-Gudbrandsdal prosti"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "belongsToParish",
+    "object": "Venabygd"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "isTypeOf",
+    "object": "Norwegian Cultural Heritage Site"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasHeritageSiteStatus",
+    "object": "Automatically protected"
+  },
+  {
+    "subject": "Venabygd kyrkje",
+    "predicate": "hasHeritageSiteID",
+    "object": "85803"
+  }
+]

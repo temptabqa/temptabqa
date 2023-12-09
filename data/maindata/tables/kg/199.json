@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Judo | Women's 63 kg | at the 2021 African Judo Championships",
+    "predicate": "category",
+    "object": "sports event"
+  },
+  {
+    "subject": "Judo | Women's 63 kg | at the 2021 African Judo Championships",
+    "predicate": "Venue",
+    "object": "Dakar Arena"
+  },
+  {
+    "subject": "Judo | Women's 63 kg | at the 2021 African Judo Championships",
+    "predicate": "Location",
+    "object": "Dakar, Senegal"
+  },
+  {
+    "subject": "Judo | Women's 63 kg | at the 2021 African Judo Championships",
+    "predicate": "Date",
+    "object": "21 May 2021"
+  },
+  {
+    "subject": "Judo | Women's 63 kg | at the 2021 African Judo Championships",
+    "predicate": "Competitors",
+    "object": "11 from 9 nations"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "gold medal",
+    "object": "Sarah Harachi | Morocco"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "silver medal",
+    "object": "Sandrine Billiet | Cape Verde"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "bronze medal",
+    "object": "Amina Belkadi | Algeria"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "bronze medal",
+    "object": "Meriem Bjaoui | Tunisia"
+  },
+  {
+    "subject": "Competition at external databases",
+    "predicate": "Links",
+    "object": "IJF JudoInside"
+  },
+  {
+    "subject": "Competition at external databases",
+    "predicate": "Competition at external databases",
+    "object": "← 2020 | 2022 →"
+  }
+]

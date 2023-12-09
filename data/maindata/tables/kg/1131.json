@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "W.4",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "Role",
+    "object": "Fighter | Type of aircraft"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "Manufacturer",
+    "object": "Albatros Flugzeugwerke"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "First flight",
+    "object": "1916"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "Retired",
+    "object": "1918"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "Primary user",
+    "object": "Luftstreitkräfte"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "Produced",
+    "object": "1916-1917"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "Number built",
+    "object": "118"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "image",
+    "object": "Albatros W.IV No747 01.jpg"
+  },
+  {
+    "subject": "W.4",
+    "predicate": "description",
+    "object": "First prototype of Albatros W.IV, No.747"
+  }
+]

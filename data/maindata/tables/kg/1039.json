@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "category",
+    "object": "earthquake"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "UTC time",
+    "object": "1977-03-04 19:21:57"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "ISC event",
+    "object": "700695"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "USGS-ANSS",
+    "object": "ComCat"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Local date",
+    "object": "4 March 1977 (1977-03-04)"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Local time",
+    "object": "21:21:57"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Duration",
+    "object": "55 seconds"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Magnitude",
+    "object": "7.5 Mw"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Depth",
+    "object": "85.3 kilometres (53 mi)"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Epicenter",
+    "object": "45.77°N 26.76°E"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Areas affected",
+    "object": "Romania, Bulgaria, Soviet Union, Moldavian SSR, Ukrainian SSR"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Total damage",
+    "object": "US$ 2.048 billion"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Maximum intensity",
+    "object": "IX (Violent)"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Landslides",
+    "object": "Yes"
+  },
+  {
+    "subject": "1977 Vrancea earthquake",
+    "predicate": "Casualties",
+    "object": "1,578 dead, 11,221 injured in Romania, 120 dead, 165 injured in Bulgaria, 2 dead in Moldova"
+  }
+]

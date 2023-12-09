@@ -1,0 +1,20 @@
+[
+  {"subject": "Torgny Mogren", "predicate": "category", "object": "skier"},
+  {"subject": "Torgny Mogren", "predicate": "Country", "object": "Sweden"},
+  {"subject": "Torgny Mogren", "predicate": "Full name", "object": "Nils Arne Torgny Mogren"},
+  {"subject": "Torgny Mogren", "predicate": "Born", "object": "26 July 1963, Hällefors, Sweden"},
+  {"subject": "Torgny Mogren", "predicate": "Ski club", "object": "Åsarna IK"},
+  {"subject": "Torgny Mogren", "predicate": "photo", "object": "Torgny Mogren (crop).jpg | Mogren during the 1992 Winter Olympics"},
+  {"subject": "World Cup career", "predicate": "Seasons", "object": "15 - (1984-1998)"},
+  {"subject": "World Cup career", "predicate": "Individual wins", "object": "13"},
+  {"subject": "World Cup career", "predicate": "Team wins", "object": "11"},
+  {"subject": "World Cup career", "predicate": "Individual podiums", "object": "37"},
+  {"subject": "World Cup career", "predicate": "Team podiums", "object": "29"},
+  {"subject": "World Cup career", "predicate": "Individual starts", "object": "137"},
+  {"subject": "World Cup career", "predicate": "Team starts", "object": "40"},
+  {"subject": "World Cup career", "predicate": "Overall titles", "object": "1 - (1987)"},
+  {"subject": "World Cup career", "predicate": "Discipline titles", "object": "0"},
+  {"subject": "Torgny Mogren", "predicate": "Representing", "object": "Sweden"},
+  {"subject": "Torgny Mogren", "predicate": "Olympic Games", "object": "1 gold medal in 4 × 10 km relay (1988 Calgary)"},
+  {"subject": "Torgny Mogren", "predicate": "World Championships", "object": "4 gold medals (1987 Oberstdorf 4 × 10 km relay, 1989 Lahti 4 × 10 km relay, 1991 Val di Fiemme 50 km freestyle, 1993 Falun 50 km freestyle), 3 silver medals (1989 Lahti 15 km freestyle, 1989 Lahti 50 km freestyle, 1991 Val di Fiemme 4 × 10 km relay), and 2 bronze medals (1987 Oberstdorf 50 km freestyle, 1991 Val di Fiemme 10 km classical)"}
+]

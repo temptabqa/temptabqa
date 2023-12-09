@@ -1,0 +1,52 @@
+[
+  {
+    "subject": {"name": "Insurgency in Laos", "category": "proxy war"},
+    "predicate": "is part of",
+    "object": "the Third Indochina War"
+  },
+  {
+    "subject": "Insurgency in Laos",
+    "predicate": "date",
+    "object": "2 December 1975 - present"
+  },
+  {
+    "subject": "Insurgency in Laos",
+    "predicate": "location",
+    "object": "Southern Laos (royalists and rightists); Central and Northern Laos (Hmong rebels)"
+  },
+  {
+    "subject": "Insurgency in Laos",
+    "predicate": "status",
+    "object": "Ongoing low-intensity conflict | 2007 Hmong-led coup attempt against the Lao government foiled; alleged plotters tried and exonerated in the U.S."
+  },
+  {
+    "subject": "Laos | Lao People's Revolutionary Party",
+    "predicate": "supported by",
+    "object": "Vietnam (from 1976) | North Vietnam (until 1976) | Soviet Union (until 1989)"
+  },
+  {
+    "subject": "Hmong insurgents",
+    "predicate": "supported by",
+    "object": "Thailand (until 1990) | United States (until 1990) | Neo Hom (1981-2007)"
+  },
+  {
+    "subject": "Royalists | Lao National Liberation Front | Royal Lao Democratic Government (1982)",
+    "predicate": "supported by",
+    "object": "Royal Lao Government in Exile | China (until 1988) | Cambodia | Democratic Kampuchea (until 1979)"
+  },
+  {
+    "subject": "Cambodia | Khmer Rouge",
+    "predicate": "related to",
+    "object": "Insurgency in Laos"
+  },
+  {
+    "subject": "Cambodia | Party of Democratic Kampuchea (1981-1990)",
+    "predicate": "related to",
+    "object": "Insurgency in Laos"
+  },
+  {
+    "subject": "Rightists | United Front for the Liberation of Laos",
+    "predicate": "supported by",
+    "object": "Thailand (early to mid-1980s)"
+  }
+]

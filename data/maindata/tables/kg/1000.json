@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Portuguese Colonial War",
+    "predicate": "is part of",
+    "object": "Decolonisation of Africa and the Cold War"
+  },
+  {
+    "subject": "Portuguese Colonial War",
+    "predicate": "Date",
+    "object": "4 February 1961 - 25 April 1974"
+  },
+  {
+    "subject": "Portuguese Colonial War",
+    "predicate": "Location",
+    "object": "Angola, Guinea-Bissau, and Mozambique"
+  },
+  {
+    "subject": "Portuguese Colonial War",
+    "predicate": "Result",
+    "object": "Carnation Revolution and End of the Portuguese Empire"
+  },
+  {
+    "subject": "Portuguese Colonial War",
+    "predicate": "Territorial changes",
+    "object": "Portuguese overseas territories in Africa become independent"
+  },
+  {
+    "subject": "Portugal",
+    "predicate": "Supported by",
+    "object": "South Africa, Rhodesia, Malawi, Swaziland, Spain"
+  },
+  {
+    "subject": "MPLA, FNLA, UNITA, FLEC, PAIGC, Mozambique, FRELIMO",
+    "predicate": "Supported by",
+    "object": "Soviet Union, Cuba, China, United States, United Kingdom, Zaire, Algeria, Tunisia, Tanzania, Zambia, Senegal, Guinea, Republic of the Congo, Congo, Egypt, Bulgaria, Czechoslovakia, Romania, Brazil, Sweden, Yugoslavia, Panama"
+  },
+  {
+    "subject": "Portugal",
+    "predicate": "Commanders",
+    "object": "António de Oliveira Salazar, Marcelo Caetano, Américo Tomás, Francisco da Costa Gomes, Arnaldo Schulz, António de Spínola, José Manuel Bettencourt Rodrigues, António Augusto dos Santos, Kaúlza de Arriaga"
+  },
+  {
+    "subject": "Angola, Portuguese Guinea, Mozambique",
+    "predicate": "Commanders",
+    "object": "Agostinho Neto, José Eduardo dos Santos, Lúcio Lara, Holden Roberto, Jonas Savimbi, Amílcar Cabral, Luís Cabral, João Bernardo Vieira, Domingos Ramos, Pansau Na Isna, Francisco Mende, Eduardo Mondlane, Joaquim Chissano, Filipe Samuel Magaia, Samora Machel"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "total men mobilized",
+    "object": "800,000 for military and civilian support service"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Average men deployed in Africa every year",
+    "object": "107,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "guerillas",
+    "object": "40,000-60,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "in Angola",
+    "object": "30,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "in Portuguese Guinea",
+    "object": "10,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "in Mozambique",
+    "object": "10-15,000"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Portugal",
+    "object": "16,278 killed, 15,507 wounded"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "African troops executed by PAIGC",
+    "object": "7,447"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Angola, Portuguese Guinea, Mozambique",
+    "object": "26,000 killed, unknown wounded"
+  },
+  {
+    "subject": "Civilian casualties",
+    "predicate": "Mozambique",
+    "object": "50,000 killed"
+  },
+  {
+    "subject": "Civilian casualties",
+    "predicate": "Angola",
+    "object": "50,000 killed"
+  },
+  {
+    "subject": "Civilian casualties",
+    "predicate": "Portuguese Guinea",
+    "object": "5,000 killed"
+  },
+  {
+    "subject": "Civilian casualties",
+    "predicate": "white settlers",
+    "object": "5,000 killed"
+  }
+]

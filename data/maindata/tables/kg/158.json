@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Mathias Boe",
+    "predicate": "category",
+    "object": "badminton"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "image",
+    "object": "Yonex IFB 2013 - Quarterfinal - Liu Xiaolong - Qiu Zihan vs Mathias Boe - Carsten Mogensen 11.jpg"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "Country",
+    "object": "Denmark"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "Height",
+    "object": "1.85 m (6 ft 1 in)"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "Retired",
+    "object": "23 April 2020"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "Handedness",
+    "object": "Left"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "Men's doubles Highest ranking",
+    "object": "1 (with Carsten Mogensen 11 November 2010)"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "Olympic Games",
+    "object": "Silver medal - second place | 2012 London | Men's doubles"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "World Championships",
+    "object": ["Silver medal - second place | 2013 Guangzhou | Men's doubles", "Bronze medal - third place | 2014 Copenhagen | Men's doubles"]
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "Sudirman Cup",
+    "object": ["Silver medal - second place | 2011 Qingdao | Mixed team", "Bronze medal - third place | 2013 Kuala Lumpur | Mixed team"]
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "Thomas Cup",
+    "object": ["Gold medal - first place | 2016 Kunshan | Men's team", "Bronze medal - third place | 2012 Wuhan | Men's team", "Bronze medal - third place | 2018 Bangkok | Men's team"]
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "European Games",
+    "object": "Gold medal - first place | 2015 Baku | Men's doubles"
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "European Championships",
+    "object": ["Gold medal - first place | 2012 Karlskrona | Men's doubles", "Gold medal - first place | 2017 Kolding | Men's doubles", "Silver medal - second place | 2006 Den Bosch | Men's doubles", "Silver medal - second place | 2010 Manchester | Men's doubles", "Bronze medal - third place | 2014 Kazan | Men's doubles"]
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "European Mixed Team Championships",
+    "object": ["Gold medal - first place | 2015 Leuven | Mixed team", "Gold medal - first place | 2017 Lubin | Mixed team", "Silver medal - second place | 2013 Moscow | Mixed team"]
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "European Men's Team Championships",
+    "object": ["Gold medal - first place | 2006 Thessalonica | Men's team", "Gold medal - first place | 2008 Almere | Men's team", "Gold medal - first place | 2010 Warsaw | Men's team", "Gold medal - first place | 2012 Amsterdam | Men's team", "Gold medal - first place | 2014 Basel | Men's team", "Gold medal - first place | 2016 Kazan | Men's team", "Gold medal - first place | 2020 Liévin | Men's team"]
+  },
+  {
+    "subject": "Mathias Boe",
+    "predicate": "European Junior Championships",
+    "object": ["Gold medal - first place | 1999 Glasgow | Boys' doubles", "Gold medal - first place | 1999 Glasgow | Mixed doubles", "Bronze medal - third place | 1999 Glasgow | Mixed team", "BWF profile"]
+  }
+]

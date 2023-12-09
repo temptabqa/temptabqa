@@ -1,0 +1,157 @@
+[
+  {
+    "subject": "Hungary",
+    "predicate": "category",
+    "object": "legislature"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "flag and coat of arms",
+    "object": ["Flag of Hungary", "Coat of arms of Hungary"]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "anthem",
+    "object": "Himnusz"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "capital and largest city",
+    "object": "Budapest"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "official languages",
+    "object": "Hungarian"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "ethnic groups",
+    "object": ["98.3% Hungarians", "3.2% Romani", "1.8% Germans", "1% not declared"]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "religion",
+    "object": ["54.3% Christianity", "39.0% Catholicism", "11.8% Protestantism", "3.5% Other Christian", "18.2% No religion", "0.3% Others", "27.2% No answer"]
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "demonym",
+    "object": "Hungarian"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "government",
+    "object": "Unitary parliamentary republic"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "President",
+    "object": "Katalin Novák"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "Prime Minister",
+    "object": "Viktor Orbán"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "Speaker of the National Assembly",
+    "object": "László Kövér"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "legislature",
+    "object": "National Assembly"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "foundation",
+    "object": {
+      "Principality of Hungary": "895",
+      "Christian Kingdom": "25 December 1000",
+      "Golden Bull of 1222": "24 April 1222",
+      "Battle of Mohács": "29 August 1526",
+      "Liberation of Buda": "2 September 1686",
+      "Revolution of 1848": "15 March 1848",
+      "Austro-Hungarian Empire": "30 March 1867",
+      "Treaty of Trianon": "4 June 1920",
+      "Third Republic": "23 October 1989",
+      "Joined NATO": "12 March 1999",
+      "Joined the European Union": "1 May 2004"
+    }
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "area",
+    "object": {
+      "total": "93,030 km2",
+      "water (%)": "3.7"
+    }
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "population",
+    "object": {
+      "2021 estimate": "9,730,000",
+      "density": "105/km2"
+    }
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "GDP",
+    "object": {
+      "PPP": "2021 estimate",
+      "total": "$180.959 billion",
+      "per capita": "$18,527",
+      "nominal": "2021 estimate",
+      "Gini (2020)": "28.3",
+      "HDI (2019)": "0.854"
+    }
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "currency",
+    "object": "Forint (HUF)"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "time zone",
+    "object": "UTC+1 (CET)"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "summer (DST)",
+    "object": "UTC+2 (CEST)"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "date format",
+    "object": "yyyy.mm.dd."
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "driving side",
+    "object": "right"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "calling code",
+    "object": "+36"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "ISO 3166 code",
+    "object": "HU"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "internet TLD",
+    "object": ".hu"
+  },
+  {
+    "subject": "European Union member states",
+    "predicate": "shared .eu domain",
+    "object": "true"
+  }
+]

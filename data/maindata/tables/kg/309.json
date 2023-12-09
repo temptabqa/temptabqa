@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "category",
+    "object": "painter"
+  },
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "Born",
+    "object": "( | 1814-08-14 | ) | 14 August 1814 | Mandal, Vest-Agder, Norway"
+  },
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "Died",
+    "object": "8 August 1876 | (1876-08-08) | (aged 61) | Christiania, United Kingdoms of Sweden and Norway"
+  },
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "Nationality",
+    "object": "Norwegian"
+  },
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "Education",
+    "object": "Kunstakademie Düsseldorf"
+  },
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "Known for",
+    "object": "Painting"
+  },
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "Notable work",
+    "object": "Landscape paintings"
+  },
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "Movement",
+    "object": "Norwegian romanticist"
+  },
+  {
+    "subject": "Adolph Tidemand",
+    "predicate": "Self-portrait",
+    "object": "Adolph Tidemand Selvportrett.jpg (1838)"
+  }
+]

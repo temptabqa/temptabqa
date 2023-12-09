@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Bill Barry",
+    "predicate": "category",
+    "object": "office holder"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Minister of Health",
+    "object": ""
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "In office",
+    "object": "21 November 1945 - 20 November 1947"
+  },
+  {
+    "subject": "21 November 1945 - 20 November 1947",
+    "predicate": "Premier",
+    "object": "John Cain"
+  },
+  {
+    "subject": "21 November 1945 - 20 November 1947",
+    "predicate": "Preceded by",
+    "object": "William Everard"
+  },
+  {
+    "subject": "21 November 1945 - 20 November 1947",
+    "predicate": "Succeeded by",
+    "object": "Alexander Dennett"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "In office",
+    "object": "17 December 1952 - 31 March 1955"
+  },
+  {
+    "subject": "17 December 1952 - 31 March 1955",
+    "predicate": "Preceded by",
+    "object": "Bill Fulton"
+  },
+  {
+    "subject": "17 December 1952 - 31 March 1955",
+    "predicate": "Succeeded by",
+    "object": "Val Doube"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Minister of Housing",
+    "object": ""
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Minister of Forests",
+    "object": ""
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Member of",
+    "object": "Victorian Legislative Assembly for Carlton"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "In office",
+    "object": "10 July 1932 - 22 April 1955"
+  },
+  {
+    "subject": "10 July 1932 - 22 April 1955",
+    "predicate": "Preceded by",
+    "object": "Robert Solly"
+  },
+  {
+    "subject": "10 July 1932 - 22 April 1955",
+    "predicate": "Succeeded by",
+    "object": "Denis Lovegrove"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Born",
+    "object": "30 June 1899, Northcote, Victoria"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Died",
+    "object": "21 December 1972, Fitzroy, Victoria, Australia"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Resting place",
+    "object": "Melbourne General Cemetery"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Political party",
+    "object": "Labor Party"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Other political affiliations",
+    "object": "Australian Labor Party (Anti-Communist), Democratic Labor Party"
+  },
+  {
+    "subject": "Bill Barry",
+    "predicate": "Spouse(s)",
+    "object": "Mary Moodie (married 1926)"
+  }
+]

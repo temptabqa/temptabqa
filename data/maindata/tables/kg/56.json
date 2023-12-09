@@ -1,0 +1,44 @@
+{
+  "knowledge_graph": [
+    {
+      "subject": "Sanath Jayasuriya",
+      "predicate": "category",
+      "object": "cricket"
+    },
+    {
+      "subject": "Sanath Jayasuriya",
+      "predicate": "caption",
+      "object": "Deshabandu"
+    },
+    {
+      "subject": "Sanath Jayasuriya",
+      "predicate": "infobox-image",
+      "object": "Sanath jayasuriya portrait.jpg"
+    },
+    {
+      "subject": "Sanath Jayasuriya",
+      "predicate": "image_description",
+      "object": "Jayasuriya playing for Sri Lanka in 2008"
+    },
+    {
+      "subject": "Sanath Jayasuriya",
+      "predicate": "full_name",
+      "object": "Sanath Teran Jayasuriya"
+    },
+    {
+      "subject": "Sanath Jayasuriya",
+      "predicate": "born",
+      "object": "30 June 1969"
+    },
+    {
+      "subject": "Sanath Jayasuriya",
+      "predicate": "age",
+      "object": "52"
+    },
+    {
+      "subject": "Sanath Jayasuriya",
+      "predicate": "birth_place",
+      "object": "Matara, Ceylon"
+    },
+    {
+      "subject"

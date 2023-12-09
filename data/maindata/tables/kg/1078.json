@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "49th Parallel",
+    "predicate": "category",
+    "object": "movie"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Directed by",
+    "object": "Michael Powell"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Written by",
+    "object": "Original Story and Screenplay by | Emeric Pressburger | Scenario by | Rodney Ackland and Emeric Pressburger"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Produced by",
+    "object": "Michael Powell | John Sutro (Managing director of An Ortus Film Production)"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Starring",
+    "object": "Leslie Howard | Laurence Olivier | Anton Walbrook | Raymond Massey | Glynis Johns | Eric Portman"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Cinematography",
+    "object": "Frederick Young, F.R.P.S."
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Edited by",
+    "object": "David Lean"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Music by",
+    "object": "Ralph Vaughan Williams | Musical Director | Muir Mathieson | with | The London Symphony Orchestra"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Distributed by",
+    "object": "General Film Distributors LTD. (UK) | Columbia Pictures (US)"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Release dates",
+    "object": "8 October 1941 (United Kingdom; London premiere) | 24 November 1941 (United Kingdom) | 5 March 1942 (United States; New York City premiere) | 15 April 1942 (United States)"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Running time",
+    "object": "123 minutes"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Country",
+    "object": "United Kingdom"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Language",
+    "object": "English"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Budget",
+    "object": "£132,000"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "Box office",
+    "object": "£250,000 (in Britain) | $5 million (US/Canada)"
+  },
+  {
+    "subject": "49th Parallel",
+    "predicate": "49th Parallel",
+    "object": ["Forty ninth parallel (1941).jpg | Original Belgian film poster"]
+  }
+]

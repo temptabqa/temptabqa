@@ -1,0 +1,102 @@
+[
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "category", "type": "property"},
+    "object": {"value": "ice hockey", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Born", "type": "property"},
+    "object": {"value": "February 14, 1948 | Peoria, Illinois", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Died", "type": "property"},
+    "object": {"value": "July 2, 2007 | (aged 59) | Georgia", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Nationality", "type": "property"},
+    "object": {"value": "American", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Listed height", "type": "property"},
+    "object": {"value": "6 ft 6 in (1.98 m)", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Listed weight", "type": "property"},
+    "object": {"value": "200 lb (91 kg)", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "High school", "type": "property"},
+    "object": {"value": "Manual (Peoria, Illinois)", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "College", "type": "property"},
+    "object": {"value": "Drake (1967-1970)", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "NBA draft", "type": "property"},
+    "object": {"value": "1970 / Round: 3 / Pick: 51st overall", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Playing career", "type": "property"},
+    "object": {"value": "1970-1976", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type":"entity"},
+    "predicate": {"value": "Position", "type":"property"},
+    "object": {"value":"Forward", "type":"entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Number", "type": "property"},
+    "object": {"value": "42", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Career information", "type": "property"},
+    "object": {"value": "Selected by the New York Knicks", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Career history", "type": "property"},
+    "object": {"value": "1970-1971: Kentucky Colonels", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Career history", "type": "property"},
+    "object": {"value": "1971: Wilkes-Barre Barons", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Career history", "type": "property"},
+    "object": {"value": "1971-1972: Trenton Pat Pavers", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Career history", "type": "property"},
+    "object": {"value": "1972-1974: Hamilton Pat Pavers", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Career history", "type": "property"},
+    "object": {"value": "1974-1975: Cherry Hill Rookies", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Career history", "type": "property"},
+    "object": {"value": "1975-1976: Scranton Apollos", "type": "entity"}
+  },
+  {
+    "subject": {"value": "Al Williams", "type": "entity"},
+    "predicate": {"value": "Career highlights and awards", "type": "property"},
+    "object": {"value": "First-team All-MVC (1970)", "type": "entity"}
+  }
+]

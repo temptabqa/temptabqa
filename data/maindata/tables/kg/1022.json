@@ -1,0 +1,62 @@
+[
+  {
+    "subject": {"name": "Salvadoran Civil War"},
+    "predicate": {"type": "category"},
+    "object": {"text": "civil war"}
+  },
+  {
+    "subject": {"name": "Salvadoran Civil War"},
+    "predicate": {"type": "Date"},
+    "object": {"text": "15 October 1979 - 16 January 1992 | (12 years, 3 months and 1 day)"}
+  },
+  {
+    "subject": {"name": "Salvadoran Civil War"},
+    "predicate": {"type": "Location"},
+    "object": {"text": "El Salvador"}
+  },
+  {
+    "subject": {"name": "Salvadoran Civil War"},
+    "predicate": {"type": "Result"},
+    "object": {"text": "Chapultepec Peace Accords | Restructuring of Salvadoran Armed Forces | National Police was replaced by National Civil Police; National Guard and Treasury Police are dissolved. | FMLN armed wing is dissolved, becoming solely a political party (although its combatants are exonerated)."}
+  },
+  {
+    "subject": {"name": "Belligerents"},
+    "predicate": {"type": "Salvadoran government"},
+    "object": {"text": "FMLN | (CRM) | FDR | FPL (BLP, LP-28) | RN (FAPU) | PRTC (MLP) | PCES | Supported by | Soviet Union | (until 1991) | East Germany | (until 1989) | Nicaragua | Cuba | Diplomatic support | North Korea | (until 1990)"}
+  },
+  {
+    "subject": {"name": "Commanders and leaders"},
+    "predicate": {"type": "Álvaro Magaña"},
+    "object": {"text": "Schafik Hándal"}
+  },
+  {
+    "subject": {"name": "Commanders and leaders"},
+    "predicate": {"type": "José Napoleón Duarte"},
+    "object": {"text": "Joaquín Villalobos"}
+  },
+  {
+    "subject": {"name": "Commanders and leaders"},
+    "predicate": {"type": "Alfredo Cristiani"},
+    "object": {"text": "Cayetano Carpio"}
+  },
+  {
+    "subject": {"name": "Commanders and leaders"},
+    "predicate": {"type": "Adolfo Arnoldo Majano"},
+    "object": {"text": "Salvador Sánchez Cerén"}
+  },
+  {
+    "subject": {"name": "Commanders and leaders"},
+    "predicate": {"type": "Jaime Abdul Gutiérrez"},
+    "object": {"text": "Fermán Cienfuegos"}
+  },
+  {
+    "subject": {"name": "Strength"},
+    "predicate": {"type": "9,850"},
+    "object": {"text": "12,000-15,000 | (1984) | 6,000-15,000 | (1985) | (probably 10,000) | 8,000-10,000 | (1992)"}
+  },
+  {
+    "subject": {"name": "Casualties and losses"},
+    "predicate": {"type": "7,000 killed"},
+    "object": {"text": "70,000-80,000 killed | (in total) | 8,000 disappeared | 550,000 internally displaced | 500,000 refugees in other countries"}
+  }
+]

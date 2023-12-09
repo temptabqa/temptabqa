@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "category",
+    "object": "concert"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "Associated album",
+    "object": "Living Things (by Linkin Park) | If Not Now, When? (by Incubus)"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "Start date",
+    "object": "August 11, 2012 (2012-08-11)"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "End date",
+    "object": "September 10, 2012 (2012-09-10)"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "Legs",
+    "object": "1"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "Number of shows",
+    "object": "17 in North America"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "Website",
+    "object": "civictour.honda.com"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "Promotional poster",
+    "object": "2012 Honda Civic xaTour Logo.jpeg"
+  },
+  {
+    "subject": "10th Annual Honda Civic Tour",
+    "predicate": "followed by",
+    "object": "11th Annual Honda Civic Tour"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "followed by",
+    "object": "12th Annual Honda Civic Tour"
+  },
+  {
+    "subject": "A Thousand Suns World Tour",
+    "predicate": "followed by",
+    "object": "11th Annual Honda Civic Tour"
+  },
+  {
+    "subject": "11th Annual Honda Civic Tour",
+    "predicate": "followed by",
+    "object": "Living Things World Tour"
+  },
+  {
+    "subject": "If Not Now, When? Tour",
+    "predicate": "followed by",
+    "object": "11th Annual Honda Civic Tour"
+  }
+]

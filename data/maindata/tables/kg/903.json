@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "name in Arabic",
+    "object": "أسا\u200cمة بن لا\u200cد\u200cن"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "image details",
+    "object": "Osama bin Laden portrait.jpg | Bin Laden | circa | 1997-98"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "title",
+    "object": "1st General Emir of al-Qaeda"
+  },
+  {
+    "subject": "1st General Emir of al-Qaeda",
+    "predicate": "In office",
+    "object": "August 11, 1988 - May 2, 2011"
+  },
+  {
+    "subject": "1st General Emir of al-Qaeda",
+    "predicate": "Preceded by",
+    "object": "Position created"
+  },
+  {
+    "subject": "1st General Emir of al-Qaeda",
+    "predicate": "Succeeded by",
+    "object": "Ayman al-Zawahiri"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "born",
+    "object": "Osama bin Mohammed bin Awad bin Ladin | ( | 1957-03-10 | ) | March 10, 1957 | Riyadh, Saudi Arabia"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "died",
+    "object": "May 2, 2011 | (2011-05-02) | (aged 54) | Abbottabad, Pakistan"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "cause of death",
+    "object": "Gunshot wound"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "citizenship",
+    "object": "Saudi Arabian (1957-1994)"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "height",
+    "object": "1.95 m (6 ft 5 in)"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "spouse(s)",
+    "object": "Najwa Ghanem | ( | married |  1974; sep. 2001) | Khadijah Sharif | ( | married |  1983; | divorced | 1990 | ) | Khairiah Sabar | ( | married |  1985) | Siham Sabar | ( | married |  1987) | Amal Ahmed al-Sadah | ( | married |  2000)"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "children",
+    "object": "20-26; including Abdallah, Saad, Omar, and Hamza"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "parent(s)",
+    "object": "Mohammed bin Awad bin Laden | Hamida al-Attas"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "relatives",
+    "object": "Bin Laden family"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "religion",
+    "object": "Islam (Wahhabism/Salafism)"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "military allegiance",
+    "object": "Maktab al-Khidamat (1984-1988) | Al-Qaeda (1988-2011)"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "years of service",
+    "object": "1984-2011"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "rank",
+    "object": "General Emir of al-Qaeda"
+  },
+  {
+    "subject": "Osama bin Laden",
+    "predicate": "battles/wars",
+    "object": "Soviet-Afghan War | Battle of Jaji | War on terror | Afghan War | Battle of Tora Bora | Insurgency in Khyber Pakhtunkhwa | Operation Neptune Spear | †"
+  }
+]

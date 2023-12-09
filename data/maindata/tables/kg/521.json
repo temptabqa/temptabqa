@@ -1,0 +1,207 @@
+[
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "category",
+    "object": "car driver"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Nationality",
+    "object": "United States | American"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Born",
+    "object": "( | 1980-12-17 | ) | December 17, 1980 | (age 41) | Dallas, Texas, U.S."
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Image",
+    "object": "Ryan Hunter-Reay at Road America in 2021.png | Hunter-Reay at Road America in 2021"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Championship titles",
+    "object": "1999 | 2010 | 2012 | 2014"
+  },
+  {
+    "subject": "1999",
+    "predicate": "title",
+    "object": "Skip Barber National champion"
+  },
+  {
+    "subject": "2010",
+    "predicate": "title",
+    "object": "Toyota Grand Prix of Long Beach winner"
+  },
+  {
+    "subject": "2012",
+    "predicate": "title",
+    "object": "Verizon IndyCar Series champion"
+  },
+  {
+    "subject": "2014",
+    "predicate": "title",
+    "object": "A. J. Foyt Oval champion | Indianapolis 500 winner"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Awards",
+    "object": "1997 | 2000 | 2002 | 2007 | 2008 | 2013, 2014"
+  },
+  {
+    "subject": "1997",
+    "predicate": "award",
+    "object": "Skip Barber Big Scholarship"
+  },
+  {
+    "subject": "2000",
+    "predicate": "award",
+    "object": "Barber Dodge Pro Series Rookie of the Year"
+  },
+  {
+    "subject": "2002",
+    "predicate": "award",
+    "object": "WorldCom Rising Star Award"
+  },
+  {
+    "subject": "2007",
+    "predicate": "award",
+    "object": "Verizon IndyCar Series Rookie of the Year"
+  },
+  {
+    "subject": "2008",
+    "predicate": "award",
+    "object": "Indianapolis 500 Rookie of the Year"
+  },
+  {
+    "subject": "2013, 2014",
+    "predicate": "award",
+    "object": "Best Driver ESPY Award"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "IndyCar Series career Team(s)",
+    "object": "No. 28 (Andretti Autosport)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "IndyCar Series career 2021 position",
+    "object": "17th"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "IndyCar Series career Best finish in the championship",
+    "object": "1st (2012)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "IndyCar Series career First race",
+    "object": "2007 Honda 200 (Mid-Ohio)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "IndyCar Series career Last race",
+    "object": "2021 Acura Grand Prix of Long Beach (Long Beach)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "IndyCar Series career First win",
+    "object": "2008 Camping World Indy Grand Prix at the Glen (Watkins Glen)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "IndyCar Series career Last win",
+    "object": "2018 GoPro Grand Prix of Sonoma (Sonoma)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "IndyCar Series career Stats",
+    "object": "239 races run over 15 years | Wins | Podiums | Poles | 16 | 44 | 6"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Champ Car career Years active",
+    "object": "2003-2005"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Champ Car career Team(s)",
+    "object": "American Spirit Team Johansson (2003) | Herdez Competition (2004) | Rocketsports Racing (2005)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Champ Car career Best finish in the championship",
+    "object": "9th (2004)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Champ Car career First race",
+    "object": "2003 Grand Prix of St. Petersburg (Streets of St. Petersburg)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Champ Car career Last race",
+    "object": "2005 Hurricane Relief 400 (Las Vegas)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Champ Car career First win",
+    "object": "2003 Lexmark Indy 300 (Surfers Paradise)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Champ Car career Last win",
+    "object": "2004 Time Warner Cable Road Runner 250 (Milwaukee)"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Champ Car career Stats",
+    "object": "43 races run over 3 years | Wins | Podiums | Poles | 2 | 3 | 1"
+  },
+  {
+    "subject": "Ryan Hunter-Reay",
+    "predicate": "Previous series",
+    "object": "1998, 2000-2001 | 2002 | 2002, 2010-2013 | 2003-2005 | 2006-2013 | 2006 | 2012 | 2014"
+  },
+  {
+    "subject": "1998, 2000-2001",
+    "predicate": "series",
+    "object": "Barber Dodge Pro Series"
+  },
+  {
+    "subject": "2002",
+    "predicate": "series",
+    "object": "Atlantic Championship"
+  },
+  {
+    "subject": "2002, 2010-2013",
+    "predicate": "series",
+    "object": "American Le Mans Series"
+  },
+  {
+    "subject": "2003-2005",
+    "predicate": "series",
+    "object": "Champ Car World Series"
+  },
+  {
+    "subject": "2006-2013",
+    "predicate": "series",
+    "object": "Rolex Grand-Am Sports Car Series"
+  },
+  {
+    "subject": "2006",
+    "predicate": "series",
+    "object": "A1 Grand Prix"
+  },
+  {
+    "subject": "2012",
+    "predicate": "series",
+    "object": "Race of Champions"
+  },
+  {
+    "subject": "2014",
+    "predicate": "series",
+    "object": "IMSA Tudor United SportsCar Championship"
+  }
+]

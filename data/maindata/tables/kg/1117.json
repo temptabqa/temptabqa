@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "British Armed Forces",
+    "predicate": "category",
+    "object": "army"
+  },
+  {
+    "subject": "British Armed Forces",
+    "predicate": "Service branches",
+    "object": "British Army | Royal Navy | Corps of Royal Marines | Royal Air Force"
+  },
+  {
+    "subject": "British Armed Forces",
+    "predicate": "Headquarters",
+    "object": "Ministry of Defence, London"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Head",
+    "object": "Queen Elizabeth II"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Prime Minister",
+    "object": "Boris Johnson"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Defence Secretary",
+    "object": "Ben Wallace"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Chief of the Defence Staff",
+    "object": "Admiral Sir Tony Radakin"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Vice-Chief of the Defence Staff",
+    "object": "Admiral Sir Timothy Fraser"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Senior Enlisted Advisor to the Chiefs of Staff Committee",
+    "object": "WO1 Rick Angove RM"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Military age",
+    "object": "16-17 | with parental consent | , 18 | without and to serve in combat"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Conscription",
+    "object": "No"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Active personnel",
+    "object": "194,170 (ranked 21st)"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Reserve personnel",
+    "object": "37,000"
+  },
+  {
+    "subject": "Personnel",
+    "predicate": "Deployed personnel",
+    "object": "11,000 | (31 December 2021)"
+  },
+  {
+    "subject": "Expenditures",
+    "predicate": "Budget",
+    "object": "£52.9 billion (US$71.6B) to | £60.0 billion (US$80.5B) | (2021)"
+  },
+  {
+    "subject": "Expenditures",
+    "predicate": "Percent of GDP",
+    "object": "2.6-2.7% | (2021)"
+  },
+  {
+    "subject": "Industry",
+    "predicate": "Domestic suppliers",
+    "object": "BAE Systems | Rolls-Royce Holdings | Babcock International | MBDA"
+  },
+  {
+    "subject": "Industry",
+    "predicate": "Foreign suppliers",
+    "object": "Boeing | Lockheed Martin"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "History",
+    "object": "Military history of the United Kingdom | Conflicts involving the United Kingdom"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "Ranks",
+    "object": "Officer ranks | Navy | Army | Air Force | Other ranks | Navy | Army | Air Force"
+  }
+]

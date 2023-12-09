@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Project Gemini",
+    "predicate": "category",
+    "object": "space program"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "caption",
+    "object": "GeminiPatch.png"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Country",
+    "object": "United States"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Organization",
+    "object": "NASA"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Purpose",
+    "object": "Crewed orbital flight | Extravehicular activity | Rendezvous and docking"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Status",
+    "object": "Completed"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Program history - Cost",
+    "object": "$1.3 billion (1967) | $7.9 billion (2020)"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Program history - Duration",
+    "object": "1961-1966"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Program history - First flight",
+    "object": "Gemini 1 | April 8, 1964"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Program history - First crewed flight",
+    "object": "Gemini 3 | March 23, 1965"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Program history - Last flight",
+    "object": "Gemini XII | November 11, 1966"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Program history - Successes",
+    "object": "10"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Program history - Partial failures",
+    "object": "2 (Gemini VIII and IX-A)"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Program history - Launch site(s)",
+    "object": "Cape Kennedy"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Vehicle information - Crewed vehicle(s)",
+    "object": "Gemini capsule"
+  },
+  {
+    "subject": "Project Gemini",
+    "predicate": "Vehicle information - Launch vehicle(s)",
+    "object": "Atlas-Agena | Titan II GLV"
+  }
+]

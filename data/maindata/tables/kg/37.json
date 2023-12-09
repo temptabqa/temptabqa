@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Kaká",
+    "predicate": "type",
+    "object": "footballer"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "caption",
+    "object": "Kaká"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "infobox-image",
+    "object": "Kaká visited Stadium St. Petersburg.jpg | Kaká in 2018"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "full_name",
+    "object": "Ricardo Izecson dos Santos Leite"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "place_of_birth",
+    "object": "Gama, Federal District, Brazil"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "height",
+    "object": "1.86 m (6 ft 1 in)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "position",
+    "object": "Attacking midfielder"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "youth_career",
+    "object": "1994-2000 São Paulo"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "senior_career",
+    "object": "2001-2003 São Paulo 59 (23)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "senior_career",
+    "object": "2003-2009 AC Milan 193 (70)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "senior_career",
+    "object": "2009-2013 Real Madrid 85 (23)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "senior_career",
+    "object": "2013-2014 AC Milan 30 (7)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "senior_career",
+    "object": "2014-2017 Orlando City 75 (24)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "senior_career",
+    "object": "2014 São Paulo (loan) 19 (2)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "senior_career_total",
+    "object": "461 (149)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "national_team",
+    "object": "2001 Brazil U20 5 (1)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "national_team",
+    "object": "2002-2016 Brazil 92 (29)"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "FIFA_World_Cup",
+    "object": "Winner 2002"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "FIFA_Confederations_Cup",
+    "object": "Winner 2005"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "FIFA_Confederations_Cup",
+    "object": "Winner 2009"
+  },
+  {
+    "subject": "Kaká",
+    "predicate": "CONCACAF_Gold_Cup",
+    "object": "Runner-up 2003"
+  }
+]

@@ -1,0 +1,207 @@
+[
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Category",
+    "object": "economy"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Caption",
+    "object": "Economy of Belarus"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Infobox-image",
+    "object": "Minsk, the financial capital of Belarus"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Currency",
+    "object": "Belarusian ruble (BYN, Br)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Fiscal year",
+    "object": "Calendar year"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Trade organisations",
+    "object": "CIS, EAEU, CISFTA"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Country group",
+    "object": "Developing/Emerging, Upper-middle income economy"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Population",
+    "object": "9,408,350 (1 January 2020)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "GDP",
+    "object": "$65.75 billion (nominal, 2021 est.), $196 billion (PPP, 2019 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "GDP rank",
+    "object": "75th (nominal, 2019), 69th (PPP, 2019)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "GDP growth",
+    "object": "3.1% (2018), 1.2% (2019e), -0.9% (2020), 3.3% (2021f)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "GDP per capita",
+    "object": "$7,032 (nominal, 2021 est.), $20,578 (PPP, 2021 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "GDP per capita rank",
+    "object": "84th (nominal, 2019), 64th (PPP, 2019)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "GDP by sector",
+    "object": "agriculture: 8.1%, industry: 40.8%, services: 51.1% (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "GDP by component",
+    "object": "household consumption: 54.8%, government consumption: 14.6%, investment in fixed capital: 24.9%, investment in inventories: 5.7%, exports of goods and services: 67%, imports of goods and services: -67% (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Inflation (CPI)",
+    "object": "4.8% (2020 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Population below poverty line",
+    "object": "5.6% (2018), 0.4% on less than $5.50/day (2020f)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Gini coefficient",
+    "object": "25.2 (low, 2018)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Human Development Index",
+    "object": "0.817 (very high, 2018) (50th), 0.765 (high, IHDI 2018)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Labour force",
+    "object": "4,975,430 (2019), 67.5% employment rate (2018)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Labour force by occupation",
+    "object": "agriculture: 9.7%, industry: 23.4%, services: 66.8% (2015 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Unemployment",
+    "object": "4.8% (2018)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Average gross salary",
+    "object": "BYN 15,300/€4,600 annual (2020)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Average net salary",
+    "object": "BYN 13,300/€4,000 annual (2020)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Main industries",
+    "object": "metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, synthetic fibers, fertilizer, textiles, refrigerators, washing-machines, other household appliances; agricultural products: grain, potatoes, vegetables, sugar beets, flax; beef, milk"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Ease-of-doing-business rank",
+    "object": "49th (very easy, 2020)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Exports",
+    "object": "$28.65 billion (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Export goods",
+    "object": "Agricultural products 19.6%, Fuels and mining products 22.0%, Manufacturers 55.0%, Others 3.5%"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Main export partners",
+    "object": "Russia 44%, Ukraine 10.7%, Poland 4.27%, Lithuania 3.54%, Germany 3.11%, United Kingdom 2.75%, China 2.55%, Kazakhstan 2.48%, Netherlands 2.35% (2021)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Imports",
+    "object": "$31.58 billion (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Import goods",
+    "object": "Agricultural products 15.3%, Fuels and mining products 29.7%, Manufacturers 51.5%, Others 3.5%"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Main import partners",
+    "object": "Russia 57.2%, China 7.22%, Poland 5.03%, Germany 4.73%, Ukraine 4.53%, Lithuania 3.07%, Turkey 1.7%, Italy 1.48%, Netherlands 0.99%, United States 0.96% (2019)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "FDI stock",
+    "object": "$6.929 billion (31 December 2016 est.), Abroad: $3.547 billion (31 December 2016 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Current account",
+    "object": "-$931 million (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Gross external debt",
+    "object": "$39.92 billion (31 December 2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Public debt",
+    "object": "53.4% of GDP (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Budget balance",
+    "object": "+2.9% (of GDP) (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Revenues",
+    "object": "22.15 billion (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Expenses",
+    "object": "20.57 billion (2017 est.)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Credit rating",
+    "object": "Standard & Poor's: B+ (Domestic), B (Foreign), B (T&C Assessment)"
+  },
+  {
+    "subject": "Belarus Economy",
+    "predicate": "Foreign reserves",
+    "object": "$7.315 billion (31 December 2017 est.)"
+  }
+]

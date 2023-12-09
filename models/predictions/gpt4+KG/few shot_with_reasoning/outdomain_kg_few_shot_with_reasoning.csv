@@ -1,0 +1,1039 @@
+Unnamed: 0,question,table,actual_answer,predicted_answer
+,What was the age when Jenson Button best finish in Super GT GT500 Championship 2018?,0,Age of 38,"38 years old && He was born on January 19, 1980, making him 38 years old in 2018."
+,What was Jenson Button's age when he won the Super GT GT500 Championship?,0,38,"38 years old && He was born on January 19, 1980, and won the championship in 2018."
+,How long did it take Jenson Button to win his second championship?,0,9 years,Never won a second championship && Jenson Button only won one Formula One Championship in 2009.
+,Where did Jenson Button compete 5 years before he debuted in the Super GT GT500 Championship?,0,Brazil,Formula One
+,For how many years did Jenson Button's professional career last?,0,17 years,17 years && His Formula One career was from 2000-2017.
+,How old was Jenson Button when he began his professional career?,0,20,"20 years old && His career started in 2000, and he was born in 1980."
+,Which country did Jenson Button participated in Formula One World Championship from 2000?,0,England,United Kingdom | British
+,When did Jenson Button first enter into the Australian Grand Prix?,0,2000,2000 Australian Grand Prix
+,How many years ago did Jenson Button last won Brazilian Grand Prix in Formula One World Championship?,0,10 Years ago (2012),10 years ago &&  He won the 2012 Brazilian Grand Prix.
+,What time is it in Florida if it's 8:40 in the Atlantic Time Zone?,33,7:40,"7:40 && Florida is in the Eastern Time Zone, which is one hour behind the Atlantic Time Zone."
+,Which type of time zone was shown in the table?,33,Atlantic time zone,Atlantic Time Zone
+,What time is it in the Atlantic Time Zone if it's 10:00 in California?,33,2:00,"13:00 or 14:00 && California is UTC-08:00 (or UTC-07:00 during DST), while Atlantic Time Zone is UTC-04:00 (or UTC-03:00 during DST)."
+,What is the time difference between the Atlantic Time Zone and Florida?,33,1 hour,"1 hour && Florida is in the Eastern Time Zone (UTC-5/UTC-4), while the Atlantic Time Zone is UTC-4/UTC-3."
+,What was the current time on 28 june 2022 based on AST?,33,8.40 AM,"08:40, 28 June 2022 && The AST time provided in the context is 08:40 on 28 June 2022."
+,How much time difference is between AST and ADT?,33,1 hour,"1 hour && ADT is UTC-03:00 and AST is UTC-04:00, so the difference is 1 hour."
+,How many UTC offset was present?,34,two,2 UTC offsets && MST (UTC-07:00) and MDT (UTC-06:00) are present.
+,What was the time zone specified in the table?,34,Mountain time zone.,Mountain Time Zone
+,What was time difference between MST and MDT?,34,1 hour,"1 hour && MST is UTC-07:00 and MDT is UTC-06:00, so the difference is 1 hour."
+,What's the difference in time between Florida and Colorado,34,two hours,"2 hours && Florida is in Eastern Time Zone (UTC-05:00 or UTC-04:00 during DST), while Colorado is in Mountain Time Zone (UTC-07:00 or UTC-06:00 during DST)."
+,How many different time zones does the US have,34,six,This context does not provide the information needed to answer the question.
+,"If it's 4 p.m. in Los Angeles, California, what time is it in Chicago, Illinois?",34,6 p.m.,"6 p.m. && Los Angeles is in Pacific Time Zone (UTC-8 or UTC-7 in DST), while Chicago is in Central Time Zone (UTC-6 or UTC-5 in DST). The time difference is 2 hours."
+,What is the time diffrence between NST and NDT?,35,1 Hour,"1 hour && NDT is UTC−02:30 and NST is UTC−03:30, so the difference is 1 hour."
+,How many hours does NDT is behind Coordinated Universal Time (UTC)?,35,2.30 hours,3 hours and 30 minutes && NDT has an offset of UTC-02:30.
+,What is the Current time in Newfoundland Time Zone?,35,"Sunday, 10 July 2022, 11:26 pm","08:25, 28 June 2022 NST && The context provides the current time in NST format."
+,For what senior year team did Pau Quemada begin to play for the year he won the bronze medal at the World Cup?,41,Leuven,Leuven && He played for Leuven in 2006 when he won the bronze medal.
+,Where did the 2009 World Cup take place where Pau Quemada won a bronze medal.,41,Mönchengladbach,"Mönchengladbach, Germany && The 2006 World Cup took place in Mönchengladbach where Pau Quemada won a bronze medal."
+,How many years has Pau Quemada been playing in his senior career?,41,17 years,17 years && He started his senior career in 2005 and is still playing as of 2022.
+,What is the most recent team that Pau Quemada has been associated with?,41,Leuven,Leuven && He has been associated with Leuven since 2021.
+,What team has Pau Quemada been associated with for the longest in the senior division?,41,Club Egara,"Club Egara && He played for Club Egara from 2000 to 2005, 2016 to 2021."
+,How many years did the Pau Quemada play in the senior division?,41,16,17 years && He played in the senior division from 2003 to 2021.
+,How many years separate when Pau Quemada first started playing for Leuven and the start of of his present membership on the team?,41,15,"10 years && His first time playing for Leuven was in 2006 and he rejoined in 2011, creating a 10-year gap."
+,How much longer did Pau Quemada play for Club Egara than Laren?,41,4 years,"15 years && He played for Club Egara from -2005 and 2016-2021, and for Laren in 2005-2006."
+,How many years did Pau Quemada play for Real Club de Polo?,41,2 years,2 years && He played for Real Club de Polo from 2009-2011.
+,How many years between Rubens Barrichello's first and last win in Formula One?,51,9,9 years && His first win was in 2000 and last win in 2009.
+,How many years are between Barrichello's best finish in his Stock Car Brasil career and best finish in his IndyCar Series career?,51,2,2 years && Barrichello had his best finish in Stock Car Brasil in 2014 and his best finish in IndyCar Series in 2012.
+,How old was Barrichello when his Formula One career began?,51,21,"20 years old && His career began in 1993, and he was born in 1972 (1993 - 1972)."
+,What race did Barrichello win 7 years after his Formula One World Championship career began?,51,German Grand Prix,2000 German Grand Prix
+,What year did Rubens Barrichello have his best finish in his Stock Car Brasil career?,51,2014,2014
+,How old was Rubens Barrichello win he won his last Grand Prix?,51,37 years old,"37 years old && He won his last F1 Grand Prix in 2009, and he was born on May 23, 1972, making him 37 years old at the time."
+,How many years was Rubens Barrichello active in his career?,51,18 years,19 years && His Formula One career was from 1993 to 2011.
+,How many years did it take Rubens Barrichello to get a win in Formula One?,51,7,"7 years && Rubens Barrichello won his first F1 race in 2000, and started his F1 career in 1993 (2000 - 1993)."
+,How many years were between Barrichello's last win and his last entry into a Grand Prix for Formula One?,51,2,2 years && His last win was in 2009 and last entry in 2011.
+,How many years did Kapil Dev was played the ODI?,52,16 years played the ODI,16 years && He played ODI from 1978 to 1994.
+,How much longer did Kapil Dev play for Haryana than Worcestershire?,52,6 years,2 years && He played for Haryana from 1975-1992 and Worcestershire from 1984-1985.
+,How many days were between Dev's Test debut and his ODI debut?,52,15,"15 days && ODI debut: 1 October 1978, Test debut: 16 October 1978."
+,How many years before Kev's last ODI did he begin playing for Worcestershire?,52,10,9 years && He played for Worcestershire from 1984-1985 and his last ODI was in 1994.
+,What was the first team that Kapil Dev was associated with?,52,Haryana,Haryana && He played for Haryana from 1975-1992.
+,What team was Kapil Dev associated with for the longest amount of time?,52,Haryana,Haryana && He played for Haryana from 1975-1992.
+,What team was Kapil Dev associated with the most recently?,52,Haryana,Worcestershire && He played for Worcestershire from 1984-1985.
+,Which domestice team did Kapil Dev was played in 1982?,52,Kapil Dev,"Haryana && Kapil Dev played for Haryana from 1975 to 1992, which includes 1982."
+,Who is the captain of indian cricket test team in 1980?,52,Kapil Dev,Kapil Dev && He was the Indian cricket team captain in the 1980s.
+,How many times did Madan Lal reach 5 wickets in innings in Test and ODI?,53,four,4 times && Madan Lal took 5 wickets in innings 4 times in Test matches and 0 times in ODIs.
+,How many more years did Madan Lal spend at Delhi than Punjab?,53,14,"19 years && Delhi (1973-1991) is 19 years and Punjab (1968-1972) is 4 years, so 19 - 4 = 15 years."
+,"When Madan Lal had their test debut, what team were they associated with?",53,Delhi,"India && Madan Lal's test debut says ""national side: India."""
+,What was the first team associated with Madan Lal?,53,Punjab,Punjab && His first domestic team was Punjab from 1968-1972.
+,How much longer did Lal play for Delhi than Punjab?,53,4,18 years && He played for Punjab from 1968-1972 (4 years) and for Delhi from 1973-1991 (18 years).
+,How many years are between Madan Lal's last test and his ODI debut?,53,8,1 month && His last test was on 19 June 1986 and his ODI debut was on 13 July 1974.
+,What domestic team did Madan Lal play for during his Test debut?,53,Delhi,Delhi && His domestic team during his Test debut in 1974 was Delhi.
+,What was the most recent team associated with Madan Lal?,53,Delhi,Delhi (1973-1991)
+,How many days after the anniversary of Madan Lal's first test did he have his last test?,53,13,"13 days && His last test was on June 19, 1986, and his first test was on June 6, 1974."
+,What was the professional team did Shaun Pollock was represented in 2000?,54,Warwickshire,"Warwickshire && In 2000, Shaun Pollock was representing Warwickshire (1996-2002)."
+,What was the age when Shaun Pollock played his ODI debut in 1996?,54,Age of 23,"22 years old && He was born on July 16, 1973, and made his ODI debut on January 9, 1996 (1996 - 1973)."
+,What was the second team that Shaun Pollock played for?,54,Warwickshire,Warwickshire
+,What was the last team that Shaun Pollock played for?,54,Durham,Durham
+,For how many seasons did Shaun Pollock play for the Dolphins?,54,2,1 season && He played for the Dolphins in 2004/05.
+,What team did Pollock play for during the year of his T20I debut?,54,Dolphins,South Africa && Pollock's T20I debut was in 2005 playing for South Africa.
+,How many years longer did Pollock play for KwaZulu-Natal than Warwickshire?,54,6,8 years && He played for KwaZulu-Natal from 1992/93-2003/04 and for Warwickshire from 1996-2002.
+,How old was Pollock during his test debut?,54,22,22 years old && His test debut was on 16 November 1995 and he was born on 16 July 1973.
+,How years ago did Shaun Pollock  was played his last T20I?,54,14 Years ago,"14 years ago && His last T20I was on 18 January 2008, so it was 14 years ago from the current year 2022."
+,How long was it between Waqar Younis Last Test and his Last ODI?,55,2 months,"2 months && His last Test was on January 2, 2003, and his last ODI was on March 4, 2003."
+,Which domestice team did Waqar Younis was played in 1992?,55,Surrey,Surrey && He played for Surrey from 1990 to 1993.
+,How many years ago did Waqar Younis played his last ODI?,55,19 Years ago (2003),19 years ago && He played his last ODI on 4 March 2003.
+,How many total wickets taken by Waqar Younis in his career 1987-2003?,55,2420 wickets,789 wickets && He took 373 Test and 416 ODI wickets.
+,How long after Younis played for Allied Bank Limited was the picture taken?,55,11 years,"11 years && He played for Allied Bank Limited in 2003/04, and the picture was taken in 2015."
+,How many domestic teams did Waqar Younis play for in 1999?,55,3,1 team && He played for REDCO Pakistan Limited in 1999/2000.
+,"Five years after turning pro, where did Waqar Younis play domestically?",55,Surrey,Surrey && He played for Surrey from 1990-1993.
+,What was the last team Waqar Younis played for before the turn of the Millenium?,55,REDCO Pakistan Limited,REDCO Pakistan Limited && It was his team in the 1999/2000 season.
+,How much longer did Younis play for Surrey than Glamorgan?,55,2 years,3 years && He played for Surrey from 1990-1993 and for Glamorgan from 1997-1998.
+,What was the age when Sanath Jayasuriya played his Test debut in 2007?,56,Age of 22,"38 years old && He was born on June 30, 1969, so he was 38 (2007 - 1969) years old in 2007."
+,How many total international matches played by Sanath Jayasuriya in all formats?,56,666,110 matches && He played 110 international matches in total.
+,How many years did Marco Sanath Jayasuriya was played for his national team?,56,22 Years (1989-2011),22 years && He played from 1989 to 2011.
+,What was the third team that Sanath Jayasuriya played for?,56,Lancashire,Not enough information provided.
+,What was the first team that Sanath Jayasuriya played for?,56,Bloomfield,Bloomfield Cricket and Athletic Club
+,For how many years did Sanath Jayasuriya play for Bloomfield?,56,17,Information not available in the context.
+,How long after his first year playing for Bloomfield did Jayasuriya play for the Khulna Royal Bengals?,56,18 years,Information about Bloomfield and Khulna Royal Bengals not available in the context.
+,What team did Jayasuriya play for during the year of his last test?,56,Lancashire,Sri Lanka && Jayasuriya is playing for Sri Lanka in the 2008 image.
+,How old was Jayasuriya when he started playing for Bloomfield?,56,25,19 years old && He was born in 1969 and started playing for Bloomfield in 1988.
+,How much longer did Richards play for Leeward Islands than Glamorgan?,57,7 years,20 years && Viv played for Leeward Islands (1971-1991) and Glamorgan (1990-1993).
+,Which domestice team did Viv Richards was played in 1980?,57,Somerset,"Somerset && Viv Richards played for Somerset from 1974 to 1986, which includes 1980."
+,How many years did Viv Richards played for west indies?,57,17 Years,17 years && Viv Richards played for West Indies from 1974 to 1991.
+,How many years ago did Viv Richards first debut in ODI?,57,47 Years ago,"47 years && Viv Richards debuted in ODI on 7 June 1975, so it was 47 years ago (2022 - 1975)."
+,When did Viv Richards start playing domestically?,57,1971,1971 && He started playing domestically for Combined Islands in 1971.
+,What was the last team that Viv Richards was associated with domestically?,57,Glamorgan,Glamorgan && He was associated with Glamorgan from 1990-1993.
+,For how many years did Viv Richards play domestically?,57,22,20 years && He played domestically from 1971 to 1991.
+,How many years between Richard's ODI debut and his last year playing for Somerset?,57,11,"12 years && His ODI debut was in 1975, and he played for Somerset until 1986, thus 12 years (1986 - 1975)."
+,What domestic team did Richards play for during his Test debut?,57,Combined Islands,Combined Islands
+,How many more years did Alejandro Valverde spend in Illes Balears–Banesto than Kelme–Costa Blanca?,99,three,6 years && He was in Kelme-Costa Blanca from 2002-2004 and Illes Balears-Banesto from 2005-2010.
+,How many individual stages did Alejandro Valverde win in the 2010's in the Tour de France?,99,one,Not mentioned in the context.
+,What was the year of Alejandro Valverde's first Tour De France victory?,99,2005,No Tour De France victory && The context does not mention any Tour De France victory for Alejandro Valverde.
+,How many bronze medals did Alejandro Valverde win from 2000-2009?,99,two,1 bronze medal && He won a bronze medal in 2006 Salzburg Road race.
+,How much longer was Valverde on the Puente Tocinos  team than Illes Balears–Banesto?,99,4 years,9 years && He was on Puente Tocinos team from 1989-1998 and on Illes Balears–Banesto from 2005-2010.
+,What team did Valverde ride for the year he won silver at the Hamilton World Championships?,99,Kelme–Costa Blanca,"Kelme-Costa Blanca && He won silver in 2003 Hamilton, and his professional team at that time was Kelme-Costa Blanca."
+,How many major wins did Valverde have in 2008?,99,6,The knowledge graph does not provide information about Valverde's 2008 major wins.
+,What professional team did Alejandro Valverde represent during the time before he was on Illes Balears–Banesto?,99,Kelme–Costa Blanca,Kelme-Costa Blanca && He was part of Kelme-Costa Blanca team from 2002-2004.
+,"After Alejandro Valverde won the 2001 Mediterranean games bronze medal, what year did he win his next medal he won at the world championships?",99,2005 in Madrid,"2003 && After winning the 2001 Mediterranean games bronze medal, he won a silver medal at the 2003 Hamilton World Championships."
+,How many times did Felice Gimondi  participated in National Road Race Championships?,100,2 Times,"2 times && National Road Race Championships (1968, 1972)"
+,How old was Felice Gimondi when he won a silver medal at the  UCI Road World Championships?,100,29,"24 years && He won the silver medal in 1971 and was born on September 29, 1942 (1971 - 1942)."
+,Which professional team was Felice Gimondi for longer?,100,Salvarani,Bianchi-Campagnolo && He was with Bianchi-Campagnolo from 1973-1979 and with Salvarani from 1965-1972.
+,What was the second professional team that Felice Gimondi was a part of?,100,Bianchi–Campagnolo,Bianchi-Campagnolo
+,When did Felice Gimondi win his first medal in competition?,100,1970,1965 Tour de France && He won the General classification in 1965.
+,In what city did Felice Gimondi win a medal the same year as his second appearance at the Giro di Lombardia?,100,Barcelona,Barcelona && He won the gold medal in the 1973 UCI Road World Championships in Barcelona.
+,How many gold medals won by Felice Gimondi in UCI Road World Championships 1973?,100,One (Gold),1 gold medal && He won the gold medal in the 1973 Barcelona Elite road race.
+,What professional team did Felice Gimondi ride for during the Tour de Romandie?,100,Salvarani,Salvarani && He rode for Salvarani from 1965-1972.
+,Which team did Felice Gimondi was played 1970?,100,Salvarani,Salvarani && He played for the Salvarani team from 1965-1972.
+,How old was Moser when he first rode for Famcucine–Campagnolo?,101,30,"30 years old && He rode for Famcucine-Campagnolo in 1981 and was born on June 19, 1951 (1981 - 1951)."
+,What international competition did Moser win gold at the year he won the World Road Race Championships?,101,San Christóbal World Championships,World Road Race Championships (1977)
+,How old was Francesco Moser when he played for Sanson?,101,25 years old,25-29 years && He played for Sanson from 1976 to 1980 and was born in 1951.
+,Where did Francesco Moser win a gold medal in 1976?,101,Monteroni di Lecce World Championships,"Monteroni di Lecce, Italy && He won a gold medal in 1976 in Individual Pursuit in Monteroni di Lecce."
+,What medal did Monteroni di Lecce win at the 1977 San Christóbal World Championships?,101,Gold,Gold medal - first place && He won the gold medal in the 1976 Monteroni di Lecce Individual pursuit.
+,Which professional team did Francesco Moser was played in 1984?,101,Gis Gelati,Gis Gelati
+,How many gold medals won by Hugo Calderano in singles from 1976?,101,"2 Gold Medals (1976, 1977)",Information not available
+,How many major wins did Moser have during the time he rode for Gis Gelati?,101,5,"3 major wins && He won Paris-Roubaix (1980), Giro di Lombardia (1978), and Milan-San Remo (1984) during his time at Gis Gelati."
+,How many National Road Race Championships was participated by Francesco Moser from 1973?,101,"3 Times (1975, 1979, 1981)","3 times && He won National Road Race Championships in 1975, 1979, and 1981."
+,What was Gino Bartali's last stage race won?,102,Tour de Romandie,Tour de Romandie (1949) && It was his last stage race win mentioned in the context.
+,How old was Gino Bartali when he joined his first professional team?,102,21,21 years old && He was born on 18 July 1914 and joined Fréjus in 1935.
+,What professional team did Gino Bartali belong to during the Tour de Romandie?,102,Bartali–Gardiol,Bartali-Gardiol && He won Tour de Romandie in 1949.
+,How many one One-day races and Classics did Bartali ride in 1939?,102,4,"2 Classics && In 1939, he won Giro di Lombardia and Giro di Toscana."
+,Who was the last team that Gino Bartali rode for in 1954?,102,Bartali–Brooklin,"Bartali-Brooklin && In 1954, he rode for Bartali-Brooklin team."
+,When did Gino Bartali first join the amateur team?,102,1931,1931 && He joined the amateur team in 1931 as per the context.
+,How long was Gino Bartali a part of the amateur team?,102,4 years,3 years && He was part of the amateur team from 1931-1934.
+,How old was Gino Bartali when he rode for the Fréjus team?,102,21 years old,21 years old && He rode for Fréjus team in 1935 and was born in 1914 (1935 - 1914).
+,How many total years did Gino Bartali ride for professional teams?,102,19 years,19 years && He rode professionally from 1935 to 1954.
+,What team did Joop Zoetemelk play with professionally for the longest?,103,Gan–Mercier–Hutchinson,Gan-Mercier-Hutchinson && He played with this team from 1975 to 1979.
+,What professional team did Zoetemelk ride for the year the picture was taken?,103,Flandria–Mars,"Flandria-Mars && The picture was taken in 1971, and he was with Flandria-Mars from 1970-1972."
+,How many years before Zoetemelk first won the Paris–Nice stage race did he win gold at the Olympics?,103,6,6 years && He won gold at the 1968 Olympics and first won Paris-Nice in 1974.
+,What year did Joop Zoetemelk win gold at the World Championships?,103,1985,1985 && He won the World Road Race Championships in 1985.
+,What was the first year that Joop Zoetemelk played professionally?,103,1970,1970 && His first professional team was Flandria-Mars in 1970.
+,How many major wins Zoetemelk did have in 1979?,103,6,2 major wins && He won Vuelta a España and Critérium International in 1979.
+,What was the first team that Joop Zoetemelk played with professionally?,103,Flandria–Mars,Flandria-Mars
+,How many years separated the two gold medals that Joop Zoetemelk won in his career?,103,17 years,17 years && He won gold in 1968 and 1985 (1985 - 1968).
+,What medal did Joop Zoetemelk win in the 1968 Mexico City Olympics?,103,Gold,Gold medal in Team time trial.
+,For what world championship did Poulidor win a silver medal?,104,1974 Montreal,1974 Montréal Road race && Poulidor won silver in 1974 Montréal World Championships in the Road race category.
+,During what time did Poulildor join a professional team?,104,1960,1960-1977
+,When was Raymond Poulidor's best finish in a championship?,104,1974,Silver medal - second place && 1974 Montréal World Championships
+,Which one day race was Poulidor in before the Grand prix des Nations?,104,La Fleche Wallonne,Milan-San Remo (1961)
+,When did Raymond Poulidor first get a medal in a championship?,104,1961,1961 Bern && He won a bronze medal in the 1961 World Championships road race.
+,How many years did Raymond Poulidor win the silver medal for France before he died.,104,45,1 time && He won a silver medal in 1974 Montréal.
+,Which majors win had the most stages?,104,Tour de France,Tour de France with 7 individual stages && Raymond Poulidor won 7 individual stages in Tour de France.
+,How many goal medals did Raymond Poulidor win for France?,104,zero,0 gold medals && No gold medals mentioned in the context.
+,For how many years did Raymond Poulidor belong to a professional team?,104,17,18 years && He belonged to the Mercier-BP-Hutchinson team from 1960 to 1977.
+,How old was Sean Kelly when he joined his first professional team?,105,21,21 years old && He was born in 1956 and joined his first professional team in 1977.
+,How many stage races did Kelly have in 1983?,105,3,2 stage races && He won Paris-Nice and Tour de Suisse in 1983.
+,What professional team did Kelly belong to the year he won a bronze medal at the Chambéry World Championships?,105,PDM–Concorde,"PDM-Concorde && In 1989, he was part of the PDM-Concorde team."
+,What was Sean Kelly's most recent professional team?,105,Catavana,Catavana && His most recent professional team was Catavana in 1994.
+,How many years did Sean Kelly play for professional teams?,105,17 years,17 years && He played professionally from 1977 to 1994.
+,In what year was the last time that Sean Kelly won a medal in the World Championships?,105,1989,"1989 && He won a bronze medal in the 1989 World Championships in Chambéry, Road race."
+,How many years separate both Sean Kelly's World Championship appearances?,105,7 years,7 years && Both bronze medals were won in 1982 and 1989.
+,What was the first professional team that Sean Kelly played for?,105,Flandria–Velda–Latina Assicurazioni,Flandria-Velda-Latina Assicurazioni
+,When did Sean Kelly attend his first World Championships?,105,1982,1982 Goodwood && He won a bronze medal in the 1982 Goodwood Road race.
+,When dis Ali Farag win his first team gold at the World Team Champioships?,106,2017,2017 Marseille && He won his first team gold at the 2017 World Team Championships in Marseille.
+,How old was Ali Farag when he turned professional?,106,17 years old,17 years && He was born in 1992 and turned pro in 2009 (2009 - 1992).
+,How long after turning pro did Farag achieve his highest ranking?,106,13 years,13 years && He turned pro in 2009 and achieved his highest ranking in June 2022.
+,At what age did Farag turn professional?,106,17,17 years && He was born in 1992 and turned pro in 2009 (2009 - 1992).
+,How many years between the time Farag won Gold at the Cairo World Championships and gold at Marseille World Team Championships?,106,4,4 years && Cairo World Championships was in 2021-22 and Marseille World Team Championships in 2017.
+,In which city did Ali Farag medal the most in the 21st century?,106,Chicago,"Cairo, Egypt && Because he won a gold medal in the 2021-22 Cairo Singles event."
+,How old did Ali Farag turn the year he turned pro?,106,17,17 years && He was born in 1992 and turned pro in 2009 (2009 - 1992).
+,How old did Ali Farag turn the year he reached number one?,106,30,"30 years old && He reached number one in June 2022 and was born on April 22, 1992, making him 30 years old."
+,How old was Ali Farag when he won his first team gold in the World Team Championships.,106,25 years old,"25 years old && He was born on April 22, 1992, and won his first team gold in 2017."
+,"Did Joel Makin win his gold medal in Washington, D. C. within ten years of turning pro?",107,yes,"Yes && His gold medal was in 2019, within 10 years of turning pro in 2014."
+,What year did Joel Makin gain his highest ranking?,107,2021,December 2021 && He reached No. 8 in December 2021.
+,What year did Joel Makin turn professional?,107,2014,2014 && He turned pro in 2014 as indicated in the context.
+,How old was Joel Makin when he won a bronze medal?,107,25 years old,"25 years old && He was born on October 27, 1994, and won the bronze medal in 2019 (2019 - 1994)."
+,"Was Joel Makin in his twenties when he won his bronze medal in Washington, D. C.?",107,yes,"Yes, in his twenties. && He was born in 1994 and won the bronze in 2019."
+,Was Joel Makin a teenager when he attained his highest ranking?,107,no,"No && He reached No. 8 in December 2021, and he was born in 1994."
+,How many years are between Makin's current rank and when he won bronze at the World Team Championships?,107,3,"3 years && He won bronze in 2019, and his current rank is from January 2022."
+,How many months after his 27th birthday did Makin achieve his highest rank?,107,2,"2 months && He achieved it in December 2021, two months after his 27th birthday in October 2021."
+,How old was Joel Makin when he won Bronze at the World Team Championships?,107,25,"24 years old && He was born on October 27, 1994, and won the bronze in 2019, making him 24 years old (2019 - 1994) at that time."
+,At what age did Mohamed El Shorbagy win the world team championship?,108,20,"20 years old && He won the world team championship in 2011 and was born in 1991, making him 20 years old at the time."
+,How many years after going pro did Mohamed El Shorbagy rank number one in the world?,108,8,8 years && He turned pro in 2006 and ranked No. 1 in November 2014.
+,How many medals won Mohamed El Shorbagy  in World Championships (singles) from 2013?,108,8 Medals(1 Gold +3 Silver + 4 Bronze),"5 medals && He won 1 gold, 3 silver, and 1 bronze medals in singles from 2013."
+,What is the current rank of Mohamed El Shorbagy in 2022?,108,3rd,World No. 3 && His current ranking is from December 2021.
+,How many years ago did Mohamed El Shorbagy was top ranked as World No. 1?,108,8 Years ago (2014),"8 years ago && He was World No. 1 in November 2014, and it's now 2022 (2022-2014)."
+,Number of titles won by Mohamed El Shorbagy?,108,43,43 titles && He has won 43 men's singles titles according to the knowledge graph.
+,What was the location of the world championship when Mohamed El Shorbagy was 25?,108,Cairo,"Manchester, England && The 2017 World Championship was held in Manchester when Mohamed El Shorbagy was 25."
+,Mohamed El Shorbagy turned pro at the age of?,108,15,15 years old && He was born in 1991 and turned pro in 2006 (2006 - 1991).
+,Mohamed El Shorbagy has been trained by how many coaches?,108,5,"5 coaches && Jonah Barrington, David Palmer, Hadrian Stiff, Graeme Williams, and Rodney Martin have coached him."
+,How many medals did Coll win in international competition the year the picture was taken?,109,2,Insufficient data to determine medals in the year the picture was taken.
+,How many years has Paul Coll been active in his career?,109,12 years,"12 years && He turned pro in 2010 and it's 2022 now, so he's been active for 12 years."
+,What year did Paul Coll win a silver medal in the Common Wealth Games?,109,2018,2018 && Paul Coll won a silver medal in singles during the 2018 Gold Coast Commonwealth Games.
+,When was the first time that Paul Coll got any silver medal?,109,2018,2018 Gold Coast && He got a silver medal in singles during the 2018 Commonwealth Games.
+,How long has it been since Paul Coll last got a bronze medal in any competition?,109,2018,6 years && His last bronze medal was in 2016 Darwin doubles.
+,When was the first time that Paul Coll got a gold in the World Doubles Championships?,109,2016,2016 Darwin && He first won gold in 2016 Darwin for mixed doubles.
+,In what year did Paul Coll win his first bronze medal in a major tournament?,109,2016,2016 Darwin && Paul Coll won his first bronze medal in the 2016 Darwin World Doubles Championships.
+,How many World Doubles Championship gold medals did Paul Coll win before he achieved his highest ranking?,109,2,2 gold medals && He won two gold medals in Mixed doubles in 2016 and 2017 in World Doubles Championships.
+,How many years after turning pro did Paul Coll achieve his highest ranking?,109,12,12 years && He turned pro in 2010 and achieved his highest ranking in March 2022.
+,How long between when Coll won gold at the Darwin World Doubles Championships and Bronze at the Commonwealth Games?,109,2,2 years && The Darwin World Doubles Championships were in 2016 and the Commonwealth Games in 2018.
+,What year did Paul Coll gain his highest ranking?,109,2022,1 March 2022 && He gained his highest ranking on 1 March 2022.
+,How many years before Paul Coll achieved his highest ranking did he win gold at the Manchester World Doubles Championships?,109,5,5 years && He won gold in Manchester in 2017 and achieved his highest ranking in March 2022.
+,How old was Tarek Momen when he turned pro?,110,17,17 years && He turned pro in 2005 and was born in 1988 (2005 - 1988).
+,How many gold medals did Tarek Momen win in 2015?,110,zero,"1 gold medal && He won a gold medal in 2019-20 Doha, Singles."
+,How many spots did Tarek Momen fall in the ranking from February 2019 to December 2021?,110,one,1 spot && He was No. 3 in February 2019 and No. 4 in December 2021.
+,How old did Tarek Momen turn the year he made his highest ranking?,110,31,"31 years old && He reached his highest ranking in February 2019 and was born on February 23, 1988, making him 31 years old at that time."
+,How old was Tarek Momen when he turned pro?,110,17 years old,17 years && Tarek Momen was born in 1988 and turned pro in 2005 (2005 - 1988).
+,When did Tarek Momen earn his highest ranking?,110,February 2019,February 2019 && He reached his highest ranking of No. 3 in February 2019.
+,How old was Tarek Momen when he reached his highest ranking in 2019?,110,31 years old,"31 years old && He was born on February 23, 1988, so he was 31 years old in 2019."
+,How soon after turning pro did Tarek Momen achieve his highest ranking so far?,110,14,14 years && He turned pro in 2005 and achieved his highest ranking in February 2019.
+,In how many World Team Championships did Tarek Momen play before playing the World Open singles?,110,1,Information not available
+,At what age did Chiyonofuji Mitsugu retire?,131,36 years,"35 years old && He was born on June 1, 1955, and retired in May 1991."
+,How many years after Chiyonofuji Mitsugu's debut did he die?,131,46 years,46 years && He debuted in September 1970 and died in July 2016.
+,How old was Chiyonofuji Mitsugu when he made hid debut?,131,15 years old,"15 years old && He made his debut in September 1970 and was born on June 1, 1955 (1970 - 1955)."
+,How old was Chiyonofuji Mitsugu when he retired?,131,36 years old,"35 years && He was born on June 1, 1955, and retired in May 1991."
+,How many years did Chiyonofuji Mitsugu compete?,131,21 years,21 years && He debuted in September 1970 and retired in May 1991.
+,How many years did Chiyonofuji achieved the Highest rank after his Debut in 1970?,131,11 Years (1981),"11 years && He achieved the highest rank in July, 1981 after debuting in September, 1970."
+,How many years ago did Chiyonofuji was died?,131,6 Years ago (2016),"6 years && Chiyonofuji died on July 31, 2016, so it's been 6 years since his death (2022 - 2016)."
+,How old was Chiyonofuji Mitsugu when he got his highest ranking?,131,26 years,"26 years old && He achieved the highest rank in July, 1981, and was born on June 1, 1955 (1981 - 1955)."
+,How many years did Chiyonofuji was as sumo wrestler from 1970?,131,21 Years (retired in 1991),20 years && He debuted in September 1970 and retired in May 1991.
+,How old was Futabayama Sadaji when he achieved his rank as Yokozuna?,134,25,"25 years && He was born on February 9, 1912, and achieved Yokozuna rank in May 1937."
+,When did Futabayama Sadaji make his debut?,134,1927,March 1927
+,How long after his retirement did Futabayama Sadaj die?,134,23 years,"23 years && He retired in November 1945 and died on December 16, 1968."
+,How old was Futabayama Sadaji when he retired?,134,33 years old,"33 years old && He was born on February 9, 1912 and retired in November 1945."
+,How long was Futabayama Sadaji actively involved in his sport?,134,18 years,18 years && He debuted in March 1927 and retired in November 1945.
+,How old was Futabayama Sadaji when he made his debut?,134,13,"15 years old && He was born on February 9, 1912, and made his debut in March 1927."
+,How old was Futabayama Sadaji when he retired?,134,33,"33 years old && He was born on February 9, 1912, and retired in November 1945."
+,How old was Futabayama Sadaji when he gained his highest rank?,134,25 years old,"25 years old && He achieved Yokozuna rank in May 1937 and was born on February 9, 1912."
+,How many years after Futabayama Sadaji debut was his retirement?,134,18,18 years && Debut in March 1927 and retired in November 1945.
+,Which championship did Haguroyama Masaji gain more of than all other combined?,137,Makuuchi,"Makuuchi && Haguroyama Masaji won 7 Makuuchi championships, which is higher than all other combined."
+,What was the age when Haguroyama Masaji got highest rannk?,137,At the age of 27,"26 years old && He achieved the rank of Yokozuna in May 1941, and was born on November 18, 1914, making him 26 years old at the time."
+,How old did Haguroyama Masaji turn in the year he made Yokozuna?,137,27,"26 years && He became Yokozuna in May 1941 and was born in November 18, 1914 (1941 - 1914)."
+,At what age did Haguroyama Masaji retire?,137,39 years,"38 years old && He was born on November 18, 1914 and retired in September, 1953."
+,How old was Haguroyama Masaji when he debuted?,137,20 years,"19 years old && He was born in November 18, 1914 and debuted in January 1934."
+,At what age did Haguroyama Masaji receive his highest ranking?,137,27 years,"26 years old && He was born on November 18, 1914, and achieved his highest rank in May 1941 (1941 - 1914 = 26)."
+,How many years did Haguroyama Masaji career in sumo?,137,19 Years,19 years && His debut was in January 1934 and he retired in September 1953.
+,How many years ago did Haguroyama Masaji was started his career?,137,88 Years ago (1934),"88 years ago && Haguroyama Masaji started his career in January 1934, so it has been 88 years since then (2022 - 1934)."
+,How many years after debuting did Haguroyama Masaji retire?,137,19,19 years && He debuted in January 1934 and retired in September 1953.
+,How old was Harumafuji Kōhei during his debut?,139,17,"16 years old && He was born on April 14, 1984, and debuted in January 2001."
+,What was the age when Harumafuji Kōhei was retired from sumo in 2017?,139,Age of 33,"33 years old && He was born on April 14, 1984, so he would be 33 years old in 2017."
+,What year did Harumafuji Kōhei attain his highest ranking?,139,2012,"September 2012 && He attained his highest rank, Yokozuna, in September 2012."
+,How many years did Harumafuji Kōhei compete before retiring in 2017?,139,16 years,16 years && He debuted in January 2001 and retired in November 2017.
+,How old was Harumafuji Kōhei when he made his debut?,139,17 years old,"16 years old && He was born on April 14, 1984 and debuted in January 2001."
+,How many months after his 28th birthday did Harumafuji Kōheid achieve the rank of Yokozuna?,139,7,"7 months && He achieved Yokozuna rank in September 2012, and his 28th birthday was in April 2012."
+,How many special prizes won Harumafuji Kōhei since 2001?,139,9 Prizes,"10 special prizes && Fighting Spirit (1), Technique (5), Outstanding Performance (4)."
+,How many years ago did Harumafuji Kōhei was debut as Sumo Wrestler?,139,21 Years ago (2001),"21 years ago && He debuted in January 2001, so it is 21 years ago from 2022."
+,How many years were between Harumafuji Kōheid debut and his retirement?,139,11,16 years && His debut was in January 2001 and he retired in November 2017.
+,How long after achieving his highest rank did Kaiō Hiroyuki retire?,145,11 years,10 years 10 months && He achieved the highest rank in September 2000 and retired in July 2011.
+,How many months after turning 28 did Kaiō Hiroyuki achieve Ōzeki?,145,2,"2 months && Ōzeki was achieved in September 2000, and he turned 28 in July 2000."
+,How old was Kaiō Hiroyuki when he made his debut?,145,16 years old,15 years old && He debuted in March 1988 and was born on 1972-07-24.
+,How long after Kaiō Hiroyuki made his debut did he retire?,145,23 years,23 years && He debuted in March 1988 and retired in July 2011.
+,How old was Kaiō Hiroyuki when he retired?,145,39 years old,39 years && He was born on 1972-07-24 and retired in July 2011.
+,How many years ago did Kaiō Hiroyuki first debut in sumo wrestling?,145,34 Years ago,"34 years ago && Kaiō Hiroyuki debuted in sumo in March 1988, and it's currently 2022, so it was 34 years ago."
+,When did Kaiō Hiroyuki was got highest rank in sumo wrestling?,145,September 2000,"September 2000 && He achieved the highest rank, Ōzeki, in September 2000."
+,How old was Kaiō Hiroyuki during the year of his debut?,145,16,"15 years old && He was born on July 24, 1972, and debuted in March 1988."
+,How many gold stars won by Kaiō Hiroyuki as on may 2011?,145,Six,"6 gold stars && As of May 2011, he had 6 gold stars in his career."
+,How old was Kitanoumi Toshimitsu when he retired?,148,32 years old,"31 years old && He was born on May 16, 1953, and retired in January 1985 (1985 - 1953)."
+,What year did Kitanoumi Toshimitsu obtain his highest rank?,148,1974,"July 1974 && He obtained his highest rank, Yokozuna, in July 1974."
+,How old was Kitanoumi Toshimitsu when he made his debut?,148,24 years old,"13 years old && He was born on May 16, 1953, and made his debut in January 1967."
+,How many months before his 14th birthday was Obata's debut?,148,4,"4 months && His debut was in January 1967, and he was born on May 16, 1953."
+,How many years before Obata's death did he retire?,148,10,"30 years && He retired in January 1985 and died on November 20, 2015."
+,How many years did Kitanoumi Toshimitsu was played as sumo wrestler?,148,18 Years,18 years && He debuted in January 1967 and retired in January 1985.
+,How old was Toshimitsu Obata when he was Yokozuna?,148,21,"21 years && He became Yokozuna in July 1974, and he was born on May 16, 1953, making him 21 years old at the time."
+,What was the age when Kitanoumi Toshimitsu played his debut?,148,Age of 14,"13 years old && He was born on May 16, 1953, and made his sumo debut in January 1967."
+,How many years ago did Kitanoumi Toshimitsu was retired?,148,37 Years ago (1985),"37 years && He retired in January 1985, so it has been 37 years (2022 - 1985)."
+,How many gold stars won by Tochiazuma Daisuke as on may 2007?,169,Four,4 gold stars && He has 4 gold stars as mentioned in the context.
+,What was the age when Tochiazuma Daisuke was retired from sumo?,169,31 Years,30 years old && He was born in 1976 and retired in May 2007 (2007 - 1976).
+,How many years into his career did Tochiazuma Daisuke have his highest rank?,169,8,8 years && He debuted in November 1994 and reached his highest rank in January 2002.
+,How old was Daisuke Shiga in the year of his professional debut?,169,18,"18 years old && His debut was in November 1994, and he was born on November 9, 1976 (1994 - 1976)."
+,How long before he retired did Daisuke Shiga achieve his highest rank?,169,5 years,5 years && He achieved his highest rank in January 2002 and retired in May 2007.
+,How many months prior to his 31st birthday did Daisuke Shiga retire?,169,6,"6 months && He retired in May 2007, and his 31st birthday would be in November 2007."
+,How old was Tochiazuma Daisuke when he made his debut?,169,18,"18 years old && He was born on November 9, 1976, and made his debut in November 1994."
+,How many years did Tochiazuma Daisuke was played as sumo wrestler?,169,13 Years,12 years && He debuted in November 1994 and retired in May 2007.
+,How many years did Tochiazuma Daisuke wrestle for?,169,13,12 years && He debuted in November 1994 and retired in May 2007.
+,How old was Aminishiki Ryūji when he made his debut?,180,19 years old,"18 years old && He was born on October 3, 1978, and made his debut in January 1997."
+,How long was Aminishiki Ryūji involved in his sport before retiring?,180,22 years,22 years && He debuted in January 1997 and retired in July 2019.
+,When did Aminishiki Ryūji fight his first official fight?,180,"January, 1997","January, 1997"
+,How long after his debut did Aminishiki Ryūji achieve the rank of Sekiwake?,180,10 years,"10 years && He debuted in January, 1997 and achieved Sekiwake rank in September, 2007."
+,How many months before his 41st birthday did Aminishiki Ryūji retire?,180,3,3 months && He retired in July 2019 and was born in October 1978.
+,How old was Aminishiki Ryūji when he made his debut?,180,19,"18 years old && He was born on October 3, 1978, and made his debut in January 1997 (1997 - 1978)."
+,How many years was Aminishiki Ryūji active in his career before retiring in 2019?,180,22 years,22 years && He debuted in January 1997 and retired in July 2019.
+,How old was Aminishiki Ryūji during his debut?,180,19,"18 years old && He was born on October 3, 1978, and debuted in January 1997."
+,How old was Aminishiki Ryūji when he retired?,180,41 years old,"40 years old && He retired in July 2019 and was born on October 3, 1978, which makes him 40 years old at the time of his retirement."
+,How many total years (terms) does Joe Biden hold as Chair of the Senate Foreign Relations Committee?,182,6 years (2 terms),Not available in the given context.
+,What positions did Joe Biden hold in 2008?,182,"The United States Senator from Delaware, Chair of the International Narcotics Control Caucus, Chair of Senate Foreign Relations Committee",Not mentioned in the context
+,How many ideologies do Citizen Revolution Movement believe in since 2010?,182,9,9 ideologies && The knowledge graph lists 9 ideologies for the Citizen Revolution Movement.
+,What was Citizen Revolution Movement affiliated with in 2009?,182,PAIS Alliance,PAIS Alliance && It split from PAIS Alliance before its founding in 2010.
+,What political arm has the biggest proportion of Citizen Revolution Movement representation?,182,The National Assembly,National Assembly && They have 47 out of 137 seats.
+,What nation does the Citizen Revolution Movement represent?,182,Ecuador,"Ecuador && The party's headquarters is in Quito, indicating it represents Ecuador."
+,How long did it take from the founding of the party to it being formally registered?,182,6 years,6 years && The party was founded in 2010 and registered in 2016.
+,How long did it take for Citizen Revolution Movement to be registered since the organication was historically founded?,182,6 years,6 years && Founded in 2010 and registered in 2016.
+,Who was Joe Biden married to when he was first elected to the Senate?,182,Unmarried,Not in provided context.
+,How old is the Ba'ath Party?,183,75 years old,"75 years && The party was founded on 7 April 1947, so in 2022 it would be 75 years old."
+,What percentage of the Council of Ministers is held by Ba'ath Party members?,183,90%,90% && Ba'ath Party holds 27 out of 30 seats in the Council of Ministers.
+,Is Ba'ath Party membership increasing or decreasing?,183,Increasing,"Increasing && 1,200,000 members in 2010."
+,How long did Ba'ath Brigades become paramilitary wing of Arab Socialist Ba'ath Party – Syria Region?,183,6 years,6 years && Ba'ath Brigades existed from 2012 to 2018.
+,How many people were involved in the founding of Arab Socialist Ba'ath Party – Syria Region in 1947?,183,2,"3 founders && Michel Aflaq, Salah al-Din al-Bitar, and Akram al-Hawrani founded the party."
+,What positions did Joe Biden hold in 2008?,183,"The United States Senator from Delaware, Chair of the International Narcotics Control Caucus, Chair of Senate Foreign Relations Committee",U.S. Senator from Delaware
+,What was the paramilitary wing of Arab Socialist Ba'ath Party in 2014?,183,Ba'ath Brigades,Ba'ath Brigades (2012-2018)
+,How many parties does Joe’s Biden’s is associated with in his entire lifetime?,183,one,Information not available
+,What was the relationship status of Joe Biden in 1979?,183,Married to Jill Jocabs,Information not available in context
+,How many total years (terms) does Joe Biden hold as Chair of the Senate Foreign Relations Committee?,184,6 years (2 terms),This context does not provide information about Joe Biden.
+,Who did the United Sabah Party ally with in 2021,184,They allied with Barisan Nasional,Barisan Nasional && The party allied with Barisan Nasional in 2021.
+,What political position did the United Sabah Party hold in 1195,184,They were in agreement with Gagasan Rakyat,Centre-right && The United Sabah Party held a centre-right political position.
+,"If you subtract the number of United Sabah Party members in the Sabah State Legislative Assembly from the 2021 membership of the United Sabah Party, what number are you left with?",184,"449,993","448,993 && Subtract 7 members from 450,000 (450,000 - 7)."
+,How many years after Barisan Nasional was first part of the political position of the United Sabah Party did Gabungan Rakyat Sabah become regional allies of the United Sabah Party?,184,35,"30 years && Barisan Nasional affiliations with the United Sabah Party were from 1985-1990 and 2002-2018, while Gabungan Rakyat Sabah became a regional ally since 2020."
+,What year did the United Sabah Party split from the Sabah People's United Front,184,The year of 1985,5 March 1985 && The party was founded on 5 March 1985 after splitting from the Sabah People's United Front.
+,What is the total number of maximum people if you add all the Chief Ministers of Malaysia to all the Dewan Negara?,184,83,83 / 70
+,How many years after the second marriage did Joe Biden become POTUS?,184,44 years,This context does not have information about Joe Biden's marriages or presidency.
+,What was the relationship status of Joe Biden in 1979?,184,Married to Jill Jocabs,Information not available
+,What was the League of Communists of Yugoslavia's national affiliation during the fourth year of the military wing Yugoslav Partisans?,185,People's Front,People's Front (1944-1953)
+,The headquarters newspaper Borba for the League of Communists of Yugoslavia started how many years after the league was founded?,185,2,3 years && Borba started in 1922 and the league was founded in 1919.
+,The League of Communists of Yugoslavia was dissolved how many years after the last year of the Cominform international affiliation?,185,42,"42 years && The Cominform international affiliation ended in 1948, and the League of Communists of Yugoslavia dissolved in 1990 (1990 - 1948 = 42)."
+,How long after the League of Communists of Yugoslavia was founded did its newspaper begin?,185,3 years,"3 years && The newspaper ""Borba"" started in 1922, 3 years after the founding in 1919."
+,How much longer did the People's Front national affiliation last than the Cominform international affiliation?,185,8 years,"5 years && People's Front lasted from 1944-1953 (9 years) and Cominform from 1947-1948 (1 year), so the difference is 5 years (9 - 1)."
+,How many years after the Yugoslav Partisans military wing ended was the League of Communists of Yugoslavia dissolved?,185,45,"45 years && The military wing ended in 1945, and the League was dissolved in 1990, so it is 45 years (1990 - 1945)."
+,What was the name of the newspaper of League of Communists of Yugoslavia 1940?,185,Borba,Borba (1922-1990)
+,What was the name of the Military wing of League of Communists of Yugoslavia 1943?,185,Yugoslav Partisans,Yugoslav Partisans
+,How many years did League of Communists of Yugoslavia was active?,185,71 Years (1919-1990),70 years && The party was founded in 1919 and dissolved in 1990.
+,"What country took home the gold on May 21, 2021?",199,Morocco,Morocco && Sarah Harachi won the gold medal for Morocco.
+,"Who was the winner of the Women's 63 kg at the 2021 African Judo Championships on May 21, 2021?",199,Sandrine Billiet,res
+,How many days did Women's 63 kg at the 2021 African Judo Championships last?,199,One day,1 day && The event took place on 21 May 2021.
+,After how many years of Women's 70 kg at the 2021 European Judo Championships was the location in Sofia chosen?,200,1 year,"1 year && The previous competition was in Prague 2020, and the next one is in Sofia 2022."
+,How many years difference was there between Prague and Sofia Judo Championships?,200,2 years,2 years && Prague Championships in 2020 and Sofia Championships in 2022.
+,What country was the previous European Judo Championships held in?,200,Czech Republic,Portugal
+,How many days did the 2021 European Judo Championships take place?,200,1 day,The context does not provide the number of days.
+,"What country took the silver on April 17th, 2021?",200,France,France
+,Where was the location one year before the Women's 70 kg at the 2021 European Judo Championships?,200,Prague,"Prague, Czech Republic"
+,How many days did the Elliot 6m at the 2011 ISAF Sailing World Championships last?,201,14 days,"14 days && The event took place from 3-16 December, lasting 14 days."
+,How many years will Claire Leroy Elodie Bertrand Riou have to wait to try to win gold?,201,2 years,"1 year && The next edition is in 2012, so they have to wait 1 year to try for gold."
+,"How many days before Anna Tunnicliffe celebrates Christmas, did she win the gold?",201,9 days,9 days && The event ended on December 16 and Christmas is on December 25.
+,What country did the previous IBF World Championships take place?,202,Indonesia,Denmark
+,Where did the next IBF World Championships take place?,202,Birmingham,"Birmingham, 1993"
+,"What country was able to take the gold on May 8, 1991?",202,China,China && Zhao Jianhua from China won the gold medal.
+,Who won the gold medal in the Two-man at the IBSF World Championships 2 years before 2019?,203,Francesco Friedrich Thorsten Margis,Francesco Friedrich and Thorsten Margis from Germany
+,How many years before the Königssee bobsleigh Two-man at the IBSF World Championships was a similar contest held?,203,1 year,1 year && The previous event was in 2016.
+,How many years ago was the last IBSF World Championships?,203,One,"5 years ago && The last IBSF World Championships were in 2017, which is 5 years ago (2022 - 2017)."
+,How many more years for the next IBSF World Championships?,203,Two years,"3 years && The next event is in 2019, so it's 3 years from 2016."
+,"What country got a silver medal on February 19, 2017 in Two-man at the IBSF World Championships?",203,Canada,Canada && Justin Kripps and Jesse Lumsden won the silver medal for Canada.
+,"How many years after the Königssee, Germany IBSF World Championship did another contest take place?",203,2 years,"3 years && The next event was in 2019, so it was 3 years after 2017."
+,What days did the Women's KL3 at the 2018 ICF Canoe Sprint World Championships take place?,204,August 22 and Augues 23rd,22-23 August
+,Who was the silver medialist in the 2018 Canoe Sprint world championships,204,Amanda Reynolds,Amanda Reynolds && She won the silver medal in the event.
+,How many swedish medal winners were there in the 2018 ICE Cnoe sprint world championships?,204,One,1 Swedish medal winner && Helene Ripa won the gold medal.
+,How many countries were represented on the medal stand at the 2003 IBF World Championships for Women's Singles.,205,Two,2 countries && China and the Netherlands were represented on the medal stand.
+,"What type of Medal did Gong Ruina win on August 3, 2003?",205,Silver,Silver medal && Gong Ruina won the silver medal.
+,How often are the IBF World Championships held?,205,Every two years,"Every 2 years && The Championships were held in 2001, 2003, and 2005, indicating a biennial event."
+,How many parties does Joe’s Biden’s is associated with in his entire lifetime?,206,one,Information not available in the given context.
+,Who was Joe Biden married to when he was first elected to the Senate?,206,Unmarried,Not enough information available
+,Who was the better half of Joe Biden in 1970?,206,Neilia Hunter,Not available in provided context.
+,How many parties does Joe’s Biden’s is associated with in his entire lifetime?,206,one,Information not available && The context does not provide information about Joe Biden's party associations.
+,What time of year does Purim fall on?,206,Late February to mid-March,14th day of Adar && Purim falls on the 14th day of the Jewish month of Adar.
+,How long does Purim last?,206,A little over 24 hours,1 day && Purim is observed from sunset to nightfall.
+,What is the main thing centered around Purim?,206,Food and drink,Jewish deliverance in the Book of Esther
+,How many total years (terms) does Joe Biden hold as Chair of the Senate Foreign Relations Committee?,206,6 years (2 terms),Not available && The context does not provide information about Joe Biden.
+,Who was Joe Biden married to when he was first elected to the Senate?,206,Unmarried,Not enough information
+,What are 3 traditions of Hanukkah?,207,"Lighting the Menorah, Playing Dreidel, Hanukkah Gelt","Lighting candles, playing dreidel, eating fried foods"
+,What's a good Hanukkah gift?,207,Wall Art,"Dreidel, Hanukkah gelt, or menorah."
+,Over how many dates does Hanukkah take place?,207,8 days,8 days && The significance mentions the menorah's wicks burned for eight days.
+,When will Hanukkah be taking place the latest in the year?,207,2024,"Sunset, 25 December - nightfall, 2 January && Hanukkah 2024 date shows the latest occurrence in the year."
+,When will Hanukkah be taking place the earliest in the year?,207,2021,"Sunset, 28 November && Hanukkah begins on 25 Kislev and in 2021, it fell on 28 November which is the earliest date provided."
+,How many days did Hanukkah was celebrated?,207,9 days,8 days && The wicks of the menorah burned for eight days.
+,Which date were celebrated 28 Kislev of Hanukkah in 2023?,207,10 December 2023,"Sunset, 10 December 2023 && Hanukkah begins on 7 December and the 28 Kislev falls on the fourth day of Hanukkah (7+3)."
+,How many days ago did 3 Tevet was celebrated in 2021?,207,379 days ago,Cannot be determined && The given context does not provide enough information to determine the number of days since 3 Tevet was celebrated in 2021.
+,Is it OK to say Happy Hanukkah?,207,The traditional greeting for the Jewish holiday of Hanukkah in English is Happy Hanukkah,"Yes, it is OK."
+,Yom Kippur can fall in either of which two months?,208,"September, October",September and October && Yom Kippur dates in the context fall in these two months.
+,"From 2021-2024, Yom Kippur will occur in September how many times?",208,2,2 times && Yom Kippur occurs in September in 2021 and 2023.
+,"In 2022, Yom Kippur started how many days later than it did in 2021?",208,19,19 days && Yom Kippur in 2021 started on September 15 and in 2022 started on October 4.
+,Which day of the Tishri does Yom Kippur take place?,208,10th day of Tishrei.,10th day of Tishrei && The date is given as the 10th day of Tishrei.
+,What are the main observances in Yom Kippur?,208,Fasting prayer abstaining from physical pleasures refraining from work .,"Fasting, prayer, abstaining from physical pleasures, and refraining from work."
+,Over how many days does Yom Kippur take place?,208,2,1 day && Yom Kippur takes place from sunset to nightfall the following day.
+,In what year will Yom Kippur occur at the latest date?,208,2024,"2024 date && Sunset, 11 October - | nightfall, 12 October"
+,In what year did Yom Kippur occur earliest?,208,2021,"Sunset, 15 September - nightfall, 16 September 2021"
+,What things are Jews not allowed to do during Yom Kippur?,208,"Yom Kippur is observed for a 25-hour period, beginning at sundown, by refraining from work that is prohibited on Shabbat, plus five additional prohibitions: 1) eating or drinking; 2) bathing; 3) anointing the body with oil; 4) wearing leather shoes; and 5) sexual relations.","Fasting, prayer, abstaining from physical pleasures, refraining from work."
+,What prayer is prayed on Yom Kippur?,208,"Yom Kippur is the only day of the year when we pray Ne'ilah, the closing prayer, which is said as the sun is sinking in the west and this special day is coming to a close. Yizkor is also recited. Confession in Judaism is called Vidui (Hebrew וידוי ).",Fasting and prayer && Yom Kippur is observed through fasting and prayer for atonement of personal sins.
+,What happens in the synagogue on Yom Kippur?,208,"Synagogue is a critical part of Yom Kippur, offering five prayer services. During each one, the congregation confesses its sins collectively. Some attendees wear white clothing or a kittel, a white garment that symbolizes a burial shroud, the clothing of angels, and the purity of forgiveness.","Fasting, prayer, abstaining from physical pleasures, and refraining from work."
+,What type of ritual is Yom Kippur?,208,"Atonement for personal sins, fate of each person is sealed for the upcoming year.",Jewish atonement ritual
+,What color of lights were illuminated in San Francisco City Hall?,209,"Red, white and blue .","red, white, and blue && San Francisco City Hall was illuminated in special red, white, and blue LED lighting."
+,Where was the celebration for national election day in United States?,209,San Francisco City Hall,Polling precincts && People visit polling precincts to celebrate National Election Day.
+,When was the national election day was celebrated on 2018?,209,November 6,"November 6, 2018 && The context mentions that San Francisco City Hall was illuminated on November 6, 2018 for Election Day."
+,What was the first Monday in November in 2018?,209,November 5th,"November 5, 2018 && National Election Day was on November 6, 2018, which is the Tuesday after the first Monday of November."
+,What will the date of the second Tuesday after the first Monday of November have in 2023?,209,November 14th.,"November 14, 2023"
+,How many days difference in dates of 2023 and 2024 National Election Day ?,209,2 days,"2 days && In 2023 it's on November 7, and in 2024 it's on November 5."
+,"What day of the week would November 1, 2021 have been?",209,Monday,"Monday && The day before Election Day, November 2, 2021, was November 1, 2021."
+,How many days difference in dates was in the National Election Day of 2021 to its next year?,209,6 days,6 days && The 2021 date was November 2 and the 2022 date is November 8.
+,By what number of days did the National Election Day dates differ in 2022 and 2023?,209,1 day,"1 day && The dates were November 8, 2022, and November 7, 2023."
+,How many more days until the next New Year's Eve?,210,171 days,It is not possible to determine the number of days without knowing the current date.
+,How many days from Christmas is New Year's Eve?,210,6 days,"6 days && New Year's Eve is on December 31st, and Christmas is on December 25th."
+,How many days after New Year's Eve was Marguerite Martyn's sketch of a New Year's Eve celebration published?,210,5 days,"4 days && The sketch was published on January 4, 1914."
+,How many Armenian churches observe Christmas in January?,211,three,"2 churches && Armenian Apostolic Church and Armenian Evangelical Church observe Christmas on January 6, and the Armenian Patriarchate of Jerusalem observes it on January 19 (O.S. Jan. 6)."
+,How many days after December 25 does the Armenian Evangelical Church observe Christmas?,211,12,12 days && The Armenian Evangelical Church observes Christmas on January 6 (12 days after December 25).
+,What number of different days do various churches celebrate Christmas?,211,4,"4 different days && December 25, January 7, January 6, and January 19 are the dates various churches celebrate Christmas."
+,Which church observes Christmas the latest in the winter?,211,Armenian Patriarchate of Jerusalem,Armenian Patriarchate of Jerusalem && It observes Christmas on January 19 (O.S. Jan. 6).
+,"Which churches celebrate Christmas on the earliest day of a calendar year, whether O.S. or not?",211,Armenian Apostolic Church and the Armenian Evangelical Church,Armenian Apostolic Church and the Armenian Evangelical Church
+,How many days apart does the Armenian Patriarchate of Jerusalem (non-O.S.) and the Armenian Apostolic Church celebrate Christmas?,211,13,13 days && January 19 (O.S. Jan. 6) - January 6.
+,How many days pass between Western Christianity's observance of Christmas and Armenian Patriarchate of Jerusalem observance?,211,26 days,"13 days && Armenian Patriarchate of Jerusalem observes Christmas on January 19 (O.S. Jan. 6), while Western Christianity observes it on December 25."
+,Who celebrates Christmas last as an observance?,211,Armenian Patriarchate of Jerusalem,Armenian Patriarchate of Jerusalem && They celebrate Christmas on January 19 (O.S. Jan. 6).
+,How many days pass between Western Christianity's celebration of Christmas and Most Oriental Orthodox celebration date?,211,14 days,"13 days && Most Oriental Orthodox churches celebrate Christmas on January 7, which is 13 days after December 25 in Western Christianity."
+,What year was Good Friday observed on April 2?,212,2021,"2021 && In 2021, Good Friday was observed on April 2 in the Western calendar."
+,In 2024 what date will Good Friday be observed in the Eastern hemisphere?,212,May 3,May 3 (Eastern)
+,How many years are the Eastern and Wester dates 7 days apart?,212,2,"7 days apart in 2022 && The 2022 date shows April 15 (Western) and April 22 (Eastern), which are 7 days apart."
+,How much longer is the time between the western and eastern dates in 2021 and eastern date 2024?021 than in 2023?,212,21 days,"28 days && In 2021, the difference is 28 days (April 30 - April 2) and in 2024, the difference is 35 days (May 3 - March 29)."
+,"If they happened in the same year, home man days would separate the eastern date in",212,3,"7 days && In 2022, Western Good Friday is April 15 and Eastern Good Friday is April 22."
+,What year will Good Friday be observed on April 7?,212,2023,2023 && Good Friday falls on April 7 in 2023 according to the provided context.
+,What is the day that is a week before Halloween?,213,October 24th,October 24 && A week before Halloween (October 31) is October 24.
+,How many days would pass between Halloween in Christmas for those who observe?,213,55 days,"55 days && Halloween is on October 31 and Christmas is on December 25, so there are 55 days between them."
+,"If October 23 was a Monday, what day of the week would Halloween be on?",213,Tuesday,"Tuesday && Halloween is on October 31, which is 8 days after October 23."
+,What will the date of Thanksgiving be in 2024?,214,November 28,"November 28, 2024 && Black Friday is on November 29, 2024, and Thanksgiving is the day before Black Friday."
+,What date was Thanksgiving in 2021?,214,November 25,"November 25, 2021 && Black Friday in 2021 was on November 26, and Thanksgiving is always the day before Black Friday."
+,What day is Thanksgiving in 2023?,214,November 23.,"November 23 && Thanksgiving is the day before Black Friday, which is November 24, 2023."
+,What would the day of November 27th 2021 be referred to as?,214,Small Business Saturday.,"November 27th 2021 would not be referred to as Black Friday because Black Friday was on November 26th, 2021."
+,What is the difference of days for Black Friday for 2024 and 2022?,214,4 days,"4 days && Black Friday 2022 is on November 25, and 2024 is on November 29."
+,By how many days does the dates of Black Friday differ in 2021 and 2024?,214,3 days,3 days && Black Friday is on November 26 in 2021 and November 29 in 2024.
+,By how many days did the Black Friday dates differ in 2022 and 2021?,214,1 day,"1 day && The dates are November 26, 2021, and November 25, 2022."
+,What day did Thanksgiving fall in 2021?,214,November 25,"November 25 && Black Friday was on November 26, so Thanksgiving was on November 25 (the day before Black Friday)."
+,What day will Thanksgiving fall on in 2023?,214,November 23,"November 23 && Black Friday is on November 24, 2023, and it's the day after Thanksgiving."
+,What date is the third Sunday of May in 2022?,215,May 15,"May 15 && Since the first Sunday of May 2022 is on the 1st, the third Sunday falls on the 15th."
+,Where would find Mother's Day on the calendar?,215,The 2nd Sunday of may.,Second Sunday in May
+,How often does Mother's day come around?,215,Once every year.,Annual
+,What date did Mother's day fall on in 2021?,215,May 9th,"May 9, 2021 && The graph states the ""2021 date"" as ""May 9""."
+,What date is the third Sunday of May in 2024?,215,May 19,"May 19, 2024 && The third Sunday of May is after the date of Mother's Day, which is on May 12, 2024 (second Sunday)."
+,What date is the first Sunday of May in 2023?,215,May 7,"May 7, 2023 && The first Sunday of May in 2023 is May 7."
+,How many days after Dhanteras/Yama Deepam is Govardhan Puja/Balipratipada/Gujarati New Year?,216,three,"3 days && Govardhan Puja/Balipratipada/Gujarati New Year is on October 24, while Dhanteras/Yama Deepam is on October 21."
+,How many days after Dhanteras/Yama Deepam is Bhai Dooj/Vishwakarma Puja?,216,four,"4 days && Bhai Dooj/Vishwakarma Puja is on October 25, and Dhanteras/Yama Deepam is on October 21 in 2022 (25 - 21 = 4)."
+,What is the date of celebration Gujarati New Year in 2022?,216,October 24,"October 24, 2022 && Gujarati New Year is celebrated on Govardhan Puja/Balipratipada, which falls on October 24, 2022."
+,When was the Lakshmi puja was celebrated in deepavali starting October 21?,216,3 rd of deepavali festival (October 23),October 23 && Lakshmi Puja is celebrated on October 23 in Diwali 2022.
+,For how many days is Diwali celebrated?,216,5 days,5 days
+,How many days after Dhanteras is Govardhan Puja?,216,3 days,"2 days && Govardhan Puja is on October 24 and Dhanteras is on October 21, making it 2 days after Dhanteras."
+,What is 2 days before Govardhan Puja?,216,Naraka Chaturdashi,Naraka Chaturdashi or Chhoti Diwali && It is celebrated two days before Govardhan Puja.
+,How many days in 2022 is Diwali celebrated?,216,five,"5 days && Diwali 2022 dates include October 21 to October 25, making it a 5-day celebration."
+,How many days deepavali festival celebrated in october?,216,5 days (from october 21-25),5 days && Diwali 2022 celebrations are from October 21 to 25.
+,"Other than in 2022, in what year are the Western and Eastern Easter dates 1 week apart?",217,2023,"2023 && In 2023, the Western Easter is on April 9 and the Eastern Easter is on April 16."
+,During how many years is the Western Easter date in April?,217,3,"Variable, determined by the Computus"
+,How many days were there between the Western and Eastern Easter date in 2022?,217,7,7 days && The Western Easter is on April 17 and Eastern Easter is on April 24 in 2022.
+,In which year between 2021 and 2024 was the Western Easter date the earliest?,217,2021,"March 31, 2024"
+,How many days apart were the Western and Eastern Easter dates in 2021?,217,28,28 days && Western Easter was on April 4 and Eastern Easter was on May 2 in 2021.
+,How many days longer was the time between Western and Eastern Easter  dates in 2024 than in 2022,217,28 days,"35 days && In 2022, the difference is 7 days (April 24 - April 17), while in 2024, the difference is 35 days (May 5 - March 31)."
+,How long does Mardi Gras last 2022?,218,4-8 weeks,"1 day && Mardi Gras is celebrated on the day before Ash Wednesday, which is on 1 March in 2022."
+,Which month celebrate the Mardi Gras in the year 2021?,218,16 February,February && Mardi Gras 2021 date is 16 February.
+,In what year will Mardi Gras take place the latest in the year?,218,2022,"1 March && Mardi Gras takes place 47 days before Easter, and the latest date in 2022 is 1 March."
+,When celebrated Mardi Gras?,218,Annual,"1 March 2022 && Mardi Gras is celebrated before Ash Wednesday, in 2022 it falls on 1 March."
+,How many days later does Mardi Gras start in 2022 vs. 2021?,218,5 days,13 days && Mardi Gras is on 16 February in 2021 and 1 March in 2022.
+,What is the date start range of Mardi Gras from 2021-2024?,218,February 13th-March 1st,"February 16, 2021 - February 13, 2024"
+,How many other big holidays and celebrations is Mardi Gras related to?,218,Eight,"8 other holidays &&  It is related to Shrove Tuesday, Carnival, Shrove Monday, Shrovetide, Ash Wednesday, Lent, Užgavėnės, and Maslenitsa."
+,In what year will Mardi Gras happen earliest in the year?,218,2024,2024 && Mardi Gras is scheduled to happen earliest on February 13th in 2024.
+,In how many years will Mardi Gras take place in February?,218,3,1 year && Mardi Gras will take place in February 2023.
+,Which date was celebrated as 18 Tishrei in 2021?,219,23 September 2021,"September 23, 2021 && Sukkot began on sunset, September 20, 2021, and 18 Tishrei is 3 days after it began."
+,At what time of day does Sukkot officially start?,219,At nightfall,Sunset && Sukkot officially starts at sunset on the 15th day of Tishrei.
+,Who was the better half of Joe Biden in 1970?,219,Neilia Hunter,Information not available in context
+,How many years after the second marriage did Joe Biden become POTUS?,219,44 years,Please provide relevant context about Joe Biden's second marriage and his presidency.
+,What positions did Joe Biden hold in 2008?,219,"The United States Senator from Delaware, Chair of the International Narcotics Control Caucus, Chair of Senate Foreign Relations Committee",Information not available in context
+,How long does Sukkot last?,219,Six days,7 days && Sukkot starts on 15th day of Tishrei and ends on the 21st day of Tishrei.
+,What date does Sukkot typically fall under in a given year?,219,Late September to mid-October,15th day of Tishrei
+,How many days before 16 Tishrei was celebrated in 2022?,219,69 days ago (10 October 2022),1 day && Sukkot begins on the 15th day of Tishrei.
+,Which date is celebrated as 20 Tishrei in 2023?,219,4 October 2023,"October 4, 2023 && Sukkot begins on 15 Tishrei and 20 Tishrei is 5 days later. In 2023, Sukkot begins on September 29, so 20 Tishrei is on October 4."
+,How many years passed between the HMSMontrosein being ordered and commissioned?,222,6,5 years and 11 months && Ordered in July 1988 and commissioned in June 1994.
+,How many years passed before the HMSMontrosein was ordered and launched?,222,4,4 years && Ordered in July 1988 and launched in July 1992.
+,How many years ago was the HMSMontrosein ordered?,222,34,"34 years ago && HMS Montrose was ordered in July 1988, so it was 34 years ago (2022 - 1988)."
+,"After it launched, how long did HMSMontrosein 2005 to be commisioned?",222,23 months,1 year and 10 months && Launched on 31 July 1992 and commissioned on 2 June 1994.
+,How many months passed between HMSMontrosein 2005 being laid down and launching?,222,21 months,33 months && The ship was laid down on 1 November 1989 and launched on 31 July 1992.
+,How long between the HMSMontrosein 2005 being ordered and it launching?,222,4 years,4 years && HMS Montrose was ordered in July 1988 and launched on 31 July 1992.
+,How many years after the  HMSMontrose was ordered was it launced?,222,4 years,4 years && Ordered in July 1988 and launched in July 1992.
+,How many decades separate when the HMSMontrose was commissioned and its refit?,222,2,2 decades && The ship was commissioned in 1994 and refitted between 2014-2017.
+,What event took place during the same month though a different year as when the HMSMontrose was ordered?,222,Launched,"Launched on 31 July 1992 && The HMS Montrose was launched in July 1992, which is the same month but different year from when it was ordered in July 1988."
+,What month is the middle-most month between the month the HMS Argyll was laid down and the month it was commissioned?,223,April,"December 1989 && It was laid down in March 1987 and commissioned in May 1991, so the middle-most month is December 1989."
+,How much longer was the LIFEX refit  than the Major refit?,223,1 year,2 years && LIFEX refit lasted 2015-2017 and Major refit was 2009-2010.
+,How many years before the HMSArgyll was commissioned was it laid down?,223,4,4 years && Laid down on 20 March 1987 and commissioned on 31 May 1991.
+,How long after the HMSArgyll was ordered was it launched?,223,3 years,"2 years and 7 months && Launched in April 1989, ordered in September 1986."
+,"If you add the days of the month that the HMS Argyll was launched and laid down, what number would you get?",223,28,"28 && The ship was laid down on 20 March and launched on 8 April, so 20 + 8 = 28."
+,How many years were between when the HMS Argyll was ordered and commissioned?,223,5,4 years and 8 months && The HMS Argyll was ordered in September 1986 and commissioned in May 1991.
+,How long after the HMSArgyll was laid down was it commissioned?,223,four years and two months,4 years and 2 months
+,How many years after the HMSArgyll was ordered was it launched?,223,two and a half,2 years and 7 months && The HMS Argyll was ordered in September 1986 and launched on 8 April 1989.
+,How many times was the HMSArgyll refit?,223,two,2 times && Major refit in 2009-2010 and LIFEX in 2015-2017.
+,How many years does HMSAstute is service in UK Navy?,224,28 Years,"The question is related to HMS Astute, but the provided context is about HMS Somerset. Therefore, it is impossible to answer the question with the given context."
+,Who is the Builder of HMS Somerset Launched in 1994?,224,Yarrow Shipbuilders,"Yarrow Shipbuilders && HMS Somerset was built by Yarrow Shipbuilders, as indicated in the context."
+,How long after the HMSSomersetin was ordered was it laid down?,224,9 months,9 months && January to October 1992 is 9 months.
+,How many years taken to build HMS Somerset?,224,2 Years,4 years && Ordered in January 1992 and commissioned on 20 September 1996.
+,Which of the HMSSomersetin's refits took place 2 decades after it was ordered?,224,Major,"LIFEX 2019 onwards && The refit 2 decades after 1992 is LIFEX, starting in 2019."
+,"How long after being laid down, did HMSSomerset launch?",224,2 years,1 year and 8 months && HMS Somerset was laid down on 12 October 1992 and launched on 25 June 1994.
+,How long did it take for HMSSomerset to be Commisioned after being ordered?,224,4 years,4 years and 8 months && Ordered in January 1992 and commissioned in September 1996.
+,Who Sponsored HMSSomerset in 1996?,224,Lady Layard,Lady Layard
+,How many years did it take for the HMSSomersetin to be commissioned after its launch?,224,2,2 years && Launched on 25 June 1994 and commissioned on 20 September 1996.
+,How old was Fernando Alonso in the year he won the Spanish Grand Prix?,258,32,"31 years old && He won the 2013 Spanish Grand Prix and was born on July 29, 1981."
+,What is the sum total of Fernando Alonso's two car numbers?,258,22,22
+,How old was Fernando Alonso in the year he had his first entry?,258,20,"19 years old && His first entry was in 2001, and he was born in 1981."
+,How old was Diaz in his first entry in his Formula One World Championship career?,258,20,"19 years old && He was born on July 29, 1981, and his first entry was in the 2001 Australian Grand Prix, making him 19 years old at the time."
+,What year did Fernando Alonso enter the Australian Grand Prix?,258,2001,2001
+,In what other racing championships did Diaz debut during his years he debuted in the FIA World Endurance Championship career?,258,24 Hours of Le Mans career,IndyCar Series and 24 Hours of Le Mans
+,Where was Fernando Alonso's first Grand Prix won?,258,Hungarian Grand Prix,2003 Hungarian Grand Prix
+,What year was Fernando Alonso's last Grand Prix entry?,258,2022,2022 Canadian Grand Prix
+,How many years were between Diaz's first win in the Formula One World Championships and his debut season in the FIA World Endurance Championship career?,258,15,15 years && He won his first F1 championship in 2005 and debuted in the WEC in 2018-19 (2018 - 2005).
+,How long after Button's Formula One career began did he have his first win?,259,6 years,"6 years && His first win was in 2006, and his career began in 2000 (2006 - 2000)."
+,What nationality is Jenson Button?,259,British,"British && He has the nationality ""United Kingdom | British""."
+,What year did Jenson Button win his first championship?,259,2009,2009 && He won his first championship in 2009.
+,How old was Jenson Button when he began his race career?,259,20 years old,"20 years old && He began his Formula One career in 2000, and he was born on January 19, 1980."
+,How many years did Jenson Button race?,259,17 years,17 years &&  He raced in Formula One from 2000 to 2017.
+,How old was Button when he began his Formula One career?,259,20,20 years old && He was born in 1980 and started in 2000 (2000 - 1980).
+,How long after Button's last win did he end his Formula One career?,259,5 years,5 years && His last win was in 2012 and he ended his career in 2017.
+,At what age did Jenson Button win his last Brazilian Grand Prix?,259,32,"32 years old && He won the last Brazilian Grand Prix in 2012, and he was born in 1980, so he was 32 years old at that time."
+,At what age did Jenson Button win his first Hugarian Grand Prix?,259,26,26 years old && He was born on 1980-01-19 and won his first Hungarian Grand Prix in 2006.
+,Last entry of Jenson Button in Formula One World Championship?,259,2017,2017 Monaco Grand Prix
+,Jenson Button made his first entry in Formula One World Championship at?,259,2000,2000 Australian Grand Prix
+,How many years Jenson Button has been active?,259,17,17 years && He was active in Formula One from 2000 to 2017.
+,At what age did Jenson Button become active in his career?,259,20,20 years old && He was born in 1980 and became active in Formula One in 2000.
+,How many championships did Jenson Button have?,259,1,1 championship && He won the Formula One Championship in 2009.
+,What was the first year Jenson Button was active?,259,2000,2000 && His active years in Formula One were 2000-2017.
+,At what age did Riccardo Patrese first win the Monaco Grand Prix?,261,32,28 years old && He was born in 1954 and won in 1982 (1982 - 1954).
+,At what age did Riccardo Patrese become active in his career?,261,23,23 years old && He started his Formula One career in 1977 and was born in 1954 (1977 - 1954).
+,How old was Riccardo Gabriele Patrese when he began his career?,261,23 years old,23 years old && He started his career in 1977 and was born in 1954.
+,How many years was Riccardo Gabriele Patrese active?,261,16 years,17 years && Active years were from 1977 to 1993.
+,How old was Patrese when his career began?,261,23,"23 years old && His career began in 1977, and he was born in 1954 (1977 - 1954)."
+,How long after Patrese's firs Formula One entry was his last win?,261,5 years,"15 years && His first entry was in 1977, and his last win was in 1992 (1992 - 1977)."
+,How many years passed between Riccardo Gabriele Patrese's first and last entries?,261,16,16 years && His active years were from 1977 to 1993.
+,How many years passed between Riccardo Gabriele Patrese's first and last wins?,261,10,10 years && His first win was in 1982 and his last win in 1992.
+,How long did Riccardo Gabriele Patrese compete for?,261,16 years,16 years && He competed from 1977 to 1993.
+,How many years before his career ended was Patrese's first win?,261,11,11 years && His first win was in 1982 and his career ended in 1993.
+,What year did Riccardo Gabriele Patrese compete in the Japanese Grand Prix?,261,1992,1992 && He had his last win in the 1992 Japanese Grand Prix.
+,At what age did Riccardo Patrese win the Japanese Grand Prix?,261,38,"38 years old && He won the Japanese Grand Prix in 1992, and he was born on April 17, 1954, so he was 38 years old (1992 - 1954)."
+,How old was Sebastian Vettel when he won the Italian Grand Prix?,262,21 years old,21 years old && He won in 2008 and was born in 1987 (2008 - 1987).
+,How old was Sebastian Vettel when he won the United States Grand Prix?,262,20 years old,"25 years old && He was born on July 3, 1987, and won the United States Grand Prix in 2012 (2012 - 1987)."
+,How many years ago did Sebastian Vettel was last won?,262,3 Years ago (2019),3 years && His last win was in the 2019 Singapore Grand Prix.
+,At what age was his last tournament to enter the Canadian Grand Prix?,262,35,"34 years old && He was born in 1987 and entered the 2022 Canadian Grand Prix, making him 34 years old."
+,At what age did Sebastian Vettel win his last race at the Singapore Grand Prix?,262,32,"32 years old && He won his last race at the 2019 Singapore Grand Prix, and he was born on 3 July 1987 (2019 - 1987)."
+,What is the age of Sebastian Vettel when he was first entry into 2007 United States Grand Prix?,262,At the age of 20,"20 years old && He was born on July 3, 1987, and made his first entry in 2007, making him 20 years old (2007 - 1987)."
+,How many times did  Sebastian Vettel won the Championships from 2011?,262,3 Times,"3 times && Championships in 2011, 2012, and 2013."
+,What Grand Prix did Sebastian Vettel win in 2019?,262,Singapore,2019 Singapore Grand Prix && He won the 2019 Singapore Grand Prix.
+,At what age did Sebastian Vettel win his first Italian Grand Prix?,262,21,"21 years old && He won his first Italian Grand Prix in 2008, and he was born in 1987, so he was 21 years old (2008 - 1987)."
+,How many times did Sebastian Vettel not start in an entry?,262,one,"1 && 287 entries with 286 starts, which means 1 entry without a start."
+,How many years passed between Sebastian Vettel's first and last entries?,262,15,15 years && He began in 2007 and the last entry is in 2022.
+,How old was Sebastian Vettel the year he won his first championship?,262,23,"23 years old && He won his first championship in 2010 and was born on July 3, 1987 (2010 - 1987)."
+,"Which is greater, the number of  Kimi Räikkönen's teams or engines?",344,teams,Teams are greater && Kimi had 5 teams and 4 engines.
+,At what age did Kimi Räikkönen win his first Formula One World Championship?,344,24,"28 years && He won the championship in 2007, and he was born on October 17, 1979 (2007-1979)."
+,How old was  Räikkönen when he began his Formula One career?,344,22,"21 years old && He began his Formula One career in 2001 and was born on October 17, 1979."
+,How many years were between Räikkönen's first Formula One win and his first World Rally Championship rally?,344,6,6 years && His first F1 win was in 2003 and first WRC rally was in 2009.
+,How much longer in total years was Räikkönen active in Formula One than in the World Rally Championship?,344,15,"17 years && Räikkönen was active in Formula One for 19 years (2001-2009, 2012-2021) and in the World Rally Championship for 2 years (2009-2011)."
+,What year did Kimi Räikkönen marry Jenni Dahlman?,344,2004,2004 && Kimi Räikkönen married Jenni Dahlman in 2004.
+,At what age did Kimi Räikkönen divorce his wife?,344,35,34 years old && He was born in 1979 and divorced in 2014 (2014 - 1979).
+,How long after Kimi Räikkönen's first entry did he have his first win?,344,two years,2 years && His first entry was in 2001 and first win in 2003.
+,How old was Kimi Räikkönen when he began to compete in 2001?,344,22 years old,"22 years old && He was born on October 17, 1979, so he was 22 years old in 2001."
+,"Which is greater, the amount of Kimi Räikkönen's children or his stage wins?",344,children,Stage wins
+,At what age did Kimi Räikkönen enter his first Formula One World Championship?,344,22,21 years && He entered in 2001 and was born in 1979 (2001 - 1979).
+,How many total active years did Kimi Räikkönen compete?,344,17 years,18 years && He competed from 2001-2009 and 2012-2021.
+,How old was Michael Schumacher when he won his last championship in 2004?,345,35 years old,"35 years old && He was born on January 3, 1969, so he was 35 years old in 2004."
+,How many total year was Michael Schumacher active in his career?,345,17,19 years && He was active from 1991-2006 and 2010-2012.
+,What event did Michael Shumacher make his final entry in 2012?,345,Brazilian Grand Prix,2012 Brazilian Grand Prix
+,What event did Michael Schumacher make his first entry in 1991?,345,Belgian Grand Prix,1991 Belgian Grand Prix
+,Number of engines used by Michael Schumacher?,345,4,"Ford, Renault, Ferrari, Mercedes"
+,How many Championships does Michael Schumacher have?,345,7,"7 Championships && He has 7 Championships listed (1994, 1995, 2000, 2001, 2002, 2003, 2004)."
+,Number of teams Michael Schumacher have been in?,345,4,"4 teams && Jordan, Benetton, Ferrari, and Mercedes are the teams."
+,How many total wins did Michael Shumacher have in his career?,345,91 wins.,91 && His career had 91 wins in the Formula One World Championship.
+,What year did Michael Schumacher win his first championship?,345,1994,1994
+,How many days ExoMars did Orbital insertion after launched?,461,219 days after,"218 days && Orbital insertion was on October 19, 2016, and launched on March 14, 2016, so there are 218 days between the two dates."
+,How many month left did ExoMars was planned in mars?,461,9 months left,"9 months && Planned mission duration is 7 years and it has already elapsed 6 years, 3 months, and 18 days."
+,How many more months is the ExoMars mission planned to last?,461,9,"9 months && The planned duration is 7 years, and it has elapsed 6 years and 3 months."
+,How long after the launch date of ExoMars was the Mars orbiter orbital insertion?,461,7 months,"7 months and 5 days && Orbital insertion was on October 19, 2016, which is 7 months and 5 days after the launch on March 14, 2016."
+,"Based on the launch date, what year is the ExoMars planned to end?",461,2023,"2023 && The Trace Gas Orbiter was launched on 14 March 2016 with a planned mission duration of 7 years, which would end in 2023."
+,How many years does ExoMars was launched?,461,6 years,"6 years, 3 months, 18 days && ExoMars was launched on 14 March 2016, and the elapsed time is given."
+,How much longer did Yamamoto play for Kamatamare Sanuki than Mito HollyHock?,484,3 years,4 years && Yamamoto played for Mito HollyHock from 2002-2003 and Kamatamare Sanuki from 2013-2017.
+,How old was Yamamoto when his youth career ended?,484,18,Information not available
+,How many total years did play in his senior career?,484,17 years,17 years && Yamamoto's senior career spanned from 2001 to 2018.
+,What year did Shohei Yamamoto begin playing for Mito Hollyhock?,484,2002,2002 && Shohei Yamamoto played for Mito HollyHock from 2002 to 2003.
+,For how many years did Shohei Yamamoto play in the senior division?,484,18,17 years && He played from 2001 to 2018 in various teams.
+,When was the last year that Shohei Yamamoto played in the senior division?,484,2018,2017 && His senior career with Kamatamare Sanuki ended in 2017.
+,What was the first team that Shohei Yamamoto played for in his senior career?,484,Kyoto Purple Sanga,Kyoto Purple Sanga && He started his senior career with Kyoto Purple Sanga in 2001.
+,How many years after playing for Kyoto Purple Sanga did  Yamamoto play for Ococias Kyoto AC?,484,17,17 years && He played for Kyoto Purple Sanga in 2001 and for Ococias Kyoto AC in 2018.
+,How many years did Shohei Yamamoto's youth career last?,484,5 years,Information not available in the context.
+,What team in his senior career did Pillay play for when he won silver at the Hiroshima Asia Cup?,485,Selangor HA,India && Pillay represented India's national team during his senior career.
+,How many years were between Pillay's gold medal win at the Championship Challenge and is gold at the Asian Games?,485,3,"2 years && Pillay won the Championship Challenge in 2001 and the Asian Games in 1998, so there are 3 years between the wins (2001 - 1998)."
+,At what age did Dhanraj Pillay play for Indian Gymkhana?,485,24,"24 years old && He played for Indian Gymkhana in 1992 and was born on July 16, 1968 (1992 - 1968)."
+,At what age did Dhanraj Pillay compete in his first Asian Games/,485,22,"22 years && Pillay was born on July 16, 1968 and competed in the 1990 Asian Games."
+,At what age did Dhanraj Pillay join the National team?,485,21,"21 years && He joined the National team in 1989, and he was born in 1968. So, he was 21 years old (1989 - 1968)."
+,Dhanraj Pillay played for national side for how many years?,485,15,15 years && He played for the national team from 1989 to 2004.
+,Dhanraj Pillay played for Selangor HA for how long?,485,3 years,3 years && He played for Selangor HA from 1994 to 1997.
+,How many years elapsed from when Dhanraj Pillay won his first medal in Kuala Lumpur to his last in Kuala Lumpur?,485,four,"14 years && His first medal in Kuala Lumpur was in 1989, and last in 2003, so the elapsed time is 14 years (2003 - 1989)."
+,Which competition gave Dhanraj Pillay his only bronze medal?,485,Asia Cup,1999 Kula Lumpur Asia Cup && He won a bronze medal at the 1999 Asia Cup in Kuala Lumpur.
+,Which team did Dhanraj Pillay play at the longest?,485,Selangor HA,Selangor HA && He played for Selangor HA from 1994-1997.
+,How many Asian Games Dhanraj Pillay have participated?,485,4,"4 Asian Games && He participated in 1990, 1994, 1998, and 2002 Asian Games."
+,How old was Pillay when he began his senior career?,485,24,24 years && He began his senior career in 1992 and was born in 1968 (1992 - 1968 = 24).
+,How many Asia Cup games did Gagan Ajit Singh compete in?,486,2,2 Asia Cup games && He won gold in 2003 and bronze in 1999.
+,At what age did Gagan Ajit Singh win a mdeal at the Asian Games?,486,22,"21 years old && Gagan won a silver medal at 2002 Busan Asian Games, and he was born in 1980, making him 21 years old at the time (2002-1980)."
+,How old did Gagan Ajit Singh turn the year he began his senior career?,486,25,"25 years && He started his senior career in 2005 and was born on December 9, 1980 (2005 - 1980)."
+,How many years after Gagan Ajit Singh began to play for the national team did he medal at Hobart?,486,four,4 years && He started playing for the national team in 1997 and won the medal in 2001 (2001 - 1997).
+,How many cities did Gagan Ajit Singh medal at in 2001?,486,two,2 cities && He won medals in Kuala Lumpur and Hobart in 2001.
+,In what year did Singh win the most gold medals in international competition?,486,2001,2001 && He won gold medals in Champions Challenge and Junior World Cup in 2001.
+,How many years before Singh played for HC Klein Zwitserland did he play for the India national team?,486,8,8 years && He played for India national team in 1997 and for HC Klein Zwitserland in 2005 (2005 - 1997).
+,How old was Singh when he won gold in the Asia Cup?,486,23,"22 years && He won gold in the 2003 Asia Cup and was born on December 9, 1980 (2003 - 1980)."
+,At what age did Gagan Ajit Singh win a medal at the Champions Challenge?,486,21,"21 years old && He won the medal in 2001 and was born on December 9, 1980, so he was 21 years old (2001 - 1980)."
+,How long was Dhyan Chand in an army?,524,34 years,34 years && He served from 1922-1956.
+,How long was Dhyan Chand on a hockey team?,524,23 years,23 years && He played for the national team from 1926 to 1949.
+,How many years did Dhyan Chand win gold medals in the Olympics?,524,3,"3 gold medals && He won gold medals in 1928, 1932, and 1936."
+,What age was Dhyan Chand when he won his first gold medal in the 1928 Olympics?,524,23 years old,"23 years old && He was born on August 29, 1905, and won his first gold medal in 1928 (1928 - 1905)."
+,How old was Dhyan Chand when he won his final gold medal in the 1963 Olympic games?,524,31 years old,"There is an error in the question. Dhyan Chand won his final gold medal in the 1936 Olympic games, not 1963. He was 31 years old during the 1936 Berlin Olympics (1936-1905)."
+,How many gold medals did Dhyan Chand win while he played with British India?,524,3,"3 gold medals && He won gold medals in 1928, 1932, and 1936 Olympics."
+,How many years after Dhyan Chand's hockey career ended did his military career end?,524,7,"7 years && His hockey career ended in 1949, and his military career ended in 1956."
+,How many years after Dhyan Chand joined the military did his hockey career begin?,524,4,4 years && His service started in 1922 and his hockey career began in 1926.
+,How many gold medals did Dhyan Chand's hockey team win?,524,three,"3 gold medals && Dhyan Chand's hockey team won gold medals in the 1928, 1932, and 1936 Olympic Games."
+,how many years Sachin Tendulkar played for national side?,526,24,Insufficient information
+,what was the age of Sachin Tendulkar when he played his last one day match?,526,39,Insufficient information to generate an answer.
+,how many total one day international matches Sachin Tendulkar played?,526,463,I cannot answer this question as there is no relevant context provided.
+,How many years was Sachin Tendulkar a part of the national side?,526,24,"Unable to answer, no information provided."
+,How many years was Sachin Tendulkar a part of parliament?,526,six,Insufficient information
+,How many years did Sachin Tendulkar play for Mumbai?,526,25 years,Insufficient information provided.
+,How many 10 wickets in match did Sachin Tendulkar have?,526,zero,"Unable to answer, insufficient information provided."
+,Who did Sachin Tendulkar play for in 1992?,526,Yorkshire,Insufficient information available.
+,How old was Sachin Tendulkar when he joined team Mumbai?,526,15 years old,Unable to answer due to insufficient information.
+,How old was Bradman in his test debut?,527,20,"20 years old && He was born on August 27, 1908, and made his test debut on November 30, 1928."
+,How long after his last test did  Bradman die?,527,53 years,"52 years && Bradman's last test was on 18 August 1948, and he died on 25 February 2001."
+,Don Bradman played his last test at the age of?,527,40,"40 years old && He played his last test on 18 August 1948 and was born on 27 August 1908, making him 40 years old."
+,How many year Don Bradman played for National side?,527,20,20 years && He played for Australia from 1928 to 1948.
+,Don Bradman made his first Test debut at his age?,527,20,"20 years old && He was born on August 27, 1908, and made his Test debut on November 30, 1928."
+,At what age did Don Bradman play for his second domestic team?,527,27,"28 years old && He joined South Australia in 1935/36 after New South Wales, and he was born in 1908 (1935 - 1908)."
+,How many years between Don Bradman's last test before he died?,527,52,"52 years && His last test was in 1948, and he died in 2001 (2001 - 1948)."
+,How old did Don Bradman turn the year he made his international test debut?,527,20,"20 years old && He was born on August 27, 1908, and made his test debut on November 30, 1928."
+,How old did Don Bradman turn the year he had his last international test?,527,40,"40 years old && His last test was on August 18, 1948, and he was born on August 27, 1908, making him 40 years old in 1948."
+,Which domestic team did Don Bradman play for the year he turned 30?,527,South Australia,South Australia && He turned 30 in 1938 and played for South Australia from 1935/36 to 1948/49.
+,Which team did Bradman play for during his test debut?,527,New South Wales,Australia && He played for the Australian national side during his test debut against England.
+,At what age did Don Bradman play for the National side?,527,20,"20 years old && He made his test debut on November 30, 1928, and was born on August 27, 1908."
+,How old was Brian Lara when he played on Team Trinidad and Tobago?,528,18 years old,18 years && He played for Trinidad and Tobago in 1987 (1987 - 1969).
+,What year did Brian Lara join Team Transvaal?,528,1992,1992-1993 && He joined Transvaal during this period.
+,How many years after joining the international team did Brian Lara join the domestic Warwickshire team?,528,4,4 years && He joined the national side in 1990 and Warwickshire in 1994.
+,How old was Brian Lara when he joined West Indies international team?,528,21,"21 years old && He was born on May 2, 1969, and made his debut on November 9, 1990."
+,Against which country was Brian Lara's Test debut in 1990?,528,Pakistan,Pakistan && His Test debut was on 6 December 1990 against Pakistan.
+,At which age did Brian Lara play his Last ODI?,528,36,"37 years old && He played his last ODI on April 21, 2007, and was born on May 2, 1969."
+,At which age did Brian Lara play for Southern Rocks?,528,41,"41 years old && He played for Southern Rocks in 2010, and was born on May 2, 1969 (2010 - 1969)."
+,How long did Brian Lara play on Team Trinidad and Tobago?,528,21 years,21 years && He played for Trinidad and Tobago from 1987 to 2008.
+,How many domestic teams did Brian Lara play on in 1995?,528,3,"2 teams && In 1995, he played for Trinidad and Tobago and Warwickshire."
+,What professional team was Eddy Merckx on when he won the gold at the World Championships in Heerlen?,635,Peugeot–BP–Michelin,Molteni && He was part of Molteni team during 1971-1976.
+,How old was Eddy Merckx when joined his first professional team?,635,20,"20 years old && He was born on June 17, 1945, and joined Solo-Superia in 1965."
+,What was the color medal of all his World championship wins?,635,Gold,Gold
+,At which age did Eddy Merckx win 34 individual stages at his last Tour de France?,635,30,"30 years old && He was born on June 17, 1945, and won his last Tour de France stages in 1975 (1975 - 1945 = 30)."
+,At which age did Eddy Merckx win gold at the 1964 World Championships?,635,19,"19 years old && He was born on June 17, 1945, making him 19 years old in 1964."
+,What year did Eddy Merckx win his first gold in the World Championships?,635,1964,1964 && He won his first gold in the 1964 Sallanches Amateurs' road race.
+,How old was Eddy Merckx when he began his professional career?,635,20 years old,"20 years old && He began his professional career in 1965, and he was born in 1945 (1965 - 1945)."
+,What year did Eddy Merckx go professional?,635,1965,1965 && He joined the Solo-Superia professional team in 1965.
+,How many years were between Merckx first general classification win and his last Combination classification win at the Tour de France?,635,5,"5 years && His first general classification win was in 1969, and his last combination classification win was in 1974."
+,What sport did Jacques Anquetil participate in?,636,track on field,cycling
+,What was the first professional team that Jacques Anquetil played on?,636,La Perle,La Perle (1953-1955)
+,How many times did Jacques Anquetil was participated the Stage race in Paris-Nice?,636,"5 times (1957, 1961, 1963, 1965, 1966)","5 times && Paris-Nice wins: 1957, 1961, 1963, 1965, 1966."
+,How old was Jacques Anquetil when he began riding professionally?,636,23 years old,"19 years old && He joined amateur team AC Sottevillais in 1950, born in 1934 (1950 - 1934)."
+,What year did Jacques Anquetil begin riding professionally?,636,1953,1953 && Jacques Anquetil joined La Perle professional team in 1953.
+,What medal did Jacques Anquetil win in the 1952 Helsinki Olympics?,636,Bronze,Bronze medal - third place && He won a bronze medal in the 1952 Helsinki Olympics in the team time trial event.
+,What is the first word on Jacques Anquetil's shirt?,636,FORD,Not mentioned in the context.
+,How old did Jacques Anquetil turn the year he medaled in Helsinki?,636,18,"18 years old && He was born on January 8, 1934, and the Helsinki Olympics took place in 1952 (1952 - 1934)."
+,In how many cities did Jacques Anquetil medal at?,636,two,2 cities && He medaled in Helsinki and Nürburgring.
+,What is the interval between Jacques Anquetil's first and last medaling?,636,14 years,14 years && First medaling in 1952 Olympics and last in 1966 World Championships.
+,How many years ago did Jacques Anquetil was died?,636,35 years ago,"34 years ago && Jacques Anquetil died on November 18, 1987, so it's been 34 years (2022 - 1987)."
+,What was the professional team did Jacques Anquetil was represented in 1968?,636,Bic–Hutchinson,Bic-Hutchinson && He represented Bic-Hutchinson in 1968.
+,What was the age when Roger De Vlaeminck won the Vuelta a España 1984?,637,At the age of 37,"37 years && Roger was born on August 24, 1947, so he was 37 years old in 1984."
+,How many medals won by Roger De Vlaeminck in World Championships from 1974?,637,3,1 silver medal && He won a silver medal in the 1975 Elite road race.
+,What year did Roger De Vlaeminck win the gold medal in the World Championships?,637,1975,1975 && He won the World Cyclo-cross Championships in 1975.
+,How old was Roger De Vlaeminck when he won the Tour De France in 1970?,637,23 years old,"23 years old && He was born on August 24, 1947, so he was 23 years old in 1970."
+,At what age did Roger De Vlaeminck win the Vuelta a España?,637,37 years,37 years old && He won in 1984 and was born in 1947 (1984 - 1947).
+,What team did Roger De Vlaeminck represent five years after Dreher?,637,Brooklyn,Gios-Clement && He represented Dreher in 1980 and Gios-Clement five years later.
+,At what age did Roger De Vlaeminck wub gus first World Championships gold medal?,637,28 years,"28 years old && He won the World Cyclo-cross Championships in 1975, and he was born on August 24, 1947, so he was 28 years old (1975 - 1947)."
+,Which professional team did Roger De Vlaeminck was participated in 1975?,637,Brooklyn,Brooklyn
+,Which World Cup did Roger De Vlaeminck win a silver medal?,637,1974 Bera,1975 Yvoir && He won a silver medal in the 1975 Yvoir Elite road race.
+,What medal did Chris Ciriello win in the 2014 World Cup?,670,Gold,"Gold medal - first place && In the 2014 World Cup, his team won the gold medal."
+,What medal did Chris Ciriello win the th 2012 London Olympics?,670,Bronze,Bronze medal && He won the bronze medal in the 2012 London Olympics in the Men's team event.
+,How old was Chris Ciriello when he married Heidi Ciriello?,670,25,25 years && He was born in 1985 and married Heidi Ciriello in 2010 (2010 - 1985).
+,During what year did Ciriello win the most overall gold medals?,670,2014,2014 && He won gold medals in World Cup and Commonwealth Games in 2014.
+,What team did Ciriello play for the year he won the bronze at the London Olympics?,670,Punjab Warriors,Australian && Chris Ciriello won the bronze medal for the Australian team at the 2012 London Olympics.
+,How many times was Chris Ciriello married before he joined Punjab Warriors?,670,1,0 times && He has been married to Heidi Ciriello since 2010.
+,How many Champions Trophies did Chris Ciriello win before he won an Olympic medal?,670,1,"2 Champions Trophies && Before the 2012 Olympic bronze medal, he won Champions Trophies in 2010 and 2012."
+,How many Commonwealth Games medals did Chris Ciriello win after he won an Olympic medal?,670,1,2 medals && He won 2 gold medals in Commonwealth Games - 2010 Delhi and 2014 Glasgow.
+,How old was Chris Ciriello when he competed in the 2012 London Olympics?,670,27 years old,"26 years old && He was born on October 1, 1985, so he was 26 years old during the 2012 Olympics (2012 - 1985)."
+,What was the last year the Jorge Lombi won a gold medal in the Pan American Games?,680,2007,2007 Rio de Janeiro && The last gold medal was won in the 2007 Pan American Games.
+,How old was Lombi when won gold at the Pan American games?,680,24,"23 years old && He was born on November 1, 1971, and won gold in 1995 (1995 - 1971)."
+,In what year did Lombi win the most gold medals in international games?,680,2007,2007 && He won two gold medals in 2007 (Champions Challenge and Pan American Games).
+,How many years were between Lombi's gold in Alexandria and Mar del Plata?,680,10,10 years && Alexandria gold was in 2005 and Mar del Plata gold was in 1995.
+,How many major gold medal did Jorge Lombi win in 2007?,680,2,2 major gold medals && He won gold medals in 2007 Boom Champions Challenge and 2007 Rio de Janeiro Pan American Games.
+,How old was Jorge Lombi  when he won a Champions Challenge bronze medal?,680,30,"29 years old && He won the bronze medal in 2001 and was born on November 1, 1971, making him 29 years old (2001 - 1971) at that time."
+,How old was Jorge Lombi when he won the Pan American Games in 1995?,680,24 years old,"23 years old && He was born on November 1, 1971, so he was 23 years old in 1995 (1995 - 1971)."
+,Which Pan American Games did Jorge Lombi win the silver medal?,680,1999 Winnipeg,1999 Winnipeg
+,How many more Pan American Games gold medals does Jorge Lombi have than Champions Challenge gold medals?,680,1,1 more && He has 3 Pan American Games gold medals and 2 Champions Challenge gold medals.
+,How many Gold Medals has Luke Doerner earned?,686,seven,"7 Gold Medals && He has won Gold Medals in 1 World Cup, 5 Champions Trophy, and 1 Commonwealth Games."
+,How many medals did Luke Doerner win in 2008,686,2,1 medal && He won a bronze medal in 2008 Beijing Olympics.
+,What medal was his first?,686,Gold medal 2006 Commonwealth Games,Gold medal in 2005 Chennai Champions Trophy && His first gold medal is from the 2005 Chennai Champions Trophy.
+,What Olympic Games did Luke Doerner attend?,686,2008 Beijing,2008 Beijing && He attended the 2008 Beijing Olympic Games.
+,How many Gold Medals has Luke Doerner earned in Melbourne?,686,two,1 Gold Medal && He earned a gold medal in the 2006 Melbourne Commonwealth Games.
+,What year did Luke Doerner win gold at the World Cup?,686,2010,2010 New Delhi && He won gold at the 2010 World Cup in New Delhi.
+,How many medals did Luke Doerner win in 2010?,686,2,2 medals && He won gold in the 2010 World Cup and Champions Trophy.
+,Where did Luke Doerner win a gold medal in 2006 Commonweath Games?,686,Melborne,Melbourne && He won a gold medal in the 2006 Commonwealth Games in Melbourne.
+,How many more silver medals than bronze has Luke Doerner earned?,686,one,1 more silver medal && He has 2 silver medals and 1 bronze medal.
+,How many years after the operation of Fatah ended did Iraq remain an ally?,711,5,11 years && Iraq remained an ally from 1991-2002 after Fatah's operation ended in 1997.
+,Who was the largest country that was an opponent during the time period of Fatah – The Revolutionary Council?,711,USA,Israel && It is mentioned as an opponent in the context.
+,How many total years was Iraq an ally of Fatah – The Revolutionary Council?,711,17 years,15 years && Iraq was an ally from 1974-1978 and 1991-2002.
+,Who were the allies of the Fatah – The Revolutionary Council in two separate time periods?,711,Iraq,"Iraq (1974-1978, 1991-2002), Syria (1979-1985), Libya (1985-1991)"
+,How long after the operation of Fatah began did Syria become an ally?,711,5 years,5 years && Syria became an ally in 1979 (1979 - 1974).
+,How many more years was Libya an ally than Iraq was during the 70's?,711,2 years,"4 years && Libya was an ally from 1985-1991 (6 years), while Iraq was an ally from 1974-1978 (4 years). 6 - 4 = 4 years."
+,How many years ago did Liberation Tigers of Tamil Eelam was started?,712,46 Years ago,"46 years ago && Founded on 5 May 1976, the Liberation Tigers of Tamil Eelam started 46 years ago (2022 - 1976)."
+,How many years ago did Liberation Tigers of Tamil Eelam was defeated?,712,13 Years ago (2009),"13 years ago && They were defeated in May 2009, so from 2022, it is 13 years ago."
+,How many years did Liberation Tigers of Tamil Eelam was active in sri lanka?,712,33 years,33 years && They were active from 5 May 1976 to 18 May 2009.
+,How many years after the Islamic Republican Party was formed was it dissolved?,930,eight,8 years && The party was founded in 1979 and dissolved in 1987.
+,How many years after the Islamic Republican Party was formed did it become part of the Grand Coalition?,930,one,1 year && The party was founded in 1979 and joined the Grand Coalition in 1980.
+,How many coalitions was the Islamic Republican Party a part of in 1979?,930,one,2 coalitions && Islamic Coalition (1979) and Grand Coalition (1980).
+,What was the national affiliation the year the party was founded?,930,Islamic Coalition,"Islamic Coalition (1979) && The national affiliation was Islamic Coalition in 1979, the year the party was founded."
+,How many days after the Islamic Republican Party was dissolved?,930,3026 days,Not enough information provided.
+,How many years Grand Coalition after Islamic Republican Party was founded ?,930,1 Year (1980),"1 year && The party joined Grand Coalition in 1980, one year after its founding in 1979."
+,How long after the Islamic Coalition was the party dissolved?,930,8 years,8 years && The party was founded in 1979 and dissolved in 1987.
+,How many years ago  Islamic Republican Party was Founded?,930,43 Years ago,"43 years ago && The party was founded on 17 February 1979, and the current year is 2022, so it was founded 43 years ago (2022 - 1979)."
+,How many years after the Islamic Republican Party was founded was Grand Coalition the national affiliation?,930,1,"1 year && Grand Coalition was the national affiliation in 1980, and the party was founded in 1979."
+,How many years ago did Indian National Congress was established?,931,136 years ago,136 years ago
+,How many states and union territories not in government by Indian National Congress in 2022?,931,26 States,26 / 31 && INC is in government in 5 out of 31 states and union territories.
+,How many members of Parliament (MPs) representing Indian National Congress in 2022?,931,89 (53+36),53 / 543 && There are 53 Members of Parliament (MPs) representing Indian National Congress in the Lok Sabha in 2022.
+,How many seats does Rajya Sabha and Lok Sabha have combined in 2022?,931,89,788 seats && Lok Sabha has 543 seats and Rajya Sabha has 245 seats.
+,"At the end of this year, how long ago was the Indian National Congress founded?",931,137 years.,"137 years ago && The Indian National Congress was founded on December 28, 1885."
+,How many ideologies were there in 2022 in Indian National Congress?,931,Four,"4 ideologies && Big tent, Social liberalism, Secularism, Civic nationalism."
+,How long after being founded as Birlik was the political party founded as Ada?,932,7 years,"7 years and 6 months && Adal was founded on November 5, 2020, and Birlik on April 26, 2013, which is a difference of 7 years and 6 months."
+,How much time was there from when Birlik was founded and Adal was dissolved?,932,9 years.,"9 years && Birlik was founded on 26 April 2013, and Adal dissolved on 26 April 2022."
+,How long had Adal been known as Birlik before it changed it's name in 2020?,932,7 years,7 years && It was founded as Birlik on 26 April 2013 and changed its name on 5 November 2020.
+,How many years after its initial founding as Birlik was Adal dissolved?,932,9,"9 years && Adal was founded as Birlik on April 26, 2013, and dissolved on April 26, 2022."
+,How many years after Birlik was founded again as Adal was it dissolved?,932,2,"1 year and 5 months && It was founded as Adal on November 5, 2020, and dissolved on April 26, 2022."
+,What was the original name of Adal when originally founded in 2013?,932,Birlik,Birlik
+,How many months did it last as Adal?,932,17 months,19 months && Adal was founded on 5 November 2020 and dissolved on 26 April 2022.
+,What name was Adal known as in 2017?,932,Birlik,Birlik
+,Who was the Chairman of Adal before April of 2022?,932,Serik Sultangali,Serik Sultangali
+,How old was the Communist Party of the Soviet Union when it had over 19 million members?,933,71 years,"71 years && The party was founded in 1918, and membership reached 19,487,822 in early 1989 (1989 - 1918)."
+,How old was the Communist Party of the Soviet Union when it became affiliated with Comintern?,933,one year,1 year && It was founded on 8 March 1918 and affiliated with Comintern in 1919.
+,How old was the Communist Party of the Soviet Union when it stopped being affiliated with Cominform?,933,38 years,38 years && It was founded in 1918 and stopped affiliation with Cominform in 1956.
+,When was the Communist Party of the Soviet Union founded?,933,8 March 1918,8 March 1918
+,What was the International affiliation the year after the party was founded?,933,Comintern,"Comintern (1919-1943) && The party was founded in 1918, so the international affiliation in 1919 was Comintern."
+,How many years more was Bloc of Communists and Non-Partisans the national affiliation than Cominform was the international affiliation?,933,43,"34 years && Bloc of Communists and Non-Partisans was from 1936-1990 (54 years) while Cominform was from 1947-1956 (9 years), so the difference is 54-9 = 34 years."
+,When did the Communist Party of the Soviet Union end?,933,6 November 1991,6 November 1991 && The Communist Party of the Soviet Union was banned on 6 November 1991.
+,How many members of the Young Pioneers were there in 1989?,933,"19,487,822",Information not available in the context provided.
+,How long after the party was founded  did Bloc of Communists and Non-Partisans become the national affiliation?,933,18 years,"18 years && Bloc of Communists and Non-Partisans became the national affiliation in 1936, which is 18 years after the party was founded in 1918."
+,Who is the founder of Communist Party of the Soviet Union in 1918?,933,Vladimir Lenin,Vladimir Lenin && He is mentioned as the founder in the knowledge graph.
+,How many years ago did Communist Party of the Soviet Union banned?,933,31 years ago (1991),"31 years ago && The Communist Party of the Soviet Union was banned on 6 November 1991, so it has been 31 years since the ban (2022 - 1991)."
+,How long did Comintern organization was in russia?,933,24 years,24 years && Comintern was affiliated with the Communist Party of the Soviet Union from 1919 to 1943.
+,How long did it take for Hurricane Gaston to form and then dissipate?,957,7 days,"7 days && Gaston formed on August 27 and dissipated on September 3, 2004."
+,Over the course of how many months did Hurricane Gaston function?,957,2,"Approximately 1 month && Gaston formed on August 27, 2004, and dissipated on September 3, 2004."
+,For how many days was Hurricane Gaston over the water?,957,3,"8 days && Gaston formed on August 27, 2004, and dissipated on September 3, 2004."
+,When was Hurricane Gaston on the land?,957,after August 29,"August 29, 2004 && Gaston moved ashore on August 29."
+,What year did Hurricane Gaston form?,957,2004,"2004 && Gaston formed on August 27, 2004."
+,What hurricane season did Hurricane Gaston form in?,957,2004,2004 Atlantic hurricane season
+,How long did Hurricanes Ivan last as a storm?,958,23 days,"23 days && Ivan lasted from September 2, 2004, to September 25, 2004."
+,What was the relationship status of Joe Biden in 1979?,958,Married to Jill Jocabs,Not available in the context provided.
+,Who was Joe Biden married to when he was first elected to the Senate?,958,Unmarried,Not applicable && The context does not provide information about Joe Biden's marriage.
+,At what age does Joe Biden join the democratic political party?,958,27,Information not available in the provided context.
+,Which areas affected in hurricane?,958,"Windward Islands , Trinidad and Tobago, Venezuela, Barbados, Jamaica, Hispaniola, Grand Cayman, Cuba, Yucatan Peninsula, Eastern United States, Florida, Alabama, most of the United States Gulf Coast, and Atlantic Canada","Windward Islands, Trinidad and Tobago, Venezuela, Barbados, Jamaica, Hispaniola, Grand Cayman, Cuba, Yucatan Peninsula, Eastern United States, Florida, Alabama, Gulf Coast, Atlantic Canada"
+,What is hurricane damage cost?,958,$26.1 billion,$26.1 billion (2004 USD) && The damage cost is provided in the context.
+,Which year hurricane started?,958,2004,"2004 && Hurricane Ivan formed on September 2, 2004."
+,How many major territories did Ivan hit in it's path?,958,11,"12 major territories && The areas affected include Windward Islands, Trinidad and Tobago, Venezuela, Barbados, Jamaica, Hispaniola, Grand Cayman, Cuba, Yucatan Peninsula, Eastern United States, Florida, Alabama, and most of the United States Gulf Coast."
+,How many people died of any cause related to Ivan?,958,124,"124 total (92 direct, 32 indirect)"
+,What level hurricane was Ivan?,958,"In its Tropical Cyclone Report, Hurricane Ivan, 2- 26 September 2004 (NHC, 16 December 2004, Revised 6 January 2005), the NHC categorized Hurricane Ivan as a Category 3 hurricane, as measured by the Saffir-Simpson Hurricane Scale.",Category 5 && Hurricane Ivan had 1-minute sustained winds of 165 mph.
+,which date was formed Hurricane Ivan at peak intensity in the Yucatán Channel ?,958,"September 2, 2004","September 13, 2004 && Hurricane Ivan was at peak intensity on September 13 in the Yucatán Channel."
+,How strong was Hurricane Ivan?,958,Category 5 Hurricane (SSHWS),1-minute sustained winds of 165 mph (270 km/h).
+,How long was the second liberation army around for?,974,8 years,1968-1976 && The Second Liberation Army existed from 1968 to 1976.
+,How many years did the Chadian Civil War last?,974,14 years,14 years && The war lasted from 1 November 1965 to November 1979.
+,How many years had the Chadian Civil War been going when the Overthrow and death of François Tombalbaye in 1975 happened?,974,10 years,"10 years && The war started in 1965, and Tombalbaye was overthrown in 1975."
+,What were the number of years that the Chadian Civil War had been ongoing when the Overthrow of Félix Malloum in 1979 happened?,974,14 years,14 years && The civil war started in 1965 and the overthrow happened in 1979 (1979 - 1965).
+,How many years did Chadian Civil War was held?,974,14 Years (1965–1979),14 years && The war lasted from November 1965 to November 1979.
+,Who was the belligerent in the Chadian Civil War in 1970?,974,Second Liberation Army,Volcan Army && The Volcan Army was a belligerent in the Chadian Civil War since 1970.
+,Who was the leader of libya in 1971 when supporting the Chadian Civil War ?,974,Muammar al-Gaddafi,Muammar al-Gaddafi && He was the leader of Libya during the mentioned period.
+,How many years did the civil war in Chad last?,974,14,14 years && The war lasted from 1 November 1965 to November 1979.
+,How long before the end of the war did the third liberation army get formed?,974,11 years,"10 years && The Third Liberation Army was formed in 1968, and the war ended in 1979."
+,How much longer was GUNT part of the  Pro-Libyan Chadian faction than Codos?,975,4 years,1 year && GUNT was part of Pro-Libyan faction from 1979-1986 and Codos from 1983-1986.
+,How many years prior to the end of the war did DR Sudan end its support?,975,2,"7 years && DR Sudan ended its support in 1985, and the conflict ended in 1987 (1987 - 1985)."
+,How long after FAT was GUNT an Anti-Libyan Chadian faction?,975,7 years,"1 year && GUNT was an Anti-Libyan faction from 1986-1987, while FAT was from 1978-1979."
+,How long did Codos involve in belligerence in the Chadian-Libyan conflict?,975,3 years,3 years (1983-1986)
+,Which belligerent was part of the Anti-Libyan Chadian faction the longest?,975,FAN,FAN (1978-1983) && FAN was part of the Anti-Libyan Chadian faction for 5 years.
+,How long did DR Sudan support the Chadian–Libyan conflict?,975,7 years,1978-1985 && DR Sudan supported the conflict from 1978 to 1985.
+,How long before the war ended did Republic of the Congo stop being a belligerent?,978,2,Republic of the Congo stopped being a belligerent in 1963.
+,How much longer was Katanga a belligerent than Kwilu and Simba rebels?,978,2 years,2 years && Katanga: 1960-63; Kwilu and Simba: 1964-65.
+,How long after the start of the war did the United States become a belligerent?,978,4 years,Not applicable && The context does not mention when the United States became a belligerent.
+,How many years longer was the command of  Abdul Salam Arif than Abdul Rahman Arif's?,981,1,2 years && Abdul Salam Arif's command was from 1963-1966 and Abdul Rahman Arif's command was from 1966-1968.
+,How many years after the beginning the war did the Soviet Union end its non-combat aid?,981,3,3 years && Soviet Union ended its non-combat aid in 1964 (1961+3).
+,How long before the war began did Abdul Karim Qasim become a leader?,981,3 years,"5 years && Abdul Karim Qasim was a leader from 1958-1963, and the war began in 1961."
+,Who was the longest tenured Leader or Commander of the Ba'athist Iraq?,981,Abdul salam Arif,Ahmed Hassan al-Bakr && He was the leader during Ba'athist Iraq period.
+,Who was the first commander of KDP after 1964?,981,Ali Askari,Mustafa Barzani
+,Who is the commander of First Kurdish–Iraqi War in 1960?,981,Abdul Karim Qasim,Mustafa Barzani && He was the leader of the Kurdish forces in the First Kurdish-Iraqi War.
+,How many iraqi soldiers was killed in the First Kurdish–Iraqi war held between 1961-1970?,981,"10,000","10,000 && The knowledge graph states that 10,000 Iraqi soldiers were killed in the First Kurdish-Iraqi War."
+,How many years was Ahmed Hassan al-Bakr a Leader and Commander of the Ba'athist Iraq?,981,One,11 years && He was a leader from 1963 to 1974.
+,Where was the First Kurdish–Iraqi war held in 1965?,981,Iraqi Kurdistan,Iraqi Kurdistan
+,How many years did the First Sudanese Civil War last?,982,16 years,"16 years, 7 months, 1 week, and 2 days"
+,How many years have passed since the First Sudanese Civil War ended?,982,50 years,"50 years && The war ended on March 27, 1972, so 2022 - 1972 = 50 years have passed."
+,How many years before the war ended did Republic of the Sudan stop being a belligerent?,982,3,"4 years && Republic of the Sudan stopped being a belligerent in 1969, and the war ended in 1972."
+,How long after the beginning of the war did the Sudanese Armed Forces have its greatest strength?,982,16 years,"late 1971 && The Sudanese Armed Forces had its greatest strength of 36,000 in late 1971."
+,What country began to be a belligerent the same year the Democratic Republic stopped?,982,Israel,Israel && Democratic Republic of the Sudan stopped in 1969 and Israel began the same year.
+,How many years has it been since the First Sudanese Civil War began?,982,67 years,"67 years && The war began on August 18, 1955, and it's 2022 now (2022 - 1955 = 67 years)."
+,How much longer was Neo Hom a belligerent than the Party of Democratic Kampuchea?,987,17 years,"26 years && Neo Hom supported Hmong insurgents from 1981-2007, while the Party of Democratic Kampuchea existed from 1981-1990."
+,How long after the beginning of insurgency did Russia stop bein a belligerent?,987,14 years,"14 years && Soviet Union supported Laos until 1989, and the insurgency began in 1975 (1989 - 1975)."
+,How many years did USA supported Insurgency in Laos since 1975?,987,15 Years (upto 1990),15 years && USA supported Hmong insurgents until 1990 (1990 - 1975).
+,How many years has it been since Insurgency in Laos?,987,47 years,"47 years && Insurgency in Laos started on 2 December 1975 and is ongoing, making it 47 years since it began (2022 - 1975)."
+,How long did Neo Hom support belligerents in the Insurgency in Laos?,987,26 years,26 years && Neo Hom supported Hmong insurgents from 1981 to 2007.
+,What is the status of Insurgency in Laos in 2020?,987,Hmong-led coup attempt against the Lao government foiled; alleged plotters tried and exonerated in the U.S.,Ongoing low-intensity conflict
+,Did the US support belligerents in the Insurgency in Laos when Hmong-led coup attempt against the Lao government was foiled?,987,No,"Yes, until 1990 && The US supported Hmong insurgents until 1990."
+,How many years ago Insurgency in Laos was started?,987,47 Years ago,"46 years ago && The insurgency started on December 2, 1975 (2022 - 1975)."
+,How long after the start of the insurgency did Vietnam begin it's support of Laos?,987,1 year,1 year && Vietnam began supporting Laos in 1976.
+,How many more years did the Malayan Emergency last after the Independence of the Federation of Malaya?,997,Three years,"4 years, 11 months && The Malayan Emergency lasted until July 31, 1960, and the Federation of Malaya gained independence on August 31, 1957, resulting in 4 years and 11 months of overlap."
+,How much longer was Winston Churchill a leader than Harold Macmillan?,997,1 year,Not enough information to answer
+,How long before the end of the emergency did Southern Rhodesia end being a belligerent?,997,7 years,Unable to answer due to insufficient information about Southern Rhodesia in the context provided.
+,How long after the Malayan Emergency began did Clement Attlee become a leader or commander?,997,3 years,Not applicable && Clement Attlee not mentioned in context.
+,Who was the President of the United States when the Malayan Emergency began?,997,Harry S. Truman,Harry S. Truman
+,Who was the Prime Minister of Great Britain when the Malayan Emergency ended?,997,Harold Macmillan,"Harold Macmillan && Malayan Emergency ended on 31 July 1960, and Harold Macmillan was the Prime Minister of Great Britain at that time."
+,How many leaders or commanders ended their role the year the war ended?,1000,2,"3 commanders && The war ended in 1974, and António de Oliveira Salazar, Marcelo Caetano, and Américo Tomás ended their roles."
+,How many years longer was Arnaldo Schulz a leader or commander than Filipe Samuel Magaia?,1000,2,"2 years && Arnaldo Schulz (1961-1974) led for 13 years while Filipe Samuel Magaia (1964-1966) led for 11 years, a 2-year difference."
+,How long after the start of the war did Francisco da Costa Gomes become a leader or commander?,1000,9 years,"8 years && Francisco da Costa Gomes became a commander in 1969, 8 years after the war started in 1961."
+,What was the strength of the Rhodesian police reservists during the last year of the war?,1001,"19,000","19,000 police reservists"
+,How many years before the war ended did Southern Rhodesia stop being a belligerent?,1001,14,"0 years && Southern Rhodesia stopped being a belligerent in 1979, the same year the war ended."
+,How many years longer was Rhodesia a belligerent than FROLIZI?,1001,13,"7 years && FROLIZI was a belligerent from 1971-1978, while Rhodesia was from 1964-1979."
+,Which belligerent became involved the same year that the murder of Aldo Moro occured?,1020,Third Position,Red Brigades
+,What was the second to last name of the Far Left Terrorists that were opposing the Italian government during Years of Lead?,1020,Worker's Power,Continuous Struggle && It is listed second to last among far-left terrorist groups.
+,How many total years did Years of Lead take place in Italy?,1020,26,26 years && 20 years (1968-1988) and 6 years (1999-2005).
+,What happened to kill 85 people in 1980?,1020,Bombing,Bologna railway station bombing && The bombing at the Bologna railway station in August 1980 killed 85 people.
+,How many far-right terrorist groups were fighting in 1975?,1020,two,"4 far-right terrorist groups && New Order, National Vanguard, Black Order, and NAR were active during that period."
+,How long had the the New Order been fighting when the National Vanguard joined?,1020,three years,13 years && New Order started in 1957 and National Vanguard joined in 1960.
+,"Which came first, the collapse of popular support for the Red Brigades or the dismantling of the main far-right terrorist groups?",1020,collapse of popular support for the Red Brigades,Collapse of popular support for the Red Brigades
+,How long after the Years of Lead began did the Bologna massacre occur?,1020,12 years,"12 years && The Years of Lead began in late 1968, and the Bologna massacre occurred in 1980."
+,How much longer were the Red Brigades belligerents than the Workers' Autonomy?,1020,12 years,"9 years && Red Brigades: 1970-1988, Workers' Autonomy: 1973-1979"
+,When did the IBF World Championships end in 1983?,1030,May 8,"May 8, 1983 && The championship ended on May 8, 1983 as given in the context."
+,What was the first date of the 1983 IBF World Championships?,1030,May 2,"May 2, 1983 && The event dates are from May 2, 1983 to May 8, 1983."
+,How many years after Copenhagen were the IBF World Championships in Calgary?,1030,two,2 years && The next event after 1983 Copenhagen was 1985 Calgary.
+,How many years after Jakarta were the IBF World Championships in Copenhagen?,1030,three,3 years && The previous event was in 1980 and the Copenhagen event was in 1983.
+,"Which country the silver medalist Park Joo-bong, Lee Eun-ku represented in Men's doubles at the 1983 IBF World Championships?",1030,South Korea,South Korea && Park Joo-bong and Lee Eun-ku won a bronze medal for South Korea.
+,How many days did Men's doubles at the 1983 IBF World Championships was held?,1030,7 Days,"7 days && The event was held from May 2, 1983 to May 8, 1983."
+,Who is the gold medalist of Men's doubles at the 1983 IBF World Championships?,1030,"Steen Fladberg, Jesper Helledie",Steen Fladberg and Jesper Helledie && They both won gold medals in this event.
+,How many days did the IBF World Championships take place over in 1983?,1030,7,"7 days && The event took place from May 2, 1983 to May 8, 1983."
+,How many medals were won by the home country in 1983?,1030,one,1 gold medal && Denmark won 1 gold medal in the event.
+,How many nations went home without a medal after the 2016 FINA World Swimming Championships (25 m)?,1031,44,"14 nations && 46 nations participated, but only 60 competitors from 32 nations won medals."
+,How many medal winners for the Women's 100 metre breaststroke at the 2016 FINA World Swimming Championships (25 m) came from the same country?,1031,2,2 medal winners && Lilly King and Molly Hannis were both from the United States.
+,What was the average time it took Alia Atkinson to swim across the Olympic pool once in her winning race?,1031,15.76 seconds,"31.515 seconds && Winning time was 1:03.03 for 100 meters, so 1:03.03/2 = 31.515 seconds for 50 meters (one pool length)."
+,Who won the gold medal in  women's 100 metre breadstroke at the 2016  FINA World Swimming Championship ?,1031,Alia Atkinson,Alia Atkinson && Alia Atkinson from Jamaica won the gold medal.
+,Where did the 2016 FINA World Swimming Championship held?,1031,WFCU Centre,WFCU Centre
+,"In the women's 100 metre breaststroke at the 2016 Fina World Swimming Championships, what are the total number of days for the heats, semifinals and finals combined?",1031,2,"2 days && Heats and semifinals on 9 December, and the final on 10 December."
+,What's the number of years between the event before and the event after the women's 100 metre breaststroke at the 2016 Fina World Swimming Championships?,1031,4,"4 years && The events are in 2014 and 2018, so there are 4 years between them."
+,How many days earlier was the heat from the final in the women's 100 metre breaststroke at the 2016 Fina World Swimming Championships?,1031,1,"1 day && Heats and semifinals were on 9th December, and the final was on 10th December."
+,How many competitors had participated in Women's 100 metre breaststroke at the 2016 FINA World Swimming Championships ?,1031,60,60 competitors && 60 participants from 46 nations participated in the event.
+,How many days before the finals were the semifinals?,1032,1,1 day && Semifinals were on 25 July and finals on 26 July.
+,How many days after the heats and semifinals did the finals occur?,1032,1,"1 day && The finals occurred on 26 July, one day after the heats and semifinals on 25 July."
+,Which country did bronze medalist Sydney Pickrem was represented in 2019 World Aquatics Championships?,1032,Canada,Canada
+,How many more competitors were there than nations participating?,1032,7,"7 more competitors && 34 competitors from 27 nations, so 7 more competitors than nations."
+,How many days between semifinals and finals in 2019 World Aquatics Championships?,1032,1 Day,1 day && The semifinals were on 25 July and the final on 26 July.
+,Who is the gold medalist of Women's 200 metre breaststroke at the 2019 World Aquatics Championships?,1032,Yuliya Yefimova (Russia),Yuliya Yefimova && She is the gold medalist in the event.
+,How many medals were won by the home country Women's 200 metre breaststroke at the 2019 World Aquatics Championships?,1032,zero,0 medals && No South Korean swimmers won medals in this event.
+,What day did the heats take place of the Women's 200 metre breaststroke at the 2019 World Aquatics Championships?,1032,25 July 2019,25 July && The heats took place on 25 July as mentioned in the context.
+,What day did the finals of the Women's 200 metre breaststroke at the 2019 World Aquatics Championships take place on?,1032,26 July 2019,26 July && The finals took place on 26 July as per the dates provided.
+,What country did the gold medal winner on July 26th 2019 hail from?,1032,Russia,"Russia && Yuliya Yefimova, the gold medal winner, is from Russia."
+,How many years before South Korea 2019 did the World Aquatics Championships take place?,1032,two,2 years && The previous event was in 2017.
+,How many years after South Korea 2019 did the World Aquatics Championships take place again?,1032,three,"3 years && The next event was in 2022, which is 3 years after 2019."
+,How many days did the Hurricane season last in 1995 in the Atlantic?,1089,213 days,"152 days && The season lasted from June 2, 1995, to November 1, 1995."
+,Did the 1995 Hurricane season in the Atlantic average a hurricane per month?,1089,The average was 1.57 Hurricanes per month,"No && There were 11 hurricanes during the season, which lasted from June to November."
+,How many total storms formed in the 1995 Atlantic hurricane season?,1089,19,19 && The 1995 Atlantic hurricane season had 19 total storms.
+,What month did the first storm system form in the 1995 Atlantic hurricane season?,1089,June,"June 2, 1995 && The first storm system formed on June 2, 1995."
+,How many hurricanes formed in the 1995 Atlantic hurricane season?,1089,11,11 && The knowledge graph states that there were 11 hurricanes during the 1995 Atlantic hurricane season.
+,How much damage per day was created by the 1995 Hurricane season in the Atlantic?,1089,$0.058 Billion a day,"$33.7 million && The season lasted from June 2 to November 1 (152 days), so ($12.32 billion / 152 days) = $33.7 million damage per day."
+,How many months did the 2002 Atlantic hurricane season last?,1090,3 months,"3 months && It lasted from July 14 to October 16, 2002."
+,Who was Joe Biden married to when he was first elected to the Senate?,1090,Unmarried,Unable to answer as the context does not contain information about Joe Biden or his marriages.
+,Who was the US senator from Delaware in Dec 1972?,1090,J. Caleb Boggs,Not available in the provided context.
+,Who was the better half of Joe Biden in 1970?,1090,Neilia Hunter,Information not available in context.
+,Who was the better half of Joe Biden in 1970?,1090,Neilia Hunter,Not in context
+,How many total years (terms) does Joe Biden hold as Chair of the Senate Foreign Relations Committee?,1090,6 years (2 terms),Not enough information provided.
+,Who was Joe Biden married to when he was first elected to the Senate?,1090,Unmarried,Not enough information available.
+,How many tropical depressions did not turn into major hurricanes during the 2002 Atlantic hurricane season?,1090,12,2 tropical depressions && 14 total depressions - 12 total storms = 2 depressions that didn't turn into major hurricanes
+,How many hurricanes during the 2002 Atlantic hurricane season did not reach Cat. 3 status.,1090,2,"2 hurricanes && There were 4 total hurricanes, and 2 of them reached Cat. 3+ status."
+,When the total depressions is 31 what was the total storms?,1091,28,28 && There were 28 total storms during the 2005 Atlantic hurricane season.
+,Who was the US senator from Delaware in Dec 1972?,1091,A. J. Caleb Boggs,Not available in context.
+,What was the lowest pressure in Wilma?,1091,882 mbar (hPa; 26.05 inHg),882 mbar (hPa; 26.05 inHg) && The lowest pressure in Wilma was 882 mbar as stated in the knowledge graph.
+,How long maximum winds sustained?,1091,1 minute,"185 mph (295 km/h) && The strongest storm, Wilma, had maximum winds of 185 mph (295 km/h)."
+,What was the worst Atlantic hurricane season?,1091,1780 season,"2005 Atlantic hurricane season && It had a record high number of storms, hurricanes, and major hurricanes, making it the worst."
+,Who was the US senator from Delaware in Dec 1972?,1091,J. Caleb Boggs,Information not available in context.
+,What positions did Joe Biden hold in 2008?,1091,"The United States Senator from Delaware, Chair of the International Narcotics Control Caucus, Chair of Senate Foreign Relations Committee",U.S. Senator for Delaware
+,How many years after the second marriage did Joe Biden become POTUS?,1091,44 years,Not applicable && No information about Joe Biden's marriage or presidency in the context provided.
+,How many tropical depressions did not turn into hurricanes in the 2005 Atlantic hurricane season?,1091,16,"3 tropical depressions && There were 31 total depressions and 28 storms, so 3 depressions did not turn into hurricanes."
+,Why was the Atlantic hurricane season of 2005 so destructive?,1091,warmer-than-normal sea surface temperatures combined with paths over very warm ocean currents which enabled many storms to rapidly intensify,"Record number of storms, major hurricanes, and landfalls. The 2005 Atlantic hurricane season had an unusually high number of storms, including 15 hurricanes, 7 of which were major, causing widespread damage and fatalities along the U.S. Gulf coast."
+,What year had the most Atlantic hurricanes?,1091,1950,2005 && The 2005 Atlantic hurricane season had a record high of 15 hurricanes.
+,How many days did the 2005 Atlantic hurricane season last?,1091,363 days,"213 days && The season started on June 8, 2005, and ended on January 6, 2006."
+,How many hurricanes during the 2005 Atlantic hurricane season did not turn into a major storm?,1091,8,"8 hurricanes && There were 15 hurricanes, and 7 of them were major storms (15 - 7 = 8)."
+,At what age does Joe Biden join the democratic political party?,1091,27,Information not available in the context provided.
+,How many parties does Joe’s Biden’s is associated with in his entire lifetime?,1091,one,Information not available in the context.
+,How many months after the Tonnerre was ordered was it laid down?,1110,five,"5 months && Laid down on 22 September 1794, ordered on 16 April 1794."
+,What was the fate of the Tonnerre just a year after it was launched?,1110,Burned and exploded,"Burned and exploded 12 April 1809 && The Tonnerre was burned and exploded on 12 April 1809, a year after its launch."
+,How many years were there from the time the Tonnerre was laid down and its launch?,1110,14 years,13 years && The Tonnerre was laid down on 22 September 1794 and launched on 9 June 1808.
+,When did the Tonnerre receive a name change?,1110,1795,1795 && Tonnerre was renamed Quatorze Juillet in 1795.
+,How many years from launch did the Tonnerre sail until it was burned down?,1110,1 year,Less than a year && Launched on 9 June 1808 and burned down on 12 April 1809.
+,What was the name of the Tonnerre a year after being laid down?,1110,Quatorze Juillet,"Quatorze Juillet && It was renamed to ""Quatorze Juillet"" in 1795."
+,How long after the Tonnerre was ordered was it commissioned?,1110,14 years,14 years and 3 months && Ordered in 16 April 1794 and commissioned on 21 July 1808.
+,How long was the Tonnerre in service before it was destroyed?,1110,less than a year,Less than a year && Commissioned on 21 July 1808 and destroyed on 12 April 1809.
+,How long was it between the time the Tonnerre was laid down and the time it was launched?,1110,approximately fourteen years,13 years and 9 months && The time between 22 September 1794 and 9 June 1808.
+,How many months lasted between Maori being laid down and being launched?,1111,14 months,14 months && The duration between 6 July 1936 and 2 September 1937 is 14 months.
+,What happened to the Maori a little after three years after it was commisioned?,1111,Sunk by aircraft,Sunk by aircraft on 12 February 1942.
+,When was the Maoriunderway completed?,1111,30 November 1938,30 November 1938
+,when was the Maoriunderway launched?,1111,2 September 1937,2 September 1937
+,How long after being completed was Maori commisioned?,1111,5 days,"5 days && Maori was completed on November 30, 1938, and commissioned on December 5, 1938."
+,How long after being ordered was Maoriunderway laid down?,1111,4 months,4 months && Ordered on 10 March 1936 and laid down on 6 July 1936.
+,How many days after being completed was Maoriunderway commissioned?,1111,5 days,"5 days && Completed on November 30, 1938, and commissioned on December 5, 1938."
+,What duration was Maoriunderway completed after being launched?,1111,1 year,1 year and 2 months && Maori was launched on 2 September 1937 and completed on 30 November 1938.
+,When was the Maoriunderway laid down?,1111,10 March 1936,6 July 1936 && Maori was laid down on 6 July 1936.
+,What happened to I-179 ship 15 years after it launched?,1112,Salvaged and scrapped,"Salvaged and scrapped in 1957 && The I-179 was sunk during sea trials in 1943, then salvaged and scrapped in 1957."
+,How many years ago did Sister shipI-176 was Salvaged and scrapped?,1112,65 Years ago (1957),56 years ago && Salvaged and scrapped in 1957 (2022 - 1957).
+,How long after I-179 was laid down was it completed?,1112,2 years,"1 year, 9 months, and 28 days && The submarine was laid down on 21 August 1941 and completed on 18 June 1943."
+,How many years after sinking was I-179 salvaged?,1112,14,14 years && Sunk in 1943 and salvaged in 1957.
+,How long did the I-179 last after being completed?,1112,13 months,Less than a year && The I-179 was completed on 18 June 1943 and sunk during sea trials on 14 July 1943.
+,What was the fate of the I-179 just a month after it was completed?,1112,Sunk during sea trials,"Sunk during sea trials, 14 July 1943."
+,How long after the I-179 was laid down was it completed?,1112,2 years,"1 year, 10 months && It was laid down on 21 August 1941 and completed on 18 June 1943."
+,How long before D-Day was the I-179 sunk?,1112,328 days,"Cannot answer, D-Day not mentioned in context."
+,What was the name of the Sister shipI-176 in 1942?,1112,I-179,I-179 && I-176 and I-179 are both KD7-class submarines.
+,How many days did Sister ship I-176 was sunk after launched in 1942?,1112,363 days after,Not mentioned in context
+,How many years after the I-179 was stricken was it scrapped?,1112,13,13 years && It was stricken in 1944 and scrapped in 1957.
+,What happened to I-179 just one year later in the same month that it was launched?,1112,Sunk during sea trials,Sunk during sea trials && The I-179 sank during sea trials on 14 July 1943.
+,How many years after being ordered was the HMSAstutereturning laid down?,1114,3,3 years and 10 months && It was ordered in March 1997 and laid down on 31 January 2001.
+,How long after HMSAstute was ordered was the picture taken?,1114,15 years,Information about picture not provided.
+,How many years after being laid down was HMSAstute launched?,1114,six,6 years && HMS Astute was laid down on 31 January 2001 and launched on 8 June 2007.
+,How much bigger is the capacity over the complement?,1114,11,11 more people && The complement is 98 with a capacity for 109.
+,How many years for the HMSAstutereturning to be ordered and finally put into service?,1114,17,17 years && Ordered in March 1997 and put into service in May 2014.
+,How many years for the HMSAstutereturning to be ordered and then launched?,1114,20,"10 years && The order was in March 1997, and it was launched on 8 June 2007."
+,How many years does HMSAstute is service in UK Navy?,1114,8 Years (from 2014),8 years && HMS Astute has been in service since May 2014.
+,Who is the Builder of HMSAstute Launched in 2007?,1114,"BAE Systems Submarine Solutions, Barrow-in-Furness","BAE Systems Submarine Solutions, Barrow-in-Furness"
+,How manys month did the HMSAstute Commissioned after Launched in 2007?,1114,38 months,38 months && Launched on 8 June 2007 and commissioned on 27 August 2010.
+,How many years did it take to build the HMS Victory?,1115,7 years,6 years && The ship was laid down on 23 July 1759 and launched on 7 May 1765.
+,How many years after the the HMSVictoryin Portsmouth was ordered was it launched?,1115,7,6 years and 10 months && Ordered on 14 July 1758 and launched on 7 May 1765.
+,What year was HMS Victory commissioned?,1115,1778,1778
+,What battle did Portsmouth participate in the year it was comissioned?,1115,First Battle of Ushant,First Battle of Ushant (1778)
+,How many years after its launch did the Portsmouth participate in the Battle of Cape Spartel?,1115,17,"17 years && The Portsmouth was launched on May 7, 1765, and participated in the Battle of Cape Spartel in 1782."
+,How many years after HMSVictory was ordered did it participate in the Battle of Cape Spartel?,1115,24,24 years && The ship was ordered in 1758 and participated in the Battle of Cape Spartel in 1782.
+,How many years after HMSVictory was commissioned before the Battle of Trafalgar?,1115,27,"27 years && The Battle of Trafalgar was in 1805, and HMS Victory was commissioned in 1778; thus, it was 27 years later (1805 - 1778)."
+,How long did it take the HMSVictory to be launched after being laid down?,1115,6,5 years and 9 months && The ship was laid down on 23 July 1759 and launched on 7 May 1765.
+,How many years after its first battle did HMS Victory fight at Trafalgar?,1115,27,27 years && HMS Victory's first battle was in 1778 and the Battle of Trafalgar was in 1805 (1805 - 1778).
+,How many months after being ordered was HMS Victory laid down?,1115,12,12 months && Ordered on 14 July 1758 and laid down on 23 July 1759.
+,How many years after being launched was HMS Victory fighting at Cape Spartel?,1115,17,17 years && The ship was launched on 7 May 1765 and fought at the Battle of Cape Spartel in 1782.
+,What year did HMS Victory launch?,1115,1765,1765 && HMS Victory was launched on 7 May 1765.
+,How long do you have to wait from the earliest you can serve to being eligible for special forces?,1116,2 years,2 years && You have to wait 2 years between being eligible to serve and being eligible for special forces deployment (19 years - 17 years).
+,What positions did Joe Biden hold in 2008?,1116,"The United States Senator from Delaware, Chair of the International Narcotics Control Caucus, Chair of Senate Foreign Relations Committee",Not mentioned in the context
+,How long has the Australian Defense Form been in it's current form?,1116,46 years,46 years && It has been in its current form since 9 February 1976 (2022 - 1976).
+,What is the approximate ration of active duty to reserve forces?,1116,2:1,"Approximately 2:1 && Active personnel is 59,095 and reserve personnel is 28,878."
+,"What was the year between when the Australian Defence Force's annual exports were around $2 billion and when the active personnel reserve was at 59,095?",1116,2019,"2018 && The annual exports were around $2 billion in 2018, and the active personnel reserve was 59,095 in 2020."
+,"At which age would an Australian first be allowed to be all of selected, serving, deployed and selective service deployed for the Australian Defence Force?",1116,19,19 years && An Australian must be 19 years old for special forces deployment.
+,How many years after the Australian Defence Force was formed did it become its current form?,1116,75,"75 years && The current form was established in 1976, 75 years after its founding in 1901."
+,How many parties does Joe’s Biden’s is associated with in his entire lifetime?,1116,one,The context does not provide information about Joe Biden's party associations.
+,At what age does Joe Biden join the democratic political party?,1116,27,Information not available
+,Who is the Advisor to the Chiefs of Staff Committee?,1117,Rick Angove RM,WO1 Rick Angove RM
+,"What are the service branches under Ministry of Defence, London?",1117,"British Army , Royal Navy,  Corps of Royal Marines , Royal Air Force","British Army, Royal Navy, Corps of Royal Marines, Royal Air Force"
+,What is the difference in the maximum and minimum of the budget in 2021?,1117,7.1 Billion pounds,£7.1 billion && The difference between the maximum (£60.0 billion) and minimum (£52.9 billion) budget is £7.1 billion.
+,What is the minimum age you have to be to join the British Armed Forces in 2021?,1117,16,16-17 with parental consent
+,How many type of industries are there in British were involved in defence?,1117,Six,"4 industries && BAE Systems, Rolls-Royce Holdings, Babcock International, and MBDA are involved in defence."
+,What percentage of the active personnel were deployed in 2021?,1117,5.6%,"5.67% && 11,000 deployed personnel out of 194,170 active personnel is approximately 5.67%."
+,Who are the foreign suppliers of Bundeswehr?,1118,"European Union , United States","European Union, United States"
+,What is the headquarters of Bundeswehr?,1118,"Berlin, Bonn, and Potsdam","Berlin, Bonn, and Potsdam"
+,Who was Joe Biden married to when he was first elected to the Senate?,1118,Unmarried,res
+,What is the annual exports of Bundeswehr in 2019?,1118,€8.015 billion,€8.015 billion && The annual exports of Bundeswehr in 2019 were €8.015 billion.
+,What percentage of personnel is deployed?,1118,A little over 1%,"1.14% && There are 2,107 deployed personnel out of 183,638 active personnel (2107 / 183638 * 100)."
+,What was the relationship status of Joe Biden in 1979?,1118,Married to Jill Jocabs,Not provided && The context does not provide information about Joe Biden's relationship status in 1979.
+,Who was the better half of Joe Biden in 1970?,1118,Neilia Hunter,Neilia Hunter Biden && Joe Biden married Neilia Hunter in 1966.
+,At what age does Joe Biden join the democratic political party?,1118,27,Information not available
+,How many troops does Germany have 2022?,1118,"Soldier numbers in the German Federal Armed Forces 2022, by type of service.","183,638 && This number is mentioned as active personnel as of 28 February 2022."
+,Are Germany allowed to have an army?,1118,"Yes, Germany is allowed to establish armed forces for solely defense but is limited to the German Army, German Soldiers, German Navy, and German Air force.","Yes && Germany has the Federal Defence Forces, which includes an army."
+,Does Germany have a strong navy?,1118,Ships and submarines,"Yes, it has a navy."
+,Who was the US senator from Delaware in Dec 1972?,1118,J. Caleb Boggs,Information not available in the given context.
+,Who was the US senator from Delaware in Dec 1972?,1118,J. Caleb Boggs,Information not available in the provided context.
+,How long did the Defense Force last before it's current form?,1118,35 years,34 years && The Defense Force was founded on 12 November 1955 and took its current form on 3 October 1990.
+,How many service branches does the Defence Force encompass?,1118,Six,"6 service branches && The context mentions Army, Navy, Air Force, Joint Support Service, Joint Medical Service, and Cyber and Information Domain Service."
+,What was the relationship status of Joe Biden in 1979?,1118,Married to Jill Jocabs,Not enough information provided.
+,Who was Joe Biden married to when he was first elected to the Senate?,1118,Unmarried,Not applicable && The context does not provide information about Joe Biden's marriage.
+,How many years after the second marriage did Joe Biden become POTUS?,1118,44 years,This question cannot be answered with the provided context. The context does not contain information about Joe Biden's marriage or his becoming POTUS.
+,How many different defense suppliers does the Israel Defense Forces have?,1119,Eight,"8 domestic suppliers && The domestic suppliers listed are: Israel Aerospace Industries, Israel Military Industries, Israel Weapon Industries, Elbit Systems, Elisra, Elta, Rafael, and Israel Shipyards."
+,What is the longest conflict the Israel Defense Force been involved in?,1119,South Lebanon conflict,"South Lebanon conflict (1985-2000) && The conflict lasted 15 years, making it the longest conflict in the list."
+,"Since it's inception, what's the longest amount of time the Israel Defense Forces have went without a major military operation?",1119,11 years,Cannot determine from the provided context.
+,How many service branches are there?,1119,Three,3 service branches
+,How many years ago did Israel Defense Forces was founded?,1119,74 Years ago,74 years ago && Israel Defense Forces was founded on 26 May 1948.
+,Who was the US senator from Delaware in Dec 1972?,1119,A. J. Caleb Boggs,Information not available in the provided context.
+,How many years had the Israel Defense Forces been created before the Sinai War?,1119,8 years,8 years && The Israel Defense Forces were founded in 1948 and the Sinai War occurred in 1956.
+,How many Israeli males age 17-49 are not fit for service?,1119,"54,188","54,188 males && 1,554,186 males available for service minus 1,499,998 males that are fit for service equals 54,188 males not fit for service."
+,Who was the better half of Joe Biden in 1970?,1119,Neilia Hunter,Not mentioned in the context
+,How many years after the second marriage did Joe Biden become POTUS?,1119,44 years,12 years && Biden married Jill in 1977 and became POTUS in 2021 (2021 - 1977).
+,What was the name of the operation did Israel Defense Forces done in 1952?,1119,Reprisal operations,Operation not mentioned in the context
+,How many years did First Lebanon War was held from 1982?,1119,3 Years,3 years && The First Lebanon War lasted from 1982 to 1985.
+,How many active personnel did Japan Self-Defense Forces have in 2021?,1120,"247,154","247,154"
+,How many years after the founding of the Japan Self-Defense Forces did the 1999 East Timorese crisis happen?,1120,45 years,"45 years && The Japan Self-Defense Forces was founded in 1954, so the 1999 East Timorese crisis happened 45 years later."
+,What year was the Japan Self-Defense Forces founded?,1120,1954,1954 && The Japan Self-Defense Forces were founded on 1 July 1954.
+,What is the approximate ration of active to reserve personnel?,1120,5:1,"Approximately 4:1 && Active personnel: 247,154 and reserve personnel: 56,000."
+,What was the last official campaign the Japan Self-Defense Forces took part in?,1120,Operation Ocean Shield,Operation Ocean Shield && This is the most recent operation mentioned in the context.
+,How many years after the second marriage did Joe Biden become POTUS?,1120,44 years,Not enough information
+,What was the relationship status of Joe Biden in 1979?,1120,Married to Jill Jocabs,Not available in the context provided.
+,Who was the US senator from Delaware in Dec 1972?,1120,J. Caleb Boggs,Information not available in the context.
+,How many foreign countries supple the Defense Forces?,1120,Eight,8 countries && The foreign suppliers list includes 8 countries.
+,How many months are soldiers conscripted to the Republic of Korea Armed Forces on average across all branches?,1121,20 months,"18-22 months && The conscription durations are 18 months (Army), 20 months (Navy), and 22 months (Air Force) on average across all branches."
+,When was the Korean flag first used?,1121,15 August 1948; 73 years ago,15 August 1948 && The Korean flag was first used when the Republic of Korea Armed Forces was founded on 15 August 1948.
+,How much of South Korea's GDP is spent on military?,1121,2.8%(2021),2.8% && South Korea spends 2.8% of its GDP on military in 2021.
+,What is the maximum age for Korean military service?,1121,18 years of age,28 years && The maximum age for Korean military service is 28 years.
+,How many years older is a person considered to be the highest military age for the Republic of Korea Armed Forces than the youngest?,1121,10 years,10 years && The conscription age range is from 18 to 28 years.
+,What war was the Republic of Korea Armed Forces involved in just a year after the 50th anniversary of it's founding?,1121,1999 East Timorese crisis,"Korean War && The Republic of Korea Armed Forces was founded in 1948, so its 50th anniversary was in 1998. The Korean War took place from 1950-1953, which is one year after the 50th anniversary."
+,What is the median age for someone considered to be military age in the Republic of Korea Armed Forces?,1121,23 years,"23 years && Conscription ranges from 18-28 years, so the median age is 23."
+,How much longer is the conscription for the Air Froce than for the Army?,1121,4 months,4 months && Air Force conscription is 22 months while Army's is 18 months.
+,How long after the Republic of Korea Armed Forces was founded was the Vietnam War?,1121,17 years,"17 years && The Republic of Korea Armed Forces was founded in 1948, and the Vietnam War began in 1965."
+,How long did it take the Saudi Arabian Armed Forces to take it's current form from when it was founded?,1122,198 years,198 years && It was founded in 1745 and took its current form in 1943 (1943 - 1745).
+,Who was the Supreme Commander of Saudi Arabian Armed force?,1122,King Salman bin Abdulaziz Al Saud,King Salman bin Abdulaziz Al Saud
+,Where was the headquarters of Saudi Armed forces located?,1122,Riyadh,Riyadh
+,How many years has the Saudi Arabian Armed Forces been in existance?,1122,277 years,"277 years && Founded in 1745, it has been in existence for 277 years (2022 - 1745)."
+,What are the number of years that the current form of the Saudi Arabian Armed Forces have been in effect?,1122,79 years,79 years && The current form of the Saudi Arabian Armed Forces is since 1943 (2022 - 1943).
+,How many years separate the founding and the current form of the Saudi Arabian Armed Forces?,1122,198 years,"198 years && The founding was in 1745 and the current form is from 1943, so the difference is 198 years (1943 - 1745)."
+,How long did it take Saudi Arabian Armed Forces to deploy personnel to Yemen after deploying personnel to Bahrain?,1122,Four years,4 years && They deployed personnel to Bahrain on 14 March 2011 and to Yemen on 26 March 2015.
+,What year would you have to be born to serve this year in the Saudi Arabian Armed Forces?,1122,2005,"2005 && The military age is 17, so subtract 17 from 2022 to get 2005."
+,How many branches of force are there in Saudi Arabian Armed force?,1122,Four,"5 branches && The service branches include Royal Saudi Land Forces, Royal Saudi Air Force, Royal Saudi Naval Forces, Royal Saudi Air Defense, and Royal Saudi Strategic Missile Force."
+,How many armed services branches are there?,1123,Six,"6 branches && The knowledge graph lists U.S. Army, U.S. Marine Corps, U.S. Navy, U.S. Air Force, U.S. Space Force, and U.S. Coast Guard as service branches."
+,How many years ago did the United state armed force was formed?,1123,247 years,"247 years ago && The United States Armed Forces was founded on June 14, 1775, making it 247 years old in 2022."
+,What commander in chief had a budget of US$782 for 2022?,1123,Joe Biden,President Joe Biden && He is the Commander-in-Chief with a budget of US$782 billion for 2022.
+,What is the number of warrant officer types?,1123,Five,"4 types && There are Army, Marine Corps, Navy, and Coast Guard warrant officers."
+,Who was the commander in chief of united states armed force at present?,1123,President Joe Biden,President Joe Biden && He is listed as the Commander-in-Chief in the leadership section.
+,What was the budget alloted for United state armed force in 2022?,1123,$782 billion,US$782 billion (2022)
+,What is the Sidereal rotation period of mars?,1137,24h37m22.7s,1.025957 d (24 h 37 m 22.7 s)
+,What is the rotation period differenceof mars and earth?,1137,39m 36s (mars:24h39m36s),"37 minutes && Mars has a rotation period of 24 hours, 39 minutes and 36 seconds, while Earth has a rotation period of 24 hours. The difference is 37 minutes."
+,What is the Synodic period difference between earth and mars?,1137,"1.135 (earth 1y, mars 2.135)",779.96 days difference
+,How many Neptunian solar days are there in one Neptunian orbital period?,1138,"89,666","89,666 Neptunian solar days && The orbital period mentions 89,666 Neptunian solar days."
+,What is the orbital period of Neptune in years?,1138,164.8 yr,164.8 years && The orbital period of Neptune is 164.8 years.
+,What planet was discovered in September of 1846?,1138,Neptune,Neptune
+,How many days longer is the orbital period of Neptune than the synodic period?,1138,"59,828","59,827.51 days && The orbital period is 60,195 days, and the synodic period is 367.49 days (60,195 - 367.49)."
+,Around what year will the next orbital period begin starting from the time of perihelion?,1138,2206,2042 + 164.8 ≈ 2207
+,How many years after the the discovery of Neptune is the time of perihelion?,1138,196 years,"196 years && The discovery of Neptune was in 1846 and the time of perihelion is in 2042, which is 196 years apart."
+,Approximately how many total deaths will there be in 2016 due to cholera?,1200,"32,800",Cannot be determined && No information about 2016 deaths.
+,"If I interacted with some bad water, and 8 hours later I had muscle cramps, what should I do to see if I have cholera?",1200,Stool test.,Get a stool test.
+,"If I was worried I had cholera on a Monday, what day would I be in the clear of not having it?",1200,Saturday,"Sunday && Cholera symptoms can appear between 2 hours and 5 days after exposure, so by Sunday (5 days after Monday), you would know if you didn't have it."
+,At what age is the most common onset of Gallbladder cancer?,1201,After the age of 65.,Above 65 years old
+,What is the survival rate in 5 years of Gallbladder cancer?,1201,19% inside the United States,~19% && The prognosis section indicates a five-year survival rate of ~19% (USA) as of January 2020.
+,How many deaths from Gallbladder cancer in the course of a year in the US?,1201,"2,000","~2,000 deaths per year && Based on the knowledge graph, there are around 2,000 deaths per year from Gallbladder cancer in the US."
+,How many total deaths from AIDS were there before 2020?,1202,"35,620,000",36.3 million && The total deaths from AIDS before 2020 were 36.3 million.
+,"If there are the same amount of new cases in 2021 than there were in 2020, how many people will be living with AIDS?",1202,38.5 million,"38.5 million && With 37 million living with HIV in 2020 and 1.5 million new cases in 2021, there will be 38.5 million people living with AIDS."
+,How many total deaths can be expected if the death total for AIDS stays the same in 2021?,1202,"36,980,000","680,000 deaths && The death total for AIDS in 2020 was 680,000."
+,"By July 3, 2020, how many departments of France had less than 4.38 deaths per 100,000 residents?",1203,8,Information not available in the provided context.
+,What region had the highest fatality rate?,1203,The northeast,Information not provided in context.
+,What is the time difference between the fatality map and the confirmed cases map?,1203,22 months,Information not available && The context does not provide information about the maps or their time difference.
+,What continent is the country in question located in?,1203,Europe,Europe && France is located in Europe.
+,"How many people are fully vaccinated in France since the outbreak in Wuhan, China, as of the date the information was collected?",1203,"53,083,894","53,083,894 && The information was collected on November 2, 2022."
+,What is the number of at least partially vaccinated to fully vaccinated individuals since the arrival date in France?,1203,"54,587,663","54,587,663 && This is the total number of vaccinated individuals mentioned in the context."
+,"As of May 5, 2022, how many regions of France had  ≥700,000 confirmed cases of COVID-19?",1203,1,Information not available in the context.
+,"Before January 24, 2020, how many confirmed cases of COVID-19 had there been in France?",1203,0,"0 cases && The arrival date was January 24, 2020, so there were no confirmed cases before that date."
+,"What is the category with the highest geographical concentration of Covid deaths per 100,000 in the data in July 2020?",1203,"700,000",Not enough information in the context provided.
+,"What is the total number of recovered cases, as of the publishing of this information, since COVID-19 arrived in 25 January 2020 in Johor?",1204,"201,423","201,423 && As of 25 October 2021, there were 201,423 recovered cases in Johor."
+,How many Covid-19 deaths have been confirmed in Johor since the beginning of the pandemic?,1204,"3,588","3,588 && As of 24 October 2021, there were 3,588 confirmed deaths."
+,"Are there more active or recovered COVID-19 cases as of October 25, 2021?",1204,Recovered,"more recovered cases && There are <10,000 active cases and 201,423 recovered cases as of October 25, 2021."
+,What country did the outbreak first occur in?,1204,China,"Wuhan, Hubei, China && The first outbreak occurred in Wuhan, Hubei, China."
+,How long has the pandemic lasted?,1204,21 months,"2 years (as of 2022) && The pandemic arrived in Johor on 25 January 2020, and the current year is 2022."
+,What percentage of all time cases are currently active?,1204,About 4-5%,"<4.64% && Active cases are <10,000 out of 215,263 confirmed cases."
+,Who was the US senator from Delaware in Dec 1972?,1204,J. Caleb Boggs,Not available in the provided context.
+,What was the relationship status of Joe Biden in 1979?,1204,Married to Jill Jocabs,Information not available
+,How many total years (terms) does Joe Biden hold as Chair of the Senate Foreign Relations Committee?,1204,6 years (2 terms),Not available in the provided context.
+,"How many White House COVID-19 outbreak cases had been confirmed as of September 26, 2022?",1205,At least 53,At least 53 && The graph states that there were at least 53 confirmed cases in total.
+,How much time elapsed between the first reported COVID-19 case and the first reported hospitalization?,1205,14 days.,"15 days && First reported on October 1, 2020, and first hospitalization by October 15, 2020."
+,There were at least 20 reported cases of Covid by which day in 2020?,1205,Election Day,"November 11, 2020 && There were at least 20 cases by November 11 during the White House COVID-19 outbreak."
+,Amy Coney Barret's nomination to the Supreme court was announced during which virus strain of COVID-19?,1205,SARS-CoV-2,SARS-CoV-2 && The outbreak happened during the strain SARS-CoV-2.
+,What was the worst outcome of the outbreak?,1205,An individual was hospitalized,At least one hospitalized case.
+,Who was the most noteworthy individual to contract Covid in this?,1205,President Trump,President Trump && President Trump was the most noteworthy individual to contract Covid in the White House COVID-19 outbreak.
+,"If the first report of the White House COVID-19 outbreak had occurred a month later than it actually did, when would it have occurred?",1205,"November 1, 2020","November 1, 2020 && One month later than the actual date of October 1, 2020."
+,How many days did it take from arrival to it being first reported?,1205,Five days,"5 days && The arrival date was September 26, 2020, and it was first reported on October 1, 2020."
+,"As of November 11, 2020, how many confirmed White House COVID-19 outbreak cases had there been from Pence's staff and election day combined?",1205,At least 25,At least 25 cases && 5 from Pence's staff and 20 from election day combined.

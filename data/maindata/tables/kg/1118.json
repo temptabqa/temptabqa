@@ -1,0 +1,31 @@
+[
+  {"subject": "Federal Defence Forces of Germany", "predicate": "category", "object": "army"},
+  {"subject": "Federal Defence Forces of Germany", "predicate": "Motto", "object": "Wir. Dienen. Deutschland."},
+  {"subject": "Federal Defence Forces of Germany", "predicate": "Founded", "object": "12 November 1955"},
+  {"subject": "Federal Defence Forces of Germany", "predicate": "Current form", "object": "3 October 1990"},
+  {"subject": "Federal Defence Forces of Germany", "predicate": "Service branches", "object": "Army, Navy, Air Force, Joint Support Service, Joint Medical Service, Cyber and Information Domain Service"},
+  {"subject": "Federal Defence Forces of Germany", "predicate": "Headquarters", "object": "Berlin, Bonn, and Potsdam"},
+  {"subject": "Federal Defence Forces of Germany", "predicate": "Website", "object": "www.bundeswehr.de"},
+  {"subject": "Federal Defence Forces of Germany", "predicate": "alternate names", "object": "Bundeswehr"},
+
+  {"subject": "Leadership", "predicate": "Commander-in-Chief", "object": "Federal Minister of Defence (during peacetime), Chancellor of Germany (during war)"},
+  {"subject": "Leadership", "predicate": "Chancellor", "object": "Olaf Scholz"},
+  {"subject": "Leadership", "predicate": "Federal Minister", "object": "Christine Lambrecht"},
+  {"subject": "Leadership", "predicate": "Inspector General", "object": "Eberhard Zorn"},
+
+  {"subject": "Personnel", "predicate": "Military age", "object": "17"},
+  {"subject": "Personnel", "predicate": "Conscription", "object": "Yes, but indefinitely suspended since July 2011"},
+  {"subject": "Personnel", "predicate": "Active personnel", "object": "183,638 (28 February 2022)"},
+  {"subject": "Personnel", "predicate": "Reserve personnel", "object": "15,000 (2022)"},
+  {"subject": "Personnel", "predicate": "Deployed personnel", "object": "2,107 (4 April 2022)"},
+
+  {"subject": "Expenditures", "predicate": "Budget", "object": "€61.6 billion ($64.8 billion) (2021)"},
+  {"subject": "Expenditures", "predicate": "Percent of GDP", "object": "1.53% (2021)"},
+
+  {"subject": "Industry", "predicate": "Domestic suppliers", "object": "Airbus, Rheinmetall, Howaldtswerke-Deutsche Werft, Krauss-Maffei Wegmann, Hensoldt, MBDA Deutschland GmbH, Heckler & Koch, Diehl Defence, Carl Walther GmbH"},
+  {"subject": "Industry", "predicate": "Foreign suppliers", "object": "European Union, United States"},
+  {"subject": "Industry", "predicate": "Annual exports", "object": "€8.015 billion (2019)"},
+
+  {"subject": "Related articles", "predicate": "History", "object": "Military history of Germany"},
+  {"subject": "Related articles", "predicate": "Ranks", "object": "Rank insignia of the German Bundeswehr"}
+]

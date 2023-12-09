@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "X-15",
+    "predicate": "category",
+    "object": "space program"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "Role",
+    "object": "Experimental high-speed rocket-powered research aircraft | Type of aircraft"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "Manufacturer",
+    "object": "North American Aviation"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "First flight",
+    "object": "8 June 1959"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "Introduction",
+    "object": "17 September 1959"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "Retired",
+    "object": "December 1968"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "Primary users",
+    "object": "United States Air Force | NASA"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "Number built",
+    "object": "3"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "Description",
+    "object": "Black rocket aircraft with stubby wings and short vertical stabilizers above and below tail unit"
+  },
+  {
+    "subject": "X-15",
+    "predicate": "Image caption",
+    "object": "The X-15 pulling away from its drop launch plane"
+  }
+]

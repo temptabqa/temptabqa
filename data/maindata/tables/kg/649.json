@@ -1,0 +1,19 @@
+[
+  {"subject": "Clarke Petterson", "predicate": "category", "object": "lacrosse"},
+  {"subject": "Clarke Petterson", "predicate": "Nationality", "object": "Canadian"},
+  {"subject": "Clarke Petterson", "predicate": "Height", "object": "5 ft 11 in (1.80 m)"},
+  {"subject": "Clarke Petterson", "predicate": "Weight", "object": "190 pounds (86 kg)"},
+  {"subject": "Clarke Petterson", "predicate": "Shoots", "object": "Right"},
+  {"subject": "Clarke Petterson", "predicate": "Position", "object": "Attack (field), Forward (box)"},
+  {"subject": "Clarke Petterson", "predicate": "NCAA team", "object": "Cornell University (2019)"},
+  {"subject": "Clarke Petterson", "predicate": "NLL draft", "object": "5th, 2019 | Halifax Thunderbirds"},
+  {"subject": "Clarke Petterson", "predicate": "NLL team", "object": "Halifax Thunderbirds"},
+  {"subject": "Clarke Petterson", "predicate": "MLL draft", "object": "12th overall, 2019 | Boston Cannons"},
+  {"subject": "Clarke Petterson", "predicate": "PLL team | Former teams", "object": "Atlas L.C. | Redwoods L.C."},
+  {"subject": "Clarke Petterson", "predicate": "Pro career", "object": "2019-"},
+  {"subject": "Clarke Petterson", "predicate": "Career highlights | NCAA", "object": "Honorable Mention USILA All-American in 2019"},
+  {"subject": "Clarke Petterson", "predicate": "Career highlights | NCAA", "object": "Second-team All-Ivy in 2019"},
+  {"subject": "Clarke Petterson", "predicate": "Career highlights | NCAA", "object": "Honorable Mention All-Ivy in 2017"},
+  {"subject": "Clarke Petterson", "predicate": "Representing | Canada | Men's lacrosse | World Games", "object": "Gold medal - first place | 2022 Birmingham"},
+  {"subject": "Clarke Petterson", "predicate": "Representing | Canada | Men's lacrosse | Under-19 World Lacrosse Championships", "object": "Runner-up | 2016 Coquitlam"}
+]

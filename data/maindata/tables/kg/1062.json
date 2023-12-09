@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "category",
+    "object": "space program"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "infobox-image",
+    "object": "Shuttle Patch.svg"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Country",
+    "object": "United States"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Organization",
+    "object": "NASA"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Purpose",
+    "object": "Crewed orbital flight"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Status",
+    "object": "Completed"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Cost",
+    "object": "US$196 billion (2011)"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Duration",
+    "object": "1972-2011"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "First flight",
+    "object": "ALT-12 | August 12, 1977 | ( | 1977-08-12 | )"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "First crewed flight",
+    "object": "STS-1 | April 12, 1981 | ( | 1981-04-12 | )"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Last flight",
+    "object": "STS-135 | July 21, 2011 | ( | 2011-07-21 | )"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Successes",
+    "object": "133"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Failures",
+    "object": "1 (STS-51-L)"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Partial failures",
+    "object": "1 (STS-107)"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Launch site(s)",
+    "object": "LC-39A | LC-39B"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Crewed vehicle(s)",
+    "object": "Space Shuttle orbiter"
+  },
+  {
+    "subject": "Space Shuttle program",
+    "predicate": "Launch vehicle(s)",
+    "object": "Space Shuttle"
+  }
+]

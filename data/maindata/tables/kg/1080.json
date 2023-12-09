@@ -1,0 +1,20 @@
+[
+  {"subject": "Jurassic Park", "predicate": "category", "object": "movie"},
+  {"subject": "Jurassic Park", "predicate": "Directed by", "object": "Steven Spielberg"},
+  {"subject": "Jurassic Park", "predicate": "Screenplay by", "object": "Michael Crichton | David Koepp"},
+  {"subject": "Jurassic Park", "predicate": "Based on", "object": "Jurassic Park | by Michael Crichton"},
+  {"subject": "Jurassic Park", "predicate": "Produced by", "object": "Kathleen Kennedy | Gerald R. Molen"},
+  {"subject": "Jurassic Park", "predicate": "Starring", "object": "Sam Neill | Laura Dern | Jeff Goldblum | Richard Attenborough | Bob Peck | Martin Ferrero | BD Wong | Samuel L. Jackson | Wayne Knight | Joseph Mazzello | Ariana Richards"},
+  {"subject": "Jurassic Park", "predicate": "Cinematography", "object": "Dean Cundey"},
+  {"subject": "Jurassic Park", "predicate": "Edited by", "object": "Michael Kahn"},
+  {"subject": "Jurassic Park", "predicate": "Music by", "object": "John Williams"},
+  {"subject": "Jurassic Park", "predicate": "Production | companies", "object": "Universal Pictures | Amblin Entertainment"},
+  {"subject": "Jurassic Park", "predicate": "Distributed by", "object": "Universal Pictures"},
+  {"subject": "Jurassic Park", "predicate": "Release dates", "object": "June 9, 1993 |  ( | 1993-06-09 | ) | (Uptown Theater) | June 11, 1993 |  ( | 1993-06-11 | ) | (United States)"},
+  {"subject": "Jurassic Park", "predicate": "Running time", "object": "128 minutes"},
+  {"subject": "Jurassic Park", "predicate": "Country", "object": "United States"},
+  {"subject": "Jurassic Park", "predicate": "Language", "object": "English"},
+  {"subject": "Jurassic Park", "predicate": "Budget", "object": "$63 million"},
+  {"subject": "Jurassic Park", "predicate": "Box office", "object": "$1.034 billion"},
+  {"subject": "Jurassic Park", "predicate": "Jurassic Park", "object": "Theatrical release poster | A black poster featuring a red shield with a stylized Tyrannosaurus skeleton under a plaque reading \"Jurassic Park\". Below is the tagline \"An Adventure 65 Million Years in the Making\"."}
+]

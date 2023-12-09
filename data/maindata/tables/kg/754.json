@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "category",
+    "object": "monument"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Former names",
+    "object": "Shanghai Center"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Chinese name",
+    "object": "上海中心大厦 | Shànghǎi Zhōngxīn Dàshà"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Image",
+    "object": "Shanghai - Shanghai Tower - 0003(cropped).jpg | Shanghai Tower in 2016"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Status",
+    "object": "Complete"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Type",
+    "object": "Mixed-use"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Location",
+    "object": "501 Yincheng Middle Rd, Lujiazui, Pudong, Shanghai"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Coordinates",
+    "object": "31°14′08″N | 121°30′04″E | \ufeff / \ufeff | 31.2355°N 121.501°E | \ufeff / | 31.2355; 121.501"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Construction started",
+    "object": "21 November 2008"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Completed",
+    "object": "2 September 2014"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Opened",
+    "object": "2 February 2015"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Cost",
+    "object": "CN¥15.7 billion"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Owner",
+    "object": "Shanghai Tower Construction and Development"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Architectural height",
+    "object": "632 m (2,073 ft)"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Tip height",
+    "object": "632 m (2,073 ft)"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Top floor",
+    "object": "587.4 m (1,927 ft) (Level 127)"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Observatory",
+    "object": "562 m (1,844 ft) (Level 121)"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Floor count",
+    "object": "128 above ground | 3 below ground"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Floor area",
+    "object": "380,000 m | 2 | (4,090,300 sq ft) above grade | 170 m | 2 | (1,800 sq ft) below grade"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Lifts/elevators",
+    "object": "97, supplied by Mitsubishi Electric"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Architect",
+    "object": "Marshall Strabala & Jun Xia (Gensler) | TJAD"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Engineer",
+    "object": "Thornton Tomasetti | Cosentini Associates | I.DEA Ecological Solutions"
+  },
+  {
+    "subject": "Shanghai Tower",
+    "predicate": "Main contractor",
+    "object": "Shanghai Construction Group"
+  }
+]

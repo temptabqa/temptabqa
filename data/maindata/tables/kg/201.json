@@ -1,0 +1,60 @@
+[{
+  "subject": "Elliot 6m at the 2011 ISAF Sailing World Championships",
+  "predicate": "category",
+  "object": "sports event"
+},
+{
+  "subject": "Elliot 6m at the 2011 ISAF Sailing World Championships",
+  "predicate": "Venue",
+  "object": "Perth, Western Australia"
+},
+{
+  "subject": "Elliot 6m at the 2011 ISAF Sailing World Championships",
+  "predicate": "Dates",
+  "object": "3-16 December"
+},
+{
+  "subject": "Elliot 6m at the 2011 ISAF Sailing World Championships",
+  "predicate": "Competitors",
+  "object": "87 from 19 nations"
+},
+{
+  "subject": "Anna Tunnicliffe, Deborah Capozzi, Molly Vandemoer",
+  "predicate": "Medalists",
+  "object": "gold medal"
+},
+{
+  "subject": "Anna Tunnicliffe, Deborah Capozzi, Molly Vandemoer",
+  "predicate": "Representing Country",
+  "object": "United States"
+},
+{
+  "subject": "Lucy MacGregor, Annie Lush, Kate MacGregor",
+  "predicate": "Medalists",
+  "object": "silver medal"
+},
+{
+  "subject": "Lucy MacGregor, Annie Lush, Kate MacGregor",
+  "predicate": "Representing Country",
+  "object": "Great Britain"
+},
+{
+  "subject": "Claire Leroy, Elodie Bertrand, Riou",
+  "predicate": "Medalists",
+  "object": "bronze medal"
+},
+{
+  "subject": "Claire Leroy, Elodie Bertrand, Riou",
+  "predicate": "Representing Country",
+  "object": "France"
+},
+{
+  "subject": "2011 ISAF Sailing World Championships",
+  "predicate": "previous edition",
+  "object": "2010"
+},
+{
+  "subject": "2011 ISAF Sailing World Championships",
+  "predicate": "next edition",
+  "object": "2012"
+}]

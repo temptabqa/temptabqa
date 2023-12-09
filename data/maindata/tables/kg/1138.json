@@ -1,0 +1,227 @@
+[
+  {
+    "subject": "Neptune",
+    "predicate": "category",
+    "object": "planet"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "caption",
+    "object": "Neptune | ♆"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "infobox-image",
+    "object": "Neptune - Voyager 2 (29347980845) flatten crop.jpg | Photograph taken by NASA's | Voyager 2 | in 1989"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "discovered by",
+    "object": "Johann Galle | Urbain Le Verrier | John Couch Adams"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "discovery date",
+    "object": "23 September 1846"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "pronunciation",
+    "object": "/ | ˈ | n | ɛ | p | tj | uː | n | / | ( | About this sound | listen | )"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "named after",
+    "object": "Latin | Neptunus | , via French | Neptune"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "adjectives",
+    "object": "Neptunian ( | / | n | ɛ | p | ˈ | tj | uː | n | i | ən | / | ), Poseidean"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "aphelion",
+    "object": "30.33 AU (4.54 billion km)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "perihelion",
+    "object": "29.81 AU (4.46 billion km)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "semi-major axis",
+    "object": "30.07 AU (4.50 billion km)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "eccentricity",
+    "object": "0.008 | 678"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "orbital period",
+    "object": "164.8 yr | 60,195 days | 89,666 Neptunian solar days"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "synodic period",
+    "object": "367.49 days"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "average orbital speed",
+    "object": "5.43 km/s"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "mean anomaly",
+    "object": "256.228°"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "inclination",
+    "object": "1.770° | to ecliptic | 6.43° to Sun's equator | 0.74° to invariable plane"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "longitude of ascending node",
+    "object": "131.783°"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "time of perihelion",
+    "object": "2042-Sep-04"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "argument of perihelion",
+    "object": "273.187°"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "known satellites",
+    "object": "14"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "orbital characteristics epoch",
+    "object": "J2000"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "mean radius",
+    "object": "24,622 | ± | 19 km"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "equatorial radius",
+    "object": "24,764 | ± | 15 km | 3.883 Earths"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "polar radius",
+    "object": "24,341 | ± | 30 km | 3.829 Earths"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "flattening",
+    "object": "0.0171 | ± | 0.0013"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "surface area",
+    "object": "7.6187 | × | 10 | 9 |  km | 2 | 14.98 Earths"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "volume",
+    "object": "6.253 | × | 10 | 13 |  km | 3 | 57.74 Earths"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "mass",
+    "object": "1.024 | 13 | × | 10 | 26 |  kg | 17.147 Earths | 5.15 | × | 10 | −5 |  Suns"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "mean density",
+    "object": "1.638 g/cm | 3"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "surface gravity",
+    "object": "11.15 m/s | 2 | 1.14 | g"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "moment of inertia factor",
+    "object": "0.23 | (estimate)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "escape velocity",
+    "object": "23.5 km/s"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "rotation period",
+    "object": "0.671 | 25 |  d | 16 h 6 m 36 s | (synodic; solar day)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "sidereal rotation period",
+    "object": "0.6713 day | 16 h 6 min 36 s"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "equatorial rotation velocity",
+    "object": "2.68 km/s (9,650 km/h)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "axial tilt",
+    "object": "28.32° (to orbit)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "north pole right ascension",
+    "object": "19 | h | 57 | m | 20 | s | 299.3°"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "north pole declination",
+    "object": "42.950°"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "albedo",
+    "object": "0.290 (bond) | 0.442 (geom.)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "apparent magnitude",
+    "object": "7.67 to 8.00"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "angular diameter",
+    "object": "2.2-2.4″"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "surface temperature",
+    "object": "1 bar level | 72 K (−201 °C) | 0.1 bar (10 kPa) | 55 K (−218 °C)"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "atmosphere scale height",
+    "object": "19.7 | ± | 0.6 km"
+  },
+  {
+    "subject": "Neptune",
+    "predicate": "atmosphere composition",
+    "object": "Gases | 80% | ± | 3.2% | hydrogen ( | H | 2 | ) | 19% | ± | 3.2% | helium (He) | 1.5% | ± | 0.5% | methane ( | CH | 4 | ) | ~0.019% hydrogen deuteride (HD) | ~0.00015% ethane ( | C | 2 | H | 6 | ) | Ices | ammonia ( | NH | 3 | ) | water ( | H | 2 | O | ) | ammonium hydrosulfide ( | NH | 4 | SH | ) | methane ice (?) ( | CH | 4 | ·5.75H | 2 | O | )"
+  }
+]

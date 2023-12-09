@@ -1,0 +1,142 @@
+[
+  {
+    "subject": "HMS Montrose",
+    "predicate": "category",
+    "object": "ship"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "country",
+    "object": "United Kingdom"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "ordered",
+    "object": "July 1988"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "builder",
+    "object": "Yarrow Shipbuilders"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "laid_down",
+    "object": "1 November 1989"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "launched",
+    "object": "31 July 1992"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "sponsored_by",
+    "object": "Lady Rifkind"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "commissioned",
+    "object": "2 June 1994"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "refit",
+    "object": "LIFEX 2014-2017"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "homeport",
+    "object": "HMS Jufair, Bahrain"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "identification",
+    "object": "IMO number: 8949642 | MMSI number: 234618000 | Callsign: GCOD"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "motto",
+    "object": "Mare ditat rosa decorat | Latin: \"The sea enriches and the rose adorns\""
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "status",
+    "object": "In active service"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "badge",
+    "object": "HMS MONTROSE ship's crest.jpg"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "class_and_type",
+    "object": "Type 23 frigate"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "displacement",
+    "object": "4,900 t (4,800 long tons)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "length",
+    "object": "133 m (436 ft 4 in)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "beam",
+    "object": "16.1 m (52 ft 10 in)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "height",
+    "object": "28.6 m (93 ft 10 in)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "draught",
+    "object": "7.3 m (23 ft 11 in)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "propulsion",
+    "object": "CODLAG | Four 1,510 kW (2,020 shp) Paxman Valenta 12CM diesel generators | Two GEC electric motors delivering 2,980 kW (4,000 shp) | Two Rolls-Royce Spey SM1C delivering 23,190 kW (31,100 shp)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "speed",
+    "object": "In excess of 28 knots (52 km/h; 32 mph)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "range",
+    "object": "7,500 nmi (14,000 km; 9,000 mi) at 15 kn (28 km/h; 17 mph)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "complement",
+    "object": "185 (accommodation for up to 205)"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "electronic_warfare_and_decoys",
+    "object": "UAT Mod 1 ESM | Seagnat | Type 2170 Surface Ship Torpedo Defence"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "armament",
+    "object": "Anti-air missiles | 1 × 32-cell GWS 35 Vertical Launching System (VLS) for | 32 × Sea Ceptor missiles (1-25+ km) | Anti-ship missiles | 2 × quad Harpoon launchers (8 × missiles) | Anti-submarine torpedoes | 2 × twin 12.75 | in (324 | mm) Sting Ray torpedo tubes | Guns | 1 × BAE 4.5-inch Mk | 8 naval gun | 2 × 30 | mm DS30M Mk2 guns, | or | , 2 × 30 | mm DS30B guns | 2 × Miniguns | 4 × General-purpose machine gun"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "aircraft_carried",
+    "object": "1 × Westland Wildcat HMA2, armed with; | 2 × anti submarine torpedoes | or | 1 × Westland Merlin HM2, armed with; | 4 × anti submarine torpedoes"
+  },
+  {
+    "subject": "HMS Montrose",
+    "predicate": "aviation_facilities",
+    "object": "Flight deck | Enclosed hangar"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "subject": "Charlotte Atkinson",
+    "predicate": "category",
+    "object": "swimming"
+  },
+  {
+    "subject": "Charlotte Atkinson",
+    "predicate": "Nationality",
+    "object": "Great Britain"
+  },
+  {
+    "subject": "Charlotte Atkinson",
+    "predicate": "Born",
+    "object": "29 November 1996 (age 25) in Douglas, Isle of Man"
+  },
+  {
+    "subject": "Charlotte Atkinson",
+    "predicate": "Sport",
+    "object": "Swimming"
+  },
+  {
+    "subject": "Charlotte Atkinson",
+    "predicate": "Strokes",
+    "object": "Butterfly"
+  },
+  {
+    "subject": "Charlotte Atkinson",
+    "predicate": "European Championships (LC)",
+    "object": "Gold medal - first place (2018 Glasgow, 4×100 m mixed medley)"
+  },
+  {
+    "subject": "Charlotte Atkinson",
+    "predicate": "Island Games",
+    "object": [
+      "Gold medal - first place (2011 Isle of Wight, 200 m backstroke)",
+      "Gold medal - first place (2011 Isle of Wight, 400 m medley)",
+      "Gold medal - first place (2013 Bermuda, 50 m backstroke)",
+      "Gold medal - first place (2013 Bermuda, 50 m butterfly)",
+      "Gold medal - first place (2015 Jersey, 50 m freestyle)",
+      "Gold medal - first place (2015 Jersey, 100 m freestyle)",
+      "Gold medal - first place (2015 Jersey, 50 m butterfly)",
+      "Gold medal - first place (2015 Jersey, 100 m butterfly)",
+      "Gold medal - first place (2015 Jersey, 200 m butterfly)",
+      "Gold medal - first place (2015 Jersey, 200 m medley)",
+      "Gold medal - first place (2015 Jersey, 4×50 m freestyle)",
+      "Gold medal - first place (2015 Jersey, 4×100 m medley)",
+      "Silver medal - second place (2011 Isle of Wight, 800 m freestyle)",
+      "Silver medal - second place (2011 Isle of Wight, 200 m butterfly)",
+      "Silver medal - second place (2013 Bermuda, 400 m freestyle)",
+      "Silver medal - second place (2013 Bermuda, 100 m butterfly)",
+      "Silver medal - second place (2013 Bermuda, 200 m butterfly)",
+      "Silver medal - second place (2013 Bermuda, 4×50 m medley)",
+      "Silver medal - second place (2015 Jersey, 4×100 m freestyle)",
+      "Silver medal - second place (2015 Jersey, 4×50 m medley)",
+      "Bronze medal - third place (2011 Isle of Wight, 200 m medley)",
+      "Bronze medal - third place (2013 Bermuda, 4×100 m medley)"
+    ]
+  }
+]

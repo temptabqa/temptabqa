@@ -1,0 +1,172 @@
+[
+  {
+    "subject": "Han Dynasty",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Capital",
+    "object": "Chang'an | (206 BC - 9 AD, 190-195 AD) | Luoyang | (23-190 AD, 196 AD) | Xuchang | (196-220 AD)"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Common languages",
+    "object": "Old Chinese"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Religion",
+    "object": "Daoism | Chinese folk religion"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Government",
+    "object": "Monarchy"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Emperor",
+    "object": ""
+  },
+  {
+    "subject": "Emperor Gaozu",
+    "predicate": "reign",
+    "object": "202-195 BC | (first)"
+  },
+  {
+    "subject": "Emperor Wu",
+    "predicate": "reign",
+    "object": "141-87 BC"
+  },
+  {
+    "subject": "Emperor Xuan",
+    "predicate": "reign",
+    "object": "74-48 BC"
+  },
+  {
+    "subject": "Emperor Guangwu",
+    "predicate": "reign",
+    "object": "25-57 AD"
+  },
+  {
+    "subject": "Emperor Xian",
+    "predicate": "reign",
+    "object": "189-220 AD | (last)"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Chancellor",
+    "object": ""
+  },
+  {
+    "subject": "Xiao He",
+    "predicate": "chancellorship",
+    "object": "206-193 BC"
+  },
+  {
+    "subject": "Cao Can",
+    "predicate": "chancellorship",
+    "object": "193-190 BC"
+  },
+  {
+    "subject": "Dong Zhuo",
+    "predicate": "chancellorship",
+    "object": "189-192 AD"
+  },
+  {
+    "subject": "Cao Cao",
+    "predicate": "chancellorship",
+    "object": "208-220 AD"
+  },
+  {
+    "subject": "Cao Pi",
+    "predicate": "chancellorship",
+    "object": "220 AD"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Historical era",
+    "object": "Imperial"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Founding event",
+    "object": "Xiang Yu appointed Liu Bang as King of Han | 206 BC"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Founding event",
+    "object": "Battle of Gaixia; Liu Bang proclaimed emperor | 202 BC"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Founding event",
+    "object": "Xin dynasty | 9-23 AD"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Founding event",
+    "object": "Abdication to Cao Wei | 220 AD"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "time period",
+    "object": "202 BC - 9 AD; 25-220 AD | (9-23 AD: Xin)"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "map",
+    "object": "Han Dynasty map 2CE.png | A map of the Western Han dynasty in 2 AD | Principalities and centrally-administered commanderies | Protectorate of the Western Regions (Tarim Basin)"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Area",
+    "object": "50 BC est. (Western Han peak) | 6,000,000 km | 2 | (2,300,000 sq mi)"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Area",
+    "object": "100 AD est. (Eastern Han peak) | 6,500,000 km | 2 | (2,500,000 sq mi)"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Population",
+    "object": "2 AD | 57,671,400"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Currency",
+    "object": "Ban Liang coins and Wu Zhu coins"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Preceded by",
+    "object": "Qin dynasty"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Preceded by",
+    "object": "Eighteen Kingdoms"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Succeeded by",
+    "object": "Cao Wei"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Succeeded by",
+    "object": "Shu Han"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Succeeded by",
+    "object": "Eastern Wu"
+  },
+  {
+    "subject": "Han Dynasty",
+    "predicate": "Today part of",
+    "object": "China | Vietnam | North Korea"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "category",
+    "object": "curling"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "is a",
+    "object": "Curler"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "image",
+    "object": "2016 World Men's Curling Championship, Canada vs. Germany, 5th April 2016 07.JPG"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "matches",
+    "object": "2016 World Men's Curling Championship"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Curling club",
+    "object": "Saville Community SC | Edmonton, AB"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Skip",
+    "object": "Brendan Bottcher"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Third",
+    "object": "Marc Kennedy"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Second",
+    "object": "Brett Gallant"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Lead",
+    "object": "Ben Hebert"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Mixed doubles | partner",
+    "object": "Val Sweeting"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Member Association",
+    "object": "Alberta (1998-2018, 2022-present) | Northern Ontario (2019-2022)"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Brier appearances",
+    "object": "11 (2007, 2008, 2009, 2011, 2013, 2015, 2016, 2017, 2020, 2021, 2022)"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "World Championship | appearances",
+    "object": "4 (2008, 2009, 2016, 2021)"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Olympic | appearances",
+    "object": "3 (2010, 2018, 2022)"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Top CTRS ranking",
+    "object": "1st (2006-07, 2007-08, 2009-10, 2010-11, 2015-16, 2019-20)"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Grand Slam victories",
+    "object": "15: The National (Mar 2007, Dec. 2010, 2019); | Players (2004, 2007, 2010, 2011, 2014, 2018); Canadian Open (Jan 2007, Dec 2007, 2010, 2020); Tour Challenge (2015, 2019)"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Olympic Games",
+    "object": ["Gold medal - first place | 2010 Vancouver | Team", "Bronze medal - third place | 2022 Beijing | Team"]
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "World Curling Championships",
+    "object": ["Gold medal - first place | 2008 Grand Forks", "Gold medal - first place | 2016 Basel", "Silver medal - second place | 2009 Moncton"]
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Tim Hortons Brier",
+    "object": ["Gold medal - first place | 2008 Winnipeg", "Gold medal - first place | 2009 Calgary", "Gold medal - first place | 2016 Ottawa"]
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Universiade",
+    "object": "Gold medal - first place | 2003 Tarvisio"
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Canadian Olympic Curling Trials",
+    "object": ["Gold medal - first place | 2009 Edmonton", "Gold medal - first place | 2017 Ottawa", "Silver medal - second place | 2021 Saskatoon", "Bronze medal - third place | 2005 Halifax", "Bronze medal - third place | 2013 Winnipeg"]
+  },
+  {
+    "subject": "Marc Kennedy",
+    "predicate": "Canada Winter Games",
+    "object": "Gold medal - first place | 1999 Corner Brook"
+  }
+]

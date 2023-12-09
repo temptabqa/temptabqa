@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "category",
+    "object": "cyclone"
+  },
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "formed",
+    "object": "September 2, 2004"
+  },
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "dissipated",
+    "object": "September 25, 2004"
+  },
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "highest winds",
+    "object": "1-minute sustained | 165 mph (270 km/h)"
+  },
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "lowest pressure",
+    "object": "910 mbar (hPa); 26.87 inHg"
+  },
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "fatalities",
+    "object": "92 direct, 32 indirect"
+  },
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "damage",
+    "object": "$26.1 billion (2004 USD)"
+  },
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "areas affected",
+    "object": "Windward Islands (especially Grenada), Trinidad and Tobago, Venezuela, Barbados, Jamaica, Hispaniola, Grand Cayman, Cuba, Yucatan Peninsula, Eastern United States, Florida, Alabama, most of the United States Gulf Coast, and Atlantic Canada"
+  },
+  {
+    "subject": "Hurricane Ivan",
+    "predicate": "image",
+    "object": "A picture of Hurricane Ivan | Hurricane Ivan at peak intensity in the Yucatán Channel on September 13"
+  }
+]

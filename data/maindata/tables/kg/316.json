@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "category",
+    "object": "scientist"
+  },
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "Born",
+    "object": "June 25, 1928, Moscow, Russian SFSR, Soviet Union"
+  },
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "Died",
+    "object": "March 29, 2017, Palo Alto, California, United States"
+  },
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "Citizenship",
+    "object": "Soviet Union (1928-1991), Russia (since 1992), United States (since 1999)"
+  },
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "Alma mater",
+    "object": "Moscow State University, USSR Academy of Sciences"
+  },
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "Known for",
+    "object": "Abrikosov vortex, Fermi liquid theory, Quantum triviality, Condensed matter physics, Type-II superconductor"
+  },
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "Spouse",
+    "object": "Svetlana Yuriyevna Bunkova (married since 1977)"
+  },
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "Children",
+    "object": "3"
+  },
+  {
+    "subject": "Alexei Abrikosov",
+    "predicate": "Awards",
+    "object": "Lenin Prize (1966), Fritz London Prize (1972), USSR State Prize (1982), Landau Gold Medal (1989), Member of the National Academy of Sciences (2000), ForMemRS (2001), Nobel Prize in Physics (2003)"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Fields",
+    "object": "Physics"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Institutions",
+    "object": "Landau Institute, Moscow State University, Moscow Institute of Physics and Technology, Argonne National Laboratory"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Website",
+    "object": "www.msd.anl.gov/abrikosov"
+  }
+]

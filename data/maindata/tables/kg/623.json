@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "FTX Arena",
+    "predicate": "category",
+    "object": "stadium"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Former names",
+    "object": "American Airlines Arena (1999-2021)"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Address",
+    "object": "601 Biscayne Boulevard"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Location",
+    "object": "Miami, Florida"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Coordinates",
+    "object": "25.78139°N, 80.18806°W"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Public transit",
+    "object": "Metrorail (Miami-Dade County), Historic Overtown/Lyric Theatre, Brightline, MiamiCentral, Metromover, Freedom Tower, Park West"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Parking",
+    "object": "939 parking spaces"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Owner",
+    "object": "Miami-Dade County"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Operator",
+    "object": "Basketball Properties Ltd."
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Capacity",
+    "object": "Basketball: 19,600; 16,500 (Without upper levels), Concerts: 5,000-20,021"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Surface",
+    "object": "Multi-surface"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.Broke ground",
+    "object": "February 6, 1998"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.Opened",
+    "object": "December 31, 1999"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.Construction cost",
+    "object": "$213 million"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.Architect",
+    "object": "Arquitectonica, 360 Architecture (formerly Heinlein Schrock Stearns)"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.Project manager",
+    "object": "Parsons Brinckerhoff"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.Structural engineer",
+    "object": "Thornton Tomasetti"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.Services engineer",
+    "object": "Flack+Kurtz"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.General contractor",
+    "object": "Morse-Diesel/Odebrecht/Facchina"
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Construction.Main contractors",
+    "object": "John J. Kirlin, LLC, Simpson Constructors, Crown Corr Inc."
+  },
+  {
+    "subject": "FTX Arena",
+    "predicate": "Tenants",
+    "object": "Miami Heat (NBA) (2000-present), Miami Sol (WNBA) (2000-2002)"
+  }
+]

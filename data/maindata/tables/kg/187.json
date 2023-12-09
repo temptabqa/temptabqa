@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "category",
+    "object": "legislature"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Alaska State Legislature",
+    "object": ["32nd Alaska State Legislature", "Coat of arms or logo"]
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Type",
+    "object": "Bicameral"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Houses",
+    "object": "Senate | House of Representatives"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Term limits",
+    "object": "None"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "New session started",
+    "object": "January 19, 2021"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "President of the Senate",
+    "object": "Peter Micciche (R) | since January 19, 2021"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Speaker of the House",
+    "object": "Louise Stutes (R-C) | since February 11, 2021"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Seats",
+    "object": "20 senators | 40 representatives"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Senate political groups",
+    "object": "Majority caucus | Republican (13) | Democratic (1) | (caucusing with Republicans) | Minority caucus | Democratic (6)"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "House of Representatives political groups",
+    "object": "Coalition caucus (21) | Democratic (15) | Coalition Republican (2) | Independent (4) | Republican caucus (18) | Republican (18) | Other (1) | Non-caucusing Republican (1)"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Authority",
+    "object": "Article 2, Alaska Constitution"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Salary",
+    "object": "$50,400/year + per diem"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Structure",
+    "object": ["Alaska State Senate 2019-2021.svg", "Alaska House 03192021.svg"]
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Senate last election",
+    "object": "November 3, 2020 | (11 seats)"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "House of Representatives last election",
+    "object": "November 3, 2020"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Senate next election",
+    "object": "November 8, 2022 | (10 seats)"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "House of Representatives next election",
+    "object": "November 8, 2022"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Redistricting",
+    "object": "Alaska Redistricting Board"
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Meeting place",
+    "object": ["Alaska State Capitol, Juneau.jpg", "Alaska State Capitol | Juneau, Alaska"]
+  },
+  {
+    "subject": "Alaska State Legislature",
+    "predicate": "Website",
+    "object": ["Alaska State Legislature"]
+  }
+]

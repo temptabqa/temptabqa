@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Full name",
+    "object": "Ian James Thorpe"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Nickname",
+    "object": "Thorpedo"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Nickname",
+    "object": "Thorpey"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "National team",
+    "object": "Australia"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Height",
+    "object": "1.96 m (6 ft 5 in)"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Weight",
+    "object": "104 kg (229 lb)"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Sport",
+    "object": "Swimming"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Strokes",
+    "object": "Freestyle"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Club",
+    "object": "SLC Aquadot"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Coach",
+    "object": "Doug Frost (1995-2002)"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Coach",
+    "object": "Tracey Menzies (2002-2006)"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Representing",
+    "object": "Australia"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Olympic Games",
+    "object": "5 gold, 3 silver, 1 bronze"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "World Championships (LC)",
+    "object": "11 gold, 1 silver, 1 bronze"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "World Championships (SC)",
+    "object": "2 gold, 1 silver, 0 bronze"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Pan Pacific Championships",
+    "object": "9 gold, 3 silver, 0 bronze"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Commonwealth Games",
+    "object": "10 gold, 1 silver, 0 bronze"
+  },
+  {
+    "subject": "Ian Thorpe",
+    "predicate": "Total",
+    "object": "37 gold, 9 silver, 2 bronze"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "is known as",
+    "object": "La tour Eiffel"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "has image",
+    "object": "Tour Eiffel Wikimedia Commons.jpg"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "is seen from",
+    "object": "the Champ de Mars"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "is a",
+    "object": "monument"
+  },
+  {
+    "subject": "Record height",
+    "predicate": "was",
+    "object": "Tallest in the world from 1889 to 1930"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "type",
+    "object": "Observation tower | Broadcasting tower"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "location",
+    "object": "7th arrondissement, Paris, France"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "coordinates",
+    "object": "48.858222°N 2.294500°E"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "construction started",
+    "object": "28 January 1887"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "completed",
+    "object": "15 March 1889"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "opened",
+    "object": "31 March 1889"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "owner",
+    "object": "City of Paris, France"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "management",
+    "object": "Société d'Exploitation de la Tour Eiffel (SETE)"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "architectural height",
+    "object": "300 m (984 ft)"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "tip height",
+    "object": "324 m (1,063 ft)"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "top floor height",
+    "object": "276 m (906 ft)"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "floor count",
+    "object": "3"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "number of lifts/elevators",
+    "object": "8"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "architect",
+    "object": "Stephen Sauvestre"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "structural engineer",
+    "object": "Maurice Koechlin | Émile Nouguier"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "main contractor",
+    "object": "Compagnie des Etablissements Eiffel"
+  },
+  {
+    "subject": "The Eiffel Tower",
+    "predicate": "website",
+    "object": "toureiffel.paris/en"
+  }
+]

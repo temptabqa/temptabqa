@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "TP.3 Reloaded",
+    "predicate": "is a",
+    "object": "concert"
+  },
+  {
+    "subject": "TP.3 Reloaded",
+    "predicate": "has image",
+    "object": "TP.3 Reloaded - R. Kelly.jpg"
+  },
+  {
+    "subject": "TP.3 Reloaded",
+    "predicate": "is a",
+    "object": "Studio album by R. Kelly"
+  },
+  {
+    "subject": "TP.3 Reloaded",
+    "predicate": "Released",
+    "object": "July 5, 2005"
+  },
+  {
+    "subject": "TP.3 Reloaded",
+    "predicate": "Genre",
+    "object": "R&B | hip hop soul | reggae | reggaeton"
+  },
+  {
+    "subject": "TP.3 Reloaded",
+    "predicate": "Length",
+    "object": "78 | 00"
+  },
+  {
+    "subject": "TP.3 Reloaded",
+    "predicate": "Label",
+    "object": "Jive"
+  },
+  {
+    "subject": "TP.3 Reloaded",
+    "predicate": "Producer",
+    "object": "R. Kelly | Scott Storch | Luny Tunes | Nely"
+  },
+  {
+    "subject": "R. Kelly",
+    "predicate": "has chronology",
+    "object": "Unfinished Business | (2004) | TP.3 Reloaded | (2005) | Double Up | (2007)"
+  },
+  {
+    "subject": "TP-3: Reloaded",
+    "predicate": "has singles",
+    "object": "\"In the Kitchen / Trapped in the Closet (Chapter 1)\" | Released: April 5, 2005 | \"Playa's Only\" | Released: June 14, 2005 | \"Slow Wind\" | Released: December 8, 2005 | \"Burn It Up\" | Released: April 2006"
+  }
+]

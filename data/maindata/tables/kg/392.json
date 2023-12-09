@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Tom Cruise",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Born",
+    "object": "Thomas Cruise Mapother IV |  ( | 1962-07-03 | ) | July 3, 1962 |  (age 59) | Syracuse, New York, U.S."
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Occupation",
+    "object": "Actor | producer"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Years active",
+    "object": "1981-present"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Works",
+    "object": "Full list"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Spouse(s)",
+    "object": "Mimi Rogers | ( | married |  1987; | divorced |  1990) | Nicole Kidman | ( | married |  1990; | divorced |  2001) | Katie Holmes | ( | married |  2006; | divorced |  2012)"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Children",
+    "object": "3"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Relatives",
+    "object": "William Mapother (cousin)"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Awards",
+    "object": "Full list"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Website",
+    "object": "tomcruise | .com"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Image",
+    "object": "Tom Cruise by Gage Skidmore 2.jpg | Cruise at the 2019 San Diego Comic-Con"
+  },
+  {
+    "subject": "Tom Cruise",
+    "predicate": "Signature",
+    "object": "Tom Cruise signature.svg"
+  }
+]

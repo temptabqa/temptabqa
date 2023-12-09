@@ -1,0 +1,57 @@
+[
+    {
+        "subject": "AC/DC",
+        "predicate": "isa",
+        "object": "musician"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "description",
+        "object": "Rock band in performance on a well-lit but hazy stage. We see two guitarists, a bassist, a vocalist off to one side, and a drummer in the rear."
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "in 2009 concert",
+        "object": "Brian Johnson, Malcolm Young, Phil Rudd, Angus Young, Cliff Williams"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "origin",
+        "object": "Sydney, New South Wales, Australia"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "genres",
+        "object": "Hard rock, blues rock, rock and roll, heavy metal"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "years active",
+        "object": "1973 (1973) -present"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "labels",
+        "object": "Albert, EMI, Columbia, Epic, Atlantic, Atco, Elektra, East West"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "associated acts",
+        "object": "Marcus Hook Roll Band"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "website",
+        "object": "acdc.com"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "members",
+        "object": "Angus Young, Phil Rudd, Cliff Williams, Brian Johnson, Stevie Young"
+    },
+    {
+        "subject": "AC/DC",
+        "predicate": "past members",
+        "object": "Malcolm Young, Bon Scott, Mark Evans, Simon Wright, Chris Slade, Axl Rose"
+    }
+]

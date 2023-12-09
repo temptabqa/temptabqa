@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "En Garde!",
+    "predicate": "category",
+    "object": "board game"
+  },
+  {
+    "subject": "En Garde!",
+    "predicate": "caption",
+    "object": "En Garde!"
+  },
+  {
+    "subject": "En Garde!",
+    "predicate": "infobox-image",
+    "object": "En Garde cover.jpg | En Garde! | 4th edition cover"
+  },
+  {
+    "subject": "En Garde!",
+    "predicate": "Designers",
+    "object": "Frank Chadwick, Daryl Hany, John Harshman, Loren Wiseman"
+  },
+  {
+    "subject": "En Garde!",
+    "predicate": "Publishers",
+    "object": "Margam Evans Limited"
+  },
+  {
+    "subject": "En Garde!",
+    "predicate": "Publication",
+    "object": "1975 ( | 1st edition | ) | 1977 ( | 2nd edition | ) | 1988 ( | 3rd edition | ) | 2005 ( | 4th edition | )"
+  },
+  {
+    "subject": "En Garde!",
+    "predicate": "Genres",
+    "object": "Historical"
+  },
+  {
+    "subject": "En Garde!",
+    "predicate": "Systems",
+    "object": "Custom"
+  }
+]

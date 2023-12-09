@@ -1,0 +1,73 @@
+[
+  {
+    "subject": {"name": "Gagan Ajit Singh", "category": "hockey"},
+    "predicate": "Personal information",
+    "object": {
+      "Born": "( | 1980-12-09 | ) | 9 December 1980 | (age 41) | Firozpur, Punjab, India",
+      "Playing position": "Forward"
+    }
+  },
+  {
+    "subject": {"name": "Gagan Ajit Singh", "category": "hockey"},
+    "predicate": "Senior career",
+    "object": {
+      "Years": "Team",
+      "": "Hoofdklasse",
+      "2005-2007": "HC Klein Zwitserland",
+      "2012": "Sher-e-Punjab"
+    }
+  },
+  {
+    "subject": {"name": "Gagan Ajit Singh", "category": "hockey"},
+    "predicate": "National team",
+    "object": {
+      "National team": [
+        "Years | Team | Apps | (Gls)",
+        "-2001 | India U21",
+        "1997-2007 | India | 200+ | (100+)"
+      ]
+    }
+  },
+  {
+    "subject": {"name": "Gagan Ajit Singh", "category": "hockey"},
+    "predicate": "Representing | India",
+    "object": {}
+  },
+  {
+    "subject": {"name": "Gagan Ajit Singh", "category": "hockey"},
+    "predicate": "Asian Games",
+    "object": {
+      "Asian Games": [
+        "Silver medal - second place | 2002 Busan | Team"
+      ]
+    }
+  },
+  {
+    "subject": {"name": "Gagan Ajit Singh", "category": "hockey"},
+    "predicate": "Asia Cup",
+    "object": {
+      "Asia Cup": [
+        "Gold medal - first place | 2003 Kuala Lumpur | Team",
+        "Bronze medal - third place | 1999 Kula Lumpur | Team"
+      ]
+    }
+  },
+  {
+    "subject": {"name": "Gagan Ajit Singh", "category": "hockey"},
+    "predicate": "Champions Challenge",
+    "object": {
+      "Champions Challenge": [
+        "Gold medal - first place | 2001 Kuala Lumpur | Team"
+      ]
+    }
+  },
+  {
+    "subject": {"name": "Gagan Ajit Singh", "category": "hockey"},
+    "predicate": "Junior World Cup",
+    "object": {
+      "Junior World Cup": [
+        "Gold medal - first place | 2001 Hobart | Team"
+      ]
+    }
+  }
+]

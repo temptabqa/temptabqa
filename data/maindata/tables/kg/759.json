@@ -1,0 +1,83 @@
+[
+  {
+    "subject": "Alexander III",
+    "predicate": "category",
+    "object": "emperor"
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "titles",
+    "object": "Basileus | of Macedon | Hegemon of the Hellenic League | Strategos | Autokrator | of Greece | Shahanshah | of Persia"
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "image",
+    "object": "Alexander the Great mosaic.jpg | Alexander III riding Bucephalus on a Roman mosaic"
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "Pharaoh of Egypt",
+    "object": {
+      "Reign": "332-323 BC",
+      "Predecessor": "Darius III"
+    }
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "Prenomen (Praenomen)",
+    "object": "M23 | L2 | C2 | C12 | stp | n | N36 | M23 | L2 | mr | C12 | C2 | stp | n"
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "Nomen",
+    "object": "Ꜥlwksjndrs | Aluksindres | Aléxandros | G39 | N5 | A | rw | k | z | i | n | d | r | z"
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "Horus name",
+    "object": "G5 | S | HqA | q | n | nw | D40 | G5 | HqA | q | n | nw | D40 | t | k | n | D54 | N25 | N25 | N25 | G5 | HqA | q | HqA | HqA | q | N33 | nw | N33 | N17 | N34 | r | f | G5 | T | mA | a"
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "Nebty name",
+    "object": "mꜢj wr-pḥty jṯ ḏww tꜢw ḫꜢswt | Mai werpehty itj dju tau khasut | The lion, great of might, who takes possession | of mountains, lands, and deserts | G16 | E23 | wr | r | F9 | F9 | V15 | N25 | N25 | N33 | N17 | N17 | N33 | N25 | N25 | N33"
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "Golden Horus",
+    "object": "kꜢ (nḫt) ḫwj bꜢḳ(t) ḥḳꜢ wꜢḏ(-wr) šnw n jtn | Ka (nakht) khui baq(et) heqa wadj(wer) shenu en Aten | The (strong) bull who protects Egypt, | the ruler of the sea and of what the sun encircles | G8 | E1 | n | i | w | x | D40 | q | t | b | D10 | HqA | M14 | N35A | V9 | Z1 | i | t | n | HASH"
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "King of Macedon",
+    "object": {
+      "Reign": "336-323 BC",
+      "Predecessor": "Philip II",
+      "Successor": "Alexander IV | Philip III"
+    }
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "Lord of Asia",
+    "object": {
+      "Reign": "331-323 BC",
+      "Predecessor": "None",
+      "Successor": "Alexander IV | Philip III",
+      "Born": "20 or 21 July 356 BC | Pella, Macedon (present-day Greece)",
+      "Died": "10 or 11 June 323 BC (aged 32) | Babylon, Mesopotamia (present-day Iraq)",
+      "Spouse": "Roxana | Stateira | Parysatis",
+      "Issue": "Alexander IV | Heracles ( | alleged illegitimate son | )"
+    }
+  },
+  {
+    "subject": "Alexander III",
+    "predicate": "Names",
+    "object": {
+      "Dynasty": "Argead",
+      "Father": "Philip II of Macedon",
+      "Mother": "Olympias of Epirus",
+      "Religion": "Ancient Greek religion",
+      "Names": ["Alexander III of Macedon | Aléxandros | ( | Ἀλέξανδρος | )"]
+    }
+  }
+]

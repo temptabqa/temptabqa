@@ -1,0 +1,142 @@
+[
+{
+  "subject": "office holder",
+  "predicate": "category",
+  "object": "Morgan Bulkeley"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "image",
+  "object": "Morgan G Bulkeley.jpg"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "position",
+  "object": "54th Governor of Connecticut"
+},
+{
+  "subject": "54th Governor of Connecticut",
+  "predicate": "In office",
+  "object": "January 10, 1889 - January 4, 1893"
+},
+{
+  "subject": "January 10, 1889 - January 4, 1893",
+  "predicate": "Lieutenant",
+  "object": "Samuel E. Merwin"
+},
+{
+  "subject": "January 10, 1889 - January 4, 1893",
+  "predicate": "Preceded by",
+  "object": "Phineas C. Lounsbury"
+},
+{
+  "subject": "January 10, 1889 - January 4, 1893",
+  "predicate": "Succeeded by",
+  "object": "Luzon B. Morris"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "position",
+  "object": "United States Senator from Connecticut"
+},
+{
+  "subject": "United States Senator from Connecticut",
+  "predicate": "In office",
+  "object": "March 4, 1905 - March 3, 1911"
+},
+{
+  "subject": "March 4, 1905 - March 3, 1911",
+  "predicate": "Preceded by",
+  "object": "Joseph R. Hawley"
+},
+{
+  "subject": "March 4, 1905 - March 3, 1911",
+  "predicate": "Succeeded by",
+  "object": "George P. McLean"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "position",
+  "object": "25th Mayor of Hartford"
+},
+{
+  "subject": "25th Mayor of Hartford",
+  "predicate": "In office",
+  "object": "April 5, 1880 - April 2, 1888"
+},
+{
+  "subject": "April 5, 1880 - April 2, 1888",
+  "predicate": "Preceded by",
+  "object": "George G. Sumner"
+},
+{
+  "subject": "April 5, 1880 - April 2, 1888",
+  "predicate": "Succeeded by",
+  "object": "John G. Root"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Born",
+  "object": "December 26, 1837, East Haddam, Connecticut"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Died",
+  "object": "November 6, 1922, Hartford, Connecticut"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Political party",
+  "object": "Republican"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Spouse(s)",
+  "object": "Fannie Bulkeley"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Allegiance",
+  "object": "United States"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Branch/service",
+  "object": "U.S. Army (Union Army)"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Rank",
+  "object": "Private"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Unit",
+  "object": "13th New York Volunteers"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Battles/wars",
+  "object": "American Civil War"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "position",
+  "object": "Baseball player"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Member of",
+  "object": "National"
+},
+{
+  "subject": "Morgan Bulkeley",
+  "predicate": "Baseball Hall of Fame",
+  "object": "1937"
+},
+{
+  "subject": "1937",
+  "predicate": "Election method",
+  "object": "Veterans Committee"
+}
+]

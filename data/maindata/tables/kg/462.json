@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Gobela",
+    "predicate": "hasImage",
+    "object": "Estación de Gobela 1.jpg"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "hasDescription",
+    "object": "View of the station"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "location",
+    "object": "53-55 Negubide St. | 48930 Getxo | Spain"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "coordinates",
+    "object": "43°19′59″N | 3°00′26″W | / | 43.33306°N 3.00722°W | / | 43.33306; -3.00722"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "ownedBy",
+    "object": "Biscay Transport Consortium | [es] | Euskal Trenbide Sarea"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "line",
+    "object": "Metro de Bilbao L1.svg | Line 1"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "platforms",
+    "object": "1 island platform"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "tracks",
+    "object": "2"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "structureType",
+    "object": "At-grade"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "platformLevels",
+    "object": "1"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "parking",
+    "object": "No"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "disabledAccess",
+    "object": "Yes"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "fareZone",
+    "object": "Zone 2"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "opened",
+    "object": "15 September 1893"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "rebuilt",
+    "object": "24 June 1996"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "passengers",
+    "object": "574,708"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "precedingStation",
+    "object": "Neguri"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "followingStation",
+    "object": "Areeta"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "directionFromPreceding",
+    "object": "towards Plentzia"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "directionFromFollowing",
+    "object": "towards Etxebarri"
+  },
+  {
+    "subject": "Gobela",
+    "predicate": "belongsTo",
+    "object": "Metro Bilbao"
+  }
+]

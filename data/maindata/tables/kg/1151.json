@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "category",
+    "object": "game"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "caption",
+    "object": "Heroes Unlimited"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "infobox-image",
+    "object": "Heroes Unlimited 2nd ed RPG 1998.jpg | Front cover of | Heroes Unlimited, Revised Second Edition | , illustrated by Jim Steranko"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "Designers",
+    "object": "Kevin Siembieda, Carmen Bellaire, Wayne Breaux Jr., Bill Coffin, Kevin Long, et al."
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "Publishers",
+    "object": "Palladium Books"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "Publication",
+    "object": "August 1984 |  ( | 1984-08 | ) | (1st edition) | April 1987 |  ( | 1987-04 | ) | (Rev. edition) | January 1993 |  ( | 1993-01 | ) | (rev. 9th print) | March 1998 |  ( | 1998-03 | ) | (2nd edition)"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "Years active",
+    "object": "1984-present"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "Genres",
+    "object": "Superhero"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "Languages",
+    "object": "English"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "Systems",
+    "object": "Megaversal"
+  },
+  {
+    "subject": "Heroes Unlimited",
+    "predicate": "Website",
+    "object": "palladiumbooks | .com"
+  }
+]

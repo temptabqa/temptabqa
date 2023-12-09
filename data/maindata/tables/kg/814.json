@@ -1,0 +1,111 @@
+[
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "category",
+    "object": "skier"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "Country",
+    "object": "Norway"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "Full name",
+    "object": "Vegard Ulvang"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "Born",
+    "object": "( | 1963-10-10 | ) | 10 October 1963 | (age 58) | Kirkenes, Norway"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "Spouse(s)",
+    "object": "Grete Ingeborg Nykkelmo"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "Ski club",
+    "object": "Kirkenes & Omegn Skiklubb"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "Image",
+    "object": "Vegard Ulvang Albertville 1992 (NOR).jpg | Ulvang during the 1992 Winter Olympics in Albertville, France"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Cup career/Seasons",
+    "object": "14 - (1984-1997)"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Cup career/Individual wins",
+    "object": "9"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Cup career/Team wins",
+    "object": "9"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Cup career/Individual podiums",
+    "object": "34"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Cup career/Team podiums",
+    "object": "23"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Cup career/Individual starts",
+    "object": "120"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Cup career/Team starts",
+    "object": "29"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Cup career/Overall titles",
+    "object": "1 - (1990)"
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "Olympic Games",
+    "object": [
+        "Gold medal - first place | 1992 Albertville | 10 km classical",
+        "Gold medal - first place | 1992 Albertville | 30 km classical",
+        "Gold medal - first place | 1992 Albertville | 4 × 10 km relay",
+        "Silver medal - second place | 1992 Albertville | 10 km + 15 km | combined pursuit",
+        "Silver medal - second place | 1994 Lillehammer | 4 × 10 km relay",
+        "Bronze medal - third place | 1988 Calgary | 30 km classical"
+      ]
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "World Championships",
+    "object": [
+        "Gold medal - first place | 1991 Val di Fiemme | 4 × 10 km relay",
+        "Gold medal - first place | 1993 Falun | 4 × 10 km relay",
+        "Silver medal - second place | 1989 Lahti | 30 km classical",
+        "Silver medal - second place | 1993 Falun | 30 km classical",
+        "Bronze medal - third place | 1987 Oberstdorf | 4 × 10 km relay",
+        "Bronze medal - third place | 1989 Lahti | 15 km classical",
+        "Bronze medal - third place | 1991 Val di Fiemme | 30 km classical",
+        "Bronze medal - third place | 1993 Falun | 10 km classical"
+      ]
+  },
+  {
+    "subject": "Vegard Ulvang",
+    "predicate": "Junior World Championships",
+    "object": [
+        "Silver medal - second place | 1982 Murau | 3 × 5 km relay",
+        "Silver medal - second place | 1983 Kuopio | 3 × 5 km relay"
+      ]
+  }
+]

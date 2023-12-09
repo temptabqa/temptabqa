@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Firefly",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Role",
+    "object": "Carrier-borne fighter | Strike fighter | Aerial reconnaissance | Type of aircraft"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Manufacturer",
+    "object": "Fairey Aviation Company, Ltd."
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "First flight",
+    "object": "22 December 1941"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Introduction",
+    "object": "March 1943"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Retired",
+    "object": "1956 (Royal Navy)"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Status",
+    "object": "Retired from military service"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Primary users",
+    "object": "Royal Navy | Royal Australian Navy | Royal Canadian Navy | Royal Netherlands Navy"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Produced",
+    "object": "1941-1955"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Number built",
+    "object": "1,702"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Firefly_image",
+    "object": "Fairey Firefly FR.1 Z2030 Ringway 04.46 edited-2.jpg"
+  },
+  {
+    "subject": "Firefly",
+    "predicate": "Firefly_description",
+    "object": "Operational FAA Fairey Firefly FR.1 wearing late World War II camouflage"
+  }
+]

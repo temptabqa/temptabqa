@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "Earthdawn",
+    "predicate": "category",
+    "object": "board game"
+  },
+  {
+    "subject": "Earthdawn",
+    "predicate": "caption",
+    "object": "Earthdawn"
+  },
+  {
+    "subject": "Earthdawn",
+    "predicate": "Designers",
+    "object": "Greg Gorden"
+  },
+  {
+    "subject": "Earthdawn",
+    "predicate": "Publishers",
+    "object": "FASA | (First Edition) | Living Room Games | (Second Edition) | RedBrick | (Classic, Third, Revised Third Editions) | FASA | (Fourth Edition) | Vagrant Workshop | (Age of Legend Edition)"
+  },
+  {
+    "subject": "Earthdawn",
+    "predicate": "Publication",
+    "object": "1993 | (First Edition) | 2001 | (Second Edition) | 2005 | (Classic Edition) | 2009 | (Third Edition) | 2012 | (Revised Third Edition) | 2015 | (Fourth Edition) | 2016 | (Age of Legend Edition)"
+  },
+  {
+    "subject": "Earthdawn",
+    "predicate": "Genres",
+    "object": "Fantasy"
+  },
+  {
+    "subject": "Earthdawn",
+    "predicate": "Systems",
+    "object": "Step System | Freeform Universal"
+  }
+]

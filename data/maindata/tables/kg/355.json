@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Ted Kaczynski", 
+    "predicate": "category", 
+    "object": "person"
+  }, 
+  {
+    "subject": "Ted Kaczynski", 
+    "predicate": "Born",
+    "object": "Theodore John Kaczynski | ( | 1942-05-22 | ) | May 22, 1942 | (age 79) | Chicago, Illinois, U.S."
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Other names",
+    "object": "Unabomber, FC"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Occupation",
+    "object": "Mathematics professor"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Notable work",
+    "object": "Industrial Society and Its Future | (1995)"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Criminal status",
+    "object": "Incarcerated at FMC Butner, #04475-046"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Relatives",
+    "object": "David Kaczynski (brother)"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Conviction(s)",
+    "object": "10 counts of transportation, mailing, and use of bombs; three counts of murder"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Criminal penalty",
+    "object": "8 consecutive life sentences without the possibility of parole"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Image",
+    "object": "Theodore Kaczynski.jpg | Kaczynski after his arrest in 1996"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Span of crimes",
+    "object": "1978-1995"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Killed",
+    "object": "3"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Injured",
+    "object": "23"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Date apprehended",
+    "object": "April 3, 1996"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Education",
+    "object": "Harvard University (BA) | University of Michigan (MA, PhD)"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Scientific career - Fields",
+    "object": "Complex analysis"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Scientific career - Institutions",
+    "object": "University of California, Berkeley"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Scientific career - Thesis",
+    "object": "Boundary Functions | (1967)"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Scientific career - Doctoral advisor",
+    "object": "Allen Shields"
+  },
+  {
+    "subject": "Ted Kaczynski",
+    "predicate": "Signature",
+    "object": "Ted Kacsynski's Signature.png"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "subject": "Christl Cranz",
+    "predicate": "category",
+    "object": "skier"
+  },
+  {
+    "subject": "Christl Cranz",
+    "predicate": "Born",
+    "object": "1 July 1914, Brussels, Belgium"
+  },
+  {
+    "subject": "Christl Cranz",
+    "predicate": "Died",
+    "object": "28 September 2004, Oberstaufen-Steibis, Germany"
+  },
+  {
+    "subject": "Christl Cranz",
+    "predicate": "image",
+    "object": "Christl Cranz 1936.jpg, Cranz at the 1936 Olympics"
+  },
+  {
+    "subject": "Christl Cranz",
+    "predicate": "Representing",
+    "object": "Germany"
+  },
+  {
+    "subject": "Christl Cranz",
+    "predicate": "sport",
+    "object": "Women's Alpine skiing"
+  },
+  {
+    "subject": "Christl Cranz",
+    "predicate": "Winter Olympics achievement",
+    "object": "Gold medal - first place, 1936 Garmisch-Parten., Combined"
+  },
+  {
+    "subject": "Christl Cranz",
+    "predicate": "World Championships achievements",
+    "object": [
+      "Gold medal - first place, 1934 St. Moritz, Slalom",
+      "Gold medal - first place, 1934 St. Moritz, Combined",
+      "Gold medal - first place, 1935 Mürren, Downhill",
+      "Gold medal - first place, 1935 Mürren, Combined",
+      "Gold medal - first place, 1937 Chamonix, Downhill",
+      "Gold medal - first place, 1937 Chamonix, Slalom",
+      "Gold medal - first place, 1937 Chamonix, Combined",
+      "Gold medal - first place, 1938 Engelberg, Slalom",
+      "Gold medal - first place, 1938 Engelberg, Combined",
+      "Gold medal - first place, 1939 Zakopane, Downhill",
+      "Gold medal - first place, 1939 Zakopane, Slalom",
+      "Gold medal - first place, 1939 Zakopane, Combined",
+      "Silver medal - second place, 1934 St. Moritz, Downhill",
+      "Silver medal - second place, 1935 Mürren, Slalom",
+      "Silver medal - second place, 1938 Engelberg, Downhill"
+    ]
+  }
+]

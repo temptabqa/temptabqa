@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Senate of the Dominican Republic | Senado de la República Dominicana",
+    "predicate": "has",
+    "object": "Coat of arms or logo | Seal of the Dominican Republic Senate"
+  },
+  {
+    "subject": "Senate of the Dominican Republic | Senado de la República Dominicana",
+    "predicate": "has",
+    "object": "Flag of the Dominican Republic.svg | Flag of the Dominican Republic Senate"
+  },
+  {
+    "subject": "Type",
+    "predicate": "is",
+    "object": "Upper house | of the Congress of the Dominican Republic"
+  },
+  {
+    "subject": "Type",
+    "predicate": "has",
+    "object": "Term limits: None"
+  },
+  {
+    "subject": "History",
+    "predicate": "Founded",
+    "object": "1844 and 1908"
+  },
+  {
+    "subject": "History",
+    "predicate": "New session started",
+    "object": "August 16, 2020 | ( | 2020-08-16 | )"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "President",
+    "object": "Eduardo Estrella, DxC | since August 16, 2020"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Vice-President",
+    "object": "Santiago Zorrilla, PRM | since August 16, 2020"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Majority Leader",
+    "object": "Faride Raful, PRM | since August 16, 2020"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Minority Leader",
+    "object": "Dionis Sánchez, FP | since August 16, 2020"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Seats",
+    "object": "32"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Political groups",
+    "object": "PRM and allies | (18) | PRM: 17 seats | DXC: 1 seat | Opposition | (14) | FP: 9 seats | PLD: 3 seats | PRSC: 2 seats"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Length of term",
+    "object": "4 years"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "has",
+    "object": "Senado de República Dominicana 2020-2024.svg"
+  },
+  {
+    "subject": "Elections",
+    "predicate": "Voting system",
+    "object": "First past the post mixed of a plurality and a transferable vote from the given to any same party deputies candidates in the Province."
+  },
+  {
+    "subject": "Elections",
+    "predicate": "Last election",
+    "object": "July 5, 2020"
+  },
+  {
+    "subject": "Elections",
+    "predicate": "Next election",
+    "object": "May 19, 2024"
+  },
+  {
+    "subject": "Meeting place",
+    "predicate": "has",
+    "object": "Hemiciclo del Senado.png"
+  },
+  {
+    "subject": "Meeting place",
+    "predicate": "has",
+    "object": "Hemicycle of the Senate"
+  },
+  {
+    "subject": "Meeting place",
+    "predicate": "has",
+    "object": "Palacio del Congreso Nacional Santo Domingo.jpg"
+  },
+  {
+    "subject": "Meeting place",
+    "predicate": "has",
+    "object": "Congress Palace, Santo Domingo"
+  },
+  {
+    "subject": "Website",
+    "predicate": "has",
+    "object": "http://www.senado.gob.do/senado/"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Benny Bengough",
+    "predicate": "category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "image",
+    "object": "BennyBengough.jpg"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "position",
+    "object": "Catcher"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "born",
+    "object": "July 27, 1898 in Niagara Falls, New York"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "died",
+    "object": "December 22, 1968 in Philadelphia, Pennsylvania"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "batted",
+    "object": "Right"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "MLB debut",
+    "object": "May 18, 1923, for the New York Yankees"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "last MLB appearance",
+    "object": "September 24, 1932, for the St. Louis Browns"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "batting average",
+    "object": ".255"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "hits",
+    "object": "287"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "runs batted in",
+    "object": "108"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "teams",
+    "object": "New York Yankees (1923-1930) | St. Louis Browns (1931-1932)"
+  },
+  {
+    "subject": "Benny Bengough",
+    "predicate": "career highlights and awards",
+    "object": "3× World Series champion (1923, 1927, 1928)"
+  }
+]

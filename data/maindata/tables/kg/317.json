@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Arthur Leonard Schawlow",
+    "predicate": "Born",
+    "object": "May 5, 1921 in Mount Vernon, New York, U.S."
+  },
+  {
+    "subject": "Arthur Leonard Schawlow",
+    "predicate": "Died",
+    "object": "April 28, 1999 in Palo Alto, California, U.S."
+  },
+  {
+    "subject": "Arthur Leonard Schawlow",
+    "predicate": "Nationality",
+    "object": "United States"
+  },
+  {
+    "subject": "Arthur Leonard Schawlow",
+    "predicate": "Alma mater",
+    "object": "University of Toronto"
+  },
+  {
+    "subject": "Arthur Leonard Schawlow",
+    "predicate": "Known for",
+    "object": "Laser spectroscopy, Laser cooling, Schawlow-Townes approximation"
+  },
+  {
+    "subject": "Arthur Leonard Schawlow",
+    "predicate": "Spouse(s)",
+    "object": "Aurelia Townes (m. 1951; 3 children)"
+  },
+  {
+    "subject": "Arthur Leonard Schawlow",
+    "predicate": "Awards",
+    "object": "Stuart Ballantine Medal (1962), Marconi Prize (1977), Nobel Prize for Physics (1981), National Medal of Science (1991)"
+  },
+  {
+    "subject": "Arthur Leonard Schawlow",
+    "predicate": "category",
+    "object": "nobel"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Fields",
+    "object": "Physics"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Institutions",
+    "object": "Bell Labs, Columbia University, Stanford University"
+  },
+  {
+    "subject": "Scientific career",
+    "predicate": "Doctoral advisor",
+    "object": "Malcolm Crawford"
+  }
+]

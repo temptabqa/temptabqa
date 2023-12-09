@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Supreme Administrative Court",
+    "predicate": "category",
+    "object": "court"
+  },
+  {
+    "subject": "Supreme Administrative Court",
+    "predicate": "Established",
+    "object": "1876"
+  },
+  {
+    "subject": "Supreme Administrative Court",
+    "predicate": "Location",
+    "object": "Judenplatz 11, Vienna"
+  },
+  {
+    "subject": "Supreme Administrative Court",
+    "predicate": "Website",
+    "object": "vwgh.gv.at (in English)"
+  },
+  {
+    "subject": "Supreme Administrative Court",
+    "predicate": "Label",
+    "object": "Verwaltungsgerichtshof"
+  },
+  {
+    "subject": "Supreme Administrative Court",
+    "predicate": "Image",
+    "object": "Wien - ehemalige Böhmische Hofkanzlei.JPG"
+  },
+  {
+    "subject": "President",
+    "predicate": "Currently",
+    "object": "Rudolf Thienel"
+  },
+  {
+    "subject": "President",
+    "predicate": "Since",
+    "object": "1 January 2014"
+  },
+  {
+    "subject": "Vice President",
+    "predicate": "Currently",
+    "object": "Anna Sporrer"
+  },
+  {
+    "subject": "Vice President",
+    "predicate": "Since",
+    "object": "January 2014"
+  }
+]

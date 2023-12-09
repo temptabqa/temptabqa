@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "William Shakespeare",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Born",
+    "object": "Stratford-upon-Avon, England"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Baptised",
+    "object": "26 April 1564"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Died",
+    "object": "23 April 1616 (aged 52) | Stratford-upon-Avon, England"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Resting place",
+    "object": "Church of the Holy Trinity, Stratford-upon-Avon"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Occupation",
+    "object": "Playwright | poet | actor"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Years active",
+    "object": "circa |  1585-1613"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Era",
+    "object": "Elizabethan | Jacobean"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Movement",
+    "object": "English Renaissance"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Spouse(s)",
+    "object": "Anne Hathaway | ( | married |  1582)"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Children",
+    "object": "Susanna Hall | Hamnet Shakespeare | Judith Quiney"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "Parents",
+    "object": "John Shakespeare (father) | Mary Arden (mother)"
+  },
+  {
+    "subject": "William Shakespeare",
+    "predicate": "William Shakespeare",
+    "object": "Shakespeare.jpg | The Chandos portrait (held by the National Portrait Gallery, London)"
+  },
+  {
+    "subject": "Signature",
+    "predicate": "Signature",
+    "object": "William Shakespeare Signature.svg"
+  }
+]

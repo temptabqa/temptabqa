@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Michael Phelps",
+    "predicate": "category",
+    "object": "swimming"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Full name",
+    "object": "Michael Fred Phelps II"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Nickname(s)",
+    "object": "The Baltimore Bullet | Flying Fish"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "National team",
+    "object": "United States"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Born",
+    "object": "June 30, 1985 | Baltimore, Maryland, U.S."
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Height",
+    "object": "6 ft 4 in (1.93 m)"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Weight",
+    "object": "194 lb (88 kg)"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Spouse(s)",
+    "object": "Nicole Johnson | married 2016"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Sport",
+    "object": "Swimming"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Strokes",
+    "object": "Butterfly, individual medley, freestyle, backstroke"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Club",
+    "object": "North Baltimore Aquatic Club"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Coach",
+    "object": "Bob Bowman"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Olympic Games",
+    "object": "23 Gold, 3 Silver, 2 Bronze"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "World Championships (LC)",
+    "object": "26 Gold, 6 Silver, 1 Bronze"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "World Championships (SC)",
+    "object": "1 Gold"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Pan Pacific Championships",
+    "object": "16 Gold, 5 Silver"
+  },
+  {
+    "subject": "Michael Phelps",
+    "predicate": "Total race championships",
+    "object": "66 Gold, 14 Silver, 3 Bronze"
+  }
+]

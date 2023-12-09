@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "European theatre",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "European theatre",
+    "predicate": "Date",
+    "object": "1 September 1939 - 11 May 1945 | (5 years, 8 months, 1 week and 3 days)"
+  },
+  {
+    "subject": "European theatre",
+    "predicate": "Location",
+    "object": "Europe and adjoining regions"
+  },
+  {
+    "subject": "European theatre",
+    "predicate": "Result",
+    "object": "Allied victory | Collapse of Nazi Germany | Collapse of Fascist Italy and the following German puppet Italian Social Republic | End of World War II in Europe | Beginning of the Iron Curtain and the Cold War"
+  },
+  {
+    "subject": "European theatre",
+    "predicate": "European theatre",
+    "object": [
+      "Part of World War II",
+      "Hitlermusso2 edit.jpg | Main European Axis leaders, Adolf Hitler and Benito Mussolini in Italy"
+    ]
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Allies | Soviet Union | United States | United Kingdom | France | Free France | Canada | Australia | New Zealand | South Africa | India | Poland | Yugoslavia | DF Yugoslavia | Greece | Belgium | Netherlands | Norway | Brazil | Czechoslovakia | Czechoslovakia | Luxembourg | Former Axis powers | Italy | (from 1943) | Romania | (from 1944) | Bulgaria | (from 1944) | Finland | (from 1944) | Denmark | (1940)",
+    "object": "Axis | Germany | Italy | Hungary | Romania | Bulgaria | Finland | Axis puppet states | Italian Social Republic | Slovakia | Croatia | Vichy France"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Commanders and leaders",
+    "object": [
+      "Soviet Union | Joseph Stalin | United States | Franklin D. Roosevelt | # | United Kingdom | Winston Churchill | France | Édouard Daladier | Free France | Charles de Gaulle | Poland | Władysław Raczkiewicz | Kingdom of Yugoslavia | Dušan Simović | Josip Broz Tito | Kingdom of Greece | Emmanouil Tsouderos | Canada | W.L. Mackenzie King | Czechoslovakia | Edvard Beneš | Belgium | Hubert Pierlot | Netherlands | Pieter Sjoerds Gerbrandy | Norway | Johan Nygaardsvold | Vargas Era | Getúlio Vargas | Luxembourg | Pierre Dupong | Kingdom of Italy | Pietro Badoglio | Kingdom of Romania | Michael I | Kimon Georgiev | Finland | C.G.E. Mannerheim | Denmark | Christian X | Nazi Germany | Adolf Hitler | † | Fascist Italy (1922-1943) | Benito Mussolini | Executed | Kingdom of Romania | Ion Antonescu | Kingdom of Hungary (1920-1946) | Miklós Horthy | Kingdom of Bulgaria | Boris III # | Slovak Republic (1939-1945) | Jozef Tiso | Independent State of Croatia | Ante Pavelić | Finland | Risto Ryti | Philippe Pétain"
+    ]
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Strength",
+    "object": [
+      "18,950,000+ troops (total) | Nazi Germany | 18,000,000+ troops (total) | Kingdom of Italy | 2,560,000 troops (total)"
+    ]
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Casualties and losses",
+    "object": [
+      "9,007,590-10,338,576+ killed, 5,778,680+ captured | 5,406,110-5,798,110+ killed, 8,709,840 captured",
+      "19,650,000-25,650,000 civilians killed"
+    ]
+  }
+]

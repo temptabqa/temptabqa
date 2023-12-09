@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "category",
+    "object": "cycling"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "caption",
+    "object": "Jacques Anquetil"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "infobox-image",
+    "object": "Jacques Anquetil 1966.jpg | Anquetil at the 1966 Giro d'Italia"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Full name",
+    "object": "Jacques Anquetil"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Nickname",
+    "object": "Monsieur Chrono | Maître Jacques"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Born",
+    "object": "8 January 1934 | Mont-Saint-Aignan, France"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Died",
+    "object": "18 November 1987 | (1987-11-18) | (aged 53) | Rouen, France"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Height",
+    "object": "1.76 m (5 ft | 9 | + | 1 | ⁄ | 2 |  in)"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Weight",
+    "object": "70 kg (154 lb; 11 st 0 lb)"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Discipline",
+    "object": "Road and track"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Role",
+    "object": "Rider"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Rider type",
+    "object": "All-rounder"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Amateur team",
+    "object": "AC Sottevillais (1950-1952)"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Professional teams",
+    "object": ["La Perle (1953-1955)", "Helyett-Potin-Hutchinson (1956-1958)", "Alcyon-Dunlop (1959-1960)", "Saint-Raphaël-R. Geminiani-Dunlop (1961-1964)", "Ford France-Gitane (1965-1966)", "Bic-Hutchinson (1967-1969)"]
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Major wins",
+    "object": ["Grand Tours | Tour de France | General classification (1957, 1961, 1962, 1963, 1964) | 16 individual stages", "Giro d'Italia | General classification (1960, 1964) | 5 individual stages", "Vuelta a España | General classification (1963) | 1 individual stage", "Paris-Nice (1957, 1961, 1963, 1965, 1966)", "Critérium du Dauphiné Libéré (1963, 1965)", "Critérium National de la Route (1961, 1963, 1965, 1967)", "Volta a Catalunya (1967)", "Tour of the Basque Country (1969)", "Four Days of Dunkirk (1958, 1959)", "Gent-Wevelgem (1964)", "Bordeaux-Paris (1965)", "Liège-Bastogne-Liège (1966)", "Hour record (1956)", "Super Prestige Pernod International (1961, 1963, 1965, 1966)", "Grand Prix des Nations (1953, 1954, 1955, 1956, 1957, 1958, 1961, 1965, 1966)"]
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Representing",
+    "object": "France"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "Men's road bicycle racing",
+    "object": "Olympic Games | Bronze medal - third place | 1952 Helsinki | Team time trial"
+  },
+  {
+    "subject": "Jacques Anquetil",
+    "predicate": "World Championships",
+    "object": "Silver medal - second place | 1966 Nürburgring | Road race"
+  }
+]

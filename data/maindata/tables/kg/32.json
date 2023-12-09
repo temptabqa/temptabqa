@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "Russian Empire",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "existence (years)",
+    "object": "1721-1917"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "flag",
+    "object": "Flag of Imperial Russia"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "coat of arms",
+    "object": "Coat of arms of Imperial Russia (1883-1917)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "motto",
+    "object": "Съ нами Богъ! | S nami Bog! | (\"God is with us!\")"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "anthem",
+    "object": "Гром победы, раздавайся! | Grom pobedy, razdavaysia! | (\"Let the Thunder of Victory Rumble!\") (unofficial); Коль славен наш Господь в Сионе | Kol\' slaven nash Gospod\' v Sione | (\"How Glorious Is Our Lord in Zion\") (unofficial); Молитва русских | Molitva russkikh | (\"The Prayer of Russians\"); Боже, Царя храни! | Bozhe Tsarya khrani! | (\"God Save the Tsar!\")"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "capital",
+    "object": "Saint Petersburg | (1721-1728; 1730-1917) | Moscow | (1728-1730)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "largest city",
+    "object": "Saint Petersburg"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "official languages",
+    "object": "Russian"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "recognised languages",
+    "object": "Polish, German (in Baltic provinces), Finnish, Swedish, Ukrainian, Chinese (in Dalian)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "religion",
+    "object": "Majority - 71.10% Orthodox (official), Minorities - 11.07% Muslim, 9.16% Catholic, 4.16% Jewish, 3.00% Protestant, 0.94% Armenian, 0.56% other"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "government",
+    "object": "Unitary absolute monarchy | (1721-1906) | Unitary parliamentary semi-constitutional monarchy | (1906-1917)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "emperor (first)",
+    "object": "Peter I (1721-1725)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "emperor (last)",
+    "object": "Nicholas II (1894-1917)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "head of government (first)",
+    "object": "Nikolai Rumyantsev (1810-1812)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "head of government (last)",
+    "object": "Nikolai Golitsyn (1917)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "legislature",
+    "object": "Governing Senate"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "upper house",
+    "object": "State Council (1810-1917)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "lower house",
+    "object": "State Duma (1905-1917)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "history",
+    "object": "Treaty of Nystad (1721), Proclaimed (1721), Table of Ranks (1722), Decembrist revolt (1825), Emancipation reform (1861), Selling of Alaska (1867), 1905 Revolution (1905-1907), October Manifesto (1905), Constitution adopted (1906), February Revolution (1917), Republic proclaimed (1917)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "area",
+    "object": "22,800,000 km2 (8,800,000 sq mi) (3rd[d])"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "population",
+    "object": "164,000,000 (1914 estimate, 3rd); 125,640,021 (1897)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "GDP (PPP)",
+    "object": "1900-1917 estimate, Total: 106.299 billion (6th)"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "currency",
+    "object": "Russian ruble"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "preceded by",
+    "object": "Tsardom of Russia"
+  },
+  {
+    "subject": "Russian Empire",
+    "predicate": "succeeded by",
+    "object": "Provisional Government, Russian Republic"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Confessions of a Dangerous Mind",
+    "predicate": "category",
+    "object": "album"
+  },
+  {
+    "subject": "Confessions of a Dangerous Mind",
+    "predicate": "album cover",
+    "object": "Confessions of a Dangerous Mind album cover.jpg"
+  },
+  {
+    "subject": "Confessions of a Dangerous Mind",
+    "predicate": "artist",
+    "object": "Logic"
+  },
+  {
+    "subject": "Confessions of a Dangerous Mind",
+    "predicate": "Released",
+    "object": "May 10, 2019"
+  },
+  {
+    "subject": "Confessions of a Dangerous Mind",
+    "predicate": "Genre",
+    "object": "Hip hop"
+  },
+  {
+    "subject": "Confessions of a Dangerous Mind",
+    "predicate": "Length",
+    "object": "55:25"
+  },
+  {
+    "subject": "Confessions of a Dangerous Mind",
+    "predicate": "Label",
+    "object": "Def Jam | Visionary"
+  },
+  {
+    "subject": "Confessions of a Dangerous Mind",
+    "predicate": "Producer",
+    "object": "6ix (also exec.) | AG | Andre Hotbox | Bregma | Cubeatz | DJ Khalil | Dreamlife | Frank Dukes | G Koop | Haze | Illmind | J.LBS | Kajo | Keanu Beats | Logic | Shroom | STACKTRACE | Tee-WaTT | Timmy Holiday"
+  },
+  {
+    "subject": "Logic chronology",
+    "predicate": "Supermarket (2019)",
+    "object": "Confessions of a Dangerous Mind (2019)"
+  },
+  {
+    "subject": "Logic chronology",
+    "predicate": "Confessions of a Dangerous Mind (2019)",
+    "object": "No Pressure (2020)"
+  },
+  {
+    "subject": "Singles from Confessions of a Dangerous Mind",
+    "predicate": "Keanu Reeves",
+    "object": "Released: January 18, 2019"
+  },
+  {
+    "subject": "Singles from Confessions of a Dangerous Mind",
+    "predicate": "Confessions of a Dangerous Mind",
+    "object": "Released: March 22, 2019"
+  },
+  {
+    "subject": "Singles from Confessions of a Dangerous Mind",
+    "predicate": "Homicide",
+    "object": "Released: May 3, 2019"
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "subject": "Cyberpunk",
+    "predicate": "category",
+    "object": "game"
+  },
+  {
+    "subject": "Cyberpunk",
+    "predicate": "caption",
+    "object": "Cyberpunk"
+  },
+  {
+    "subject": "Cyberpunk",
+    "predicate": "Designers",
+    "object": "Mike Pondsmith"
+  },
+  {
+    "subject": "Cyberpunk",
+    "predicate": "Publishers",
+    "object": "R. Talsorian Games"
+  },
+  {
+    "subject": "Cyberpunk",
+    "predicate": "Publication",
+    "object": "1988 (First edition) | 1990 ( | Cyberpunk 2020 | ) | 2005 ( | Cyberpunk V3.0 | ) | 2020 ( | Cyberpunk Red | )"
+  },
+  {
+    "subject": "Cyberpunk",
+    "predicate": "Genres",
+    "object": "Science fiction role-playing game, Cyberpunk"
+  },
+  {
+    "subject": "Cyberpunk",
+    "predicate": "Systems",
+    "object": "Interlock"
+  },
+  {
+    "subject": "Cyberpunk",
+    "predicate": "Website",
+    "object": "rtalsoriangames.com"
+  },
+  {
+    "subject": "Cyberpunk",
+    "predicate": "The Roleplaying Game of the Dark Future",
+    "object": [
+      "Cyberpunk2020.jpg | Cyberpunk 2020 version 2.00 | cover"
+    ]
+  }
+]

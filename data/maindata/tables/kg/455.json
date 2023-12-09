@@ -1,0 +1,242 @@
+[
+  {
+    "subject": "Pioneer 6",
+    "predicate": "category",
+    "object": "space probe"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "category",
+    "object": "space probe"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "category",
+    "object": "space probe"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "category",
+    "object": "space probe"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "mission type",
+    "object": "Interplanetary space"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "mission type",
+    "object": "Interplanetary space"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "mission type",
+    "object": "Interplanetary space"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "mission type",
+    "object": "Interplanetary space"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "operator",
+    "object": "NASA"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "operator",
+    "object": "NASA"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "operator",
+    "object": "NASA"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "operator",
+    "object": "NASA"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "manufacturer",
+    "object": "TRW"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "manufacturer",
+    "object": "TRW"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "manufacturer",
+    "object": "TRW"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "manufacturer",
+    "object": "TRW"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "launch mass",
+    "object": "146 kg"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "launch mass",
+    "object": "138 kg"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "launch mass",
+    "object": "146 kg"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "launch mass",
+    "object": "147 kg"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "power",
+    "object": "79 W"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "power",
+    "object": "79 W"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "power",
+    "object": "79 W"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "power",
+    "object": "79 W"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "launch date",
+    "object": "December 16, 1965, 07:31:00 UTC"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "launch date",
+    "object": "August 17, 1966, 15:20:00 UTC"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "launch date",
+    "object": "December 13, 1967, 14:08:00 UTC"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "launch date",
+    "object": "November 8, 1968, 09:46:00 UTC"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "rocket",
+    "object": "Delta-E"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "rocket",
+    "object": "Delta-E"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "rocket",
+    "object": "Delta-E"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "rocket",
+    "object": "Delta-E"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "launch site",
+    "object": "Cape Canaveral, LC-17A"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "launch site",
+    "object": "Cape Canaveral, LC-17A"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "launch site",
+    "object": "Cape Canaveral, LC-17A"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "launch site",
+    "object": "Cape Canaveral, LC-17A"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "reference system",
+    "object": "Heliocentric"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "reference system",
+    "object": "Heliocentric"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "reference system",
+    "object": "Heliocentric"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "reference system",
+    "object": "Heliocentric"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "perihelion altitude",
+    "object": "between 0.75 to 1 AU"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "perihelion altitude",
+    "object": "between 0.75 to 1 AU"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "perihelion altitude",
+    "object": "between 0.75 to 1 AU"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "perihelion altitude",
+    "object": "between 0.75 to 1 AU"
+  },
+  {
+    "subject": "Pioneer 6",
+    "predicate": "aphelion altitude",
+    "object": "between 0.99 to 1.2 AU"
+  },
+  {
+    "subject": "Pioneer 7",
+    "predicate": "aphelion altitude",
+    "object": "between 0.99 to 1.2 AU"
+  },
+  {
+    "subject": "Pioneer 8",
+    "predicate": "aphelion altitude",
+    "object": "between 0.99 to 1.2 AU"
+  },
+  {
+    "subject": "Pioneer 9",
+    "predicate": "aphelion altitude",
+    "object": "between 0.99 to 1.2 AU"
+  }
+]

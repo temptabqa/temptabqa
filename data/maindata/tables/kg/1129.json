@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Lightning",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "Role",
+    "object": "Interceptor (primary); general purpose fighter | Type of aircraft"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "National origin",
+    "object": "United Kingdom"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "Manufacturer",
+    "object": "English Electric | British Aircraft Corporation"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "First flight",
+    "object": "4 August 1954 (P.1A) | 4 April 1957"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "Introduction",
+    "object": "11 July 1960 (frontline service)"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "Retired",
+    "object": "1988 (RAF)"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "Primary users",
+    "object": "Royal Air Force | Kuwait Air Force | Royal Saudi Air Force"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "Number built",
+    "object": "337 (including prototypes)"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "Lightning",
+    "object": "English Electric Lightning F6, UK - Air Force AN1409778.jpg"
+  },
+  {
+    "subject": "Lightning",
+    "predicate": "Lightning",
+    "object": "Lightning F.6 of RAF Binbrook seen during a \"Priory\" exercise in the 1980s"
+  }
+]

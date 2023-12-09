@@ -1,0 +1,21 @@
+[
+  {"subject": "2016 Ecuador earthquake", "predicate": "category", "object": "earthquake"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "caption", "object": "2016 Ecuador earthquake"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "infobox-image", "object": ".mw-parser-output .locmap .od{position:absolute}.mw-parser-output .locmap .id{position:absolute;line-height:0}.mw-parser-output .locmap .l0{font-size:0;position:absolute}.mw-parser-output .locmap .pv{line-height:110%;position:absolute;text-align:center}.mw-parser-output .locmap .pl{line-height:110%;position:absolute;top:-.75em;text-align:right}.mw-parser-output .locmap .pr{line-height:110%;position:absolute;top:-.75em;text-align:left}.mw-parser-output .locmap .pv>div{display:inline;padding:1px}.mw-parser-output .locmap .pl>div{display:inline;padding:1px;float:right}.mw-parser-output .locmap .pr>div{display:inline;padding:1px;float:left}"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "location", "object": "Ecuador"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "UTC time", "object": "2016-04-16 23:58:36"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "ISC event", "object": "608556966"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "USGS-ANSS", "object": "ComCat"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Local date", "object": "April 16, 2016"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Local time", "object": "18:58:37 ECT (UTC-5)"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Magnitude", "object": "7.8 Mw"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Depth", "object": "20.6 km (12.8 mi)"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Epicenter", "object": "0.371°N 79.940°W"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Type", "object": "Thrust"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Areas affected", "object": "Ecuador, Colombia, Peru"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Maximum intensity", "object": "VIII (Severe)"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Tsunami", "object": "~10 cm"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Foreshocks", "object": "4.8 Mw"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Aftershocks", "object": "1,034 as of 07:50 ECT (12:50 UTC) April 28"},
+  {"subject": "2016 Ecuador earthquake", "predicate": "Casualties", "object": "668 killed, 8 missing and 6,274 severely injured"}
+]

@@ -1,0 +1,409 @@
+[
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"caption": ""
+},
+"object": {
+"phrase": "OSIRIS-REx"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Names": ""
+},
+"object": {
+"phrase": "Origins, Spectral Interpretation, Resource Identification, Security, Regolith Explorer; | New Frontiers 3"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Mission type": ""
+},
+"object": {
+"phrase": "Asteroid sample return"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Operator": ""
+},
+"object": {
+"phrase": "NASA / Lockheed Martin"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"COSPAR ID": ""
+},
+"object": {
+"phrase": "2016-055A | Edit this at Wikidata"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"SATCAT | number": ""
+},
+"object": {
+"phrase": "41757"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Website": ""
+},
+"object": {
+"phrase": "asteroidmission.org"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Mission duration": ""
+},
+"object": {
+"phrase": "7 years (planned) | 505 days at asteroid | 5 years, 9 months, 23 days (elapsed) | 1307 days at asteroid"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Manufacturer": ""
+},
+"object": {
+"phrase": "Lockheed Martin"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Launch mass": ""
+},
+"object": {
+"phrase": "2,110 kg (4,650 lb)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Dry mass": ""
+},
+"object": {
+"phrase": "880 kg (1,940 lb)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Dimensions": ""
+},
+"object": {
+"phrase": "2.44 × 2.44 × 3.15 m (8 ft 0 in × 8 ft 0 in × 10 ft 4 in)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Power": ""
+},
+"object": {
+"phrase": "1226 to 3000 watts"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Launch date": ""
+},
+"object": {
+"phrase": "8 September 2016, 23:05 UTC"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Rocket": ""
+},
+"object": {
+"phrase": "Atlas V 411 (AV-067)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Launch site": ""
+},
+"object": {
+"phrase": "Cape Canaveral, SLC-41"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Contractor": ""
+},
+"object": {
+"phrase": "United Launch Alliance (ULA)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Landing date": ""
+},
+"object": {
+"phrase": "24 September 2023, 15:00 UTC (planned)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Landing site": ""
+},
+"object": {
+"phrase": "Utah Test and Training Range"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Reference system": ""
+},
+"object": {
+"phrase": "Bennu-centric"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Altitude": ""
+},
+"object": {
+"phrase": "0.68-2.1 km (0.42-1.30 mi)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Period": ""
+},
+"object": {
+"phrase": "22-62 hours"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Flyby of Earth": ""
+},
+"object": {
+"phrase": "22 September 2017"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Closest approach": ""
+},
+"object": {
+"phrase": "17,237 km (10,711 mi)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Orbital insertion": ""
+},
+"object": {
+"phrase": "31 December 2018 | (Rendezvous: 3 December 2018)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Orbital departure": ""
+},
+"object": {
+"phrase": "10 May 2021"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Sample mass": ""
+},
+"object": {
+"phrase": "Between 60 g (2.1 oz) and 2,000 g (71 oz)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Landing date": ""
+},
+"object": {
+"phrase": "20 October 2020, 22:13 |  ( | 2022-07-02UTC17:11:02 | ) |  UTC"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Landing site": ""
+},
+"object": {
+"phrase": "\"Nightingale\""
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Flyby of Bennu": ""
+},
+"object": {
+"phrase": "7 April 2021"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Closest approach": ""
+},
+"object": {
+"phrase": "3.5 km (2.2 mi)"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Instrument": ""
+},
+"object": {
+"phrase": "OSIRIS-REx Camera Suite"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Instrument": ""
+},
+"object": {
+"phrase": "OSIRIS-REx Laser Altimeter"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Instrument": ""
+},
+"object": {
+"phrase": "OSIRIS-REx Thermal Emission Spectrometer"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Instrument": ""
+},
+"object": {
+"phrase": "OSIRIS-REx Visible and Infrared Spectrometer"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Instrument": ""
+},
+"object": {
+"phrase": "Regolith X-ray Imaging Spectrometer"
+}
+},
+{
+"subject": {
+"category": "space probe"
+},
+"predicate": {
+"Instrument": ""
+},
+"object": {
+"phrase": "Touch-And-Go Sample Acquisition Mechanism"
+}
+}
+]

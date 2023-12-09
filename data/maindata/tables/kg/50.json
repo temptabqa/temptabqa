@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Roy Emerson",
+    "predicate": "category",
+    "object": "tennis"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Full name",
+    "object": "Roy Stanley Emerson"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Country (sports)",
+    "object": "Australia"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Residence",
+    "object": "Newport Beach, California, U.S."
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Born",
+    "object": "3 November 1936, Blackbutt, Queensland, Australia"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Height",
+    "object": "183 cm (6 ft 0 in)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Turned pro",
+    "object": "1968 (amateur tour from 1953)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Retired",
+    "object": "1983"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Plays",
+    "object": "Right-handed (one-handed backhand)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Int. Tennis HoF",
+    "object": "1982"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Singles Career record",
+    "object": "1397-416 (77.0%)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Singles Career titles",
+    "object": "110 (6 open era titles listed by ATP)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Singles Highest ranking",
+    "object": "No. 1 (1961)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Australian Open Singles",
+    "object": "W (1961, 1963, 1964, 1965, 1966, 1967)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "French Open Singles",
+    "object": "W (1963, 1967)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Wimbledon Singles",
+    "object": "W (1964, 1965)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "US Open Singles",
+    "object": "W (1961, 1964)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Doubles Career record",
+    "object": "204-64"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Australian Open Doubles",
+    "object": "W (1962, 1966, 1969)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "French Open Doubles",
+    "object": "W (1960, 1961, 1962, 1963, 1964, 1965)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Wimbledon Doubles",
+    "object": "W (1959, 1961, 1971)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "US Open Doubles",
+    "object": "W (1959, 1960, 1965, 1966)"
+  },
+  {
+    "subject": "Roy Emerson",
+    "predicate": "Davis Cup",
+    "object": "W (1959, 1960, 1961, 1962, 1964, 1965, 1966, 1967)"
+  }
+]

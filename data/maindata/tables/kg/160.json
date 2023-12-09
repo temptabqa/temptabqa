@@ -1,0 +1,116 @@
+[
+  {
+    "subject": "Michelle Li",
+    "predicate": "category",
+    "object": "badminton"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "image",
+    "object": "BCA Indonesia Open 2017 - Michelle Li.jpg"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "event",
+    "object": "2017 Indonesia Open Superseries Premier"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "birth name",
+    "object": "Michelle Li Man-shan"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "country",
+    "object": "Canada"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "residence",
+    "object": "Markham, Ontario, Canada"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "height",
+    "object": "173 cm (5 ft 8 in)"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "weight",
+    "object": "66 kg (146 lb)"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "years active",
+    "object": "2010-present"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "handedness",
+    "object": "Right"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "coach",
+    "object": "Jennifer Lee | Mike Butler"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "women's singles highest ranking",
+    "object": "8 (22 October 2019)"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "women's singles current ranking",
+    "object": "11 (3 May 2022)"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "representation",
+    "object": "Canada"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "Commonwealth Games achievement",
+    "object": "Gold medal - first place | 2014 Glasgow | Women's singles"
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "Pan American Games achievements",
+    "object": [
+      "Gold medal - first place | 2011 Guadalajara | Women's singles",
+      "Gold medal - first place | 2011 Guadalajara | Women's doubles",
+      "Gold medal - first place | 2015 Toronto | Women's singles",
+      "Gold medal - first place | 2019 Lima | Women's singles",
+      "Bronze medal - third place | 2015 Toronto | Women's doubles"
+    ]
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "Pan Am Championships achievements",
+    "object": [
+      "Gold medal - first place | 2008 Lima | Mixed team",
+      "Gold medal - first place | 2010 Curitiba | Mixed team",
+      "Gold medal - first place | 2013 Santo Domingo | Women's singles",
+      "Gold medal - first place | 2013 Santo Domingo | Mixed team",
+      "Gold medal - first place | 2014 Markham | Women's singles",
+      "Gold medal - first place | 2014 Markham | Mixed team",
+      "Gold medal - first place | 2018 Guatemala City | Women's singles",
+      "Gold medal - first place | 2019 Aguascalientes | Women's singles",
+      "Gold medal - first place | 2022 San Salvador | Women's singles",
+      "Silver medal - second place | 2010 Curitiba | Women's singles",
+      "Silver medal - second place | 2010 Curitiba | Women's doubles",
+      "Bronze medal - third place | 2008 Lima | Mixed doubles",
+      "Bronze medal - third place | 2013 Santo Domingo | Women's doubles"
+    ]
+  },
+  {
+    "subject": "Michelle Li",
+    "predicate": "Pan Am Women's Team Championships achievements",
+    "object": [
+      "Gold medal - first place | 2018 Tacarigua | Women's team",
+      "Gold medal - first place | 2020 Salvador | Women's team",
+      "BWF profile"
+    ]
+  }
+]

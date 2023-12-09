@@ -1,0 +1,112 @@
+[
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "category"},
+    "object": {"name": "lacrosse"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "infobox-image"},
+    "object": {"name": "Dillon Ward.JPG"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "date of birth"},
+    "object": {"name": "March 28, 1991"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "place of birth"},
+    "object": {"name": "Orangeville, Ontario"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Nationality"},
+    "object": {"name": "Canada"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Height"},
+    "object": {"name": "6 ft 5 in (1.96 m)"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Weight"},
+    "object": {"name": "200 pounds (91 kg)"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Shoots"},
+    "object": {"name": "Right"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Position"},
+    "object": {"name": "Goaltender"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "NCAA team"},
+    "object": {"name": "Bellarmine (2013)"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "NLL draft"},
+    "object": {"name": "3rd overall, 2013 | Colorado Mammoth"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "NLL team"},
+    "object": {"name": "Colorado Mammoth"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "PLL team | Former teams"},
+    "object": {"name": "Waterdogs L.C. | Chaos L.C."}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "MSL team"},
+    "object": {"name": "Kitchener-Waterloo Kodiaks"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Pro career"},
+    "object": {"name": "2013-"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Career highlights"},
+    "object": {"name": "NCAA | Third team All-American (2013) | First team All-ECAC (2013) | ECAC Goalie of the Year (2013) | Bellarmine career records for wins (19), saves (576), save percentage (0.567), and goals against average (9.97) | Bellarmine single season records for saves (208), save percentage (0.662), and goals against average (7.68) | NLL | 3x All-Pro (2016-18) | 1x Goalie of the Year (2017) | All-Rookie Team (2014) | 1x Champion (2022) | 1x Finals MVP (2022) | International | 2x All-World Team (2014, 2018) | 2x World Lacrosse Championships Most Outstanding Goalie (2014, 2018) | 1x World Lacrosse Championships MVP (2014)"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Representing"},
+    "object": {"name": "Canada"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Men's lacrosse"},
+    "object": {"name": "World Lacrosse Championship"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "World Lacrosse Championship"},
+    "object": {"name": "Winner | 2014 Denver"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "World Lacrosse Championship"},
+    "object": {"name": "Runner-up | 2018 Netanya"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "Box lacrosse"},
+    "object": {"name": "World Indoor Lacrosse Championship"}
+  },
+  {
+    "subject": {"name": "Dillon Ward"},
+    "predicate": {"name": "World Indoor Lacrosse Championship"},
+    "object": {"name": "Winner | 2019 Langley"}
+  }
+]

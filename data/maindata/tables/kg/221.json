@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "1907 Imperial Conference",
+    "predicate": "category",
+    "object": "conference"
+  },
+  {
+    "subject": "1907 Imperial Conference",
+    "predicate": "Host country",
+    "object": "United Kingdom of Great Britain and Ireland | United Kingdom"
+  },
+  {
+    "subject": "1907 Imperial Conference",
+    "predicate": "Dates",
+    "object": "15 April 1907 | - | 14 May 1907"
+  },
+  {
+    "subject": "1907 Imperial Conference",
+    "predicate": "Cities",
+    "object": "London"
+  },
+  {
+    "subject": "1907 Imperial Conference",
+    "predicate": "Heads of Government",
+    "object": "7"
+  },
+  {
+    "subject": "1907 Imperial Conference",
+    "predicate": "Chair",
+    "object": "Sir Henry Campbell-Bannerman | (Prime Minister)"
+  },
+  {
+    "subject": "1907 Imperial Conference",
+    "predicate": "Follows",
+    "object": "1902 Colonial Conference"
+  },
+  {
+    "subject": "1907 Imperial Conference",
+    "predicate": "Precedes",
+    "object": "1911"
+  },
+  {
+    "subject": "Key points",
+    "predicate": "Dominion status",
+    "object": "co-ordination of Imperial defence"
+  },
+  {
+    "subject": "Key points",
+    "predicate": "Irish Home Rule",
+    "object": "self-government for India"
+  },
+  {
+    "subject": "Key points",
+    "predicate": "Imperial preference",
+    "object": ""
+  }
+]

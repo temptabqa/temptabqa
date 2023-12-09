@@ -1,0 +1,113 @@
+[
+  {
+    "subject": "England national football team",
+    "predicate": "category",
+    "object": "national football team"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "caption",
+    "object": "England"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "infobox-image",
+    "object": "Shirt badge/Association crest"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Nickname(s)",
+    "object": "Three Lionesses | The Lionesses"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Association",
+    "object": "The Football Association"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Confederation",
+    "object": "UEFA (Europe)"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Head coach",
+    "object": "Sarina Wiegman"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Captain",
+    "object": "Leah Williamson"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Most caps",
+    "object": "Fara Williams (172)"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Top scorer",
+    "object": "Ellen White (52)"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "FIFA code",
+    "object": "ENG"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "FIFA ranking",
+    "object": {
+      "Current": "8 | Steady |  (17 June 2022)",
+      "Highest": "2 (March 2018)",
+      "Lowest": "14 (June 2004)"
+    }
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "First international",
+    "object": "Scotland 2-3 | England | (Greenock, Scotland; 18 November 1972)"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Biggest win",
+    "object": "England | 20-0 Latvia | (Doncaster, England; 30 November 2021)"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "Biggest defeat",
+    "object": "Norway 8-0 | England | (Moss, Norway; 4 June 2000)"
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "World Cup",
+    "object": {
+      "Appearances": "5 ( | first in 1995 | )",
+      "Best result": "Third place (2015)"
+    }
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "European Championship",
+    "object": {
+      "Appearances": "8 ( | first in 1984 | )",
+      "Best result": "Runners-up (1984, 2009)"
+    }
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "FIFA Women's World Cup",
+    "object": [
+      "Bronze medal - third place | 2015 Canada | Team"
+    ]
+  },
+  {
+    "subject": "England national football team",
+    "predicate": "UEFA Women's Championship",
+    "object": [
+      "Silver medal - second place | 1984 Pan-European | Team",
+      "Silver medal - second place | 2009 Finland | Team",
+      "Bronze medal - third place | 2017 Netherlands | Team"
+    ]
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "subject": "France",
+    "predicate": "category",
+    "object": "economy"
+  },
+  {
+    "subject": "France",
+    "predicate": "caption",
+    "object": "Economy of France"
+  },
+  {
+    "subject": "France",
+    "predicate": "infobox-image",
+    "object": "La Défense from the Arc de Triomphe 20150802.jpg"
+  },
+  {
+    "subject": "La Défense",
+    "predicate": "description",
+    "object": "the financial hub of France"
+  },
+  {
+    "subject": "France",
+    "predicate": "Currency",
+    "object": "Euro (EUR, €)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Fiscal year",
+    "object": "Calendar year"
+  },
+  {
+    "subject": "France",
+    "predicate": "Trade organisations",
+    "object": "EU, WTO and OECD"
+  },
+  {
+    "subject": "France",
+    "predicate": "Country group",
+    "object": "Developed/Advanced | High-income economy"
+  },
+  {
+    "subject": "France",
+    "predicate": "Population",
+    "object": "Increase | 68,035,000 (January 2021)"
+  },
+  {
+    "subject": "France",
+    "predicate": "GDP",
+    "object": "Increase | $3.061 trillion (nominal; 2022 est.) | Increase | $3.352 trillion (PPP; 2022 est.)"
+  },
+  {
+    "subject": "France",
+    "predicate": "GDP rank",
+    "object": "6th (nominal, 2022) | 10th (PPP, 2022)"
+  },
+  {
+    "subject": "France",
+    "predicate": "GDP growth",
+    "object": "1.8% (2018) | 1.5% (2019) | -8.1% (2020e) | 7.0% (2021e)"
+  },
+  {
+    "subject": "France",
+    "predicate": "GDP per capita",
+    "object": "Increase | $46,834 (nominal; 2022 est.) | Increase | $56,036 (PPP; 2022 est.)"
+  },
+  {
+    "subject": "France",
+    "predicate": "GDP per capita rank",
+    "object": "25th (nominal, 2022) | 26th (PPP, 2022)"
+  },
+  {
+    "subject": "France",
+    "predicate": "GDP by sector",
+    "object": "agriculture: 1.7% | industry: 19.5% | services: 78.8% (2017 est)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Inflation (CPI)",
+    "object": "0.5% (2020 est.) | 1.3% (2019) | 2.1% (2018)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Population below poverty line",
+    "object": "5.5% or 13.2% with DOM-TOM | Negative increase | 17.75% at risk of poverty or social exclusion (AROPE, 2018)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Gini coefficient",
+    "object": "Positive decrease | 28.5 | low | (2018, Eurostat)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Human Development Index",
+    "object": "Increase | 0.909 | very high | (2020) (26th) | Increase | 0.820 | very high | IHDI (2019)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Labour force",
+    "object": "Increase | 30,394,934 (2020, ILO) | Increase | 72.4% employment rate (Target: 75%; 2019)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Labour force by occupation",
+    "object": "agriculture: 2.8% | industry: 20% | services: 77.2% (2016 est.)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Unemployment",
+    "object": "Positive decrease | 7.4% with DOM-TOM (Q4, 2021) | Positive decrease | 15.9% youth unemployment (15 to 24-year-olds, Q4 2021)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Average gross salary",
+    "object": "€35,484 / $42,300 annually (2017)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Average net salary",
+    "object": "€27,543 / $31,304 annually (2022)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Main industries",
+    "object": "Machinery, chemicals, automobiles, metallurgy, aircraft, electronics, textiles, food processing, tourism"
+  },
+  {
+    "subject": "France",
+    "predicate": "Ease-of-doing-business rank",
+    "object": "Steady | 32nd (very easy, 2020)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Exports",
+    "object": "Decrease | $746.9 billion (5th; 2020 est.)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Export goods",
+    "object": "machinery and equipment, aircraft, plastics, chemicals, pharmaceutical products, iron and steel, beverages"
+  },
+  {
+    "subject": "France",
+    "predicate": "Main export partners",
+    "object": "Germany(+) 14.8% | Spain(+) 7.7% | Italy(+) 7.5% | United States(+) 7.2% | Belgium(+) 7% | United Kingdom(+) 6.7% (2017)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Imports",
+    "object": "Decrease | $803.6 billion (4th; 2020 est.)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Import goods",
+    "object": "machinery and equipment, vehicles, crude oil, aircraft, plastics, chemicals"
+  },
+  {
+    "subject": "France",
+    "predicate": "Main import partners",
+    "object": "Germany(+) 18.5% | Belgium(+) 10.2% | Netherlands(+) 8.3% | Italy(+) 7.9% | Spain 7.1% | United Kingdom(+) 5.3% | United States(+) 5.2% | China(-) 5.1% (2017)"
+  },
+  {
+    "subject": "France",
+    "predicate": "FDI stock",
+    "object": "Increase | $858.3 billion (31 December 2017 est.) | Increase | Abroad: $1.429 trillion (31 December 2017 est.)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Current account",
+    "object": "Increase | −$18.10 billion (2019 est.)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Gross external debt",
+    "object": "$5.250 trillion (31 March 2017)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Public debt",
+    "object": "Steady | 98.1% of GDP (2019) | Negative increase | €2.380 trillion (2019)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Budget balance",
+    "object": "€72.8 billion deficit (2019) | −3.0% of GDP (2019)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Revenues",
+    "object": "52.6% of GDP (2019)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Expenses",
+    "object": "55.6% of GDP (2019)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Economic aid",
+    "object": "donor | : ODA, $9.50 billion (2016)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Credit rating",
+    "object": "Standard & Poor's | AA | Outlook: Stable | Moody's | Aa2 | Outlook: Stable | Fitch | AA | Outlook: Stable"
+  },
+  {
+    "subject": "France",
+    "predicate": "Foreign reserves",
+    "object": "Increase | $237.83 billion (April 2020)"
+  },
+  {
+    "subject": "France",
+    "predicate": "Public finances",
+    "object": "All values, unless otherwise stated, are in US dollars."
+  }
+]

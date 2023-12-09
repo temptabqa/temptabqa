@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Women's KL3 | at the 2018 ICF Canoe Sprint | World Championships",
+    "predicate": "category",
+    "object": "sports event"
+  },
+  {
+    "subject": "Women's KL3 | at the 2018 ICF Canoe Sprint | World Championships",
+    "predicate": "Venue",
+    "object": "Centro de Alto Rendimento | de Montemor-o-Velho"
+  },
+  {
+    "subject": "Women's KL3 | at the 2018 ICF Canoe Sprint | World Championships",
+    "predicate": "Location",
+    "object": "Montemor-o-Velho, Portugal"
+  },
+  {
+    "subject": "Women's KL3 | at the 2018 ICF Canoe Sprint | World Championships",
+    "predicate": "Dates",
+    "object": "22-23 August"
+  },
+  {
+    "subject": "Women's KL3 | at the 2018 ICF Canoe Sprint | World Championships",
+    "predicate": "Competitors",
+    "object": "15 from 13 nations"
+  },
+  {
+    "subject": "Women's KL3 | at the 2018 ICF Canoe Sprint | World Championships",
+    "predicate": "Winning time",
+    "object": "53.671"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "gold medal",
+    "object": "Helene Ripa | Sweden"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "silver medal",
+    "object": "Amanda Reynolds | Australia"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "bronze medal",
+    "object": "Mihaela Lulea | Romania"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "← 2017",
+    "object": "2019 →"
+  }
+]

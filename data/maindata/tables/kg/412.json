@@ -1,0 +1,227 @@
+[
+  {
+    "subject": "country",
+    "predicate": "category",
+    "object": "Argentine Republic | República Argentina | (Spanish)"
+  },
+  {
+    "subject": "Argentine Republic | República Argentina | (Spanish)",
+    "predicate": "has",
+    "object": "Flag of Argentina | Flag | Coat of arms of Argentina | Coat of arms"
+  },
+  {
+    "subject": "Motto",
+    "predicate": "category",
+    "object": "En unión y libertad | (In Unity and Freedom)"
+  },
+  {
+    "subject": "Anthem",
+    "predicate": "category",
+    "object": "Himno Nacional Argentino | (Argentine National Anthem)"
+  },
+  {
+    "subject": "Sol de Mayo",
+    "predicate": "category",
+    "object": "Sun of May"
+  },
+  {
+    "subject": "Capital and largest city",
+    "predicate": "of Sol de Mayo",
+    "object": "Buenos Aires | 34°36′S | 58°23′W | \ufeff / \ufeff | 34.600°S 58.383°W | \ufeff / | -34.600; -58.383"
+  },
+  {
+    "subject": "Official languages",
+    "predicate": "of Sol de Mayo",
+    "object": "Spanish"
+  },
+  {
+    "subject": "Recognised regional languages",
+    "predicate": "of Sol de Mayo",
+    "object": "Guaraní in Corrientes | Quechua in Santiago del Estero | Qom, Mocoví, and Wichí in Chaco | Welsh in Chubut"
+  },
+  {
+    "subject": "Ethnic groups",
+    "predicate": "of Sol de Mayo",
+    "object": "96.7% White or Mestizo | 2.4% Amerindian | 0.5% East Asian | 0.4% African"
+  },
+  {
+    "subject": "Religion",
+    "predicate": "of Sol de Mayo (2019)",
+    "object": "79.6% Christianity | -62.9% Roman Catholic | -15.3% Protestant | -1.4% Other Christian | 19.2% No religion | 1.2% Other"
+  },
+  {
+    "subject": "Demonym(s)",
+    "predicate": "of Sol de Mayo",
+    "object": "Argentine | Argentinian | Argentinean | (uncommon)"
+  },
+  {
+    "subject": "Government",
+    "predicate": "of Sol de Mayo",
+    "object": "Federal presidential republic"
+  },
+  {
+    "subject": "President",
+    "predicate": "of Sol de Mayo",
+    "object": "Alberto Fernández"
+  },
+  {
+    "subject": "Vice President",
+    "predicate": "of Sol de Mayo",
+    "object": "Cristina Fernández de Kirchner"
+  },
+  {
+    "subject": "Chief of the Cabinet of Ministers",
+    "predicate": "of Sol de Mayo",
+    "object": "Juan Luis Manzur"
+  },
+  {
+    "subject": "President of the Chamber of Deputies",
+    "predicate": "of Sol de Mayo",
+    "object": "Sergio Massa"
+  },
+  {
+    "subject": "President of Supreme Court",
+    "predicate": "of Sol de Mayo",
+    "object": "Carlos Rosenkrantz"
+  },
+  {
+    "subject": "Legislature",
+    "predicate": "of Sol de Mayo",
+    "object": "National Congress"
+  },
+  {
+    "subject": "Upper house",
+    "predicate": "of Sol de Mayo",
+    "object": "Senate"
+  },
+  {
+    "subject": "Lower house",
+    "predicate": "of Sol de Mayo",
+    "object": "Chamber of Deputies"
+  },
+  {
+    "subject": "Argentine territory in dark green; claimed but uncontrolled territory in light green",
+    "predicate": "related to",
+    "object": "Sol de Mayo"
+  },
+  {
+    "subject": "Independence",
+    "predicate": "from Spain",
+    "object": "May Revolution, Declared, and Constitution"
+  },
+  {
+    "subject": "May Revolution",
+    "predicate": "of Independence",
+    "object": "25 May 1810"
+  },
+  {
+    "subject": "Declared",
+    "predicate": "of Independence",
+    "object": "9 July 1816"
+  },
+  {
+    "subject": "Constitution",
+    "predicate": "of Independence",
+    "object": "1 May 1853"
+  },
+  {
+    "subject": "Area",
+    "predicate": "of Sol de Mayo",
+    "object": "Total and Water (%)"
+  },
+  {
+    "subject": "Total",
+    "predicate": "of Area",
+    "object": "2,780,400 km2 (1,073,500 sq mi) (8th)"
+  },
+  {
+    "subject": "Water (%)",
+    "predicate": "of Area",
+    "object": "1.57"
+  },
+  {
+    "subject": "Population",
+    "predicate": "of Sol de Mayo",
+    "object": "2021 estimate, 2010 census, and Density"
+  },
+  {
+    "subject": "2021 estimate",
+    "predicate": "of Population",
+    "object": "45,605,826 (31st)"
+  },
+  {
+    "subject": "2010 census",
+    "predicate": "of Population",
+    "object": "40,117,096"
+  },
+  {
+    "subject": "Density",
+    "predicate": "of Population",
+    "object": "14.4/km2 (37.3/sq mi) (214th)"
+  },
+  {
+    "subject": "GDP",
+    "predicate": "of Sol de Mayo (PPP)",
+    "object": "2019 estimate, Total, and Per capita"
+  },
+  {
+    "subject": "Total",
+    "predicate": "of GDP (PPP)",
+    "object": "$444.458 billion (25th)"
+  },
+  {
+    "subject": "Per capita",
+    "predicate": "of GDP (PPP)",
+    "object": "$9,890 (53rd)"
+  },
+  {
+    "subject": "GDP",
+    "predicate": "of Sol de Mayo (nominal)",
+    "object": "2019 estimate"
+  },
+  {
+    "subject": "Gini",
+    "predicate": "of Sol de Mayo (2020)",
+    "object": "Negative increase |  42.9 | medium"
+  },
+  {
+    "subject": "HDI",
+    "predicate": "of Sol de Mayo (2019)",
+    "object": "Increase |  0.845 | very high |  · 46th"
+  },
+  {
+    "subject": "Currency",
+    "predicate": "of Sol de Mayo",
+    "object": "Argentine peso ($) (ARS)"
+  },
+  {
+    "subject": "Time zone",
+    "predicate": "of Sol de Mayo",
+    "object": "UTC−3 (ART)"
+  },
+  {
+    "subject": "Date format",
+    "predicate": "of Sol de Mayo",
+    "object": "dd/mm/yyyy (CE)"
+  },
+  {
+    "subject": "Driving side",
+    "predicate": "of Sol de Mayo",
+    "object": "right"
+  },
+  {
+    "subject": "Calling code",
+    "predicate": "of Sol de Mayo",
+    "object": "+54"
+  },
+  {
+    "subject": "ISO 3166 code",
+    "predicate": "of Sol de Mayo",
+    "object": "AR"
+  },
+  {
+    "subject": "Internet TLD",
+    "predicate": "of Sol de Mayo",
+    "object": ".ar"
+  }
+]

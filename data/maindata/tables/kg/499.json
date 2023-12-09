@@ -1,0 +1,94 @@
+[
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "category",
+    "object": "handball"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "image",
+    "object": "Mouna Chebbah 2 20170915.jpg"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "image_date",
+    "object": "Sep. 15, 2017"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "birth_date",
+    "object": "8 July 1982"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "birth_place",
+    "object": "Mahdia, Tunisia"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "age",
+    "object": "40"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "nationality",
+    "object": "Tunisian"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "height",
+    "object": "1.76 m (5 ft 9 in)"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "playing_position",
+    "object": "Centre back"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "current_club",
+    "object": "Chambray Touraine Handball"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "number",
+    "object": "8"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "senior_club_years",
+    "object": [
+      "2005-2008",
+      "2008-2010",
+      "2010-2014",
+      "2014-2016",
+      "2016-2019"
+    ]
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "senior_club_teams",
+    "object": [
+      "Besançon",
+      "Team Esbjerg",
+      "Viborg HK",
+      "Handball Cercle Nîmes",
+      "Chambray Touraine Handball"
+    ]
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "national_team_years",
+    "object": "Tunisia"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "national_team_appearances",
+    "object": "232"
+  },
+  {
+    "subject": "Mouna Chebbah",
+    "predicate": "national_team_goals",
+    "object": "1006"
+  }
+]

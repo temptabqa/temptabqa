@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "category",
+    "object": "court"
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "Established",
+    "object": "January 15, 1863 | ; 159 years ago |  ( | 1863-01-15 | )"
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "Location",
+    "object": "Buenos Aires"
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "Coordinates",
+    "object": "34°36′08″S | 58°23′09″W |  / | 34.602120°S 58.385907°W |  / | -34.602120; -58.385907"
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "Composition method",
+    "object": "Presidential nomination with Senate of Argentina confirmation | (Judges) | Ministers of the Supreme Court | (President)"
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "Authorized by",
+    "object": "Argentine Constitution"
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "Judge term length",
+    "object": "75 years old. At that age, the President and the Senate can keep the judges for an additional term of five years, following the same process established for the appointment. The five-year extension can be repeated indefinitely."
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "Number of positions",
+    "object": "5"
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "Website",
+    "object": "csjn | .gov | .ar"
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "alternative names",
+    "object": ["Corte Suprema de Justicia de la Nación Argentina", "Corte suprema argentina logo.png"]
+  },
+  {
+    "subject": "Supreme Court of Argentina",
+    "predicate": "photo",
+    "object": "ID 472 Palacio de Justicia de la Nación 5006.jpg | Palace of Justice, seat of the Supreme Court"
+  },
+  {
+    "subject": "President of the Supreme Court",
+    "predicate": "Currently",
+    "object": "Horacio Rosatti"
+  },
+  {
+    "subject": "President of the Supreme Court",
+    "predicate": "Since",
+    "object": "1 October 2021 | ; 8 months ago |  ( | 1 October 2021 | )"
+  },
+  {
+    "subject": "Vice President of the Supreme Court",
+    "predicate": "Currently",
+    "object": "Carlos Rosenkrantz"
+  },
+  {
+    "subject": "Vice President of the Supreme Court",
+    "predicate": "Since",
+    "object": "1 October 2021 | ; 8 months ago |  ( | 1 October 2021 | )"
+  }
+]

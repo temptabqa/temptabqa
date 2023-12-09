@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "is part of",
+    "object": "85th West Virginia Legislature"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has",
+    "object": "Coat of arms or logo"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "is a",
+    "object": "Lower house"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has",
+    "object": "No term limits"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "started new session on",
+    "object": "January 13, 2021"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has Speaker",
+    "object": "Roger Hanshaw (R) since August 29, 2018"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has Speaker pro tempore",
+    "object": "Gary Howell (R) since December 1, 2020"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has Majority Leader",
+    "object": "Amy Summers (R) since December 10, 2018"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has Minority Leader",
+    "object": "Doug Skaff (D) since November 30, 2020"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has",
+    "object": "100 seats"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has political groups",
+    "object": "Majority | Republican (78) | Minority | Democratic (22)"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has length of term",
+    "object": "2 years"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has authority",
+    "object": "Article VI, West Virginia Constitution"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has salary",
+    "object": "$20,000/year + per diem"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has structure",
+    "object": "Composition of the West Virginia House of Delegates"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "had last election on",
+    "object": "November 3, 2020 (100 seats)"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "will have next election on",
+    "object": "November 8, 2022 (100 seats)"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has redistricting",
+    "object": "Legislative Control"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has meeting place",
+    "object": "House of Delegates Chamber, West Virginia State Capitol, Charleston, West Virginia"
+  },
+  {
+    "subject": "West Virginia House of Delegates",
+    "predicate": "has website",
+    "object": "wvlegislature.gov"
+  }
+]

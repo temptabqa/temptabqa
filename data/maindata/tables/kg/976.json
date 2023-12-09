@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Communist insurgency in Malaysia",
+    "predicate": "category",
+    "object": "war/conflict"
+  },
+  {
+    "subject": "Communist insurgency in Malaysia",
+    "predicate": "Date",
+    "object": "17 June 1968 - 2 December 1989 | (21 years, 5 months, 2 weeks and 1 day)"
+  },
+  {
+    "subject": "Communist insurgency in Malaysia",
+    "predicate": "Location",
+    "object": "Malay Peninsula and Sarawak"
+  },
+  {
+    "subject": "Communist insurgency in Malaysia",
+    "predicate": "Result",
+    "object": "Peace agreement reached | Communists agree to a ceasefire | Peace Agreement of Hat Yai signed between the communists and the governments of Malaysia and Thailand | Dissolution of the Malayan Communist Party (MCP) | Insurgency continues in Sarawak until 1990"
+  },
+  {
+    "subject": "Communist insurgency in Malaysia",
+    "predicate": "Context",
+    "object": "Part of the Cold War and continuation of the Malayan Emergency"
+  },
+  {
+    "subject": "Malaysian Rangers",
+    "predicate": "ImageCaption",
+    "object": "Malay-Thai border (AWM MAL-65-0046-01).JPG | Sarawak Rangers (present-day part of the Malaysian Rangers) consisting of Ibans leap from a Royal Australian Air Force Bell UH-1 Iroquois helicopter to guard the Malay-Thai border from potential Communist attacks in 1965, three years before the war starting in 1968."
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Anti-communist forces",
+    "object": "Malaysia | Singapore | Thailand | Supported by | United Kingdom | Australia | New Zealand | United States | Indonesia (from 1965) | South Vietnam (until 1975)"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Communist forces",
+    "object": "Malayan Communist Party | Malayan National Liberation Army | North Kalimantan Communist Party | Communist Party of Thailand (until 1983) | Supported by | China (until 1976) | Soviet Union | Indonesia (1962-1965) | North Vietnam (until 1976) | Vietnam (from 1976)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Anti-communist leaders",
+    "object": "Sultan Ismail Nasiruddin Shah (1968-1970) | Tuanku Abdul Halim (1970-1975) | Yahya Petra of Kelantan (1975-1979) | Ahmad Shah of Pahang (1979-1984) | Iskandar of Johor (1984-1989) | Azlan Shah of Perak (1989) | Tunku Abdul Rahman | Abdul Razak Hussein | Hussein Onn | Mahathir Mohamad | Yusof Ishak | Benjamin Sheares | Devan Nair | Wee Kim Wee | Lee Kuan Yew | Bhumibol Adulyadej | Thanom Kittikachorn (until 1973) | Seni Pramoj (1975; 1976) | Kukrit Pramoj (1975-1976) | Kriangsak Chamanan (1977-1980) | Prem Tinsulanonda (1979-1988)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Communist leaders",
+    "object": "Chin Peng | Abdullah CD | Rashid Maidin | Bong Kee Chok | Ang Chu Ting | Phayom Chulanont"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Anti-communist forces",
+    "object": "8,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Communist forces",
+    "object": "1,000"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Anti-communist forces",
+    "object": "155 killed | 854 wounded"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Communist forces",
+    "object": "212 killed | 150 captured | 117 surrendered"
+  }
+]

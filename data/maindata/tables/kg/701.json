@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Animal Farm",
+    "predicate": "is a",
+    "object": "book"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "has caption",
+    "object": "Animal Farm"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "has infobox-image",
+    "object": "Animal Farm - 1st edition.jpg"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "First edition cover",
+    "object": "Animal Farm - 1st edition.jpg"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "is authored by",
+    "object": "George Orwell"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "has original title",
+    "object": "Animal Farm: A Fairy Story"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "is from country",
+    "object": "United Kingdom"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "is in language",
+    "object": "English"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "is of genre",
+    "object": "Political satire"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "was published on",
+    "object": "17 August 1945"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "was published by",
+    "object": "Secker and Warburg, London, England"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "has media type",
+    "object": "Print (hard & paperback)"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "has number of pages",
+    "object": "112 (UK paperback edition)"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "has Online Computer Library Center number",
+    "object": "53163540"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "has Dewey Decimal",
+    "object": "823/.912 20"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "has Library of Congress Classification",
+    "object": "PR6029.R8 A63 2003b"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "is preceded by",
+    "object": "Inside the Whale and Other Essays"
+  },
+  {
+    "subject": "Animal Farm",
+    "predicate": "is followed by",
+    "object": "Nineteen Eighty-Four"
+  }
+]

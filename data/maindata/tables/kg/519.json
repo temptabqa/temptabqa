@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Roger McCluskey",
+    "predicate": "category",
+    "object": "car driver"
+  },
+  {
+    "subject": "Roger McCluskey",
+    "predicate": "Nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Roger McCluskey",
+    "predicate": "Born",
+    "object": "August 24, 1930 | Tucson, Arizona"
+  },
+  {
+    "subject": "Roger McCluskey",
+    "predicate": "Died",
+    "object": "August 29, 1993 | (1993-08-29) | (aged 63)"
+  },
+  {
+    "subject": "Roger McCluskey",
+    "predicate": "associated image",
+    "object": "RogerMcCluskey1970PlymouthSuperbird.jpg | McCluskey's 1970 Plymouth Superbird or replica"
+  },
+  {
+    "subject": "USAC Championship Car",
+    "predicate": "Years active",
+    "object": "1956, 1960-1979"
+  },
+  {
+    "subject": "USAC Championship Car",
+    "predicate": "Starts",
+    "object": "229"
+  },
+  {
+    "subject": "USAC Championship Car",
+    "predicate": "Wins",
+    "object": "5"
+  },
+  {
+    "subject": "USAC Championship Car",
+    "predicate": "Poles",
+    "object": "3"
+  },
+  {
+    "subject": "USAC Championship Car",
+    "predicate": "Best finish in the championship",
+    "object": "1st in 1973"
+  },
+  {
+    "subject": "Previous series",
+    "predicate": "1973-74",
+    "object": "International Race of Champions"
+  },
+  {
+    "subject": "Championship titles",
+    "predicate": "1973",
+    "object": "USAC Championship Car"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "Years active",
+    "object": "1979"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "Team(s)",
+    "object": "Hodgdon Racing"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "First race",
+    "object": "1979 Indianapolis 500 (Indianapolis)"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "summary",
+    "object": "1 race run over 1 year, Wins | Podiums | Poles, 0 | 0 | 0"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "First race",
+    "object": "1969 Motor Trend 500 (Riverside)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Last race",
+    "object": "1977 Los Angeles Times 500 (Ontario)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "summary",
+    "object": "4 races run over 4 years, Wins | Top tens | Poles, 0 | 1 | 0"
+  }
+]

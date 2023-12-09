@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Steve Jobs",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Born",
+    "object": "Steven Paul Jobs | ( | 1955-02-24 | ) | February 24, 1955 | San Francisco, California, U.S."
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Died",
+    "object": "October 5, 2011 | (2011-10-05) | (aged 56) | Palo Alto, California, U.S."
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Cause of death",
+    "object": "Neuroendocrine cancer"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Resting place",
+    "object": "Alta Mesa Memorial Park"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Occupation",
+    "object": "Entrepreneur | industrial designer | investor | media proprietor"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Years active",
+    "object": "1976-2011"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Known for",
+    "object": "Pioneer of the personal computer revolution with Steve Wozniak | Co-creator of the Apple II, Macintosh, iPod, iPhone, iPad, and first Apple Stores"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Title",
+    "object": "Co-founder, chairman and CEO of Apple Inc. | Co-founder, primary investor and chairman of Pixar | Founder, chairman and CEO of NeXT"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Board member of",
+    "object": "The Walt Disney Company | Apple Inc."
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Spouse(s)",
+    "object": "Laurene Powell | ( | married | 1991 | )"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Partner(s)",
+    "object": "Chrisann Brennan (1972-1977)"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Children",
+    "object": "4, including Lisa Brennan-Jobs"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Relatives",
+    "object": "Mona Simpson (sister)"
+  },
+  {
+    "subject": "Steve Jobs",
+    "predicate": "Steve Jobs",
+    "object": "Steve Jobs Headshot 2010-CROP (cropped 2).jpg | Jobs presenting the iPhone 4 in 2010"
+  },
+  {
+    "subject": "Signature",
+    "predicate": "Signature",
+    "object": "Steve Jobs signature.svg"
+  }
+]

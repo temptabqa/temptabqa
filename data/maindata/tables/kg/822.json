@@ -1,0 +1,123 @@
+[
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "category",
+    "object": "christian leader"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Church",
+    "object": "Roman Catholic Church"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Diocese",
+    "object": "Fiesole"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "See",
+    "object": "Fiesole"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Appointed",
+    "object": "13 October 1349"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Installed",
+    "object": "circa 1350"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Term ended",
+    "object": "6 January 1373"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Predecessor",
+    "object": "Fulgino Carboni"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Successor",
+    "object": "Neri Corsini"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "roles",
+    "object": [
+      "Bishop of Fiesole",
+      "San Andrew Corsini in preghiera - Guido Reni (1630-1635)"
+    ]
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Ordination",
+    "object": "1328 by Francesco Silvestri"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Consecration",
+    "object": "circa 1350 by Angelo Acciaioli"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Born",
+    "object": "30 November 1302 in Florence, Republic of Florence"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Died",
+    "object": "6 January 1373 (aged 70) in Fiesole, Republic of Florence"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Feast day",
+    "object": "6 January, 9 January (Carmelites)"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Venerated in",
+    "object": "Roman Catholic Church"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Beatified",
+    "object": "21 April 1440 in Rome, Papal States by Pope Eugene IV"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Canonized",
+    "object": "22 April 1629 in Saint Peter's Basilica, Rome, Papal States by Pope Urban VIII"
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Attributes",
+    "object": [
+      "Holding a cross",
+      "Wolf and lamb at his feet",
+      "Floating on cloud above battlefield",
+      "Mitre",
+      "Episcopal attire",
+      "Carmelite habit"
+    ]
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Patronage",
+    "object": [
+      "Florence",
+      "Fiesole",
+      "Diplomats",
+      "Against civil disorder",
+      "Against riots"
+    ]
+  },
+  {
+    "subject": "Andrew Corsini",
+    "predicate": "Shrines",
+    "object": "Santa Maria del Carmine"
+  }
+]

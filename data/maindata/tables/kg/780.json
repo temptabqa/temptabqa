@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "category",
+    "object": "body builder"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "type",
+    "object": "Bodybuilder"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "born",
+    "object": "September 8, 1966"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "birthPlace",
+    "object": "Annapolis, Maryland, U.S."
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "height",
+    "object": "5 ft 3 in (1.60 m)"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "inSeasonWeight",
+    "object": "135 lb (61 kg)"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "offSeasonWeight",
+    "object": "150-160 lb (68-73 kg)"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "proDebut",
+    "object": "IFBB Pro Extravanganza, 1998"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "bestWin",
+    "object": "IFBB Ms. International lightweight champion, 2000 and 2005"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "predecessor",
+    "object": "None, Dayana Cadeau"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "successor",
+    "object": "Dayana Cadeau, None"
+  },
+  {
+    "subject": "Brenda Raganot",
+    "predicate": "active",
+    "object": "since 1984"
+  }
+]

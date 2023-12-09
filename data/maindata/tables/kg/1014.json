@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Western Sahara War",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "Western Sahara War",
+    "predicate": "Date",
+    "object": "30 October 1975 - 6 September 1991"
+  },
+  {
+    "subject": "Western Sahara War",
+    "predicate": "Duration",
+    "object": "15 years, 10 months and 1 week"
+  },
+  {
+    "subject": "Western Sahara War",
+    "predicate": "Location",
+    "object": "Western Sahara"
+  },
+  {
+    "subject": "Western Sahara War",
+    "predicate": "Result",
+    "object": "Spanish withdrawal under the Madrid Accords (1976), Mauritanian retreat and withdrawal of territorial claims and peace agreement with the Polisario Front (1979), Military Stalemate, Ceasefire agreed on between the Polisario Front and Morocco (1991)"
+  },
+  {
+    "subject": "Western Sahara War",
+    "predicate": "Territorial changes",
+    "object": "Morocco controls 75% of the territory, the Polisario Front controls 25%"
+  },
+  {
+    "subject": "Western Sahara War",
+    "predicate": "Part of",
+    "object": "the Western Sahara conflict"
+  },
+  {
+    "subject": "Western Sahara War",
+    "predicate": "Map",
+    "object": "Westernsaharamap.png"
+  },
+  {
+    "subject": "Western Sahara War",
+    "predicate": "Belligerents",
+    "object": "Morocco, Mauritania, France, Supported by Saudi Arabia and United States"
+  },
+  {
+    "subject": "Sahrawi Arab Democratic Republic",
+    "predicate": "supported by",
+    "object": "Algeria, Libya (until 1984)"
+  },
+  {
+    "subject": "Hassan II",
+    "predicate": "role",
+    "object": "Supreme Commander and Chief-of-Staff"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Morocco",
+    "object": "Hassan II, Ahmed Dlimi, Abdelaziz Bennani, Mohamed Abrouk, Housni Benslimane, Hammou Arzaz"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Mauritania",
+    "object": "Mokhtar Ould Daddah, Mustafa Ould Salek, Mohamed Khouna Ould Haidallah, Maaouya Ould Sid'Ahmed Taya, Mohamed Ould Bah Ould Abdelkader"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "France",
+    "object": "Valéry Giscard d'Estaing (President and Commander-in-Chief), Michel Claude Forget"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Sahrawi Arab Democratic Republic",
+    "object": "Mohamed Abdelaziz, El-Ouali Mustapha Sayed (†), Brahim Ghali, Lahbib Ayoub, Mohamed Lamine Uld Bujari, Mohamed Ali El Admi"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Algeria",
+    "object": "Houari Boumediene, Lounes Arib"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Morocco",
+    "object": "30,000 (1976), 60,000 (1980), 150,000 (1988), 120,000 (1991)"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Mauritania",
+    "object": "3,000-5,000 (1976), 12,000 (1977), 18,000 (1978), 5,000 (1976), 15,000 (1980), 8,000 (1988)"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Morocco",
+    "object": "Unknown; 2,155-2,300 captured"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Mauritania",
+    "object": "2,000 soldiers killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Civilian",
+    "object": "More than 3,000 Sahrawis killed (Eckhardt,1985), 3 West German pilots killed, 853+ (Project Disappeared) - 1,500 (International Federation of Human Rights) Sahrawis missing, 40,000 (1976) - 80,000 (1977) Sahrawis displaced"
+  }
+]

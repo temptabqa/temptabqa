@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Travis Knight",
+    "predicate": "category",
+    "object": "nba"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "born",
+   "object": "September 13, 1974"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "birthplace",
+   "object": "Salt Lake City, Utah"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "nationality",
+   "object": "American"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "listed height",
+   "object": "7 ft 0 in (2.13 m)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "listed weight",
+   "object": "235 lb (107 kg)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "high school",
+   "object": "Alta (Sandy, Utah)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "college",
+   "object": "UConn (1992-1996)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "NBA draft",
+   "object": "1996 / Round: 1 / Pick: 29th overall"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "playing career",
+   "object": "1996-2003"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "position",
+   "object": "Center"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "number",
+   "object": "40, 44"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "career information",
+   "object": "Selected by the Chicago Bulls"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "team",
+   "object": "Los Angeles Lakers (1996-1997)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "team",
+   "object": "Boston Celtics (1997-1998)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "team",
+   "object": "Los Angeles Lakers (1998-2000)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "team",
+   "object": "New York Knicks (2000-2003)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "award",
+   "object": "NBA champion (2000)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "award",
+   "object": "NBA All-Rookie Second Team (1997)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "career NBA statistics points",
+   "object": "1,276 (3.4 ppg)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "career NBA statistics rebounds",
+   "object": "1,160 (3.1 rpg)"
+  },
+  {
+   "subject": "Travis Knight",
+   "predicate": "career NBA statistics blocks",
+   "object": "221 (0.6 bpg)"
+  }
+]

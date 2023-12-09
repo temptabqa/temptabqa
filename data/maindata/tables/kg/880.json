@@ -1,0 +1,182 @@
+[
+  {
+    "subject": "Jen Psaki",
+    "predicate": "category",
+    "object": "office holder"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "image",
+    "object": "Jen Psaki 2022.jpg"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "role",
+    "object": "34th White House Press Secretary"
+  },
+  {
+    "subject": "34th White House Press Secretary",
+    "predicate": "in_office",
+    "object": "January 20, 2021 - May 13, 2022"
+  },
+  {
+    "subject": "34th White House Press Secretary",
+    "predicate": "President",
+    "object": "Joe Biden"
+  },
+  {
+    "subject": "34th White House Press Secretary",
+    "predicate": "Deputy",
+    "object": "Karine Jean-Pierre"
+  },
+  {
+    "subject": "34th White House Press Secretary",
+    "predicate": "Preceded_by",
+    "object": "Kayleigh McEnany"
+  },
+  {
+    "subject": "34th White House Press Secretary",
+    "predicate": "Succeeded_by",
+    "object": "Karine Jean-Pierre"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "role",
+    "object": "White House Communications Director"
+  },
+  {
+    "subject": "White House Communications Director",
+    "predicate": "in_office",
+    "object": "April 1, 2015 - January 20, 2017"
+  },
+  {
+    "subject": "White House Communications Director",
+    "predicate": "President",
+    "object": "Barack Obama"
+  },
+  {
+    "subject": "White House Communications Director",
+    "predicate": "Preceded_by",
+    "object": "Jennifer Palmieri"
+  },
+  {
+    "subject": "White House Communications Director",
+    "predicate": "Succeeded_by",
+    "object": "Sean Spicer"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "role",
+    "object": "Spokesperson for the United States Department of State"
+  },
+  {
+    "subject": "Spokesperson for the United States Department of State",
+    "predicate": "in_office",
+    "object": "April 5, 2013 - March 31, 2015"
+  },
+  {
+    "subject": "Spokesperson for the United States Department of State",
+    "predicate": "President",
+    "object": "Barack Obama"
+  },
+  {
+    "subject": "Spokesperson for the United States Department of State",
+    "predicate": "Deputy",
+    "object": "Marie Harf"
+  },
+  {
+    "subject": "Spokesperson for the United States Department of State",
+    "predicate": "Preceded_by",
+    "object": "Victoria Nuland"
+  },
+  {
+    "subject": "Spokesperson for the United States Department of State",
+    "predicate": "Succeeded_by",
+    "object": "John Kirby"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "role",
+    "object": "White House Deputy Communications Director"
+  },
+  {
+    "subject": "White House Deputy Communications Director",
+    "predicate": "in_office",
+    "object": "December 19, 2009 - September 22, 2011"
+  },
+  {
+    "subject": "White House Deputy Communications Director",
+    "predicate": "President",
+    "object": "Barack Obama"
+  },
+  {
+    "subject": "White House Deputy Communications Director",
+    "predicate": "Preceded_by",
+    "object": "Daniel Pfeiffer"
+  },
+  {
+    "subject": "White House Deputy Communications Director",
+    "predicate": "Succeeded_by",
+    "object": "Jennifer Palmieri"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "role",
+    "object": "White House Deputy Press Secretary"
+  },
+  {
+    "subject": "White House Deputy Press Secretary",
+    "predicate": "in_office",
+    "object": "January 20, 2009 - December 19, 2009"
+  },
+  {
+    "subject": "White House Deputy Press Secretary",
+    "predicate": "President",
+    "object": "Barack Obama"
+  },
+  {
+    "subject": "White House Deputy Press Secretary",
+    "predicate": "Leader",
+    "object": "Robert Gibbs"
+  },
+  {
+    "subject": "White House Deputy Press Secretary",
+    "predicate": "Preceded_by",
+    "object": "Tony Fratto"
+  },
+  {
+    "subject": "White House Deputy Press Secretary",
+    "predicate": "Succeeded_by",
+    "object": "Bill Burton"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "born",
+    "object": "Jennifer Rene Psaki, December 1, 1978, Stamford, Connecticut, U.S."
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "political_party",
+    "object": "Democratic"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "spouse",
+    "object": "Gregory Mecher"
+  },
+  {
+    "subject": "Gregory Mecher",
+    "predicate": "married",
+    "object": "2010"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "children",
+    "object": "2"
+  },
+  {
+    "subject": "Jen Psaki",
+    "predicate": "education",
+    "object": "College of William and Mary (BA)"
+  }
+]

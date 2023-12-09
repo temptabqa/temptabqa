@@ -1,0 +1,156 @@
+[
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "category",
+    "object": "badminton"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "2013 French Super Series",
+    "object": "image"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "country",
+    "object": "South Korea"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "born",
+    "object": "19 August 1986"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "birth_place",
+    "object": "Jeongeup, Jeonbuk, South Korea"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "height",
+    "object": "1.80 m (5 ft 11 in)"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "weight",
+    "object": "68 kg (150 lb)"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "handedness",
+    "object": "Right"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "highest_ranking_MD",
+    "object": "1 (with Lee Yong-dae 14 August 2014)"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "highest_ranking_XD",
+    "object": "11"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "world_championships_silver",
+    "object": ["2011 London Men's doubles", "2014 Copenhagen Men's doubles"]
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "world_championships_bronze",
+    "object": "2015 Jakarta Men's doubles"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "sudirman_cup_silver",
+    "object": [
+      "2009 Guangzhou Mixed team",
+      "2013 Kuala Lumpur Mixed team"
+    ]
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "sudirman_cup_bronze",
+    "object": ["2011 Qingdao Mixed team", "2015 Dongguan Mixed team"]
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "thomas_cup_silver",
+    "object": "2012 Wuhan Men's team"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "thomas_cup_bronze",
+    "object": "2016 Kunshan Men's team"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "asian_games_gold",
+    "object": "2014 Incheon Men's team"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "asian_games_silver",
+    "object": [
+      "2010 Guangzhou Men's team",
+      "2014 Incheon Men's doubles"
+    ]
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "asia_championships_gold",
+    "object": [
+      "2010 New Delhi Men's doubles",
+      "2014 Gimcheon Men's doubles",
+      "2015 Wuhan Men's doubles",
+      "2016 Wuhan Men's doubles"
+    ]
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "asia_championships_silver_MD",
+    "object": [
+      "2009 Suwon Men's doubles",
+      "2009 Suwon Mixed doubles",
+      "2010 New Delhi Mixed doubles"
+    ]
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "asia_mixed_team_championships_silver",
+    "object": "2017 Ho Chi Minh Mixed team"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "asia_team_championships_bronze",
+    "object": "2016 Hyderabad Men's team"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "summer_universiade_gold",
+    "object": "2007 Bangkok Mixed doubles"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "world_junior_championships_silver",
+    "object": "2004 Richmond Mixed team"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "world_junior_championships_bronze",
+    "object": "2004 Richmond Boys' doubles"
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "asian_junior_championships_silver",
+    "object": [
+      "2004 Hwacheon Boys' doubles",
+      "2004 Hwacheon Mixed doubles",
+      "2004 Hwacheon Boys' team"
+    ]
+  },
+  {
+    "subject": "Yoo Yeon-seong",
+    "predicate": "bwf_profile",
+    "object": "link"
+  }
+]

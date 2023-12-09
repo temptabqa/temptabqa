@@ -1,0 +1,202 @@
+[
+{
+  "subject": "Japan",
+  "predicate": "caption",
+  "object": "Economy of Japan"
+},
+{
+  "subject": "Japan",
+  "predicate": "infobox-image",
+  "object": "Skyscrapers of Shinjuku 2009 January.jpg | Tokyo, the financial center of Japan"
+},
+{
+  "subject": "Japan",
+  "predicate": "Currency",
+  "object": "Japanese yen (JPY, ¥)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Fiscal year",
+  "object": "1 April - 31 March"
+},
+{
+  "subject": "Japan",
+  "predicate": "Trade organizations",
+  "object": "APEC, WTO, CPTPP, OECD, G-20, G7 and others"
+},
+{
+  "subject": "Japan",
+  "predicate": "Country group",
+  "object": "Developed/Advanced | High-income economy"
+},
+{
+  "subject": "Japan",
+  "predicate": "Population",
+  "object": "Decrease | 125.88 million (1 October 2020 prov. est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "GDP",
+  "object": "Increase | $5.39 trillion (nominal; 2021 est.) | Increase | $5.59 trillion (PPP; 2021 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "GDP rank",
+  "object": "3rd (nominal, 2021) | 4th (PPP, 2021)"
+},
+{
+  "subject": "Japan",
+  "predicate": "GDP growth",
+  "object": "-4.6% (2020) 1.7% | 2021 estimate | 1.7% | 2022 forecast | 1.3% | 2023 forecast"
+},
+{
+  "subject": "Japan",
+  "predicate": "GDP per capita",
+  "object": "Increase | $42,928 (nominal, 2021 est.) | Increase | $44,585 (PPP, 2021 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "GDP per capita rank",
+  "object": "32nd (nominal, 2021) | 43rd (PPP, 2021)"
+},
+{
+  "subject": "Japan",
+  "predicate": "GDP by sector",
+  "object": "Agriculture: 1.1% | Industry: 30.1% | Services: 68.7% | (2017 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "GDP by component",
+  "object": "Household consumption: 55.5% | Government consumption: 19.6% | Investment in fixed capital: 24% | Investment in inventories: 0% | Exports of goods and services: 17.7% | Imports of goods and services: -16.8% | (2017 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Inflation (CPI)",
+  "object": "−0.1% (2020 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Population below poverty line",
+  "object": "5.5% (2020) | 0.7% on less than $1.90/day (2013) | 0.9% on less than $3.20/day (2013) | 1.2% on less than $5.50/day (2013)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Gini coefficient",
+  "object": "33.9 | medium | (2015)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Human Development Index",
+  "object": "Increase | 0.919 | very high | (2019) (19th) | Increase | 0.843 | very high | IHDI (2019)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Labor force",
+  "object": "Increase | 68.7 million (August 2020) | Increase | 60.3% employment rate (August 2020)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Labor force by occupation",
+  "object": "Agriculture: 3% | Industry: 25% | Services: 72% | (FY 2018)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Unemployment",
+  "object": "Negative increase | 3.0% (August 2020) | Positive decrease | 4.7% youth unemployment (15 to 24 year-olds; August 2020) | Negative increase | 2.1 million unemployed (August 2020)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Main industries",
+  "object": "Motor vehicles | Electronics | machine tools | steel | nonferrous metals | ships | chemicals | textiles | processed foods"
+},
+{
+  "subject": "Japan",
+  "predicate": "Ease-of-doing-business rank",
+  "object": "Increase | 29th (very easy, 2020)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Exports",
+  "object": "Increase | $728.931 billion (2021)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Export goods",
+  "object": "Transport Equipment 21.0% | Machinery 19.9% | Electrical Machinery 18.7% | Chemicals 12.4% | Manufactured Goods 10.4% | Raw Materials 1.7% | Foodstuff 1.3% | Mineral Fuels 0.8% | Others 13.8%"
+},
+{
+  "subject": "Japan",
+  "predicate": "Main export partners",
+  "object": "China | Increase | 22.1% | United States | Decrease | 18.4% | ASEAN | Decrease | 14.4% | European Union | Decrease | 9.2% | South Korea | Decrease | 7.0% | Taiwan | Increase | 6.9% | Hong Kong | Decrease | 5.0% | Australia | Decrease | 1.9% | Others 15.1%"
+},
+{
+  "subject": "Japan",
+  "predicate": "Imports",
+  "object": "Increase | $742.094 billion (2021)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Import goods",
+  "object": "Electrical Machinery 17.6% | Mineral Fuels 16.6% | Machinery 10.5% | Foodstuff 9.9% | Chemicals 9.9% | Manufactured Goods 9.3% | Raw Materials 6.9% | Transport Equipment 5.0% | Others 14.4%"
+},
+{
+  "subject": "Japan",
+  "predicate": "Main import partners",
+  "object": "China | Decrease | 25.8% | ASEAN | Decrease | 15.7% | European Union | Decrease | 11.4% | United States | Decrease | 11.0% | Australia | Decrease | 5.6% | South Korea | Decrease | 4.2% | Taiwan | Decrease | 4.2% | Saudi Arabia | Decrease | 2.9% | Others 19.2%"
+},
+{
+  "subject": "Japan",
+  "predicate": "FDI stock",
+  "object": "Increase | $310.31 billion (December 2019) | Increase | Abroad: $1.858 trillion (December 2019)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Current account",
+  "object": "Decrease | − $13.156 billion (2021)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Gross external debt",
+  "object": "$4.700 trillion (September 2020 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Public debt",
+  "object": "Negative increase | 237.6% of GDP (2017 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Budget balance",
+  "object": "−3.5% (of GDP) (2017 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Revenues",
+  "object": "1.714 trillion (2017 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Expenses",
+  "object": "1.885 trillion (2017 est.)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Economic aid",
+  "object": "donor | : ODA, $10.37 billion (2016)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Credit rating",
+  "object": "Standard & Poor's | A+ (Domestic) | A+ (Foreign) | AA+ (T&C Assessment) | Outlook: Stable | Moody's | A1 | Outlook: Stable | Fitch | A | Outlook: Stable | Scope | A | Outlook: Negative"
+},
+{
+  "subject": "Japan",
+  "predicate": "Foreign reserves",
+  "object": "Decrease | $1.389 trillion (October 2020)"
+},
+{
+  "subject": "Japan",
+  "predicate": "Main data source | CIA World Fact Book | All values, unless otherwise stated, are in US dollars.",
+  "object": ""
+}
+]

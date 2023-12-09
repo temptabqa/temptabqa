@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Roman the Great",
+    "predicate": "is",
+    "object": "emperor"
+  },
+  {
+    "subject": "Roman the Great",
+    "predicate": "has image",
+    "object": "Roman Mstislavich, Roman of Halych, Roman the Great.jpg"
+  },
+  {
+    "subject": "Prince of Novgorod",
+    "predicate": "reign",
+    "object": "1168-1170"
+  },
+  {
+    "subject": "Prince of Novgorod",
+    "predicate": "predecessor",
+    "object": "Svyatoslav IV Rostislavich"
+  },
+  {
+    "subject": "Prince of Novgorod",
+    "predicate": "successor",
+    "object": "Rurik II Rostislavich"
+  },
+  {
+    "subject": "Prince of Vladymyr-in-Volhynia",
+    "predicate": "reign",
+    "object": "1170-1189 | 1189-1205"
+  },
+  {
+    "subject": "Prince of Vladymyr-in-Volhynia",
+    "predicate": "predecessor",
+    "object": "Mstislav III Izyaslavich | Vsevolod II Mstislavich"
+  },
+  {
+    "subject": "Prince of Vladymyr-in-Volhynia",
+    "predicate": "successor",
+    "object": "Vsevolod II Mstislavich | Daniel Romanovich"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "reign",
+    "object": "1189 | 1198/1199-1205"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "predecessor",
+    "object": "(?) Oleg Yaroslavich | Vladimir II Yaroslavich"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "successor",
+    "object": "Andrew II | Daniel Romanovich"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "born",
+    "object": "circa | 1152"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "died",
+    "object": "19 June 1205 (52-53) | Zawichost, Kingdom of Poland"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "spouse",
+    "object": "Predslava Ryurikovna | Anna-Euphrosyne"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "issue",
+    "object": "Fedora Romanovna | Olena Romanovna | Daniel Romanovich | Vasylko Romanovich"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "house",
+    "object": "Rurik"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "father",
+    "object": "Mstislav II of Kiev (Kyiv)"
+  },
+  {
+    "subject": "Prince of Halych",
+    "predicate": "mother",
+    "object": "Agnes of Poland"
+  }
+]

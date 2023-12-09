@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "is a",
+    "object": "athelete"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "has image",
+    "object": "Ivar Ballangrud 1949b.jpg"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "has caption",
+    "object": "Ballangrud at his skating store in 1949"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "born",
+    "object": "7 March 1904"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "born in",
+    "object": "Lunner, Norway"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "died",
+    "object": "1 June 1969"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "died in",
+    "object": "Trondheim, Norway"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "height",
+    "object": "1.80 m (5 ft 11 in)"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "represents",
+    "object": "Norway"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "participates in",
+    "object": "Speed skating"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "member of",
+    "object": "Oslo SK | Drammens SK"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "retired",
+    "object": "1939"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "has personal bests",
+    "object": "500 m - 42.7 (1939) | 1500 m - 2:14.0 (1939) | 5000 m - 8:17.2 (1936) | 10,000 m - 17:14.4 (1938)"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "won",
+    "object": "Olympic Games"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "won",
+    "object": "World Allround Championships"
+  },
+  {
+    "subject": "Ivar Ballangrud",
+    "predicate": "won",
+    "object": "European Championships"
+  }
+]

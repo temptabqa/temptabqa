@@ -1,0 +1,19 @@
+[
+    {"subject": "Frank Urso", "predicate": "category", "object": "lacrosse"},
+    {"subject": "Frank Urso", "predicate": "Nationality", "object": "American"},
+    {"subject": "Frank Urso", "predicate": "Shoots", "object": "Right"},
+    {"subject": "Frank Urso", "predicate": "Position", "object": "Midfield"},
+    {"subject": "Frank Urso", "predicate": "NLL teams", "object": "Washington Wave"},
+    {"subject": "Frank Urso", "predicate": "NCAA team", "object": "University of Maryland"},
+    {"subject": "Frank Urso", "predicate": "Pro career", "object": "1987"},
+    {"subject": "Frank Urso", "predicate": "Coach", "object": "Garnet Valley High School"},
+    {"subject": "Frank Urso", "predicate": "Career highlights", "object": "1973 NCAA D-I Champion"},
+    {"subject": "Frank Urso", "predicate": "Career highlights", "object": "1975 NCAA D-I Champion"},
+    {"subject": "Frank Urso", "predicate": "Career highlights", "object": "4× First-team All-American (1973, 1974, 1975, 1976)"},
+    {"subject": "Frank Urso", "predicate": "Career highlights", "object": "1975 Division I Player of the Year"},
+    {"subject": "Frank Urso", "predicate": "Career highlights", "object": "1974 Division I Midfielder of the Year"},
+    {"subject": "Frank Urso", "predicate": "Career highlights", "object": "1976 Division I Midfielder of the Year"},
+    {"subject": "Frank Urso", "predicate": "Representing", "object": "the United States"},
+    {"subject": "Frank Urso", "predicate": "World Lacrosse Championship", "object": "Gold medal - first place, 1974 Melbourne"},
+    {"subject": "Frank Urso", "predicate": "Inducted into", "object": "U.S. Lacrosse Hall of Fame, 1981"}
+]

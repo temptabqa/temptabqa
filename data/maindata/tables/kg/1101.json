@@ -1,0 +1,43 @@
+[
+  {
+    "subject": "Judah Ben-Hur",
+    "predicate": "category",
+    "object": "character"
+  },
+  {
+    "subject": "Judah Ben-Hur",
+    "predicate": "First appearance",
+    "object": "A Tale of the Christ | (1880, novel)"
+  },
+  {
+    "subject": "Judah Ben-Hur",
+    "predicate": "Last appearance",
+    "object": "Ben-Hur | (2016, film)"
+  },
+  {
+    "subject": "Judah Ben-Hur",
+    "predicate": "Created by",
+    "object": "Lew Wallace"
+  },
+  {
+    "subject": "Judah Ben-Hur",
+    "predicate": "Portrayed by",
+    "object": "Ramon Novarro (1925) | Charlton Heston (1959) | Joseph Morgan (2010) | Jack Huston (2016)"
+  },
+  {
+    "subject": "Judah Ben-Hur",
+    "predicate": "Voiced by",
+    "object": "Charlton Heston (2003)"
+  },
+  {
+    "subject": "Judah Ben-Hur",
+    "predicate": "In-universe information",
+    "object": {
+                   "Alias": "Ben-Hur | Son of Hur | Young Arrius",
+                   "Gender": "Male",
+                   "Occupation": "Prince | Galley Slave | Charioteer",
+                   "Family": "Miriam (mother) | Tirzah (sister)",
+                   "Spouse": "Esther"
+                 }
+  }
+]

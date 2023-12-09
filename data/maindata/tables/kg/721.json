@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "All Saints' Church",
+    "predicate": "category",
+    "object": "church"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "OS grid reference",
+    "object": "NZ398580"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Location",
+    "object": "City of Sunderland"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Country",
+    "object": "England"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Denomination",
+    "object": "Anglican"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Website",
+    "object": "www.monkwearmouthcofe.com"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Coordinates",
+    "object": "54.915, -1.380"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Status",
+    "object": "Parish church"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Founded",
+    "object": "3 September 1844"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Consecrated",
+    "object": "23 October 1849"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Functional status",
+    "object": "Active"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Architect",
+    "object": "J. Dobson Esq"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Architectural type",
+    "object": "Early English Style"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Completed",
+    "object": "13 May 1849"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Construction cost",
+    "object": "£2,200"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Province",
+    "object": "York"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Diocese",
+    "object": "Newcastle"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Parish",
+    "object": "Monkwearmouth"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Archbishop",
+    "object": "John Tucker Mugabi Sentamu"
+  },
+  {
+    "subject": "All Saints' Church",
+    "predicate": "Bishop",
+    "object": "John Martin Wharton CBE"
+  }
+]

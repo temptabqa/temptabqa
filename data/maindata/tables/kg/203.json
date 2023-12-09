@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Two-man | at the IBSF World Championships 2017",
+    "predicate": "category",
+    "object": "sports event"
+  },
+  {
+    "subject": "Two-man | at the IBSF World Championships 2017",
+    "predicate": "Venue",
+    "object": "Königssee bobsleigh, luge, and skeleton track"
+  },
+  {
+    "subject": "Two-man | at the IBSF World Championships 2017",
+    "predicate": "Location",
+    "object": "Königssee, Germany"
+  },
+  {
+    "subject": "Two-man | at the IBSF World Championships 2017",
+    "predicate": "Dates",
+    "object": "18-19 February"
+  },
+  {
+    "subject": "Two-man | at the IBSF World Championships 2017",
+    "predicate": "Competitors",
+    "object": "72 from 36 nations"
+  },
+  {
+    "subject": "Two-man | at the IBSF World Championships 2017",
+    "predicate": "Teams",
+    "object": "36"
+  },
+  {
+    "subject": "Two-man | at the IBSF World Championships 2017",
+    "predicate": "Winning time",
+    "object": "3:16.71"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "gold medal",
+    "object": "Francesco Friedrich | Thorsten Margis | Germany"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "silver medal",
+    "object": "Justin Kripps | Jesse Lumsden | Canada"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "bronze medal",
+    "object": "Johannes Lochner | Joshua Bluhm | Germany"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "previous event",
+    "object": "2016"
+  },
+  {
+    "subject": "Medalists",
+    "predicate": "next event",
+    "object": "2019"
+  }
+]

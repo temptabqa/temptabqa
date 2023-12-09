@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "International Space Station programme",
+    "predicate": "category",
+    "object": "space program"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "caption",
+    "object": "International Space Station programme"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "infobox-image",
+    "object": "ISS emblem.png"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Organisation",
+    "object": "CSA | ESA | JAXA | NASA | Roscosmos"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Manager",
+    "object": "CSA | Pierre Jean | ESA | Bernardo Patti | JAXA | Yoshiyuki Hasegawa | NASA | Kirk Shireman (2015-present) | Roscosmos | Alexey Krasnov"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Status",
+    "object": "Active"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Programme history | Cost",
+    "object": "$150 billion (2010)"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Programme history | Duration",
+    "object": "1984-present"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Programme history | First flight",
+    "object": "Zarya | November 20, 1998"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Programme history | First crewed flight",
+    "object": "STS-88 | December 4, 1998"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Programme history | Launch site(s)",
+    "object": "Baikonur (1998-present) | Kennedy (1998-present) | Cape Canaveral (2010-present) | Wallops (2013-present)"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Vehicle information | Uncrewed vehicle(s)",
+    "object": "Progress (2000-present) | ATV (2008-2015) | HTV (2009-2020) | Dragon (2010-2020) | Cygnus (2013-present) | Cargo Dragon (2020-present)"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Vehicle information | Crewed vehicle(s)",
+    "object": "ISS (1998-present) | Space Shuttle (1998-2011) | Soyuz (2000-present) | Crew Dragon (2020-present)"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Vehicle information | Crew capacity",
+    "object": "ISS | 7 | Space Shuttle | 7 | Soyuz | 3 | Crew Dragon | 4"
+  },
+  {
+    "subject": "International Space Station programme",
+    "predicate": "Vehicle information | Launch vehicle(s)",
+    "object": "Proton (1998-present) | Space Shuttle (1998-2011) | Soyuz (2000-present) | Falcon 9 (2010-present) | Antares (2013-present) | Atlas V (2015-2017)"
+  }
+]

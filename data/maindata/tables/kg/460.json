@@ -1,0 +1,177 @@
+[
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "is a",
+    "object": "space probe"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "caption",
+    "object": "Parker Solar Probe"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "infobox-image",
+    "object": "Digital model of a spacecraft with a bus attached to a larger sun-shield. Two small solar panels are attached to the side of the bus, along with four rear-facing antennas. | Model of the probe"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Names",
+    "object": "Solar Probe (before 2002) | Solar Probe Plus (2010-2017) | Parker Solar Probe (since 2017)"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Mission type",
+    "object": "Heliophysics"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Operator",
+    "object": "NASA / Applied Physics Laboratory"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "COSPAR ID",
+    "object": "2018-065A | Edit this at Wikidata"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "SATCAT | number",
+    "object": "43592"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Website",
+    "object": "parkersolarprobe | .jhuapl | .edu"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Mission duration",
+    "object": "7 years (planned) | Elapsed: 3 years, 10 months and 20 days"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Manufacturer",
+    "object": "Applied Physics Laboratory"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Launch mass",
+    "object": "685 kg (1,510 lb)"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Dry mass",
+    "object": "555 kg (1,224 lb)"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Payload mass",
+    "object": "50 kg (110 lb)"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Dimensions",
+    "object": "1.0 m × 3.0 m × 2.3 m (3.3 ft × 9.8 ft × 7.5 ft)"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Power",
+    "object": "343 W (at closest approach)"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Launch date",
+    "object": "12 August 2018, 07:31 UTC"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Rocket",
+    "object": "Delta IV Heavy / Star-48BV"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Launch site",
+    "object": "Cape Canaveral, SLC-37"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Contractor",
+    "object": "United Launch Alliance"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Reference system",
+    "object": "Heliocentric orbit"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Semi-major axis",
+    "object": "0.388 AU (58.0 million km; 36.1 million mi)"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Perihelion altitude",
+    "object": "0.046 AU (6.9 million km; 4.3 million mi; 9.86 | R | ☉ | )"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Aphelion altitude",
+    "object": "0.73 AU (109 million km; 68 million mi)"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Inclination",
+    "object": "3.4°"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Period",
+    "object": "88 days"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Orbital parameters",
+    "object": "Sun"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Band",
+    "object": "K | a | -band | X-band"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "SWEAP",
+    "object": "Solar Wind Electrons Alphas and Protons Investigation"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "SPC",
+    "object": "Solar Probe Cup"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "SPAN",
+    "object": "Solar Probe Analyzers"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "WISPR",
+    "object": "Wide-field Imager for Solar Probe"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "FIELDS",
+    "object": "Electromagnetic Fields Investigation"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "IS☉IS‒EPI",
+    "object": "Integrated Science Investigation of the Sun Energetic Particle Instruments"
+  },
+  {
+    "subject": "Parker Solar Probe",
+    "predicate": "Instruments",
+    "object": "Artwork of the spacecraft next to the Sun, enclosed in a circle with a yellow border. The words \"Parker Solar Probe\" are placed around the interior of the border, while the words \"a mission to touch the Sun\" are written inline in a smaller font in the bottom right of the image. | The official insignia for the Parker Solar Probe mission."
+  }
+]

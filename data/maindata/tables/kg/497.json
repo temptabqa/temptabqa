@@ -1,0 +1,247 @@
+[
+  {
+    "subject": "Morten Olsen",
+    "predicate": "has_image",
+    "object": "Morten Olsen 2 20170114.jpg"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "has_event",
+    "object": "Olsen attempts a goal against Yann Genty in 2013"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "full_name",
+    "object": "Morten Toft Olsen"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "born",
+    "object": "11 October 1984"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "age",
+    "object": "37"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "birthplace",
+    "object": "Osted, Denmark"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "nationality",
+    "object": "Danish"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "height",
+    "object": "1.84 m (6 ft 0 in)"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "playing_position",
+    "object": "Centre back"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "current_club",
+    "object": "GOG Håndbold"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "number",
+    "object": "34"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "GOG Gudme"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2003-2005"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "HF Mors"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2005-2006"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "Viborg HK"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2006-2007"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "Bjerringbro-Silkeborg"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2007-2010"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "TSV Hannover-Burgdorf"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2010-2013"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "Saint-Raphaël Var"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2013-2015"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "Al Rayyan SC"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2015"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "TSV Hannover-Burgdorf"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2015-2020"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "senior_club",
+    "object": "GOG Håndbold"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "played_years",
+    "object": "2020-"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "national_team",
+    "object": "Denmark"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "national_team_years",
+    "object": "2006-2021"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "national_team_appearances",
+    "object": "118"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "national_team_goals",
+    "object": "217"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Olympic_Games_medal",
+    "object": "Gold"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Olympic_Games_year",
+    "object": "2016"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Olympic_Games_location",
+    "object": "Rio de Janeiro"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Olympic_Games_event",
+    "object": "Team"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Olympic_Games_medal",
+    "object": "Silver"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Olympic_Games_year",
+    "object": "2020"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Olympic_Games_location",
+    "object": "Tokyo"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "World_Championship_medal",
+    "object": "Gold"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "World_Championship_year",
+    "object": "2019"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "World_Championship_location",
+    "object": "Germany/Denmark"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "World_Championship_medal",
+    "object": "Gold"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "World_Championship_year",
+    "object": "2021"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "World_Championship_location",
+    "object": "Egypt"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Junior_World_Championship_medal",
+    "object": "Gold"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Junior_World_Championship_year",
+    "object": "2005"
+  },
+  {
+    "subject": "Morten Olsen",
+    "predicate": "Junior_World_Championship_location",
+    "object": "Hungary"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "category",
+    "object": "earthquake"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "caption",
+    "object": "2020 Aegean Sea earthquake"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "UTC time",
+    "object": "2020-10-30 11:51:26"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "ISC event",
+    "object": "619514791"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "USGS-ANSS",
+    "object": "ComCat"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Local date",
+    "object": "30 October 2020"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Local time",
+    "object": "14:51 TRT (UTC+3)"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Duration",
+    "object": "16 seconds"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Magnitude",
+    "object": "6.9 M ww (Kandilli), 7.0 M ww (USGS)"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Depth",
+    "object": "21 km (13 mi)"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Epicentre",
+    "object": "37.918°N 26.790°E, East Aegean Sea"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Type",
+    "object": "Normal"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Areas affected",
+    "object": "Turkey, Greece"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Total damage",
+    "object": "> $400 million"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Maximum intensity",
+    "object": "VIII (Severe)"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Peak acceleration",
+    "object": "0.98 g"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Tsunami",
+    "object": "5.6-6 m (18-20 ft)"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Foreshocks",
+    "object": "Three months prior"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Aftershocks",
+    "object": "2,800+, highest so far is a M w 5.3"
+  },
+  {
+    "subject": "2020 Aegean Sea earthquake",
+    "predicate": "Casualties",
+    "object": "119 dead, 1,053 injured, 15,000 homeless"
+  }
+]

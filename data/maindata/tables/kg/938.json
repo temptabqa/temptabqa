@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Colorado State Senate", 
+    "predicate": "category", 
+    "object": "legislature" 
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "part_of",
+    "object": "73rd Colorado General Assembly"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "has_coat_of_arms_or_logo",
+    "object": "Coat of arms or logo"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "type",
+    "object": "Upper house"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "term_limits",
+    "object": "2 terms (8 years)"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "new_session_started",
+    "object": "January 13, 2021"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "president",
+    "object": "Steve Fenberg (D) | since February 23, 2022"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "president_pro_tempore",
+    "object": "Kerry Donovan (D) | since January 13, 2021"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "majority_leader",
+    "object": "Dominick Moreno (D) | since February 23, 2022"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "minority_leader",
+    "object": "John Cooke (R) | since May 16, 2022"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "seats",
+    "object": "35"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "political_groups",
+    "object": "Majority | Democratic (20) | Minority | Republican (15)"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "length_of_term",
+    "object": "4 years"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "authority",
+    "object": "Article V, Colorado Constitution"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "salary",
+    "object": "$30,000/year + per diem"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "structure_image",
+    "object": "Colorado 2021-2023.svg"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "voting_system",
+    "object": "First-past-the-post"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "last_election",
+    "object": "November 3, 2020 | (18 seats)"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "next_election",
+    "object": "November 8, 2022 | (17 seats)"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "redistricting",
+    "object": "Colorado Independent Redistricting Commissions"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "meeting_place_image",
+    "object": "ColoradoStateCapitolSenateChamber gobeirne.jpg"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "meeting_place",
+    "object": "State Senate Chamber | Colorado State Capitol, Denver"
+  },
+  {
+    "subject": "Colorado State Senate",
+    "predicate": "website",
+    "object": "Colorado General Assembly"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "has_image",
+    "object": "Cheltenham (Malvern Road) train from Andover Junction geograph-2683919-by-Ben-Brooksbank.jpg"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "has_image_date",
+    "object": "1959"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "location",
+    "object": "Cheltenham, Cheltenham | England"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "grid_reference",
+    "object": "SO936223"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "number_of_platforms",
+    "object": "3"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "status",
+    "object": "Disused"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "original_company",
+    "object": "Great Western Railway"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "post-grouping",
+    "object": "Great Western Railway | Western Region of British Railways"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "opening_date",
+    "object": "30 March 1908"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "original_name",
+    "object": "Cheltenham Malvern Road"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "first_closure_date",
+    "object": "1 January 1917"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "reopening_date",
+    "object": "7 July 1919"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "renaming_date",
+    "object": "1 February 1925"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "new_name",
+    "object": "Cheltenham Spa Malvern Road"
+  },
+  {
+    "subject": "Cheltenham Spa (Malvern Road)",
+    "predicate": "final_closure_date",
+    "object": "3 January 1966"
+  }
+]

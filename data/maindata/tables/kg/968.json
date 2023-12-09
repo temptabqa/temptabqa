@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "2013 Hawija clashes",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "2013 Hawija clashes",
+    "predicate": "Date",
+    "object": "23 April 2013 - 26 April 2013 (3 days)"
+  },
+  {
+    "subject": "2013 Hawija clashes",
+    "predicate": "Location",
+    "object": "Initial clashes in Hawija, Kirkuk Governorate, later spread to central and northern Iraq"
+  },
+  {
+    "subject": "2013 Hawija clashes",
+    "predicate": "Result",
+    "object": "Insurgents briefly take over the town of Suleiman Bek on 25 April, Army imposes curfew in Diyala and Anbar Governorates, Iraqi government bans 10 TV stations (incl. Al Jazeera) from broadcasting on 29 April, Karameh Border Crossing temporarily closed on 30 April"
+  },
+  {
+    "subject": "2013 Hawija clashes",
+    "predicate": "Part of",
+    "object": "the Iraqi insurgency and the 2012-2013 Iraqi protests"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "involved",
+    "object": "Naqshbandi Army, Intifada Ahrar al-Iraq, Islamic State of Iraq and the Levant, Iraq, Iraqi Government, Iraqi Army, Iraqi Police, Kurdistan Region, Peshmerga, Sahwa militia"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "involved",
+    "object": "Izzat Ibrahim ad-Douri, Abu Bakr al-Baghdadi, Iraq, Nouri al-Maliki, Iraq, Babaker Shawkat B. Zebari, Kurdistan Region, Massoud Barzani, Iraq, Ahmad Abu Risha"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Naqshbandi Army",
+    "object": "1,500-5,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Iraqi Army",
+    "object": "~300,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Iraqi Police",
+    "object": "~300,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Peshmerga",
+    "object": "~200,000"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Sons of Iraq",
+    "object": "30,000 (June 2012)"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "soldiers killed",
+    "object": "51"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "soldiers injured",
+    "object": "62+"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "policemen killed",
+    "object": "38"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "policemen injured",
+    "object": "41+"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Sahwa members killed",
+    "object": "6"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Sahwa members injured",
+    "object": "1"
+  },
+  {
+    "subject": "2013 Hawija clashes",
+    "predicate": "total casualties",
+    "object": "330+ killed, ~600 injured"
+  }
+]

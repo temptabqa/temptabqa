@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "Werewolf: The Apocalypse",
+    "predicate": "is a",
+    "object": "board game"
+  },
+  {
+    "subject": "Werewolf: The Apocalypse",
+    "predicate": "caption",
+    "object": "Werewolf: The Apocalypse"
+  },
+  {
+    "subject": "Werewolf: The Apocalypse",
+    "predicate": "infobox-image",
+    "object": "Werewolf - The Apocalypse cover.jpg | Revised Edition | cover"
+  },
+  {
+    "subject": "Werewolf: The Apocalypse",
+    "predicate": "designed by",
+    "object": "Mark Rein·Hagen"
+  },
+  {
+    "subject": "Werewolf: The Apocalypse",
+    "predicate": "published by",
+    "object": "White Wolf (1992-2004) | Onyx Path Publishing (2012-)"
+  },
+  {
+    "subject": "Werewolf: The Apocalypse",
+    "predicate": "publication years",
+    "object": "1992 (Edition 1) | 1994 (ed. 2) | 2000 (Revised Edition) | 2013 (20th Anniversary Edition) | TBA (ed. 5)"
+  },
+  {
+    "subject": "Werewolf: The Apocalypse",
+    "predicate": "belongs to genre",
+    "object": "Savage horror"
+  },
+  {
+    "subject": "Werewolf: The Apocalypse",
+    "predicate": "uses system",
+    "object": "Storyteller System"
+  }
+]

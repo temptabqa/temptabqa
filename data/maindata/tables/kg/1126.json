@@ -1,0 +1,15 @@
+[
+  {"subject": "B-24 Liberator", "predicate": "category", "object": "aircraft"},
+  {"subject": "B-24 Liberator", "predicate": "Role", "object": "Heavy bomber | Anti-submarine warfare | Maritime patrol aircraft | Type of aircraft"},
+  {"subject": "B-24 Liberator", "predicate": "Manufacturer", "object": "Consolidated Aircraft"},
+  {"subject": "B-24 Liberator", "predicate": "First flight", "object": "29 December 1939"},
+  {"subject": "B-24 Liberator", "predicate": "Introduction", "object": "1941"},
+  {"subject": "B-24 Liberator", "predicate": "Retired", "object": "1968 (Indian Air Force)"},
+  {"subject": "B-24 Liberator", "predicate": "Primary users", "object": "United States Army Air Forces | United States Navy | Royal Air Force | Royal Australian Air Force"},
+  {"subject": "B-24 Liberator", "predicate": "Produced", "object": "1940-1945"},
+  {"subject": "B-24 Liberator", "predicate": "Number built", "object": "18,188"},
+  {"subject": "B-24 Liberator", "predicate": "Variants", "object": "Consolidated PB4Y-2 Privateer | Consolidated C-87 Liberator Express | Consolidated Liberator I"},
+  {"subject": "B-24 Liberator", "predicate": "Developed into", "object": "Consolidated R2Y | Consolidated B-32 Dominator"},
+  {"subject": "B-24 Liberator", "predicate": "Image", "object": "Maxwell B-24.jpg"},
+  {"subject": "B-24 Liberator", "predicate": "Caption", "object": "United States Army Air Forces Consolidated B-24D Liberator over Maxwell Field, Alabama."}
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Rhodesian Bush War",
+    "predicate": "is also known as",
+    "object": "Second Chimurenga | Zimbabwe War of Liberation"
+  },
+  {
+    "subject": "Rhodesian Bush War",
+    "predicate": "Date",
+    "object": "4 July 1964 - 12 December 1979 | (15 years, 5 months, 1 week and 1 day)"
+  },
+  {
+    "subject": "Rhodesian Bush War",
+    "predicate": "Location",
+    "object": "Rhodesia (now Zimbabwe) | Zambia | Mozambique | Botswana"
+  },
+  {
+    "subject": "Rhodesian Bush War",
+    "predicate": "Result",
+    "object": "Lancaster House Agreement | End to armed hostilities | Free elections with ZANU and ZAPU participation | Formation of Zimbabwe"
+  },
+  {
+    "subject": "Rhodesian Bush War",
+    "predicate": "Territorial changes",
+    "object": "Zimbabwe gains internationally recognised independence"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Southern Rhodesia | (1964-1965) | Rhodesia | (1965-1979) | Zimbabwe Rhodesia | (1979) | South Africa | Supported by | Israel | (after 1967) | Portugal | Portugal | (until 1974) | FROLIZI (1978-1979)",
+    "object": "ZANU (ZANLA) | Mozambique | FRELIMO | Support for ZANU | China | (until 1976) | Ethiopia | Ethiopia | (from 1975) | Libya | Libya | North Korea | North Korea | Tanzania | Yugoslavia | Sweden | Sweden | ZAPU (ZIPRA) | ANC (MK) | Support for ZAPU | Bulgaria | Cuba | East Germany | Romania | Soviet Union | Yugoslavia | Zambia | FROLIZI (1971-1978)"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Rhodesia",
+    "object": "Ian Smith | P. K. van der Byl | Peter Walls | Mick McLaren | Frank Mussell | Ronald Reid-Daly | Ken Flower | Zimbabwe Rhodesia | Abel Muzorewa | Zimbabwe Rhodesia | Ndabaningi Sithole | Zimbabwe Rhodesia | James Chikerema | South Africa | Hendrik Verwoerd | South Africa | John Vorster | South Africa | P. W. Botha | Robert Mugabe | Herbert Chitepo | † | Josiah Tongogara | Ndabaningi Sithole | Edgar Tekere | Solomon Mujuru"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "Mozambique",
+    "object": "Samora Machel"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "ZAPU",
+    "object": "Joshua Nkomo | James Chikerema | Jason Moyo | † | Lookout Masuku | Dumiso Dabengwa"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "ANC (MK)",
+    "object": "Oliver Tambo | Joe Slovo | Nelson Mandela"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Rhodesia",
+    "object": "1979 | 10,800 regulars | 15,000 reservists | 8,000 police | 19,000 police reservists"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "South Africa",
+    "object": "1973 | 2,000-5,000 troops"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "ZANU",
+    "object": "1979 | 25,500 guerrillas"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "ZAPU",
+    "object": "1979 | 20,000 guerrillas"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Rhodesian security forces members",
+    "object": "1,120 killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "guerrillas",
+    "object": "10,000+ killed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "overall",
+    "object": "Around 20,000 people killed"
+  }
+]

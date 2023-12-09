@@ -1,0 +1,22 @@
+[
+  {"subject": "Ali Farag", "predicate": "category", "object": "squash"},
+  {"subject": "Ali Farag", "predicate": "full name", "object": "Ali Amr Farag"},
+  {"subject": "Ali Farag", "predicate": "nickname", "object": "Mr. Fantastic, Rubber-band Man, The Raptor"},
+  {"subject": "Ali Farag", "predicate": "country", "object": "Egypt"},
+  {"subject": "Ali Farag", "predicate": "residence", "object": "Cairo, Egypt"},
+  {"subject": "Ali Farag", "predicate": "born", "object": "22 April 1992 in Cairo, Egypt"},
+  {"subject": "Ali Farag", "predicate": "height", "object": "1.83 m (6 ft 0 in)"},
+  {"subject": "Ali Farag", "predicate": "turned pro", "object": "2009"},
+  {"subject": "Ali Farag", "predicate": "retired", "object": "Active"},
+  {"subject": "Ali Farag", "predicate": "plays", "object": "Right handed"},
+  {"subject": "Ali Farag", "predicate": "coached by", "object": "Wael Farag, Mike Way, Basem Makram, Karim Darwish"},
+  {"subject": "Ali Farag", "predicate": "racquet used", "object": "Dunlop HyperfibreXT Revelation Pro"},
+  {"subject": "Ali Farag", "predicate": "website", "object": "Ali Farag on Twitter | dunlopsports | .com | /team | /squash | /pros | /ali-farag | /"},
+  {"subject": "Ali Farag", "predicate": "men's singles highest ranking", "object": "No. 1 (June 2022)"},
+  {"subject": "Ali Farag", "predicate": "men's singles current ranking", "object": "No. 1 (June 2022)"},
+  {"subject": "Ali Farag", "predicate": "men's singles title(s)", "object": "22"},
+  {"subject": "Ali Farag", "predicate": "men's singles tour final(s)", "object": "41"},
+  {"subject": "Ali Farag", "predicate": "men's singles world open", "object": "W (2020-21)"},
+  {"subject": "Ali Farag", "predicate": "world championships", "object": ["Bronze medal - third place | 2017 Manchester | Singles", "Gold medal - first place | 2018-19 Chicago | Singles", "Gold medal - first place | 2020-21 Chicago | Singles", "Gold medal - first place | 2021-22 Cairo | Singles"]},
+  {"subject": "Ali Farag", "predicate": "world team championships", "object": ["Gold medal - first place | 2017 Marseille | Team", "Gold medal - first place | 2019 Washington D.C. | Team"]}
+]

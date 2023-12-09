@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Diana",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Born",
+    "object": "Diana Frances Spencer | ( | 1961-07-01 | ) | 1 July 1961 | Park House, Sandringham, Norfolk, England"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Died",
+    "object": "31 August 1997 | (1997-08-31) |  (aged 36) | Pitié-Salpêtrière Hospital, Paris, France"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Cause of death",
+    "object": "Injuries sustained in a car crash"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Burial",
+    "object": "6 September 1997 | Althorp, Northamptonshire, England"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Spouse",
+    "object": "Charles, Prince of Wales | ( | married | 1981 | ; | divorced | 1996 | )"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Issue",
+    "object": "Prince William, Duke of Cambridge | Prince Harry, Duke of Sussex"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "House",
+    "object": "Spencer (by birth) | Windsor (by marriage)"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Father",
+    "object": "John Spencer, 8th Earl Spencer"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Mother",
+    "object": "Frances Roche"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Education",
+    "object": "Riddlesworth Hall School | West Heath Girls' School | Institut Alpin Videmanette"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Titles",
+    "object": "Princess of Wales (more)"
+  },
+  {
+    "subject": "Diana",
+    "predicate": "Diana/images",
+    "object": "Diana smiling | Diana in June 1997"
+  },
+  {
+    "subject": "Signature",
+    "predicate": "Signature",
+    "object": "Lady Diana signature-vect.svg"
+  }
+]

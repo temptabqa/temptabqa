@@ -1,0 +1,192 @@
+[
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "category",
+    "object": "tabletennis"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "image",
+    "object": "ITTF World Tour 2017 German Open Lin Gaoyuan 02.jpg"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "event",
+    "object": "2017 German Open"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Nationality",
+    "object": "Chinese"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Born",
+    "object": "19 March 1995"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Birthplace",
+    "object": "Shenzhen, China"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Playing style",
+    "object": "Left-handed, shakehand grip"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Equipment",
+    "object": {
+      "blade": "Butterfly Lin Gaoyuan ALC blade",
+      "forehand": "DHS H3 National Blue (Black)",
+      "backhand": "DIGNICS 05 (Red)"
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Highest ranking",
+    "object": "2 (May 2019)"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Current ranking",
+    "object": "10 (Apr 2022)"
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "World Championships",
+    "object": {
+      "2018 Halmstad": "Gold medal - Team",
+      "2019 Budapest": "Bronze medal - Doubles",
+      "2021 Houston": {
+        "Mixed doubles": "Bronze medal",
+        "Doubles": "Bronze medal"
+      }
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "World Cup",
+    "object": {
+      "2018 London": "Gold medal - Team",
+      "2019 Tokyo": "Gold medal - Team",
+      "2018 Paris": "Bronze medal - Singles"
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "ITTF World Tour Grand Finals",
+    "object": {
+      "2018 Incheon": "Silver medal - Singles",
+      "2017 Astana": "Bronze medal - Singles",
+      "2019 Zhengzhou": "Bronze medal - Singles"
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Asian Games",
+    "object": {
+      "2018 Jakarta": {
+        "Team": "Gold medal",
+        "Singles": "Silver medal",
+        "Mixed doubles": "Silver medal"
+      }
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Asian Championships",
+    "object": {
+      "2017 Wuxi": "Gold medal - Doubles",
+      "2019 Yogyakarta": {
+        "Team": "Gold medal",
+        "Doubles": "Gold medal",
+        "Singles": "Silver medal"
+      }
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Asian Cup",
+    "object": {
+      "2017 Ahmedabad": "Gold medal - Singles",
+      "2018 Yokohama": "Silver medal - Singles"
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "World Junior Championships",
+    "object": {
+      "2009 Cartagena": {
+        "Team": "Gold medal",
+        "Doubles": "Silver medal",
+        "Singles": "Bronze medal",
+        "Mixed doubles": "Bronze medal"
+      },
+      "2010 Bratislava": {
+        "Team": "Gold medal",
+        "Singles": "Silver medal",
+        "Mixed doubles": "Silver medal",
+        "Doubles": "Bronze medal"
+      },
+      "2011 Manama": {
+        "Team": "Gold medal",
+        "Singles": "Silver medal",
+        "Doubles": "Bronze medal",
+        "Mixed doubles": "Bronze medal"
+      },
+      "2012 Hyderabad": {
+        "Doubles": "Gold medal",
+        "Team": "Gold medal",
+        "Singles": "Silver medal",
+        "Mixed doubles": "Silver medal"
+      }
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "Asian Junior Championships",
+    "object": {
+      "2010 Bangkok": {
+        "Team": "Gold medal",
+        "Singles": "Bronze medal",
+        "Doubles": "Bronze medal"
+      },
+      "2011 New Delhi": {
+        "Team": "Gold medal",
+        "Singles": "Bronze medal"
+      }
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "National Games of China",
+    "object": {
+      "2021 Shaanxi": "Gold medal - Team",
+      "2017 Tianjin": "Bronze medal - Doubles"
+    }
+  },
+  {
+    "subject": "Lin Gaoyuan",
+    "predicate": "All China Table Tennis Championships",
+    "object": {
+      "2010 Zhangjiagang": "Gold medal - Team",
+      "2016 Anshan": "Gold medal - Mixed doubles",
+      "2019 Tianjin": "Gold medal - Mixed doubles",
+      "2020 Weihai": {
+        "Team": "Gold medal",
+        "Doubles": "Silver medal"
+      },
+      "2018 Anshan": {
+        "Team": "Silver medal",
+        "Mixed doubles": "Silver medal"
+      },
+      "2014 Huangshi": "Bronze medal - Doubles",
+      "2015 Harbin": {
+        "Team": "Bronze medal",
+        "Mixed doubles": "Bronze medal"
+      }
+    }
+  }
+]

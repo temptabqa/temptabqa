@@ -1,0 +1,31 @@
+[
+  {
+    "subject": "West Stanley Pit",
+    "predicate": "category",
+    "object": "event"
+  },
+  {
+    "subject": "West Stanley Pit",
+    "predicate": "Location",
+    "object": {
+      "Location": ["County Durham"],
+      "Country": "United Kingdom",
+      "Coordinates": "54.872, -1.684"
+    }
+  },
+  {
+    "subject": "West Stanley Pit",
+    "predicate": "Production",
+    "object": {
+      "Products": "Coal",
+      "Type": "deep mine",
+      "Greatest depth": "163 fathoms",
+      "Date": "16 February 1909",
+      "Time": "15:45",
+      "Cause": "unclear",
+      "Deaths": "168",
+      "Inquest": "18 February - 29 March",
+      "Coroner": "John Graham"
+    }
+  }
+]

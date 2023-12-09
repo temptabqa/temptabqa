@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "category",
+    "object": "disease"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "Disease",
+    "object": "COVID-19"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "Virus strain",
+    "object": "SARS-CoV-2"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "Location",
+    "object": "White House, Washington, D.C., United States"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "First reported",
+    "object": "October 1, 2020"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "Index case",
+    "object": "September 30, 2020"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "Arrival date",
+    "object": "September 26, 2020"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "Confirmed cases",
+    "object": "Total | At least 53, including President Trump | Pre-nomination | At least six as of October 14 | Nomination | At least 25 as of October 14 | Pence staff | At least 5 as of November 11 | Election Day | At least 20 as of November 11"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "Hospitalized cases",
+    "object": "At least one, by October 15"
+  },
+  {
+    "subject": "White House COVID-19 outbreak",
+    "predicate": "White House COVID-19 outbreak",
+    "object": "President Trump Nominates Judge Amy Coney Barrett for Associate Justice of the U.S. Supreme Court (50397097478).jpg | President Donald Trump speaking during the event held to announce Amy Coney Barrett's nomination to the Supreme Court in the White House Rose Garden."
+  }
+]

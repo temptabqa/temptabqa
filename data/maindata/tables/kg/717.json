@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Venabygd Chapel",
+    "predicate": "category",
+    "object": "church"
+  },
+  {
+    "subject": "Venabygd fjellkapell",
+    "predicate": "Location",
+    "object": "Ringebu Municipality, Innlandet"
+  },
+  {
+    "subject": "Venabygd fjellkapell",
+    "predicate": "Country",
+    "object": "Norway"
+  },
+  {
+    "subject": "Venabygd fjellkapell",
+    "predicate": "Denomination",
+    "object": "Church of Norway"
+  },
+  {
+    "subject": "Venabygd fjellkapell",
+    "predicate": "Churchmanship",
+    "object": "Evangelical Lutheran"
+  },
+  {
+    "subject": "Venabygd fjellkapell",
+    "predicate": "Coordinates",
+    "object": "61.64698132607312°N, 10.098582330746979°E"
+  },
+  {
+    "subject": "History",
+    "predicate": "Status",
+    "object": "Chapel"
+  },
+  {
+    "subject": "History",
+    "predicate": "Founded",
+    "object": "1979"
+  },
+  {
+    "subject": "History",
+    "predicate": "Consecrated",
+    "object": "15 July 1979"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Functional status",
+    "object": "Active"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Architect(s)",
+    "object": "Odd Østbye"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Architectural type",
+    "object": "Long church"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Completed",
+    "object": "1979 (43 years ago)"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Capacity",
+    "object": "50"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Materials",
+    "object": "Wood"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Diocese",
+    "object": "Hamar bispedømme"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Deanery",
+    "object": "Sør-Gudbrandsdal prosti"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Parish",
+    "object": "Venabygd"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "Type",
+    "object": "Church"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "Status",
+    "object": "Not protected"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "ID",
+    "object": "85296"
+  }
+]

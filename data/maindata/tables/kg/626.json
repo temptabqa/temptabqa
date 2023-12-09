@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "category",
+    "object": "monument"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "infobox-image",
+    "object": "New York Stock Exchange Facade 2015.jpg"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Type",
+    "object": "Stock exchange"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Location",
+    "object": "New York City, New York, U.S."
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Founded",
+    "object": "May 17, 1792 | ; 229 years ago | ( | 1792-05-17 | )"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Owner",
+    "object": "Intercontinental Exchange"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Key people",
+    "object": "Jeffrey Sprecher (chairman) | Betty Liu (executive vice chairman) | Stacey Cunningham (president)"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Currency",
+    "object": "United States dollar"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Number of listings",
+    "object": "2,400"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Market cap",
+    "object": "US$26.2 trillion (2021)"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Volume",
+    "object": "US$20.161 trillion (2011)"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Indices",
+    "object": "Dow Jones Industrial Average | S&P 500 | NYSE Composite"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "predicate": "Website",
+    "object": "nyse.com"
+  }
+]

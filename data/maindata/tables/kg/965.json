@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "1936-1939 Arab revolt in Mandatory Palestine",
+    "predicate": "is a",
+    "object": "military conflict"
+  },
+  {
+    "subject": "1936-1939 Arab revolt in Mandatory Palestine",
+    "predicate": "Date",
+    "object": "April 1936 - August 1939"
+  },
+  {
+    "subject": "1936-1939 Arab revolt in Mandatory Palestine",
+    "predicate": "Location",
+    "object": "Mandatory Palestine"
+  },
+  {
+    "subject": "1936-1939 Arab revolt in Mandatory Palestine",
+    "predicate": "Result",
+    "object": "Revolt suppressed"
+  },
+  {
+    "subject": "1936-1939 Arab revolt in Mandatory Palestine",
+    "predicate": "is part of",
+    "object": "Intercommunal conflict in Mandatory Palestine"
+  },
+  {
+    "subject": "1936-1939 Arab revolt in Mandatory Palestine",
+    "predicate": "involves",
+    "object": "British soldiers on an armoured train car with two Palestinian Arab hostages used as human shields"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "includes",
+    "object": "United Kingdom, British Army, Palestine Police Force, Jewish Settlement Police, Jewish Supernumerary Police, Special Night Squads, Jewish National Council Yishuv, Haganah, Fosh, Peulot Meyuhadot, Irgun, NDF, Arab 'peace bands', Arab Higher Committee, Local rebel factions, Volunteers from Arab world, Central Committee of National Jihad in Palestine, Bureau of the Arab Revolt in Palestine, Society for the Defense of Palestine, Financial support, Italy"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "includes",
+    "object": "General Arthur Grenfell Wauchope, High Commissioner and Commander-in-chief, Sir Harold MacMichael, High Commissioner, Lt.-General John Dill, Lt.-General Archibald Wavell, Lt.-General Robert Haining, Major-General Bernard Montgomery, Air Commodore Roderic Hill, Air Commodore Arthur Harris, Admiral Dudley Pound, Eliyahu Golomb, Raghib al-Nashashibi, Mohammed Amin al-Husayni, Izzat Darwaza, Abd al-Rahim al-Hajj Muhammad, Arif Abd al-Raziq, Abu Ibrahim al-Kabir, Yusuf Abu Durra, Fakhri 'Abd al-Hadi, Abdallah al-Asbah, Issa Battat, Mohammed Saleh al-Hamad, Yusuf Hamdan, Ahmad Mohamad Hasan, Abd al-Qadir al-Husayni, Wasif Kamal, Abdul Khallik, Hamid Suleiman Mardawi, Ibrahim Nassar, Mustafa Osta, Mohammad Mahmoud Rana'an, Farhan al-Sa'di, Hasan Salama, Fawzi al-Qawuqji, Sa'id al-'As, Muhammad al-Ashmar"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "involves",
+    "object": "25,000 to 50,000 British soldiers, 20,000 Jewish policemen and settlement guards, 15,000 Haganah fighters, 2,883 Palestine Police Force, 2,000 Irgun militants, 1,000-3,000 rebels in 1936-37, 2,500-7,500 rebels in 1938, 6,000-15,000 part-time rebels"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "for British Security Forces",
+    "object": "262 killed, c. 550 wounded"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "for Jews",
+    "object": "c. 500 killed, 4 executed"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "for Arabs",
+    "object": "c. 5,000 killed, c. 15,000 wounded, 108 executed, 12,622 detained, 5 exiled"
+  }
+]

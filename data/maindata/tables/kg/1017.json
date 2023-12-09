@@ -1,0 +1,175 @@
+[
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Date",
+    "object": "21 April 2012 - 31 December 2013 (1 year, 8 months, 1 week and 3 days)"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Location",
+    "object": "Syrian territories, with minor spillovers in neighboring countries"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Result",
+    "object": "Indecisive"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "is part of",
+    "object": "the Syrian Civil War"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Belligerents",
+    "object": [
+      "Syria",
+      "Ba'athist Syria",
+      "Syrian Armed Forces",
+      "National Defense Force",
+      "Shabiha",
+      "Jaysh al-Sha'bi",
+      "Al-Abbas brigade",
+      "Iran",
+      "Revolutionary Guards",
+      "Allied armed groups",
+      "Hezbollah",
+      "PFLP-GC",
+      "Asa'ib Ahl al-Haq",
+      "Syrian opposition",
+      "Free Syrian Army",
+      "Islamic Front (SIF & SILF)",
+      "Ahfad al-Rasul Brigades",
+      "Qatar",
+      "Saudi Arabia",
+      "Turkey",
+      "United States",
+      "Al-Qaeda",
+      "Al-Nusra Front",
+      "Islamic State",
+      "Rojava (DBK & TEV-DEM)",
+      "People's Protection Units (YPG)",
+      "Women's Protection Units (YPJ)",
+      "Asayish",
+      "Syriac Military Council (MFS)",
+      "Sutoro",
+      "Allied armed groups",
+      "Kurdish Front",
+      "Army of Dignity",
+      "PKK",
+      "Iraqi Kurdistan"
+    ]
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Commanders and leaders",
+    "object": [
+      "Bashar al-Assad",
+      "Maher al-Assad (Wounded in action)",
+      "Fahd Jassem al-Freij",
+      "Dawoud Rajiha",
+      "Assef Shawkat",
+      "Ali Abdullah Ayyoub",
+      "Issam Hallaq",
+      "Ghassan Ismail",
+      "Mohammad al-Shaar (Wounded in action)",
+      "Salim Idris",
+      "Mustafa al-Sheikh",
+      "Riad al-Asaad (Wounded in action)",
+      "Ziad Haj Obaid",
+      "Ahmed Issa al-Sheikh (Suqour al-Sham)",
+      "Zahran Alloush (Jaysh al-Islam)",
+      "Hassan Aboud (Ahrar al-Sham)",
+      "Abdul Qader Saleh (al-Tawhid Brigade)",
+      "Abu Mohammad al-Julani (WIA)",
+      "Abu Bakr al-Baghdadi",
+      "Salih Muslim Muhammad",
+      "Sîpan Hemo (YPG)",
+      "Alaa Ajabu (Kurdish Front)",
+      "Humaydi Daham al-Hadi (Army of Dignity)"
+    ]
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Strength",
+    "object": [
+      "Syrian Armed Forces: 178,000 (by Aug 2013)",
+      "General Security Directorate: 8,000",
+      "Shabiha: 10,000 fighters",
+      "National Defense Force: 60,000 soldiers",
+      "Jaysh al-Sha'bi: 50,000 fighters",
+      "al-Abbas brigade: 10,000 fighters",
+      "Hezbollah: 3,000-5,000 fighters",
+      "Iran: 150-1,500 IRGC",
+      "Asa'ib Ahl al-Haq: 1,000 fighters",
+      "Free Syrian Army: 40,000 - 50,000",
+      "Islamic Front: 45,000 - 60,000",
+      "Ahfad al-Rasul Brigades: 7,000-9,000",
+      "Al-Nusra Front: 5,000-7,000",
+      "Islamic State of Iraq and the Levant: 3,000-5,000",
+      "People's Protection Units (YPG): 15,000 - 35,000"
+    ]
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Casualties and losses",
+    "object": [
+      "Syrian government: 15,000-31,174 soldiers and policemen killed, 19,256 militiamen killed, 1,000 government officials killed, 5,000 soldiers and militiamen captured",
+      "Hezbollah: 232-250 killed",
+      "Other non-Syrian Shiite fighters: 265 killed",
+      "Iranian IRGC: 16 killed",
+      "27,746-50,930 fighters killed, 979 protesters killed, 16,000-46,601 opposition fighters and supporters captured",
+      "265+ fighters killed"
+    ]
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Estimate of total killed",
+    "object": "120,000 (September 2013 French estimate), 91,875-125,835 (December 2013 opposition groups estimate), 165,835 (December 2013 SOHR estimate)"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Foreign civilians killed",
+    "object": "760-1,806"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Iraq",
+    "object": "16 Iraqi soldiers killed"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Lebanon",
+    "object": "5 Lebanese soldiers killed"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Turkey",
+    "object": "3 Turkish servicemen killed"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Jordan",
+    "object": "1 Jordanian soldier killed"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Internally displaced",
+    "object": "4.5 million (UN, Sep 2013) - 5.1 million (iDMC, Sep 2013)"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Refugees",
+    "object": "3,000,000 (by November 2013)"
+  },
+  {
+    "subject": "2012-2013 escalation of the Syrian Civil War",
+    "predicate": "Missing or detained",
+    "object": "130,000"
+  }
+]

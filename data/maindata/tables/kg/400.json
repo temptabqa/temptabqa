@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Art Wilson",
+    "predicate": "has image",
+    "object": "1921 Art Wilson.jpeg"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "is in category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "is a",
+    "object": "Catcher"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "was born on",
+    "object": "December 11, 1885"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "was born in",
+    "object": "Macon, Illinois"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "died on",
+    "object": "June 12, 1960"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "died in",
+    "object": "Chicago, Illinois"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "aged at death",
+    "object": "74"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "batted",
+    "object": "Right"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "had MLB debut",
+    "object": "September 29, 1908, for the New York Giants"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "had last MLB appearance",
+    "object": "June 12, 1921, for the Cleveland Indians"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "had batting average",
+    "object": ".261"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "had home runs",
+    "object": "24"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "had runs batted in",
+    "object": "227"
+  },
+  {
+    "subject": "Art Wilson",
+    "predicate": "played for teams",
+    "object": "New York Giants (1908-1913), Chicago Whales (1914-1915), Pittsburgh Pirates (1916), Chicago Cubs (1916-1917), Boston Braves (1918-1920), Cleveland Indians (1921)"
+  }
+]

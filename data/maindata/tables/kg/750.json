@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Führerbunker",
+    "predicate": "category",
+    "object": "monument"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "alternative names",
+    "object": "Führer's bunker"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "image",
+    "object": "Bundesarchiv Bild 183-V04744, Berlin, Garten der zerstörte Reichskanzlei.jpg"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "description",
+    "object": "July 1947 photo of the rear entrance to the Führerbunker in the garden of the Reich Chancellery. The bodies of Hitler and Eva Braun were burned in a shell hole in front of the emergency exit at left; the cone-shaped structure in the centre served for ventilation, and as a bomb shelter for the guards."
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "location",
+    "object": "Central Berlin"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "town or city",
+    "object": "Berlin"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "country",
+    "object": "Nazi Germany"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "coordinates",
+    "object": "52°30′45″N 13°22′53″E"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "construction started",
+    "object": "1943"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "completed",
+    "object": "23 October 1944"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "destroyed",
+    "object": "5 December 1947"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "cost",
+    "object": "1.35 million Reichsmarks (equivalent to 5 million € 2017)"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "owner",
+    "object": "Nazi Germany"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "architect",
+    "object": "Albert Speer, Karl Piepenburg"
+  },
+  {
+    "subject": "Führerbunker",
+    "predicate": "architecture firm",
+    "object": "Hochtief AG"
+  }
+]

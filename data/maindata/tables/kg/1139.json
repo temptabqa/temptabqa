@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "category",
+    "object": "agency"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "formed",
+    "object": "c.1937"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "dissolved",
+    "object": "May 8, 1945"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "superseding agency",
+    "object": "Reichskommissar für die Festigung deutschen Volkstums (RKFDV)"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "jurisdiction",
+    "object": "Germany, Occupied Europe"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "headquarters",
+    "object": "Unter den Linden 64, Berlin, 52.5169528°N 13.3834111°E"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "employees",
+    "object": "5,000 c.January 1942"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "ministers responsible",
+    "object": "NSDAP, Reichsschatzmeister, Franz Xaver Schwarz (1937-1939), Reichsführer-SS, Heinrich Himmler (1939-1945)"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "agency executive",
+    "object": "SS-Obergruppenführer Werner Lorenz, Chef für Volksdeutsche Mittelstelle (1937-1945)"
+  },
+  {
+    "subject": "Coordination Center for Ethnic Germans",
+    "predicate": "parent agency",
+    "object": "NSDAP, Allgemeine-SS"
+  }
+]

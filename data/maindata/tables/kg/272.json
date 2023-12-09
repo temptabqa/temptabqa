@@ -1,0 +1,187 @@
+[
+  {
+    "subject": "Tony Stewart",
+    "predicate": "has category",
+    "object": "car driver"
+  },
+  {
+    "subject": "Tony Stewart",
+    "predicate": "Born",
+    "object": "Anthony Wayne Stewart | ( | 1971-05-20 | ) | May 20, 1971 | (age 51) | Columbus, Indiana"
+  },
+  {
+    "subject": "Tony Stewart",
+    "predicate": "Height",
+    "object": "5 ft 9 in (1.75 m)"
+  },
+  {
+    "subject": "Tony Stewart",
+    "predicate": "Weight",
+    "object": "180 lb (82 kg)"
+  },
+  {
+    "subject": "Tony Stewart",
+    "predicate": "Achievements",
+    "object": "2002, 2005, 2011 NASCAR Cup Series Champion | 1997 IndyCar Series Champion | 1995 USAC Triple Crown Champion | 1994 USAC National Midget Series Champion | 2006 IROC champion | 2021 SRX Series Champion | 2005, 2007 Brickyard 400 Winner | 2009 Sprint All-Star Race winner | 2001, 2002, 2007 Budweiser Shootout Winner | 2006, 2008, 2009 Prelude to the Dream Winner | 2005, 2007, 2012 Gatorade Duel Winner | 2000 Turkey Night Grand Prix Winner | 2002, 2007 Chili Bowl Winner | 2014 NASCAR Cup Series Champion as co-owner | 2017 Daytona 500 winner as co-owner | Has won with three separate engine manufacturers in NASCAR (Pontiac, Toyota, Chevrolet)"
+  },
+  {
+    "subject": "Tony Stewart",
+    "predicate": "Awards",
+    "object": "1999 Winston Cup Series Rookie of the Year | 1996 Indianapolis 500 Rookie of the Year | National Midget Auto Racing Hall of Fame (2001) | USAC Hall of Fame (2016) | Indianapolis Motor Speedway Hall of Fame (2018) | Motorsports Hall of Fame of America (2019) | NASCAR Hall of Fame (2020) | National Sprint Car Hall of Fame (2022)"
+  },
+  {
+    "subject": "Tony Stewart",
+    "predicate": "Image",
+    "object": "Tony stewart (51221641988) (cropped).jpg | Stewart at the 2021 Indianapolis 500"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "2016 position",
+    "object": "15th"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Best finish in the championship",
+    "object": "1st (2002, 2005, 2011)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "First race",
+    "object": "1999 Daytona 500 (Daytona)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Last race",
+    "object": "2016 Ford EcoBoost 400 (Homestead)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "First win",
+    "object": "1999 Exide NASCAR Select Batteries 400 (Richmond)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Last win",
+    "object": "2016 Toyota/Save Mart 350 (Sonoma)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Statistics",
+    "object": "618 races run over 18 years | Wins | Top tens | Poles | 49 | 308 | 15"
+  },
+  {
+    "subject": "NASCAR Xfinity Series career",
+    "predicate": "2013 position",
+    "object": "96th"
+  },
+  {
+    "subject": "NASCAR Xfinity Series career",
+    "predicate": "Best finish in the championship",
+    "object": "21st (1998)"
+  },
+  {
+    "subject": "NASCAR Xfinity Series career",
+    "predicate": "First race",
+    "object": "1996 Goody's Headache Powder 300 (Daytona)"
+  },
+  {
+    "subject": "NASCAR Xfinity Series career",
+    "predicate": "Last race",
+    "object": "2014 DRIVE4COPD 300 (Daytona)"
+  },
+  {
+    "subject": "NASCAR Xfinity Series career",
+    "predicate": "First win",
+    "object": "2005 Hershey's Take 5 300 (Daytona)"
+  },
+  {
+    "subject": "NASCAR Xfinity Series career",
+    "predicate": "Last win",
+    "object": "2013 DRIVE4COPD 300 (Daytona)"
+  },
+  {
+    "subject": "NASCAR Xfinity Series career",
+    "predicate": "Statistics",
+    "object": "94 races run over 18 years | Wins | Top tens | Poles | 11 | 41 | 6"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Best finish in the championship",
+    "object": "61st (2005)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "First race",
+    "object": "1996 Cummins 200 (IRP)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Last race",
+    "object": "2005 MBNA RacePoints 200 (Dover)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "First win",
+    "object": "2002 Virginia Is For Lovers 200 (Richmond)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Last win",
+    "object": "2003 Virginia Is For Lovers 200 (Richmond)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Statistics",
+    "object": "6 races run over 9 years | Wins | Top tens | Poles | 2 | 5 | 0"
+  },
+  {
+    "subject": "NASCAR Pinty's Series career",
+    "predicate": "Best finish in the championship",
+    "object": "11th (2002)"
+  },
+  {
+    "subject": "NASCAR Pinty's Series career",
+    "predicate": "First race",
+    "object": "2002 Canada Day Shootout (Cayuga)"
+  },
+  {
+    "subject": "NASCAR Pinty's Series career",
+    "predicate": "Statistics",
+    "object": "1 race run over 1 year | Wins | Top tens | Poles | 0 | 0 | 0"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "Team(s)",
+    "object": "Team Menard | Tri-Star Racing | Chip Ganassi Racing"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "Best finish in the championship",
+    "object": "1st (1997)"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "First race",
+    "object": "1996 Indy 200 (Disney)"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "Last race",
+    "object": "2001 Indianapolis 500 (Indy)"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "First win",
+    "object": "1997 Samsonite 200 (Pikes Peak)"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "Last win",
+    "object": "1998 New England 200 (Loudon)"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "Statistics",
+    "object": "26 races run over 5 years | Wins | Podiums | Poles | 3 | 7 | 8"
+  }
+]

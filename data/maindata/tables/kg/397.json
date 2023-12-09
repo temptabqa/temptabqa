@@ -1,0 +1,17 @@
+[
+  {"subject": "Al Cicotte", "predicate": "category", "object": "baseball"},
+  {"subject": "Al Cicotte", "predicate": "position", "object": "Pitcher"},
+  {"subject": "Al Cicotte", "predicate": "born", "object": "December 23, 1929"},
+  {"subject": "Al Cicotte", "predicate": "birthPlace", "object": "Melvindale, Michigan"},
+  {"subject": "Al Cicotte", "predicate": "died", "object": "November 29, 1982"},
+  {"subject": "Al Cicotte", "predicate": "deathPlace", "object": "Westland, Michigan"},
+  {"subject": "Al Cicotte", "predicate": "ageAtDeath", "object": "52"},
+  {"subject": "Al Cicotte", "predicate": "batted", "object": "Right"},
+  {"subject": "Al Cicotte", "predicate": "threw", "object": "Right"},
+  {"subject": "Al Cicotte", "predicate": "MLB debut", "object": "April 22, 1957, for the New York Yankees"},
+  {"subject": "Al Cicotte", "predicate": "last MLB appearance", "object": "May 8, 1962, for the Houston Colt .45s"},
+  {"subject": "Al Cicotte", "predicate": "win-loss record", "object": "10-13"},
+  {"subject": "Al Cicotte", "predicate": "earned run average", "object": "4.36"},
+  {"subject": "Al Cicotte", "predicate": "strikeouts", "object": "149"},
+  {"subject": "Al Cicotte", "predicate": "teams", "object": "New York Yankees (1957) | Washington Senators (1958) | Detroit Tigers (1958) | Cleveland Indians (1959) | St. Louis Cardinals (1961) | Houston Colt .45s (1962)"}
+]

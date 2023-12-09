@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "HMS Astute",
+    "predicate": "category",
+    "object": "ship"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "ordered",
+    "object": "March 1997"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "builder",
+    "object": "BAE Systems Submarine Solutions, Barrow-in-Furness"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "laid down",
+    "object": "31 January 2001"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "launched",
+    "object": "8 June 2007"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "sponsored by",
+    "object": "The Duchess of Cornwall"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "commissioned",
+    "object": "27 August 2010"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "in service",
+    "object": "May 2014"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "homeport",
+    "object": "HM Naval Base Clyde"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "identification",
+    "object": "Pennant number: S119"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "status",
+    "object": "Operational"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "badge",
+    "object": "Astute Crest.jpg"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "class and type",
+    "object": "Astute-class fleet submarine"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "displacement_surfaced",
+    "object": "7,000 to 7,400 t"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "displacement_submerged",
+    "object": "7,400 to 7,800 t"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "length",
+    "object": "97 m (318 ft 3 in)"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "beam",
+    "object": "11.3 m (37 ft 1 in)"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "draught",
+    "object": "10 m (32 ft 10 in)"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "propulsion",
+    "object": "1 × Rolls-Royce PWR 2 nuclear reactor, HEU 93.5% | MTU 600 kilowatt diesel generators"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "speed",
+    "object": "30 kn (56 km/h; 35 mph), submerged"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "range",
+    "object": "Unlimited"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "endurance",
+    "object": "90 days"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "test depth",
+    "object": "Over 300 m (984 ft 3 in)"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "complement",
+    "object": "98 (capacity for 109)"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "sensors and processing systems",
+    "object": "Thales Sonar 2076 | Atlas DESO 25 echosounder | 2 × Thales CM010 optronic masts | Raytheon Successor IFF"
+  },
+  {
+    "subject": "HMS Astute",
+    "predicate": "armament",
+    "object": "6 × 21 in (533 mm) torpedo tubes with stowage for up to 38 weapons | Tomahawk Block IV cruise missiles | Spearfish heavyweight torpedoes"
+  }
+]

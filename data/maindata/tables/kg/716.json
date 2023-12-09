@@ -1,0 +1,107 @@
+[
+{
+  "subject": "Varden Church",
+  "predicate": "category",
+  "object": "church"
+},
+{
+  "subject": "Varden kirke",
+  "predicate": "Location",
+  "object": "Stavanger Municipality, | Rogaland"
+},
+{
+  "subject": "Varden kirke",
+  "predicate": "Country",
+  "object": "Norway"
+},
+{
+  "subject": "Varden kirke",
+  "predicate": "Denomination",
+  "object": "Church of Norway"
+},
+{
+  "subject": "Varden kirke",
+  "predicate": "Churchmanship",
+  "object": "Evangelical Lutheran"
+},
+{
+  "subject": "Varden kirke",
+  "predicate": "Coordinates",
+  "object": "58°57′34″N | 5°45′04″E | / | 58.959397°N 5.751091°E | / | 58.959397; 5.751091"
+},
+{
+  "subject": "History",
+  "predicate": "Status",
+  "object": "Parish church"
+},
+{
+  "subject": "History",
+  "predicate": "Founded",
+  "object": "1967"
+},
+{
+  "subject": "History",
+  "predicate": "Consecrated",
+  "object": "1967"
+},
+{
+  "subject": "Architecture",
+  "predicate": "Functional status",
+  "object": "Active"
+},
+{
+  "subject": "Architecture",
+  "predicate": "Architect(s)",
+  "object": "Jan Jæger and | Per Faltinsen"
+},
+{
+  "subject": "Architecture",
+  "predicate": "Architectural type",
+  "object": "Rectangular"
+},
+{
+  "subject": "Architecture",
+  "predicate": "Completed",
+  "object": "1967 | (55 years ago) |  ( | 1967 | )"
+},
+{
+  "subject": "Specifications",
+  "predicate": "Capacity",
+  "object": "430"
+},
+{
+  "subject": "Specifications",
+  "predicate": "Materials",
+  "object": "Brick"
+},
+{
+  "subject": "Administration",
+  "predicate": "Diocese",
+  "object": "Stavanger bispedømme"
+},
+{
+  "subject": "Administration",
+  "predicate": "Deanery",
+  "object": "Stavanger domprosti"
+},
+{
+  "subject": "Administration",
+  "predicate": "Parish",
+  "object": "Varden"
+},
+{
+  "subject": "Norwegian Cultural Heritage Site",
+  "predicate": "Type",
+  "object": "Church"
+},
+{
+  "subject": "Norwegian Cultural Heritage Site",
+  "predicate": "Status",
+  "object": "Not protected"
+},
+{
+  "subject": "Norwegian Cultural Heritage Site",
+  "predicate": "ID",
+  "object": "85770"
+}
+]

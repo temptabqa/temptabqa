@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "category",
+    "object": "badminton"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "has_photo",
+    "object": "Wang Xiaoli and Ma Jin EAG2009.jpg | Wang Xiaoli (left) with Ma Jin at the 2009 East Asian Games"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "country",
+    "object": "China"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "born",
+    "object": "24 June 1989 | (age 32) | Hubei, China"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "height",
+    "object": "1.75 m (5 ft 9 in)"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "weight",
+    "object": "64 kg (141 lb)"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "retired",
+    "object": "13 December 2015"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "handedness",
+    "object": "Right"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "highest_ranking",
+    "object": "1 (22 May 2014)"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "world_championships",
+    "object": "2011 London | Women's doubles: Gold medal - first place, 2013 Guangzhou | Women's doubles: Gold medal - first place, 2010 Paris | Women's doubles: Silver medal - second place, 2014 Copenhagen | Women's doubles: Silver medal - second place, 2009 Hyderabad | Women's doubles: Bronze medal - third place"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "sudirman_cup",
+    "object": "2011 Qingdao | Mixed team: Gold medal - first place, 2013 Kuala Lumpur | Mixed team: Gold medal - first place, 2015 Donggun | Mixed team: Gold medal - first place"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "uber_cup",
+    "object": "2012 Wuhan | Women's team: Gold medal - first place, 2014 New Delhi | Women's team: Gold medal - first place, 2010 Kuala Lumpur | Women's team: Silver medal - second place"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "asian_games",
+    "object": "2010 Guangzhou | Women's team: Gold medal - first place, 2014 Incheon | Women's team: Gold medal - first place, 2010 Guangzhou | Women's doubles: Silver medal - second place"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "asian_championships",
+    "object": "2009 Suwon | Women's doubles: Gold medal - first place, 2011 Chengdu | Women's doubles: Gold medal - first place, 2013 Taipei | Women's doubles: Gold medal - first place, 2015 Wuhan | Women's doubles: Silver medal - second place"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "east_asian_games",
+    "object": "2009 Hong Kong | Women's team: Gold medal - first place, 2009 Hong Kong | Women's doubles: Silver medal - second place"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "world_junior_championships",
+    "object": "2006 Incheon | Girls' doubles: Gold medal - first place, 2007 Waitakere City | Mixed team: Gold medal - first place, 2006 Incheon | Mixed team: Silver medal - second place, 2006 Incheon | Mixed doubles: Bronze medal - third place"
+  },
+  {
+    "subject": "Wang Xiaoli",
+    "predicate": "asian_junior_championships",
+    "object": "2006 Kuala Lumpur | Girls' doubles: Gold medal - first place, 2007 Kuala Lumpur | Mixed team: Silver medal - second place, 2006 Kuala Lumpur | Mixed team: Bronze medal - third place"
+  }
+]

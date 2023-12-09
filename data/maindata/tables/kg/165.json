@@ -1,0 +1,86 @@
+[
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "category",
+    "object": "badminton"
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "image",
+    "object": "Hirota sayaka.jpg"
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "Personal information",
+    "object": {
+      "Country": "Japan",
+      "Born": "( | 1994-08-01 | ) | 1 August 1994 | (age 27) | Kumamoto, Japan",
+      "Residence": "Gifu, Gifu, Japan",
+      "Height": "1.70 m (5 ft 7 in)",
+      "Handedness": "Right"
+    }
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "Women's doubles",
+    "object": {
+      "Highest ranking": "1 (WD with Yuki Fukushima 21 June 2018)",
+      "Current ranking": "2 (WD with Yuki Fukushima 21 June 2022)"
+    }
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "Representing",
+    "object": "Japan"
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "World Championships",
+    "object": [
+      "Silver medal - second place | 2017 Glasgow | Women's doubles",
+      "Silver medal - second place | 2018 Nanjing | Women's doubles",
+      "Silver medal - second place | 2019 Basel | Women's doubles"
+    ]
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "Sudirman Cup",
+    "object": [
+      "Silver medal - second place | 2019 Nanning | Mixed team"
+    ]
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "Uber Cup",
+    "object": [
+      "Gold medal - first place | 2018 Bangkok | Women's team",
+      "Bronze medal - third place | 2022 Bangkok | Women's team"
+    ]
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "Asian Games",
+    "object": [
+      "Gold medal - first place | 2018 Jakarta-Palembang | Women's team",
+      "Bronze medal - third place | 2018 Jakarta-Palembang | Women's doubles"
+    ]
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "Asian Championships",
+    "object": [
+      "Gold medal - first place | 2018 Wuhan | Women's doubles",
+      "Bronze medal - third place | 2019 Wuhan | Women's doubles",
+      "Bronze medal - third place | 2022 Manila | Women's doubles"
+    ]
+  },
+  {
+    "subject": "Sayaka Hirota | 廣田 彩花",
+    "predicate": "Asia Team Championships",
+    "object": [
+      "Gold medal - first place | 2018 Alor Setar | Women's team",
+      "Gold medal - first place | 2020 Manila | Women's team",
+      "BWF profile"
+    ]
+  }
+]

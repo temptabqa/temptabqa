@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "7",
+    "predicate": "Category",
+    "object": "album"
+  },
+  {
+    "subject": "7",
+    "predicate": "Cover",
+    "object": "7 album cover.jpg | Cover to the original edition of the album"
+  },
+  {
+    "subject": "7",
+    "predicate": "Studio album by",
+    "object": "Apoptygma Berzerk"
+  },
+  {
+    "subject": "7",
+    "predicate": "Released",
+    "object": "1 May 1996"
+  },
+  {
+    "subject": "7",
+    "predicate": "Genre",
+    "object": "Futurepop | Experimental | Electro"
+  },
+  {
+    "subject": "7",
+    "predicate": "Length",
+    "object": "57 | 27"
+  },
+  {
+    "subject": "7",
+    "predicate": "Label",
+    "object": "Metropolis Records"
+  },
+  {
+    "subject": "Apoptygma Berzerk",
+    "predicate": "Chronology",
+    "object": "Soli Deo Gloria | (1993) | 7 | (1996) | The Apopcalyptic Manifesto | (1998)"
+  },
+  {
+    "subject": "7",
+    "predicate": "Singles",
+    "object": "\"Deep Red\" | Released: 01 Apr 1994 | \"Non-Stop Violence\" | Released: 01 Apr 1995 | \"Mourn\" | Released: 01 Oct 1997"
+  },
+  {
+    "subject": "7",
+    "predicate": "Re-issue cover",
+    "object": "APB 7 Reissue.jpg"
+  }
+]

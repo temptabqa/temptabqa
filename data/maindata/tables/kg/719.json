@@ -1,0 +1,162 @@
+[
+  {
+    "subject": "All Hallows Twickenham",
+    "predicate": "category",
+    "object": "church"
+  },
+  {
+    "subject": "All Hallows Twickenham",
+    "predicate": "OS grid reference",
+    "object": "TQ1575474169"
+  },
+  {
+    "subject": "All Hallows Twickenham",
+    "predicate": "Location",
+    "object": "Twickenham, London"
+  },
+  {
+    "subject": "All Hallows Twickenham",
+    "predicate": "Country",
+    "object": "United Kingdom"
+  },
+  {
+    "subject": "All Hallows Twickenham",
+    "predicate": "Denomination",
+    "object": "Church of England"
+  },
+  {
+    "subject": "All Hallows Twickenham",
+    "predicate": "Churchmanship",
+    "object": "Liberal Catholic"
+  },
+  {
+    "subject": "All Hallows Twickenham",
+    "predicate": "Website",
+    "object": "www.allhallowstwick.org.uk"
+  },
+  {
+    "subject": "History",
+    "predicate": "Former name(s)",
+    "object": "All Hallows Lombard Street | St Martin's Mission Twickenham"
+  },
+  {
+    "subject": "History",
+    "predicate": "Dedication",
+    "object": "All Hallows | St Martin of Tours (former)"
+  },
+  {
+    "subject": "History",
+    "predicate": "Consecrated",
+    "object": "9 November 1940"
+  },
+  {
+    "subject": "History",
+    "predicate": "Associated people",
+    "object": "Renatus Harris | John Wesley"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Heritage designation",
+    "object": "Grade I"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Designated",
+    "object": "2 September 1952"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Architect(s)",
+    "object": "Robert Atkinson | Christopher Wren"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Style",
+    "object": "modern"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Groundbreaking",
+    "object": "11 July 1939"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Length",
+    "object": "35 m (114 ft 10 in)"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Width",
+    "object": "17 m (55 ft 9 in)"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Materials",
+    "object": "brick, stone"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Province",
+    "object": "Canterbury"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Diocese",
+    "object": "London (Kensington Area)"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Archdeaconry",
+    "object": "Middlesex"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Deanery",
+    "object": "Hampton"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Parish",
+    "object": "All Hallows Twickenham"
+  },
+  {
+    "subject": "Clergy",
+    "predicate": "Vicar(s)",
+    "object": "The Revd Kevin Bell"
+  },
+  {
+    "subject": "Laity",
+    "predicate": "Reader(s)",
+    "object": ""
+  },
+  {
+    "subject": "Laity",
+    "predicate": "Organist/Director of music",
+    "object": "Philip Booth"
+  },
+  {
+    "subject": "Laity",
+    "predicate": "Churchwarden(s)",
+    "object": "Kate Vintiner, Verena Stephen"
+  },
+  {
+    "subject": "Laity",
+    "predicate": "Parish administrator",
+    "object": "Susan Hoad"
+  },
+  {
+    "subject": "Listed Building - Grade I",
+    "predicate": "Official name",
+    "object": "Church of All Hallows"
+  },
+  {
+    "subject": "Listed Building - Grade I",
+    "predicate": "Designated",
+    "object": "2 September 1952"
+  },
+  {
+    "subject": "Listed Building - Grade I",
+    "predicate": "Reference no.",
+    "object": "1080836"
+  }
+]

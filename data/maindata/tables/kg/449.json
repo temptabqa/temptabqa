@@ -1,0 +1,138 @@
+[
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "category",
+    "object": "space probe"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Mission type",
+    "object": "Mars orbiter"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Operator",
+    "object": "NASA / JPL"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "COSPAR ID",
+    "object": "2001-013A"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "SATCAT | number",
+    "object": "26734"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Website",
+    "object": "mars | .jpl | .nasa | .gov | /odyssey | /"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Mission duration",
+    "object": {
+      "Elapsed": "21 years, 2 months and 25 days from launch",
+      "At Mars": "20 years, 8 months and 8 days (7354 sols)",
+      "En route": "6 months, 17 days",
+      "Primary mission": "32 months (1007 sols)",
+      "Extended mission": "17 years, 10 months and 7 days (6346 sols) elapsed"
+    }
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Spacecraft properties | Manufacturer",
+    "object": "Lockheed Martin"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Spacecraft properties | Launch mass",
+    "object": "758 kilograms (1,671 lb)"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Spacecraft properties | Dry mass",
+    "object": "376.3 kilograms (830 lb)"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Spacecraft properties | Power",
+    "object": "750 W"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Start of mission | Launch date",
+    "object": "April 7, 2001, 15:02:22 UTC"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Start of mission | Rocket",
+    "object": "Delta II 7925-9.5"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Start of mission | Launch site",
+    "object": "Cape Canaveral SLC-17A"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Reference system",
+    "object": "Areocentric"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Regime",
+    "object": "Sun-synchronous"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Semi-major axis",
+    "object": "3,793.4 km (2,357.1 mi)"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Eccentricity",
+    "object": "0.0"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Altitude",
+    "object": "400 km (250 mi)"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Inclination",
+    "object": "93.064°"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Period",
+    "object": "2 hours"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | RAAN",
+    "object": "34.98°"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Argument of periareion",
+    "object": "0°"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Mean anomaly",
+    "object": "0°"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Orbital parameters | Epoch",
+    "object": "October 19, 2002"
+  },
+  {
+    "subject": "2001 Mars Odyssey",
+    "predicate": "Mars orbiter | Orbital insertion",
+    "object": "October 24, 2001, MSD 45435 12:21 AMT"
+  }
+]

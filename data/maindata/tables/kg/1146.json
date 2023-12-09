@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "A House Divided",
+    "predicate": "hasCategory",
+    "object": "board game"
+  },
+  {
+    "subject": "A House Divided",
+    "predicate": "hasCaption",
+    "object": "A House Divided"
+  },
+  {
+    "subject": "A House Divided",
+    "predicate": "hasOtherNames",
+    "object": "A House Divided: War Between the States 1861-65"
+  },
+  {
+    "subject": "A House Divided",
+    "predicate": "hasDesigners",
+    "object": "Frank Chadwick"
+  },
+  {
+    "subject": "A House Divided",
+    "predicate": "hasPublishers",
+    "object": "Game Designers Workshop 1981, 1989 | Phalanx Games B.V 2001 | Mayfair Games 2012"
+  },
+  {
+    "subject": "A House Divided",
+    "predicate": "hasPublication",
+    "object": "1981 | ; 41 years ago | ( | 1981 | )"
+  },
+  {
+    "subject": "A House Divided",
+    "predicate": "hasGenres",
+    "object": "American Civil War board wargame"
+  },
+  {
+    "subject": "The American Civil War, 1861-1865",
+    "predicate": "hasImage",
+    "object": "GDW100 A House Divided board game 1981.jpg | First edition box cover by Frank Chadwick, 1981"
+  }
+]

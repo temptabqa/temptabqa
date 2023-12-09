@@ -1,0 +1,80 @@
+[
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "caption",
+    "object": "Alfred Swahn"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "infobox-image",
+    "object": "Alfred Swahn 1912.jpg"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "nickname",
+    "object": "Alf"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "born",
+    "object": "20 August 1879"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "birth place",
+    "object": "Uddevalla, Sweden"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "died",
+    "object": "16 March 1931"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "death place",
+    "object": "Stockholm, Sweden"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "sport",
+    "object": "Sports shooting"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "club",
+    "object": "Stockholms SkarpSF, Djursholms-Danderyds SF, FOK, Stockholm"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "represented",
+    "object": "Sweden"
+  },
+  {
+    "subject": "Alfred Swahn",
+    "predicate": "Olympic Games",
+    "object": [
+      {
+        "Gold medal - first place": [
+          "1908 London, Team running deer, single shots",
+          "1912 Stockholm, running deer, single shots",
+          "1912 Stockholm, Team running deer, single shots"
+        ],
+        "Silver medal - second place": [
+          "1920 Antwerp, Running deer, single shots",
+          "1920 Antwerp, Team running deer, double shots",
+          "1924 Paris, Team running deer, single shots"
+        ],
+        "Bronze medal - third place": [
+          "1920 Antwerp, Team clay pigeons",
+          "1924 Paris, Running deer, double shots",
+          "1924 Paris, Team running deer, double shots"
+        ]
+      }
+    ]
+  }
+]

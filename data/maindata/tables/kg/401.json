@@ -1,0 +1,21 @@
+[
+  {"subject": "Babe Young", "predicate": "category", "object": "baseball"},
+  {"subject": "Babe Young", "predicate": "image", "object": "Babe young baseball card.jpg"},
+  {"subject": "Babe Young", "predicate": "position", "object": "First baseman"},
+  {"subject": "Babe Young", "predicate": "born", "object": "July 1, 1915"},
+  {"subject": "Babe Young", "predicate": "birthplace", "object": "Astoria, New York"},
+  {"subject": "Babe Young", "predicate": "died", "object": "December 25, 1983"},
+  {"subject": "Babe Young", "predicate": "deathplace", "object": "Everett, Massachusetts"},
+  {"subject": "Babe Young", "predicate": "batted", "object": "Left"},
+  {"subject": "Babe Young", "predicate": "threw", "object": "Left"},
+  {"subject": "Babe Young", "predicate": "MLB debut", "object": "September 26, 1936"},
+  {"subject": "Babe Young", "predicate": "MLB debut team", "object": "New York Giants"},
+  {"subject": "Babe Young", "predicate": "last MLB appearance", "object": "October 2, 1948"},
+  {"subject": "Babe Young", "predicate": "last MLB appearance team", "object": "St. Louis Cardinals"},
+  {"subject": "Babe Young", "predicate": "batting average", "object": ".273"},
+  {"subject": "Babe Young", "predicate": "home runs", "object": "79"},
+  {"subject": "Babe Young", "predicate": "runs batted in", "object": "415"},
+  {"subject": "Babe Young", "predicate": "teams", "object": "New York Giants (1936, 1939-1942, 1946-1947)"},
+  {"subject": "Babe Young", "predicate": "teams", "object": "Cincinnati Reds (1947-1948)"},
+  {"subject": "Babe Young", "predicate": "teams", "object": "St. Louis Cardinals (1948)"}
+]

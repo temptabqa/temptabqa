@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "category",
+    "object": "agency"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "caption",
+    "object": "V/Line Corporation"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "infobox-image",
+    "object": "VLine logo (2014).svg"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Formed",
+    "object": "1 July 1983 (as State Transport Authority brand), 1 October 2003 (as statutory corporation)"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Preceding corporation",
+    "object": "Victorian Railways"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Type",
+    "object": "Statutory authority"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Employees",
+    "object": "2,190 (June 2019)"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Annual budget",
+    "object": "AUD$932 million (2018-19 income)"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Ministers responsible",
+    "object": "Ben Carroll, Minister for Public Transport; Tim Pallas, Treasurer"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Corporation executives",
+    "object": "Gabrielle Bell, Chair; Matt Carrick, CEO"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Parent department",
+    "object": "Department of Transport"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Parent agency",
+    "object": "Transport for Victoria"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Key document",
+    "object": "Transport Integration Act 2010"
+  },
+  {
+    "subject": "V/Line Corporation",
+    "predicate": "Corporation overview.Website",
+    "object": "vline.com.au"
+  }
+]

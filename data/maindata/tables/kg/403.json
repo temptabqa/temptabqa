@@ -1,0 +1,64 @@
+[
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "image",
+    "object": "Bennie Daniels 1961.jpg"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "position",
+    "object": "Pitcher"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "date of birth",
+    "object": "June 17, 1932"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "birthplace",
+    "object": "Tuscaloosa, Alabama"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "Batted",
+    "object": "Left"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "Threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "MLB debut",
+    "object": "September 24, 1957, for the Pittsburgh Pirates"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "Last MLB appearance",
+    "object": "September 18, 1965, for the Washington Senators"
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "MLB statistics",
+    "object": {
+      "Win-loss record": "45-76",
+      "Earned run average": "4.44",
+      "Strikeouts": "471"
+    }
+  },
+  {
+    "subject": "Bennie Daniels",
+    "predicate": "Teams",
+    "object": [
+      "Pittsburgh Pirates (1957-1960)",
+      "Washington Senators (1961-1965)"
+    ]
+  }
+]

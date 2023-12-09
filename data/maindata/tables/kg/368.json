@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Adele MBE",
+    "predicate": "category",
+    "object": "musician"
+  },
+  {
+    "subject": "Adele MBE",
+    "predicate": "Born",
+    "object": "Adele Laurie Blue Adkins (1988-05-05) 5 May 1988 (age 33) London, England"
+  },
+  {
+    "subject": "Adele MBE",
+    "predicate": "Alma mater",
+    "object": "BRIT School for Performing Arts and Technology"
+  },
+  {
+    "subject": "Adele MBE",
+    "predicate": "Occupation",
+    "object": "Singer, songwriter"
+  },
+  {
+    "subject": "Adele MBE",
+    "predicate": "Years active",
+    "object": "2006-present"
+  },
+  {
+    "subject": "Adele MBE",
+    "predicate": "Spouse(s)",
+    "object": "Simon Konecki (married 2018; divorced 2021)"
+  },
+  {
+    "subject": "Adele MBE",
+    "predicate": "Children",
+    "object": "1"
+  },
+  {
+    "subject": "Adele MBE",
+    "predicate": "Awards",
+    "object": "Full list"
+  },
+  {
+    "subject": "Adele MBE",
+    "predicate": "Image",
+    "object": "Adele smiling, Adele in 2021"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Genres",
+    "object": "Pop, soul"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Labels",
+    "object": "XL, Columbia, Melted Stone"
+  },
+  {
+    "subject": "Musical career",
+    "predicate": "Website",
+    "object": "adele.com"
+  },
+  {
+    "subject": "Signature",
+    "predicate": "Signature",
+    "object": "Adele signature.svg"
+  }
+]

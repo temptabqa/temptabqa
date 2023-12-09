@@ -1,0 +1,13 @@
+[
+  {"subject": "Hi Ho! Cherry-O", "predicate": "category", "object": "game"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "caption", "object": "Hi Ho! Cherry-O"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Designers", "object": "Hermann Wernhard"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Publishers", "object": "Hasbro | Winning Moves Games USA"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Publication", "object": "1960 | ; 62 years ago |  ( | 1960 | )"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Players", "object": "2 to 4"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Setup time", "object": "< 5 minutes"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Playing time", "object": "< 10 minutes"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Random chance", "object": "Complete"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Age range", "object": "3 and up"},
+  {"subject": "Hi Ho! Cherry-O", "predicate": "Skills required", "object": "Counting"}
+]

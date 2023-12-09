@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "has_cover_art",
+    "object": "The gray words \"Staind\"."
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "is_a",
+    "object": "album"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "is_a_studio_album_by",
+    "object": "Staind"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "was_released_on",
+    "object": "May 20, 2003"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "was_recorded",
+    "object": "September 2002 - March 2003"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "was_recorded_at",
+    "object": "Westlake Recording Studios in Los Angeles, California"
+  },
+   {
+    "subject": "14 Shades of Grey",
+    "predicate": "has_genre",
+    "object": "Post-grunge | alternative rock | alternative metal"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "has_length",
+    "object": "62 | 12"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "is_on_label",
+    "object": "Flip, Elektra"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "was_produced_by",
+    "object": "Josh Abraham"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "is_part_of_staind_chronology",
+    "object": "Break the Cycle | (2001) | 14 Shades of Grey | (2003) | Chapter V | (2005)"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "has_single",
+    "object": "\"Price to Play\" | Released: April 1, 2003"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "has_single",
+    "object": "\"So Far Away\" | Released: June 17, 2003"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "has_single",
+    "object": "\"How About You\" | Released: December 23, 2003"
+  },
+  {
+    "subject": "14 Shades of Grey",
+    "predicate": "has_single",
+    "object": "\"Zoe Jane\" | Released: April 5, 2004"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "subject": "John Naber",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Full name",
+    "object": "John Phillips Naber"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "National team",
+    "object": "United States"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Born",
+    "object": "January 20, 1956 (age 65) in Evanston, Illinois, U.S."
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Height",
+    "object": "6 ft 6 in (1.98 m)"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Weight",
+    "object": "194 lb (88 kg)"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Website",
+    "object": "johnnaber.com"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Sport",
+    "object": "Swimming"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Strokes",
+    "object": "Backstroke, freestyle"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Club",
+    "object": "Ladera Oaks Swim Club"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "College team",
+    "object": "Southern California"
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "Olympic Games",
+    "object": [
+      "Gold medal - first place |  1976 Montreal | 100 m backstroke",
+      "Gold medal - first place |  1976 Montreal | 200 m backstroke",
+      "Gold medal - first place |  1976 Montreal | 4x200 m freestyle",
+      "Gold medal - first place |  1976 Montreal | 4x100 m medley",
+      "Silver medal - second place |  1976 Montreal | 200 m freestyle"
+    ]
+  },
+  {
+    "subject": "John Naber",
+    "predicate": "World Championships (LC)",
+    "object": [
+      "Bronze medal - third place |  1973 Belgrade | 200 m backstroke"
+    ]
+  }
+]

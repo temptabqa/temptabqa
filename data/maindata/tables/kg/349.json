@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "Paul Gauguin",
+    "predicate": "category",
+    "object": "painter"
+  },
+  {
+    "subject": "Paul Gauguin",
+    "predicate": "Born",
+    "object": "Eugène Henri Paul Gauguin | ( | 1848-06-07 | ) | 7 June 1848 | Paris, French Second Republic"
+  },
+  {
+    "subject": "Paul Gauguin",
+    "predicate": "Died",
+    "object": "8 May 1903 | (1903-05-08) | (aged 54) | Atuona, Marquesas Islands, French Polynesia"
+  },
+  {
+    "subject": "Paul Gauguin",
+    "predicate": "Known for",
+    "object": "Painting, sculpture, ceramics, engraving"
+  },
+  {
+    "subject": "Paul Gauguin",
+    "predicate": "Movement",
+    "object": "Post-Impressionism, Primitivism, Synthetism"
+  },
+  {
+    "subject": "Paul Gauguin",
+    "predicate": "Spouse(s)",
+    "object": "Mette-Sophie Gad | ( | married |  1873; separated 1894) | Teha'amana | ( | married |  1891; separated 1893)"
+  },
+  {
+    "subject": "Paul Gauguin",
+    "predicate": "Image",
+    "object": "Paul Gauguin 1891.png | Gauguin in 1891"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "category",
+    "object": "agency"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "formed",
+    "object": "1 November 2016"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "preceding authority",
+    "object": "Port of Melbourne Corporation (as regulator)"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "dissolved",
+    "object": "30 June 2021"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "superseding agency",
+    "object": "Ports Victoria"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "type",
+    "object": "Statutory authority"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "headquarters",
+    "object": "530 Collins St, Melbourne"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "employees",
+    "object": "59 (June 2018)"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "minister responsible",
+    "object": "Melissa Horne, Minister for Ports and Freight"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "authority executive",
+    "object": "Rachel Johnson, CEO"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "parent department",
+    "object": "Department of Transport"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "key document",
+    "object": "Transport Integration Act 2010"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "website",
+    "object": "vicports.vic.gov.au"
+  },
+  {
+    "subject": "Victorian Ports Corporation (Melbourne)",
+    "predicate": "agency ID",
+    "object": "PROV VA 5216"
+  }
+]

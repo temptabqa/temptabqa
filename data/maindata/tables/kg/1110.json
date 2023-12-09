@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Tonnerre",
+    "predicate": "category",
+    "object": "ship"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "part_of",
+    "object": "French Navy Ensign | France"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Name",
+    "object": "Tonnerre"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Ordered",
+    "object": "16 April 1794"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Laid down",
+    "object": "22 September 1794"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Launched",
+    "object": "9 June 1808"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Commissioned",
+    "object": "21 July 1808"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Renamed",
+    "object": "Quatorze Juillet | (1795)"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Fate",
+    "object": "Burned and exploded 12 April 1809"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Class and type",
+    "object": "Téméraire | -class ship of the line"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Displacement",
+    "object": "2,966 tonnes | 5,260 tonnes fully loaded"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Length",
+    "object": "55.87 metres (183.3 ft) (172 pied)"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Beam",
+    "object": "14.90 metres (48 ft 11 in)"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Draught",
+    "object": "7.26 metres (23.8 ft) (22 pied)"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Propulsion",
+    "object": "Up to 2,485 m | 2 | (26,748 sq ft) of sails"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Armament",
+    "object": "74 guns | Lower gundeck: 28 × 36-pounder long guns | Upper gundeck: 30 × 18-pounder long guns | Forecastle and Quarter deck | 16 × 8-pounder long guns | 4 × 36-pounder carronades"
+  },
+  {
+    "subject": "Tonnerre",
+    "predicate": "Armour",
+    "object": "Timber"
+  }
+]

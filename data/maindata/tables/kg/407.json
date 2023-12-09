@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Doc Lavan",
+    "predicate": "has_image",
+    "object": "1919 Doc Lavan.jpeg"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "is_category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "is_position",
+    "object": "Shortstop"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Born",
+    "object": "October 28, 1890 | Grand Rapids, Michigan"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Died",
+    "object": "May 29, 1952 | Detroit, Michigan"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Batted",
+    "object": "Right"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "MLB_debut",
+    "object": "June 22, 1913, for the St. Louis Browns"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Last_MLB_appearance",
+    "object": "May 4, 1924, for the St. Louis Cardinals"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Batting_average",
+    "object": ".245"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Home_runs",
+    "object": "7"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Runs_batted_in",
+    "object": "377"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Teams",
+    "object": "St. Louis Browns (1913) | Philadelphia Athletics (1913) | St. Louis Browns (1914-1917) | Washington Senators (1918) | St. Louis Cardinals (1919-1924)"
+  },
+  {
+    "subject": "Doc Lavan",
+    "predicate": "Career_highlight",
+    "object": "World Series champion (1913)"
+  }
+]

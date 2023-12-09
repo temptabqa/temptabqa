@@ -1,0 +1,122 @@
+[
+  {
+    "subject": "Mexican Empire",
+    "predicate": "years",
+    "object": "1821-1823"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "flag",
+    "object": "Flag of Mexico | Bandera del Primer Imperio Mexicano.svg"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "coat_of_arms",
+    "object": "Imperial Coat of arms of Mexico | Imperial Coat of arms"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "motto",
+    "object": "Independencia, Unión, Religión | \"Independence, Union, Religion\""
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "anthem",
+    "object": "Veni Creator Spiritus"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "capital",
+    "object": "Mexico City"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "common_languages",
+    "object": "Spanish"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "religion",
+    "object": "Roman Catholicism (official)"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "government",
+    "object": "Federal parliamentary constitutional monarchy"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "emperor",
+    "object": "1822-1823 José Manuel de Herrera"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "prime_minister",
+    "object": ""
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "legislature",
+    "object": "Provisional Government Junta | (1821-1822) | Constituent Congress | (1822) | National Institutional Junta | (1822-1823)"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "plan_of_iguala",
+    "object": "24 February 1821"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "independence_of_mexico",
+    "object": "28 September 1821"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "abdication_of_agustín_I",
+    "object": "19 March 1823"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "location",
+    "object": "Mexico"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "area",
+    "object": "4,429,000 km | 2 | (1,710,000 sq mi)"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "population",
+    "object": "6,500,000"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "currency",
+    "object": "Mexican real"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "preceded_by",
+    "object": "New Spain"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "temporarily_succeeded_by",
+    "object": "Provisional Government | of Mexico"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "succeeded_by",
+    "object": "Federal Republic | of Central America"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "other_succeeded_by",
+    "object": "British Honduras"
+  },
+  {
+    "subject": "Mexican Empire",
+    "predicate": "another_succeeded_by",
+    "object": "Mosquito Coast"
+  }
+]

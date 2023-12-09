@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Utopía",
+    "predicate": "category",
+    "object": "concert"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "image",
+    "object": "Belinda Utopia.jpg"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "artist",
+    "object": "Belinda"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "released",
+    "object": "October 3, 2006"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "recorded",
+    "object": "March-August 2006"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "genre",
+    "object": "Pop rock | rock | pop | Latin pop"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "length",
+    "object": "47 | 14 | 65:17 | ( | Utopía 2 | )"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "language",
+    "object": "Spanish | English"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "label",
+    "object": "EMI Televisa"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "producer",
+    "object": "Belinda | (exec.) | Greg Wells | Greg Kurstin | Kara DioGuardi | Mitch Allan | Jimmy Harry | Lester Mendez | Armando Ávila | Matthew Gerrard"
+  },
+  {
+    "subject": "Belinda chronology",
+    "predicate": "albums",
+    "object": "Total | (2006) | Utopía | (2006) | Carpe Diem | (2010)"
+  },
+  {
+    "subject": "Utopía²",
+    "predicate": "cover",
+    "object": "Belinda Utopia 2.png"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "single",
+    "object": "\"Ni Freud Ni Tu Mamá\" | Released: September 19, 2006"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "single",
+    "object": "\"Bella Traición\" | Released: January 26, 2007"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "single",
+    "object": "\"Luz Sin Gravedad\" | Released: May 29, 2007"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "single",
+    "object": "\"If We Were\" | Released: August 28, 2007"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "single",
+    "object": "\"Alguien Más\" | Released: September 2007"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "single",
+    "object": "\"Es De Verdad\" | Released: October 1, 2007"
+  },
+  {
+    "subject": "Utopía",
+    "predicate": "single",
+    "object": "\"See A Little Light\" | Released: March 21, 2008"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "OSC Metalist",
+    "predicate": "category",
+    "object": "stadium"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "caption",
+    "object": "Metalist Stadium Kharkiv.jpg | UEFA"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Former names",
+    "object": "Tractor Stadium (1926-1940) | Dzerzhinets Stadium (1940-1967)"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Location",
+    "object": "Kharkiv, Ukraine"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Coordinates",
+    "object": "49.9808583°N 36.2617028°E"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Owner",
+    "object": "Kharkiv City Council"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Operator",
+    "object": "Metalist 1925 Kharkiv"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Capacity",
+    "object": "41,307"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Field size",
+    "object": "105 m × 68 m (344 ft × 223 ft)"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Surface",
+    "object": "Grass"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Construction.Broke ground",
+    "object": "1925"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Construction.Opened",
+    "object": "12 September 1926"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Construction.Renovated",
+    "object": "5 December 2009"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Construction.Architect",
+    "object": "Z. V. Permilovskyi"
+  },
+  {
+    "subject": "OSC Metalist",
+    "predicate": "Tenants",
+    "object": "Metalist Kharkiv, Metalist 1925 Kharkiv, Shakhtar Donetsk (2017-2020)"
+  }
+]

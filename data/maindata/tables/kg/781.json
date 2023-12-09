@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Brit Pettersen",
+    "predicate": "category",
+    "object": "skier"
+  },
+  {
+    "subject": "Brit Pettersen",
+    "predicate": "Country",
+    "object": "Norway"
+  },
+  {
+    "subject": "Brit Pettersen",
+    "predicate": "Born",
+    "object": "( | 1961-11-24 | ) | 24 November 1961 | (age 60) | Lillehammer, Norway"
+  },
+  {
+    "subject": "Brit Pettersen",
+    "predicate": "Ski club",
+    "object": "Søre Ål IL"
+  },
+  {
+    "subject": "Brit Pettersen",
+    "predicate": "Image",
+    "object": "Brit Pettersen DEX PR 014292.jpg | Brit Pettersen in March, 1980"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Seasons",
+    "object": "7 - (1982-1988)"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Individual wins",
+    "object": "10"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Team wins",
+    "object": "5"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Individual podiums",
+    "object": "23"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Team podiums",
+    "object": "6"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Individual starts",
+    "object": "51"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Team starts",
+    "object": "6"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Overall titles",
+    "object": "0 - (2nd in 1982, 1983)"
+  },
+  {
+    "subject": "Brit Pettersen",
+    "predicate": "Representing",
+    "object": "Norway"
+  },
+  {
+    "subject": "Olympic Games",
+    "predicate": "Gold medal - first place",
+    "object": "1984 Sarajevo | 4 × 5 km relay"
+  },
+  {
+    "subject": "Olympic Games",
+    "predicate": "Bronze medal - third place",
+    "object": "1980 Lake Placid | 4 × 5 km relay"
+  },
+  {
+    "subject": "Olympic Games",
+    "predicate": "Bronze medal - third place",
+    "object": "1984 Sarajevo | 10 km"
+  },
+  {
+    "subject": "World Championships",
+    "predicate": "Gold medal - first place",
+    "object": "1982 Oslo | 4 × 5 km relay"
+  },
+  {
+    "subject": "World Championships",
+    "predicate": "Silver medal - second place",
+    "object": "1985 Seefeld | 20 km"
+  },
+  {
+    "subject": "World Championships",
+    "predicate": "Bronze medal - third place",
+    "object": "1982 Oslo | 5 km"
+  },
+  {
+    "subject": "World Championships",
+    "predicate": "Bronze medal - third place",
+    "object": "1987 Oberstdorf | 10 km classical"
+  },
+  {
+    "subject": "Junior World Championships",
+    "predicate": "Gold medal - first place",
+    "object": "1980 Örnsköldsvik | 4 × 5 km relay"
+  }
+]

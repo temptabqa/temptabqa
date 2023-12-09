@@ -1,0 +1,20 @@
+[
+  {"subject": "Scottie Pippen", "predicate": "category", "object": "nba"},
+  {"subject": "Scottie Pippen", "predicate": "infobox-image", "object": "Scottie Pippen 5-2-22 (cropped).jpg | Pippen in 2022"},
+  {"subject": "Scottie Pippen", "predicate": "born", "object": "September 25, 1965 | (age 56) | Hamburg, Arkansas, US"},
+  {"subject": "Scottie Pippen", "predicate": "listed height", "object": "6 ft 8 in (2.03 m)"},
+  {"subject": "Scottie Pippen", "predicate": "listed weight", "object": "228 lb (103 kg)"},
+  {"subject": "Scottie Pippen", "predicate": "high school", "object": "Hamburg | (Hamburg, Arkansas)"},
+  {"subject": "Scottie Pippen", "predicate": "college", "object": "Central Arkansas (1983-1987)"},
+  {"subject": "Scottie Pippen", "predicate": "NBA draft", "object": "1987 / Round: 1 / Pick: 5th overall"},
+  {"subject": "Scottie Pippen", "predicate": "playing career", "object": "1987-2004, 2008"},
+  {"subject": "Scottie Pippen", "predicate": "position", "object": "Small forward"},
+  {"subject": "Scottie Pippen", "predicate": "number", "object": "33"},
+  {"subject": "Scottie Pippen", "predicate": "career information", "object": "Selected by the Seattle SuperSonics"},
+  {"subject": "Scottie Pippen", "predicate": "career history", "object": {"1987-1998": "Chicago Bulls", "1999": "Houston Rockets", "1999-2003": "Portland Trail Blazers", "2003-2004": "Chicago Bulls", "2008": "Sundsvall Dragons"}},
+  {"subject": "Scottie Pippen", "predicate": "career highlights and awards", "object": ["6× NBA champion (1991-1993, 1996-1998)", "7× NBA All-Star (1990, 1992-1997)", "NBA All-Star Game MVP (1994)", "3× All-NBA First Team (1994-1996)", "2× All-NBA Second Team (1992, 1997)", "2× All-NBA Third Team (1993, 1998)", "8× NBA All-Defensive First Team (1992-1999)", "2× NBA All-Defensive Second Team (1991, 2000)", "NBA steals leader (1995)", "NBA anniversary team (50th, 75th)", "No. 33 retired by Chicago Bulls", "USA Basketball Male Athlete of the Year (1996)", "2× Consensus NAIA All-American (1986, 1987)", "No. 33 retired by Central Arkansas Bears"]},
+  {"subject": "Scottie Pippen", "predicate": "career NBA statistics", "object": {"Points": "18,940 (16.1 ppg)", "Rebounds": "7,494 (6.4 rpg)", "Assists": "6,135 (5.2 apg)"}},
+  {"subject": "Scottie Pippen", "predicate": "representing", "object": "the United States"},
+  {"subject": "Scottie Pippen", "predicate": "Olympic Games", "object": ["Gold medal - first place | 1992 Barcelona | Team competition", "Gold medal - first place | 1996 Atlanta | Team competition"]},
+  {"subject": "Scottie Pippen", "predicate": "FIBA Americas Championship", "object": "Gold medal - first place | 1992 Portland | Men's basketball"}
+]

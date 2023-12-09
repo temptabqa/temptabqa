@@ -1,0 +1,22 @@
+[
+  {"subject": "Legislative Assembly", "predicate": "category", "object": "legislature"},
+  {"subject": "Legislative Assembly", "predicate": "Legislative Assembly", "object": "59th Parliament"},
+  {"subject": "Legislative Assembly", "predicate": "Legislative Assembly", "object": "Coat of arms or logo"},
+  {"subject": "Legislative Assembly", "predicate": "Type", "object": "Lower house of the Parliament of Victoria"},
+  {"subject": "Legislative Assembly", "predicate": "History", "object": "Founded on 21 November 1856; 165 years ago"},
+  {"subject": "Leadership", "predicate": "Speaker", "object": "Colin Brooks, Labor since 7 March 2017"},
+  {"subject": "Leadership", "predicate": "Deputy Speaker", "object": "Maree Edwards, Labor since 7 March 2017"},
+  {"subject": "Leadership", "predicate": "Leader of the House", "object": "Jacinta Allan, Labor since December 2014"},
+  {"subject": "Leadership", "predicate": "Government Whip", "object": "Darren Cheeseman, Labor since August 2020"},
+  {"subject": "Leadership", "predicate": "Deputy Government Whip", "object": "Matt Fregon, Labor since September 2020"},
+  {"subject": "Structure", "predicate": "Seats", "object": "88"},
+  {"subject": "Structure", "predicate": "Political groups", "object": "Government (55) Labor (55) Opposition (27) Liberal (21) National (6) Crossbench (6) Greens (3) Independent (3)"},
+  {"subject": "Structure", "predicate": "Length of term", "object": "4 years"},
+  {"subject": "Structure", "predicate": "Structure", "object": "Victorian Legislative Assembly 2018.svg"},
+  {"subject": "Elections", "predicate": "Voting system", "object": "Instant-runoff voting"},
+  {"subject": "Elections", "predicate": "Last election", "object": "24 November 2018"},
+  {"subject": "Elections", "predicate": "Next election", "object": "26 November 2022"},
+  {"subject": "Meeting place", "predicate": "Meeting place", "object": "Victorian Legislative Assembly.png"},
+  {"subject": "Meeting place", "predicate": "Meeting place", "object": "Legislative Assembly Chamber, Parliament House, Melbourne, Victoria, Australia"},
+  {"subject": "Website", "predicate": "Website", "object": "Vic Legislative Assembly"}
+]

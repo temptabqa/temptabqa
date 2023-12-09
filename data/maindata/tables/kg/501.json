@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "category",
+    "predicate": "is",
+    "object": "handball"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "hasPhoto",
+    "object": "Créteil-Ivry 12.jpg"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "born",
+    "object": "9 April 1984, Cazin, SR Bosnia, SFR Yugoslavia"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "nationality",
+    "object": "Bosnian"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "height",
+    "object": "1.90 m (6 ft 3 in)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "playing position",
+    "object": "Pivot"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "current club",
+    "object": "ORK Bosna Sarajevo"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "number",
+    "object": "20"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "senior club",
+    "object": "RK Bosna Sarajevo (2003-2008)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "senior club",
+    "object": "KIF Kolding (2008-2011)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "senior club",
+    "object": "Wisła Płock (2011-2014)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "senior club",
+    "object": "US Creteil (2014-2018)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "senior club",
+    "object": "RK Gračanica (2018-2019)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "senior club",
+    "object": "HC Bosna Visoko (2019)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "senior club",
+    "object": "RK Slavija Istočno Sarajevo (2020)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "senior club",
+    "object": "RK Bosna Sarajevo (2020-)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "national team",
+    "object": "Bosnia and Herzegovina (2003-2020)"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "national team appearances",
+    "object": "137"
+  },
+  {
+    "subject": "Muhamed Toromanović",
+    "predicate": "national team goals",
+    "object": "425"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "category",
+    "object": "figure skating"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "image",
+    "object": "Oblasova EC04.jpg"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "event",
+    "object": "2004 European Championships"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "full name",
+    "object": "Kristina Oblasova"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "country represented",
+    "object": "Russia"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "born",
+    "object": "11 September 1984"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "birthplace",
+    "object": "Moscow, Russian SFSR, Soviet Union"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "height",
+    "object": "1.72 m (5 ft 8 in)"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "former coach",
+    "object": "Viktor Kudriavtsev, Elena Tchaikovskaya, Vladimir Kotin"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "former choreographer",
+    "object": "Olga Markova, Elena Matveeva"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "skating club",
+    "object": "Esdushor Moscow"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "began skating",
+    "object": "1989"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "retired",
+    "object": "2004"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "ISU personal best scores",
+    "object": {
+      "combined total": "127.96",
+      "event": "2003 Cup of Russia",
+      "short program": "44.68",
+      "free skate": "83.28"
+    }
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "figure skating discipline",
+    "object": "ladies' singles"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "representing",
+    "object": "Russia"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "World Junior Championships achievement",
+    "object": "Gold medal - first place"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "World Junior Championships event",
+    "object": "2001 Sofia, ladies' singles"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "Junior Grand Prix Final achievement",
+    "object": "Silver medal - second place"
+  },
+  {
+    "subject": "Kristina Oblasova",
+    "predicate": "Junior Grand Prix Final event",
+    "object": "2000-01 Ayr, ladies' singles"
+  }
+]

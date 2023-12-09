@@ -1,0 +1,137 @@
+[
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "category",
+    "object": "empire"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Capital",
+    "object": "Assur (911-879 BC), Nimrud (879-706 BC), Dur-Sharrukin (706-705 BC), Nineveh (705-612 BC), Harran (612-609 BC)"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Official languages",
+    "object": "Akkadian, Aramaic"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Religion",
+    "object": "Ancient Mesopotamian religion"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Government",
+    "object": "Monarchy"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Historical era",
+    "object": "Iron Age"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Preceded by",
+    "object": "Middle Assyrian Empire"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Succeeded by",
+    "object": "Neo-Babylonian Empire, Median Empire"
+  },
+  {
+    "subject": "Adad-nirari II",
+    "predicate": "reign",
+    "object": "911-891 BC (first)"
+  },
+  {
+    "subject": "Ashurnasirpal II",
+    "predicate": "reign",
+    "object": "883-859 BC"
+  },
+  {
+    "subject": "Shalmaneser III",
+    "predicate": "reign",
+    "object": "859-824 BC"
+  },
+  {
+    "subject": "Tiglath-Pileser III",
+    "predicate": "reign",
+    "object": "745-727 BC"
+  },
+  {
+    "subject": "Sargon II",
+    "predicate": "reign",
+    "object": "722-705 BC"
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "reign",
+    "object": "705-681 BC"
+  },
+  {
+    "subject": "Esarhaddon",
+    "predicate": "reign",
+    "object": "681-669 BC"
+  },
+  {
+    "subject": "Ashurbanipal",
+    "predicate": "reign",
+    "object": "669-631 BC"
+  },
+  {
+    "subject": "Ashur-uballit II",
+    "predicate": "reign",
+    "object": "612-609 BC (last)"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Accession of Adad-nirari II",
+    "object": "911 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Nimrud made capital",
+    "object": "879 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Age of the magnates",
+    "object": "823-745 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Conquest of Babylonia",
+    "object": "729 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Nineveh made capital",
+    "object": "705 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Conquest of Egypt",
+    "object": "671 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Medo-Babylonian conquest of the Assyrian Empire",
+    "object": "626-609 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Fall of Assur",
+    "object": "614 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Fall of Nineveh",
+    "object": "612 BC"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "predicate": "Fall of Harran",
+    "object": "609 BC"
+  }
+]

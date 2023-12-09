@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "category",
+    "object": "launchpad"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "caption",
+    "object": "SLC-3 Service Tower Rolls Back for InSight"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "infobox-image",
+    "object": "SLC-3 Service Tower Rolls Back for InSight.jpg"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "Launch site",
+    "object": "Vandenberg SFB"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "Location",
+    "object": "34.6429885, -120.5885124"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "Short name",
+    "object": "SLC-3"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "Operator",
+    "object": "US Space Force"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "Total launches",
+    "object": "125"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "Launch pad(s)",
+    "object": "2"
+  },
+  {
+    "subject": "Space Launch Complex 3",
+    "predicate": "Orbital inclination | range",
+    "object": "51° - 145°"
+  },
+  {
+    "subject": "SLC-3W (PALC-1-1) launch history",
+    "predicate": "Status",
+    "object": "Demolished"
+  },
+  {
+    "subject": "SLC-3W (PALC-1-1) launch history",
+    "predicate": "Launches",
+    "object": "81"
+  },
+  {
+    "subject": "SLC-3W (PALC-1-1) launch history",
+    "predicate": "First launch",
+    "object": "October 11, 1960 | Atlas-Agena / Samos 1"
+  },
+  {
+    "subject": "SLC-3W (PALC-1-1) launch history",
+    "predicate": "Last launch",
+    "object": "March 24, 1995 | Atlas-E/F / USA-109"
+  },
+  {
+    "subject": "SLC-3W (PALC-1-1) launch history",
+    "predicate": "Associated | rockets",
+    "object": "Atlas-Agena | Thorad-Agena | Thor-Agena | Atlas | Falcon 1 (cancelled)"
+  },
+  {
+    "subject": "SLC-3E (PALC-1-2) launch history",
+    "predicate": "Status",
+    "object": "Active"
+  },
+  {
+    "subject": "SLC-3E (PALC-1-2) launch history",
+    "predicate": "Launches",
+    "object": "44"
+  },
+  {
+    "subject": "SLC-3E (PALC-1-2) launch history",
+    "predicate": "First launch",
+    "object": "July 12, 1961 | Atlas-Agena / Midas 3"
+  },
+  {
+    "subject": "SLC-3E (PALC-1-2) launch history",
+    "predicate": "Last launch",
+    "object": "September 27, 2021 | Atlas V / Landsat 9"
+  },
+  {
+    "subject": "SLC-3E (PALC-1-2) launch history",
+    "predicate": "Associated | rockets",
+    "object": "Atlas-Agena | Atlas | Atlas II | Atlas V (current) | Vulcan (future)"
+  }
+]

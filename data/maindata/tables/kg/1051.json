@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Apollo program",
+    "predicate": "category",
+    "object": "space program"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "infobox-image",
+    "object": "Apollo program.svg"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Country",
+    "object": "United States"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Organization",
+    "object": "NASA"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Purpose",
+    "object": "Crewed lunar landing"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Status",
+    "object": "Completed"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/Cost",
+    "object": "$25.4 billion (1973) | $158 billion (2020)"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/Duration",
+    "object": "1961-1972"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/First flight",
+    "object": "SA-1 | October 27, 1961 | ( | 1961-10-27 | )"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/First crewed flight",
+    "object": "Apollo 7 | October 11, 1968 | ( | 1968-10-11 | )"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/Last flight",
+    "object": "Apollo 17 | December 19, 1972 | ( | 1972-12-19 | )"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/Successes",
+    "object": "32"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/Failures",
+    "object": "2 (Apollo 1 and 13)"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/Partial failures",
+    "object": "1 (Apollo 6)"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Program history/Launch site(s)",
+    "object": "Cape Kennedy | Kennedy Space Center | White Sands"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Vehicle information/Crewed vehicle(s)",
+    "object": "Apollo CSM | Apollo LM"
+  },
+  {
+    "subject": "Apollo program",
+    "predicate": "Vehicle information/Launch vehicle(s)",
+    "object": "Little Joe II | Saturn I | Saturn IB | Saturn V"
+  }
+]

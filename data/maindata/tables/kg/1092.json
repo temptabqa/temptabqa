@@ -1,0 +1,115 @@
+[
+  {
+    "subject": "Portadown/Newry line",
+    "predicate": "has_image",
+    "object": "Train, Dunmurry station - geograph.org.uk - 1558797.jpg"
+  },
+  {
+    "subject": "Portadown/Newry line",
+    "predicate": "has_image_caption",
+    "object": "NI Railways Class 3000 at Dunmurry in 2009."
+  },
+  {
+    "subject": "Overview",
+    "predicate": "status",
+    "object": "Operational"
+  },
+  {
+    "subject": "Overview",
+    "predicate": "locale",
+    "object": "Northern Ireland"
+  },
+  {
+    "subject": "Overview",
+    "predicate": "termini",
+    "object": "Lanyon Place | Newry / Portadown / Lisburn"
+  },
+  {
+    "subject": "Overview",
+    "predicate": "stations",
+    "object": "18"
+  },
+  {
+    "subject": "Service",
+    "predicate": "type",
+    "object": "Commuter rail | Regional rail | Heavy rail"
+  },
+  {
+    "subject": "Service",
+    "predicate": "system",
+    "object": "NI Railways"
+  },
+  {
+    "subject": "Service",
+    "predicate": "services",
+    "object": "Belfast / Bangor-Newry | Belfast / Bangor-Portadown | Belfast / Bangor-Lisburn | (peak only) | Portadown-Newry | (morning only) | Belfast-Dublin | (Enterprise service) | Newry-Bray | (Iarnród Éireann service)"
+  },
+  {
+    "subject": "Service",
+    "predicate": "operator(s)",
+    "object": "NI Railways (Enterprise)"
+  },
+  {
+    "subject": "Service",
+    "predicate": "rolling_stock",
+    "object": "Class 201 | Class 3000 \"C3K\" | Class 4000 \"C4K\" | Class 29000 | De Dietrich Stock"
+  },
+  {
+    "subject": "Service",
+    "predicate": "ridership",
+    "object": "4.5 million a year"
+  },
+  {
+    "subject": "Technical",
+    "predicate": "number_of_tracks",
+    "object": "Double track"
+  },
+  {
+    "subject": "Technical",
+    "predicate": "track_gauge",
+    "object": "1,600 mm | ( | 5 ft 3 in | ) Irish gauge"
+  },
+  {
+    "subject": "Technical",
+    "predicate": "electrification",
+    "object": "Un-electrified"
+  },
+  {
+    "subject": "Route map",
+    "predicate": "route_map",
+    "object": [
+      "Legend",
+      "Belfast-Larne/Bangor railway lines",
+      "to Carrickfergus, Larne Town, Bangor",
+      "Lanyon Place | Belfast-Bangor railway line | Belfast-Derry railway line | Belfast-Dublin railway line | Belfast-Larne railway line",
+      "Botanic | Belfast-Bangor railway line | Belfast-Derry railway line | Belfast-Larne railway line",
+      "Botanic Tunnel",
+      "City Hospital | Belfast-Bangor railway line | Belfast-Derry railway line | Belfast-Larne railway line",
+      "Great Victoria Street | Belfast-Bangor railway line | Belfast-Derry railway line | Belfast-Larne railway line",
+      "Adelaide depot",
+      "Adelaide",
+      "Balmoral",
+      "Finaghy",
+      "Dunmurry",
+      "Derriaghy",
+      "Lambeg",
+      "Hilden",
+      "Lisburn | Belfast-Dublin railway line",
+      "Knockmore",
+      "Lisburn-Antrim railway line",
+      "to Glenavy, Crumlin, Antrim",
+      "Maze",
+      "Moira",
+      "Lurgan | Belfast-Dublin railway line",
+      "River Bann",
+      "Portadown | Belfast-Dublin railway line",
+      "Tanderagee",
+      "Scarva",
+      "Poyntzpass",
+      "Goraghwood",
+      "Newry | Belfast-Dublin railway line | Dublin Suburban Rail",
+      "Belfast-Dublin railway line",
+      "to Dundalk, Drogheda, Dublin Connolly"
+    ]
+  }
+]

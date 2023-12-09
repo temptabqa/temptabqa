@@ -1,0 +1,99 @@
+[
+  {
+    "subject": "Tom Jager",
+    "predicate": "category",
+    "object": "swimming"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Full name",
+    "object": "Thomas Michael Jager"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Nickname(s)",
+    "object": "Tom"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "National team",
+    "object": "United States"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Height",
+    "object": "6 ft 3 in (1.91 m)"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Weight",
+    "object": "181 lb (82 kg)"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Sport",
+    "object": "Swimming"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Strokes",
+    "object": "Freestyle"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "College team",
+    "object": "University of California, Los Angeles"
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Olympic Games",
+    "object": [
+      "Gold medal - first place | 1984 Los Angeles | 4×100 m freestyle",
+      "Gold medal - first place | 1984 Los Angeles | 4×100 m medley",
+      "Gold medal - first place | 1988 Seoul | 4×100 m freestyle",
+      "Gold medal - first place | 1988 Seoul | 4×100 m medley",
+      "Gold medal - first place | 1992 Barcelona | 4×100 m freestyle",
+      "Silver medal - second place | 1988 Seoul | 50 m freestyle",
+      "Bronze medal - third place | 1992 Barcelona | 50 m freestyle"
+    ]
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "World Championships (LC)",
+    "object": [
+      "Gold medal - first place | 1986 Madrid | 50 m freestyle",
+      "Gold medal - first place | 1986 Madrid | 4×100 m freestyle",
+      "Gold medal - first place | 1991 Perth | 50 m freestyle",
+      "Gold medal - first place | 1991 Perth | 4×100 m freestyle",
+      "Bronze medal - third place | 1986 Madrid | 100 m freestyle"
+    ]
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Pan Pacific Games",
+    "object": [
+      "Gold medal - first place | 1987 Brisbane | 50 m freestyle",
+      "Gold medal - first place | 1989 Tokyo | 50 m freestyle",
+      "Gold medal - first place | 1989 Tokyo | 4×100 m freestyle",
+      "Gold medal - first place | 1991 Edmonton | 50 m freestyle",
+      "Gold medal - first place | 1991 Edmonton | 4×100 m freestyle"
+    ]
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Pan American Games",
+    "object": [
+      "Gold medal - first place | 1995 Mar del Plata | 4×100 m freestyle",
+      "Bronze medal - third place | 1995 Mar del Plata | 50 m freestyle"
+    ]
+  },
+  {
+    "subject": "Tom Jager",
+    "predicate": "Summer Universiade",
+    "object": [
+      "Silver medal - second place | 1983 Edmonton | 100 m freestyle",
+      "Silver medal - second place | 1983 Edmonton | 100 m butterfly",
+      "Silver medal - second place | 1983 Edmonton | 4x100 m freestyle"
+    ]
+  }
+]

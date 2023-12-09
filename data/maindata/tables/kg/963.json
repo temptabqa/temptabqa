@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "Venue",
+    "object": "Olympic Aquatics Stadium"
+  },
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "Dates",
+    "object": "9 August 2016 (heats & final)"
+  },
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "Competitors",
+    "object": "73 | from 16 nations"
+  },
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "Teams",
+    "object": "16"
+  },
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "Winning time",
+    "object": "7:00.66"
+  },
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "Image",
+    "object": "Natação Rio 2016 1036470-10082016- mg 7885.jpg | The American final team (Dwyer, Haas, Lochte, and Phelps), during the medal ceremony."
+  },
+  {
+    "subject": "1st place, gold medalist(s) | United States",
+    "predicate": "Medalists",
+    "object": "Conor Dwyer, Townley Haas, Ryan Lochte, Michael Phelps, Clark Smith*, Jack Conger*, Gunnar Bentz*"
+  },
+  {
+    "subject": "2nd place, silver medalist(s) | Great Britain",
+    "predicate": "Medalists",
+    "object": "Stephen Milne, Duncan Scott, Daniel Wallace, James Guy, Robbie Renwick*"
+  },
+  {
+    "subject": "3rd place, bronze medalist(s) | Japan",
+    "predicate": "Medalists",
+    "object": "Kosuke Hagino, Naito Ehara, Yuki Kobori, Takeshi Matsuda | *Indicates the swimmer only competed in the preliminary heats."
+  },
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "previous",
+    "object": "2012"
+  },
+  {
+    "subject": "Men's 4 × 200 metre freestyle relay | at the Games of the XXXI Olympiad",
+    "predicate": "next",
+    "object": "2020"
+  }
+]

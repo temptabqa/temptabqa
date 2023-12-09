@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "ship",
+    "predicate": "category",
+    "object": "ship"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Country",
+    "object": "United Kingdom"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Ordered",
+    "object": "14 July 1758"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Builder",
+    "object": "Chatham Dockyard"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Laid down",
+    "object": "23 July 1759"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Launched",
+    "object": "7 May 1765"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Commissioned",
+    "object": "1778"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Homeport",
+    "object": "Portsmouth Historic Dockyard, England"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Coordinates",
+    "object": "50°48′07″N 1°06′35″W"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Participated_in",
+    "object": ["First Battle of Ushant (1778)", "Second Battle of Ushant (1781)", "Battle of Cape Spartel (1782)", "Battle of Cape St Vincent (1797)", "Battle of Trafalgar (1805)"]
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Status",
+    "object": "Active, Flagship of the First Sea Lord and museum ship"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Class_and_type",
+    "object": "104-gun first-rate ship of the line"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Tons_burthen",
+    "object": "2,142 bm"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Length",
+    "object": "186 ft (57 m) (gundeck), 227 ft 6 in (69.34 m) (overall)"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Beam",
+    "object": "51 ft 10 in (15.80 m)"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Draught",
+    "object": "28 ft 9 in (8.76 m)"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Depth_of_hold",
+    "object": "21 ft 6 in (6.55 m)"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Propulsion",
+    "object": "Sails-6,510 sq yd (5,440 m2)"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Sail_plan",
+    "object": "Full-rigged ship"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Speed",
+    "object": "up to 11 knots (20 km/h)"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Complement",
+    "object": "Approximately 850"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Armament",
+    "object": "Trafalgar: Gundeck: 30 × 2.75-ton long pattern Blomefield 32-pounders (15 kg), Middle gundeck: 28 × 2.5-ton long 24-pounders (11 kg), Upper gundeck: 30 × 1.7-ton short 12-pounders (5 kg), Quarterdeck: 12 × 1.7-ton short 12-pounder (5 kg), Forecastle: 2 × medium 12-pounder (5 kg), 2 × 68-pounder (31 kg) carronade"
+  },
+  {
+    "subject": "HMS Victory",
+    "predicate": "Notes",
+    "object": "Height from waterline to top of mainmast: 205 ft (62.5 m)"
+  }
+]

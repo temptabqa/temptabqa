@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Valberg Church",
+    "predicate": "category",
+    "object": "church"
+  },
+  {
+    "subject": "Valberg kirke",
+    "predicate": "Location",
+    "object": "Vestvågøy, Nordland"
+  },
+  {
+    "subject": "Valberg kirke",
+    "predicate": "Country",
+    "object": "Norway"
+  },
+  {
+    "subject": "Valberg kirke",
+    "predicate": "Denomination",
+    "object": "Church of Norway"
+  },
+  {
+    "subject": "Valberg kirke",
+    "predicate": "Churchmanship",
+    "object": "Evangelical Lutheran"
+  },
+  {
+    "subject": "Valberg kirke",
+    "predicate": "View of the church",
+    "object": "Valberg kirke.jpg"
+  },
+  {
+    "subject": "Valberg kirke",
+    "predicate": "Coordinates",
+    "object": "68°11′32″N 13°56′32″E 68.19216307°N 13.94212916°E 68.19216307; 13.94212916"
+  },
+  {
+    "subject": "History",
+    "predicate": "Status",
+    "object": "Parish church"
+  },
+  {
+    "subject": "History",
+    "predicate": "Founded",
+    "object": "1660"
+  },
+  {
+    "subject": "History",
+    "predicate": "Consecrated",
+    "object": "12 September 1889"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Functional status",
+    "object": "Active"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Architect(s)",
+    "object": "Andreas Grenstad"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Architectural type",
+    "object": "Long church"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Completed",
+    "object": "1889 (133 years ago)"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Capacity",
+    "object": "280"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Materials",
+    "object": "Wood"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Diocese",
+    "object": "Sør-Hålogaland"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Deanery",
+    "object": "Lofoten prosti"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Parish",
+    "object": "Valberg"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "Type",
+    "object": "Church"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "Status",
+    "object": "Not protected"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "ID",
+    "object": "85742"
+  }
+]

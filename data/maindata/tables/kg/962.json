@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Mona Lisa",
+    "predicate": "category",
+    "object": "painting"
+  },
+  {
+    "subject": "Mona Lisa",
+    "predicate": "Artist",
+    "object": "Leonardo da Vinci"
+  },
+  {
+    "subject": "Mona Lisa",
+    "predicate": "Year",
+    "object": "circa 1503-1506, perhaps continuing until c. 1517"
+  },
+  {
+    "subject": "Mona Lisa",
+    "predicate": "Medium",
+    "object": "Oil on poplar panel"
+  },
+  {
+    "subject": "Mona Lisa",
+    "predicate": "Subject",
+    "object": "Lisa Gherardini"
+  },
+  {
+    "subject": "Mona Lisa",
+    "predicate": "Dimensions",
+    "object": "77 cm × 53 cm (30 in × 21 in)"
+  },
+  {
+    "subject": "Mona Lisa",
+    "predicate": "Location",
+    "object": "Louvre, Paris"
+  },
+  {
+    "subject": "Mona Lisa",
+    "predicate": "Alternate Name",
+    "object": "Italian Gioconda, Monna Lisa"
+  },
+  {
+    "subject": "Mona Lisa",
+    "predicate": "Special Note",
+    "object": "See adjacent text. The Mona Lisa digitally retouched to reduce the effects of aging. The unretouched image is darker."
+  }
+]

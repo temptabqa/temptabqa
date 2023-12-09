@@ -1,0 +1,23 @@
+[
+  {"subject": "University of New South Wales", "predicate": "category", "object": "university"},
+  {"subject": "University of New South Wales", "predicate": "caption", "object": "University of New South Wales"},
+  {"subject": "University of New South Wales", "predicate": "infobox-image", "object": "Shield of the University of New South Wales.svg | Coat of arms"},
+  {"subject": "University of New South Wales", "predicate": "Former name", "object": "New South Wales University of Technology (1949-1958)"},
+  {"subject": "University of New South Wales", "predicate": "Motto", "object": "Scientia Corde Manu et Mente | (Latin)"},
+  {"subject": "University of New South Wales", "predicate": "Motto in English", "object": "Knowledge by Heart, Hand and Mind"},
+  {"subject": "University of New South Wales", "predicate": "Type", "object": "Public research university"},
+  {"subject": "University of New South Wales", "predicate": "Established", "object": "1 July 1949 | ; 72 years ago | ( | 1949-07-01 | )"},
+  {"subject": "University of New South Wales", "predicate": "Endowment", "object": "A$2.46 billion | (2019)"},
+  {"subject": "University of New South Wales", "predicate": "Chancellor", "object": "David Gonski | AC"},
+  {"subject": "University of New South Wales", "predicate": "President", "object": "Ian Jacobs"},
+  {"subject": "University of New South Wales", "predicate": "Academic staff", "object": "3,243 (2020)"},
+  {"subject": "University of New South Wales", "predicate": "Administrative staff", "object": "3,987 (2020)"},
+  {"subject": "University of New South Wales", "predicate": "Students", "object": "63,232 (2020)"},
+  {"subject": "University of New South Wales", "predicate": "Undergraduates", "object": "35,679 (2018)"},
+  {"subject": "University of New South Wales", "predicate": "Postgraduates", "object": "18,226 (2018)"},
+  {"subject": "University of New South Wales", "predicate": "Location", "object": "Sydney | , | New South Wales | , | Australia | Kensington"},
+  {"subject": "University of New South Wales", "predicate": "Campus", "object": "Urban, parks, 38 hectares (0.38 km | 2 | )"},
+  {"subject": "University of New South Wales", "predicate": "Colours", "object": "Yellow and black"},
+  {"subject": "University of New South Wales", "predicate": "Affiliations", "object": "Group of Eight | Universitas 21 | APRU | ADFA | ACU | Global Alliance of Technological Universities | PLuS Alliance"},
+  {"subject": "University of New South Wales", "predicate": "Website", "object": "unsw.edu.au"}
+]

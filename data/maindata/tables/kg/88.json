@@ -1,0 +1,137 @@
+[
+  {
+    "subject": "Sam Jones",
+    "predicate": "category",
+    "object": "nba"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "caption",
+    "object": "Sam Jones"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "infobox-image",
+    "object": "Sam Jones, Boston Celtics, 1969.jpg"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "infobox-description",
+    "object": "Jones playing for the Boston Celtics in 1969"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "born",
+    "object": "June 24, 1933"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "birthplace",
+    "object": "Wilmington, North Carolina"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "died",
+    "object": "December 30, 2021"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "deathplace",
+    "object": "Boca Raton, Florida"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "listed height",
+    "object": "6 ft 4 in (1.93 m)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "listed weight",
+    "object": "198 lb (90 kg)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "high school",
+    "object": "Laurinburg Institute (Laurinburg, North Carolina)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "college",
+    "object": "North Carolina Central (1951-1954, 1956-1957)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "NBA draft",
+    "object": "1957 / Round: 1 / Pick: 8th overall"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "playing career",
+    "object": "1957-1969"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "position",
+    "object": "Shooting guard"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "number",
+    "object": "24"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "coaching career",
+    "object": "1974-1975"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "selected by",
+    "object": "Boston Celtics"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "as player",
+    "object": "Boston Celtics (1957-1969)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "as coach",
+    "object": "New Orleans Jazz (assistant) (1974-1975)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "career highlights",
+    "object": "10× NBA champion (1959-1966, 1968, 1969), 5× NBA All-Star (1962, 1964-1966, 1968), 3× All-NBA Second Team (1965-1967), NBA anniversary team (25th, 50th, 75th), No. 24 retired by Boston Celtics"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "career statistics: points",
+    "object": "15,411 (17.7 ppg)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "career statistics: rebounds",
+    "object": "4,305 (4.9 rpg)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "career statistics: assists",
+    "object": "2,209 (2.5 apg)"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "Basketball Hall of Fame",
+    "object": "as player"
+  },
+  {
+    "subject": "Sam Jones",
+    "predicate": "College Basketball Hall of Fame",
+    "object": "Inducted in 2006"
+  }
+]

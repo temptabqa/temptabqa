@@ -1,0 +1,12 @@
+[
+  {"subject": "National Election Day", "predicate": "category", "object": "holiday"},
+  {"subject": "National Election Day", "predicate": "Type", "object": "Day for the election of public officials in the United States"},
+  {"subject": "National Election Day", "predicate": "Celebrations", "object": "Exercising civic duty, voting for elected officials, visiting polling precincts"},
+  {"subject": "National Election Day", "predicate": "Date", "object": "The Tuesday after the first Monday of November"},
+  {"subject": "National Election Day", "predicate": "2021 date", "object": "November 2 | (Details)"},
+  {"subject": "National Election Day", "predicate": "2022 date", "object": "November 8 | (Details)"},
+  {"subject": "National Election Day", "predicate": "2023 date", "object": "November 7 | (Details)"},
+  {"subject": "National Election Day", "predicate": "2024 date", "object": "November 5 | (Details)"},
+  {"subject": "National Election Day", "predicate": "Frequency", "object": "Biennial (annual if including off-years)"},
+  {"subject": "National Election Day", "predicate": "SF City Hall Election Day 2018.jpg", "object": "San Francisco City Hall illuminated in special red, white, and blue LED lighting at night on November 6, 2018 to commemorate Election Day all around the United States"}
+]

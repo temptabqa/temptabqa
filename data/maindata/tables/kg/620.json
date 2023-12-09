@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "isA",
+    "object": "stadium"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "formerName",
+    "object": "Lenin Dinamo Stadium (1976-1990)"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "formerName",
+    "object": "Boris Paichadze National Stadium (1995-2011)"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Location",
+    "object": "Tbilisi, Georgia"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Coordinates",
+    "object": "41.7230083°N, 44.7897611°E"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Owner",
+    "object": "Dinamo Tbilisi"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Executive suites",
+    "object": "52"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Capacity",
+    "object": "54,202"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Record attendance",
+    "object": "110,000 (Dinamo Tbilisi - Liverpool 3-0, 3 October 1979; Georgia-Germany 0-2, 29 March 1995)"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Field size",
+    "object": "105 m × 68 m (344 ft × 223 ft)"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Surface",
+    "object": "Astro turf"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Scoreboard",
+    "object": "Yes"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Built",
+    "object": "1976"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Renovated",
+    "object": "2006"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Architect",
+    "object": "Archil Kurdiani, Gia Kurdiani"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Structural engineer",
+    "object": "Shalva Gazashvili"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Tenant",
+    "object": "Georgia national rugby union team"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Tenant",
+    "object": "Georgia national football team"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Tenant",
+    "object": "FC Dinamo Tbilisi"
+  },
+  {
+    "subject": "Boris Paichadze Dinamo Arena",
+    "predicate": "Website",
+    "object": "www.fcdinamo.ge/en/club/stadium"
+  }
+]

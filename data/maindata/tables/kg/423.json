@@ -1,0 +1,227 @@
+[
+  {
+    "subject": {"name": "Federal Republic of Germany", "alternateName": "Bundesrepublik Deutschland", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Flag of Germany", "attribute": {"name": "Flag"}}
+  },
+  {
+    "subject": {"name": "Federal Republic of Germany", "alternateName": "Bundesrepublik Deutschland", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Coat of arms of Germany", "attribute": {"name": "Coat of arms"}}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "is also called"},
+    "object": {"name": "Song of Germany"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Capital", "attribute": {"name": "and largest city"}}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Berlin", "coordinate": "52°31′N | 13°23′E | \ufeff / \ufeff | 52.517°N 13.383°E | \ufeff / |  52.517; 13.383"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Official language", "attribute": {"name": ".mw-parser-output .nobold{font-weight:normal} |  and national language"}}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Demonym", "attribute": {"plural": "s"}}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Government"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Federal parliamentary republic"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "President"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Frank-Walter Steinmeier"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Chancellor"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Olaf Scholz"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Legislature"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Upper house"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Bundesrat"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Lower house"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Bundestag"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "EU-Germany (orthographic projection).svg"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Show globe"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "EU-Germany.svg"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Show map of Europe"}
+  },
+  {
+    "subject": {"name": "Anthem", "alternateName": "Deutschlandlied", "language": "German"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Location of Germany (dark green)", "attribute": {"name": "- in Europe (light green & dark grey) | - in the European Union (light green)"}}
+  },
+  {
+    "subject": {"name": "Formation"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Unification", "date": "18 January 1871"}
+  },
+  {
+    "subject": {"name": "Formation"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Monarchy abolished", "date": "9 November 1918"}
+  },
+  {
+    "subject": {"name": "Formation"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Nazi Germany", "date": "23 March 1933"}
+  },
+  {
+    "subject": {"name": "Formation"},
+    "predicate": {"name": "has"},
+    "object": {"name": "West-East division", "date": "23 May 1949"}
+  },
+  {
+    "subject": {"name": "Formation"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Reunification", "date": "3 October 1990"}
+  },
+  {
+    "subject": {"name": "Area"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Total", "measure": "357,022 km", "rank": "(63rd)"}
+  },
+  {
+    "subject": {"name": "Area"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Water (%)", "measure": "1.27 (as of 2015)"}
+  },
+  {
+    "subject": {"name": "Population"},
+    "predicate": {"name": "has"},
+    "object": {"name": "2020 estimate", "measure": "Neutral increase |  83,190,556", "rank": "(18th)"}
+  },
+  {
+    "subject": {"name": "Population"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Density", "measure": "232/km", "rank": "(58th)"}
+  },
+  {
+    "subject": {"name": "GDP (PPP)"},
+    "predicate": {"name": "in"},
+    "object": {"name": "2021 estimate"}
+  },
+  {
+    "subject": {"name": "GDP (PPP)"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Total", "measure": "Increase |  $4.319 trillion", "rank": "(4th)"}
+  },
+  {
+    "subject": {"name": "GDP (PPP)"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Per capita", "measure": "Increase |  $51,860", "rank": "(15th)"}
+  },
+  {
+    "subject": {"name": "GDP (nominal)"},
+    "predicate": {"name": "in"},
+    "object": {"name": "2021 estimate"}
+  },
+  {
+    "subject": {"name": "Gini (2019)"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Positive decrease |  29.7 | low"}
+  },
+  {
+    "subject": {"name": "HDI (2019)"},
+    "predicate": {"name": "has"},
+    "object": {"name": "Increase |  0.947 | very high | · 6th"}
+  },
+  {
+    "subject": {"name": "Currency"},
+    "predicate": {"name": "is"},
+    "object": {"name": "Euro (€)", "code": "EUR"}
+  },
+  {
+    "subject": {"name": "Time zone"},
+    "predicate": {"name": "is"},
+    "object": {"name": "UTC+1", "abbreviation": "CET"}
+  },
+  {
+    "subject": {"name": "Summer (DST)"},
+    "predicate": {"name": "is"},
+    "object": {"name": "UTC+2", "abbreviation": "CEST"}
+  },
+  {
+    "subject": {"name": "Driving side"},
+    "predicate": {"name": "is"},
+    "object": {"name": "right"}
+  },
+  {
+    "subject": {"name": "Calling code"},
+    "predicate": {"name": "is"},
+    "object": {"name": "+49"}
+  },
+  {
+    "subject": {"name": "ISO 3166 code"},
+    "predicate": {"name": "is"},
+    "object": {"name": "DE"}
+  },
+  {
+    "subject": {"name": "Internet TLD"},
+    "predicate": {"name": "is"},
+    "object": {"name": ".de"}
+  }
+]

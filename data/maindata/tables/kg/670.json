@@ -1,0 +1,89 @@
+[
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "category",
+    "object": "hockey"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Full name",
+    "object": "Christopher Ciriello"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Nationality",
+    "object": "Australian"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Born",
+    "object": "1 October 1985 (age 36) Endeavour Hills, Victoria"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Height",
+    "object": "182 cm (6 ft 0 in)"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Weight",
+    "object": "84 kg (185 lb)"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Spouse(s)",
+    "object": "Heidi Ciriello (2010-present)"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Country",
+    "object": "Australia"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Sport",
+    "object": "Field hockey"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Event(s)",
+    "object": "Men's team"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Club",
+    "object": "Doncaster Hockey Club"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Team",
+    "object": "Victorian Vikings | Punjab Warriors (2012-present)"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Olympic Games",
+    "object": "Bronze medal - third place | 2012 London | Team"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "World Cup",
+    "object": "Gold medal - first place | 2014 The Hague | Team"
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Champions Trophy",
+    "object": [
+      "Gold medal - first place | 2010 Mönchengladbach | Team",
+      "Gold medal - first place | 2012 Melbourne | Team",
+      "Bronze medal - third place | 2014 Bhubaneswar | Team"
+    ]
+  },
+  {
+    "subject": "Chris Ciriello",
+    "predicate": "Commonwealth Games",
+    "object": [
+      "Gold medal - first place | 2010 Delhi | Team",
+      "Gold medal - first place | 2014 Glasgow | Team"
+    ]
+  }
+]

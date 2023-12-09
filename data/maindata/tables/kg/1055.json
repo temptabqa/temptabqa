@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Constellation program",
+    "predicate": "category",
+    "object": "space program"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "country",
+    "object": "United States"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "organization",
+    "object": "NASA"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "purpose",
+    "object": "Crewed orbital flight"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "purpose",
+    "object": "Crewed lunar exploration"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "purpose",
+    "object": "Crewed Mars exploration"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "status",
+    "object": "Cancelled"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "program history cost",
+    "object": "$230 billion (2004)"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "program history duration",
+    "object": "2004-2010"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "program history first flight",
+    "object": "MLAS | June 8, 2009"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "program history last flight",
+    "object": "Ares I-X | October 28, 2009"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "program history successes",
+    "object": "2"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "program history launch site",
+    "object": "Kennedy Space Center Launch Complex 39"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "program history launch site",
+    "object": "White Sands"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "vehicle information crewed vehicle",
+    "object": "Altair"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "vehicle information crewed vehicle",
+    "object": "Orion"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "vehicle information launch vehicle",
+    "object": "Ares I"
+  },
+  {
+    "subject": "Constellation program",
+    "predicate": "vehicle information launch vehicle",
+    "object": "Ares V"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {"subject": "Yom Kippur", "predicate": "category", "object": "holiday"},
+  {"subject": "Yom Kippur", "predicate": "Official name", "object": "יוֹם כִּיפּוּר"},
+  {"subject": "Yom Kippur", "predicate": "Observed by", "object": "Jews | Samaritans"},
+  {"subject": "Yom Kippur", "predicate": "Type", "object": "Jewish"},
+  {"subject": "Yom Kippur", "predicate": "Significance", "object": "Atonement for personal sins, fate of each person is sealed for the upcoming year"},
+  {"subject": "Yom Kippur", "predicate": "Observances", "object": "Fasting | prayer | abstaining from physical pleasures | refraining from work"},
+  {"subject": "Yom Kippur", "predicate": "Date", "object": "10th day of Tishrei"},
+  {"subject": "Yom Kippur", "predicate": "2021 date", "object": "Sunset, 15 September - | nightfall, 16 September"},
+  {"subject": "Yom Kippur", "predicate": "2022 date", "object": "Sunset, 4 October - | nightfall, 5 October"},
+  {"subject": "Yom Kippur", "predicate": "2023 date", "object": "Sunset, 24 September - | nightfall, 25 September"},
+  {"subject": "Yom Kippur", "predicate": "2024 date", "object": "Sunset, 11 October - | nightfall, 12 October"},
+  {"subject": "Yom Kippur", "predicate": "Frequency", "object": "Annual"},
+  {"subject": "Yom Kippur", "predicate": "Related to", "object": "Rosh Hashanah, which precedes Yom Kippur"},
+  {"subject": "Yom Kippur", "predicate": "Yom Kippur", "object": "Maurycy Gottlieb - Jews Praying in the Synagogue on Yom Kippur.jpg | Jews Praying in the Synagogue on Yom Kippur | , by Maurycy Gottlieb (1878)"}
+]

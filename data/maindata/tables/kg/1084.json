@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "category",
+    "object": "show"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Genre",
+    "object": "Sitcom | police comedy"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Created by",
+    "object": "Larry Levin"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Written by",
+    "object": "Richard Dresser | Stephen Godchaux"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Directed by",
+    "object": "Michael Engler | Bryan Gordon"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Starring",
+    "object": "Giancarlo Esposito | Ron Eldard | Chris Mulkey | Tony Plana | Jack Hallett | Brian Doyle-Murray"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Theme music composer",
+    "object": "Carl Finch"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Opening theme",
+    "object": "\"Busy Office Rhumba\" performed by Brave Combo"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Composer",
+    "object": "Joseph Vitarelli"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Country of origin",
+    "object": "United States"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Original language",
+    "object": "English"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Number of seasons",
+    "object": "1"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Number of episodes",
+    "object": "17"
+  },
+  {
+    "subject": "Bakersfield P.D.",
+    "predicate": "Image",
+    "object": "Bakersfield P.D..jpg"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Executive producer",
+    "object": "Larry Levin"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Camera setup",
+    "object": "Single-camera"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Running time",
+    "object": "30 minutes"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Production companies",
+    "object": "Rock Island Productions | Touchstone Television"
+  },
+  {
+    "subject": "Release",
+    "predicate": "Original network",
+    "object": "Fox"
+  },
+  {
+    "subject": "Release",
+    "predicate": "Original release",
+    "object": "September 14, 1993 - August 18, 1994"
+  }
+]

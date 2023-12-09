@@ -1,0 +1,46 @@
+[
+  {
+    "subject": "Riccardo Patrese",
+    "predicate": "category",
+    "object": "f1"
+  },
+  {
+    "subject": "Riccardo Patrese",
+    "predicate": "caption",
+    "object": "Riccardo Patrese"
+  },
+  {
+    "subject": "Riccardo Patrese",
+    "predicate": "infobox-image",
+    "object": "RiccardoPatrese.jpg | Patrese in 1991"
+  },
+  {
+    "subject": "Riccardo Gabriele Patrese",
+    "predicate": "Born",
+    "object": {
+      "date": "1954-04-17",
+      "age": 68,
+      "location": "Padua, Italy"
+    }
+  },
+  {
+    "subject": "Riccardo Patrese",
+    "predicate": "Formula One World Championship career",
+    "object": {
+      "Nationality": "Italy | Italian",
+      "Active years": "1977-1993",
+      "Teams": "Shadow, Arrows, Brabham, Alfa Romeo, Williams, Benetton",
+      "Entries": "257 (256 starts)",
+      "Championships": 0,
+      "Wins": 6,
+      "Podiums": 37,
+      "Career points": 281,
+      "Pole positions": 8,
+      "Fastest laps": 13,
+      "First entry": "1977 Monaco Grand Prix",
+      "First win": "1982 Monaco Grand Prix",
+      "Last win": "1992 Japanese Grand Prix",
+      "Last entry": "1993 Australian Grand Prix"
+    }
+  }
+]

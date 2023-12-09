@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "Easter",
+    "predicate": "category",
+    "object": "holiday"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "Significance",
+    "object": "Celebrates the resurrection of Jesus"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "Celebrations",
+    "object": "Church services, festive family meals, Easter egg decoration, and gift-giving"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "Observances",
+    "object": "Prayer, all-night vigil, sunrise service"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "Date",
+    "object": "Variable, determined by the Computus"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "2021 date",
+    "object": "April 4 (Western) | May 2 (Eastern)"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "2022 date",
+    "object": "April 17 (Western) | April 24 (Eastern)"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "2023 date",
+    "object": "April 9 (Western) | April 16 (Eastern)"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "2024 date",
+    "object": "March 31 (Western) | May 5 (Eastern)"
+  },
+  {
+    "subject": "Easter",
+    "predicate": "Related to",
+    "object": "Passover, Septuagesima, Sexagesima, Quinquagesima, Shrove Tuesday, Ash Wednesday, Clean Monday, Lent, Great Lent, Palm Sunday, Holy Week, Maundy Thursday, Good Friday, and Holy Saturday which lead up to Easter; and Divine Mercy Sunday, Ascension, Pentecost, Trinity Sunday, Corpus Christi and Feast of the Sacred Heart which follow it."
+  },
+  {
+    "subject": "Easter",
+    "predicate": "Image",
+    "object": "Resurrection (24).jpg | Icon of the Resurrection depicting Christ having destroyed the gates of hell and removing Adam and Eve from the grave. Christ is flanked by saints, and Satan, depicted as an old man, is bound and chained."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "has_image",
+    "object": "Black Dog Halt, near Calne, Wilts - geograph.org.uk - 40305.jpg"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "description",
+    "object": "Black Dog Halt in 2004"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "category",
+    "object": "railway"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "location",
+    "object": "Calne, Wiltshire | England"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "grid_reference",
+    "object": "ST981707"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "platforms",
+    "object": "1"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "status",
+    "object": "Disused"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "original_company",
+    "object": "Calne Railway"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "pre-grouping",
+    "object": "Great Western Railway"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "post-grouping",
+    "object": "Great Western Railway"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "key_date",
+    "object": "3 November 1863"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "event",
+    "object": "Opened as | Black Dog Siding"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "key_date",
+    "object": "8 June 1953"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "event",
+    "object": "Renamed | Black Dog Halt"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "key_date",
+    "object": "20 September 1965"
+  },
+  {
+    "subject": "Black Dog Halt",
+    "predicate": "event",
+    "object": "Closed"
+  }
+]

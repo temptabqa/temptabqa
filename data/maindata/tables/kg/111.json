@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "category",
+    "object": "swimming"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "full name",
+    "object": "Caeleb Remel Dressel"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "national team",
+    "object": "United States"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "born",
+    "object": "August 16, 1996 in Green Cove Springs, Florida, U.S."
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "height",
+    "object": "6 ft 3 in (1.91 m)"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "weight",
+    "object": "200 lb (92 kg)"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "spouse",
+    "object": "Meghan Haila (m. 2021)"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "sport",
+    "object": "swimming"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "strokes",
+    "object": "Butterfly, Freestyle"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "club",
+    "object": "Cali Condors, Gator Swim Club"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "college team",
+    "object": "University of Florida"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "coach",
+    "object": "Anthony Nesty, Gregg Troy (former)"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "representing",
+    "object": "United States"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "Olympic Games participation",
+    "object": ["2016 Rio de Janeiro", "2020 Tokyo"]
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "World Championships (LC) participation",
+    "object": ["2017 Budapest", "2019 Gwangju", "2022 Budapest"]
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "World Championships (SC) participation",
+    "object": ["2018 Hangzhou"]
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "Pan Pacific Championships participation",
+    "object": ["2018 Tokyo"]
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "World Junior Championships participation",
+    "object": ["2013 Dubai"]
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "representing",
+    "object": "Florida Gators"
+  },
+  {
+    "subject": "Caeleb Dressel",
+    "predicate": "NCAA Championships participation",
+    "object": ["2015 Iowa City", "2016 Atlanta", "2017 Indianapolis", "2018 Minneapolis"]
+  }
+]

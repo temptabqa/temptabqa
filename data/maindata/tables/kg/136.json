@@ -1,0 +1,100 @@
+[
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "category",
+    "object": "badminton"
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "image",
+    "object": "Friendly match Australia and Indonesia 2016 - Gronya Somerville (cropped).jpg"
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Personal information | Country",
+    "object": "Australia"
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Personal information | Height",
+    "object": "1.71 m (5 ft 7 in)"
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Personal information | Weight",
+    "object": "62 kg (137 lb)"
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Personal information | Handedness",
+    "object": "Right"
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Women's & mixed doubles | Highest ranking",
+    "object": "18 (WD with Setyana Mapasa 2 March 2017) | 51 (XD with Simon Leung 17 March 2020)"
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Women's & mixed doubles | Current ranking",
+    "object": "26 (WD with Setyana Mapasa) | 54 (XD Simon Leung) (10 August 2021)"
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Oceania Championships | Gold medal",
+    "object": [
+      "first place | 2014 Ballarat | Women's doubles",
+      "first place | 2015 North Harbour | Women's doubles",
+      "first place | 2017 Nouméa | Women's doubles",
+      "first place | 2018 Hamilton | Women's doubles",
+      "first place | 2019 Melbourne | Women's doubles",
+      "first place | 2019 Melbourne | Mixed doubles",
+      "first place | 2020 Ballarat | Women's doubles",
+      "first place | 2020 Ballarat | Mixed doubles",
+      "first place | 2022 Melbourne | Mixed doubles"
+    ]
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Oceania Championships | Silver medal",
+    "object": [
+      "second place | 2016 Papeete | Women's doubles",
+      "second place | 2017 Nouméa | Mixed doubles",
+      "second place | 2022 Melbourne | Women's doubles"
+    ]
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Oceania Championships | Bronze medal",
+    "object": [
+      "third place | 2012 Ballarat | Mixed doubles",
+      "third place | 2014 Ballarat | Mixed doubles",
+      "third place | 2015 North Harbour | Mixed doubles"
+    ]
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Oceania Mixed Team Championships | Gold medal",
+    "object": [
+      "first place | 2012 Ballarat | Mixed team",
+      "first place | 2014 Ballarat | Mixed team",
+      "first place | 2016 Auckland | Mixed team",
+      "first place | 2019 Melbourne | Mixed team"
+    ]
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "Oceania Women's Team Championships | Gold medal",
+    "object": [
+      "first place | 2012 Ballarat | Women's team",
+      "first place | 2016 Auckland | Women's team",
+      "first place | 2018 Hamilton | Women's team",
+      "first place | 2020 Ballarat | Women's team"
+    ]
+  },
+  {
+    "subject": "Gronya Somerville",
+    "predicate": "External link",
+    "object": "BWF profile"
+  }
+]

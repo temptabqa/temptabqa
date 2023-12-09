@@ -1,0 +1,147 @@
+[
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "category",
+    "object": "golf"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "has_image",
+    "object": "CaryMiddlecoffImage.jpg"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "full_name",
+    "object": "Emmett Cary Middlecoff"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "nickname",
+    "object": "Doc"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "born",
+    "object": "January 6, 1921"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "birth_place",
+    "object": "Halls, Tennessee, U.S."
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "died",
+    "object": "September 1, 1998"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "death_place",
+    "object": "Memphis, Tennessee, U.S."
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "sporting_nationality",
+    "object": "United States"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "spouse",
+    "object": "Edith Buck"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "marriage_year",
+    "object": "1947"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "college",
+    "object": "University of Mississippi"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "college",
+    "object": "University of Tennessee College of Dentistry"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "turned_professional",
+    "object": "1947"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "former_tour",
+    "object": "PGA Tour"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "professional_wins",
+    "object": "40"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "PGA_Tour_wins",
+    "object": "39"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "PGA_Tour_wins_rank",
+    "object": "Tied 10th all time"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "other_wins",
+    "object": "1"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "Masters_Tournament_result",
+    "object": "Won"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "Masters_Tournament_year",
+    "object": "1955"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "PGA_Championship_result",
+    "object": "2nd"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "PGA_Championship_year",
+    "object": "1955"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "U.S._Open_result",
+    "object": "Won"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "U.S._Open_years",
+    "object": "1949, 1956"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "The_Open_Championship_result",
+    "object": "14th"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "The_Open_Championship_year",
+    "object": "1957"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "World_Golf_Hall_of_Fame_induction",
+    "object": "1986"
+  },
+  {
+    "subject": "Cary Middlecoff",
+    "predicate": "Vardon_Trophy",
+    "object": "1956"
+  }
+]

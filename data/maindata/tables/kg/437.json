@@ -1,0 +1,117 @@
+[
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Capital",
+    "object": "Lisbon | Rio de Janeiro (1808-1821)"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Common languages",
+    "object": "Portuguese"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Religion",
+    "object": "Roman Catholicism (Official)"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Government",
+    "object": "Monarchy (1415-1910) | Republic (1910-1999)"
+  },
+  {
+    "subject": "João I",
+    "predicate": "Reign as first monarch of Portuguese Empire",
+    "object": "1415-1433"
+  },
+  {
+    "subject": "Manuel II",
+    "predicate": "Reign as last monarch of Portuguese Empire",
+    "object": "1908-1910"
+  },
+  {
+    "subject": "Manuel de Arriaga",
+    "predicate": "Term as first president of Portuguese Empire",
+    "object": "1911-1915"
+  },
+  {
+    "subject": "Jorge Sampaio",
+    "predicate": "Term as last president of Portuguese Empire",
+    "object": "1996-1999"
+  },
+  {
+    "subject": "Pedro de Sousa Holstein",
+    "predicate": "Term as first prime minister of Portuguese Empire",
+    "object": "1834-1835"
+  },
+  {
+    "subject": "António Guterres",
+    "predicate": "Term as last prime minister of Portuguese Empire",
+    "object": "1995-1999"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Conquest of Ceuta",
+    "object": "1415"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Sea route to India",
+    "object": "1498"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Colonial Brazil",
+    "object": "1500"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Iberian Union",
+    "object": "1580-1640"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Dutch-Portuguese War",
+    "object": "1588-1654"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Portuguese Restoration War",
+    "object": "1640-1668"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Independence of Brazil",
+    "object": "1822"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Loss of Indian provinces",
+    "object": "1961"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Portuguese Colonial War",
+    "object": "1961-1974"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Carnation Revolution",
+    "object": "1974-1975"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Handover of Macau",
+    "object": "1999"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Preceded by",
+    "object": "Kingdom of Portugal"
+  },
+  {
+    "subject": "Portuguese Empire",
+    "predicate": "Succeeded by",
+    "object": "Portuguese Republic"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Catch-22",
+    "predicate": "category",
+    "object": "book"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "caption",
+    "object": "Catch-22"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "infobox-image",
+    "object": "Catch22.jpg | First edition cover"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Author",
+    "object": "Joseph Heller"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Cover artist",
+    "object": "Paul Bacon"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Country",
+    "object": "United States"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Language",
+    "object": "English"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Genre",
+    "object": "Dark comedy, absurdist fiction, satire, war fiction, historical fiction"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Publisher",
+    "object": "Simon & Schuster"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Publication date",
+    "object": "November 10, 1961"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Media type",
+    "object": "Print (hardback)"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Pages",
+    "object": "453 (1st edition hardback)"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "ISBN",
+    "object": "0-671-12805-1"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Online Computer Library Center number",
+    "object": "35231812"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Dewey Decimal",
+    "object": "813/.54 22"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Library of Congress Classification",
+    "object": "PS3558.E476 C3 2004"
+  },
+  {
+    "subject": "Catch-22",
+    "predicate": "Followed by",
+    "object": "Closing Time | (1994)"
+  }
+]

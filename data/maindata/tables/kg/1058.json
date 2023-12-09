@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Future Now Tour",
+    "predicate": "category",
+    "object": "concert"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "caption",
+    "object": "Future Now Tour"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "Associated albums",
+    "object": "Confident, Last Year Was Complicated"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "Start date",
+    "object": "June 29, 2016 (2016-06-29)"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "End date",
+    "object": "October 19, 2016 (2016-10-19)"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "Legs",
+    "object": "3"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "Number of shows",
+    "object": "47"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "Attendance",
+    "object": "280,045"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "Box office",
+    "object": "US $17.4 million"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "Website",
+    "object": "futurenowtour.com"
+  },
+  {
+    "subject": "Future Now Tour",
+    "predicate": "Image",
+    "object": "Demi Lovato Future now.jpeg"
+  },
+  {
+    "subject": "Demi Lovato tour chronology",
+    "predicate": "Previous Tour",
+    "object": "Demi World Tour (2014-2015)"
+  },
+  {
+    "subject": "Demi Lovato tour chronology",
+    "predicate": "Current Tour",
+    "object": "Future Now Tour (2016)"
+  },
+  {
+    "subject": "Demi Lovato tour chronology",
+    "predicate": "Next Tour",
+    "object": "Tell Me You Love Me World Tour (2018)"
+  },
+  {
+    "subject": "Nick Jonas tour chronology",
+    "predicate": "Previous Tour",
+    "object": "Nick Jonas: Live in Concert (2015)"
+  },
+  {
+    "subject": "Nick Jonas tour chronology",
+    "predicate": "Current Tour",
+    "object": "Future Now Tour (2016)"
+  },
+  {
+    "subject": "Honda Civic Tour tour chronology",
+    "predicate": "Previous Tour",
+    "object": "On the Road Again Tour (2015)"
+  },
+  {
+    "subject": "Honda Civic Tour tour chronology",
+    "predicate": "Current Tour",
+    "object": "Future Now Tour (2016)"
+  },
+  {
+    "subject": "Honda Civic Tour tour chronology",
+    "predicate": "Next Tour",
+    "object": "16th Annual Honda Civic Tour (2017)"
+  }
+]

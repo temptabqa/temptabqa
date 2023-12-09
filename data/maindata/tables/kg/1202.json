@@ -1,0 +1,95 @@
+[
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "category",
+    "object": "disease"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Other names",
+    "object": "HIV disease, HIV infection"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Specialty",
+    "object": "Infectious disease, immunology"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Symptoms",
+    "object": {
+      "Early": "Flu-like illness",
+      "Later": "Large lymph nodes, fever, weight loss"
+    }
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Complications",
+    "object": "Opportunistic infections, tumors"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Duration",
+    "object": "Lifelong"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Causes",
+    "object": "Human immunodeficiency virus (HIV)"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Risk factors",
+    "object": "Unprotected anal or vaginal sex, having another sexually transmitted infection, needle sharing, medical procedures involving unsterile cutting or piercing, and experiencing needlestick injury"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Diagnostic method",
+    "object": "Blood tests"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Prevention",
+    "object": "Safe sex, needle exchange, male circumcision, pre-exposure prophylaxis, post-exposure prophylaxis"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Treatment",
+    "object": "Antiretroviral therapy"
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Prognosis",
+    "object": {
+      "With treatment": "Near normal life expectancy",
+      "Without treatment": "11 years life expectancy"
+    }
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Frequency",
+    "object": {
+      "Total cases": "55.9 million - 100 million",
+      "New cases (2020)": "1.5 million",
+      "Living with HIV (2020)": "37 million"
+    }
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Deaths",
+    "object": {
+      "Total deaths": "36.3 million",
+      "Deaths (2020)": "680,000"
+    }
+  },
+  {
+    "subject": "HIV/AIDS",
+    "predicate": "Symbol",
+    "object": "A red ribbon in the shape of a bow"
+  },
+  {
+    "subject": "The red ribbon",
+    "predicate": "symbolizes",
+    "object": "solidarity with HIV-positive people and those living with AIDS"
+  }
+]

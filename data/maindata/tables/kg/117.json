@@ -1,0 +1,21 @@
+[
+  {"subject": "Ryan Lochte", "predicate": "category", "object": "swimming"},
+  {"subject": "Ryan Lochte", "predicate": "infobox-image", "object": "Lochte in 2018"},
+  {"subject": "Ryan Lochte", "predicate": "Full name", "object": "Ryan Steven Lochte"},
+  {"subject": "Ryan Lochte", "predicate": "Born", "object": "August 3, 1984"},
+  {"subject": "Ryan Lochte", "predicate": "Born-location", "object": "Rochester, New York, U.S."},
+  {"subject": "Ryan Lochte", "predicate": "Height", "object": "6 ft 2 in (188 cm)"},
+  {"subject": "Ryan Lochte", "predicate": "Weight", "object": "195 lb (88 kg)"},
+  {"subject": "Ryan Lochte", "predicate": "Sport", "object": "Swimming"},
+  {"subject": "Ryan Lochte", "predicate": "Strokes", "object": "Backstroke, freestyle, individual medley"},
+  {"subject": "Ryan Lochte", "predicate": "College team", "object": "University of Florida"},
+  {"subject": "Ryan Lochte", "predicate": "Representing", "object": "the United States"},
+  {"subject": "Ryan Lochte", "predicate": "Olympic Games", "object": "6 gold, 3 silver, 3 bronze"},
+  {"subject": "Ryan Lochte", "predicate": "World Championships (LC)", "object": "18 gold, 5 silver, 4 bronze"},
+  {"subject": "Ryan Lochte", "predicate": "World Championships (SC)", "object": "21 gold, 10 silver, 7 bronze"},
+  {"subject": "Ryan Lochte", "predicate": "Pan Pacific Championships", "object": "8 gold, 4 silver, 0 bronze"},
+  {"subject": "Ryan Lochte", "predicate": "Pan American Games", "object": "1 gold, 0 silver, 0 bronze"},
+  {"subject": "Ryan Lochte", "predicate": "Total", "object": "54 gold, 22 silver, 14 bronze"},
+  {"subject": "Ryan Lochte", "predicate": "Representing", "object": "the Florida Gators"},
+  {"subject": "Ryan Lochte", "predicate": "NCAA Championships", "object": "7 gold, 1 silver, 3 bronze"}
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Women's 100 metre breaststroke | at the 2016 FINA World Swimming Championships (25 m)",
+    "predicate": "category",
+    "object": "sports event"
+  },
+  {
+    "subject": "Women's 100 metre breaststroke | at the 2016 FINA World Swimming Championships (25 m)",
+    "predicate": "Venue",
+    "object": "WFCU Centre"
+  },
+  {
+    "subject": "Women's 100 metre breaststroke | at the 2016 FINA World Swimming Championships (25 m)",
+    "predicate": "Dates",
+    "object": "9 December (heats and semifinals) | 10 December (final)"
+  },
+  {
+    "subject": "Women's 100 metre breaststroke | at the 2016 FINA World Swimming Championships (25 m)",
+    "predicate": "Competitors",
+    "object": "60 from 46 nations"
+  },
+  {
+    "subject": "Women's 100 metre breaststroke | at the 2016 FINA World Swimming Championships (25 m)",
+    "predicate": "Winning time",
+    "object": "1:03.03"
+  },
+  {
+    "subject": "gold medal",
+    "predicate": "Medalists",
+    "object": "Alia Atkinson | Jamaica"
+  },
+  {
+    "subject": "silver medal",
+    "predicate": "Medalists",
+    "object": "Lilly King | United States"
+  },
+  {
+    "subject": "bronze medal",
+    "predicate": "Medalists",
+    "object": "Molly Hannis | United States"
+  },
+  {
+    "subject": "← 2014",
+    "predicate": "Medalists",
+    "object": "2018 →"
+  }
+]

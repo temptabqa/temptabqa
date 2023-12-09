@@ -1,0 +1,162 @@
+[
+  {
+    "subject": "German Reich",
+    "predicate": "duration",
+    "object": "1933-1945"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Flag",
+    "object": "Flag of Nazi Germany (1935-1945)"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Emblem",
+    "object": "Emblem (1935-1945) of Nazi Germany"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Capital and largest city",
+    "object": "Berlin"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Common languages",
+    "object": "German"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Religion",
+    "object": "54% Protestant, 40% Catholic, 3.5% Gottgläubig, 1.5% Irreligious, 1% Other"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Demonym",
+    "object": "German"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Government",
+    "object": "Unitary Nazi one-party fascist state under a totalitarian dictatorship"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Head of state (1933-1934)",
+    "object": "Paul von Hindenburg"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Head of state (1934-1945)",
+    "object": "Adolf Hitler"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Head of state (1945)",
+    "object": "Lutz von Krosigk"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Chancellor (1933-1945)",
+    "object": "Adolf Hitler"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Legislature",
+    "object": "Reichstag"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Upper house",
+    "object": "Reichsrat (dissolved 1934)"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Historical era",
+    "object": "Interwar World War II"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Seizure of Power",
+    "object": "30 January 1933"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Enabling Act",
+    "object": "23 March 1933"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Anschluss",
+    "object": "12 March 1938"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "WWII began",
+    "object": "1 September 1939"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Death of Hitler",
+    "object": "30 April 1945"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Fall of Berlin",
+    "object": "2 May 1945"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Surrender",
+    "object": "8 May 1945"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Berlin Declaration",
+    "object": "5 June 1945"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Anthems",
+    "object": "Das Lied der Deutschen ('The Song of the Germans'), Horst-Wessel-Lied ('The Horst Wessel Song')"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Territorial control at its greatest extent during World War II (late 1942)",
+    "object": "Greater German Reich"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Area (1939)",
+    "object": "633,786 km2 (244,706 sq mi)"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Area (1940)",
+    "object": "823,505 km2 (317,957 sq mi)"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Population (1939)",
+    "object": "79,375,281"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Population (1940)",
+    "object": "109,518,183"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Currency",
+    "object": "Reichsmark (ℛℳ)"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Preceded by",
+    "object": "Weimar Republic, Federal State of Austria"
+  },
+  {
+    "subject": "German Reich",
+    "predicate": "Succeeded by",
+    "object": "East Germany, West Germany, Austria"
+  }
+]

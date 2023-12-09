@@ -1,0 +1,127 @@
+[
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "category",
+    "object": "footballer"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "infobox-image",
+    "object": "Zinedine Zidane by Tasnim 03.jpg | Zidane in 2017"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Personal information | Full name",
+    "object": "Zinedine Yazid Zidane"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Personal information | Place of birth",
+    "object": "Marseille, France"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Personal information | Height",
+    "object": "1.85 m (6 ft 1 in)"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Personal information | Position(s)",
+    "object": "Attacking midfielder"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Youth career | 1981-1982",
+    "object": "AS Foresta"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Youth career | 1982-1983",
+    "object": "US Saint-Henri"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Youth career | 1983-1986",
+    "object": "SO Septèmes-les-Vallons"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Youth career | 1986-1989",
+    "object": "Cannes"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Senior career* | Years",
+    "object": ["1989-1992", "1992-1996", "1996-2001", "2001-2006", "Total"]
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Senior career* | Team",
+    "object": ["Cannes", "Bordeaux", "Juventus", "Real Madrid", "N/A"]
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Senior career* | League appearances",
+    "object": ["61", "139", "151", "155", "506"]
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Senior career* | League goals",
+    "object": ["(6)", "(28)", "(24)", "(37)", "(95)"]
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "National team | Years",
+    "object": ["1988-1989", "1989-1990", "1990-1994", "1994-2006"]
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "National team | Team",
+    "object": ["France U17", "France U18", "France U21", "France"]
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "National team | Appearances",
+    "object": ["4", "6", "20", "108"]
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "National team | Goals",
+    "object": ["(1)", "(0)", "(3)", "(31)"]
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Teams managed | 2013-2014",
+    "object": "Real Madrid (assistant)"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Teams managed | 2014-2016",
+    "object": "Real Madrid Castilla"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Teams managed | 2016-2018",
+    "object": "Real Madrid"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "Teams managed | 2019-2021",
+    "object": "Real Madrid"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "FIFA World Cup | 1998",
+    "object": "Winner"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "FIFA World Cup | 2006",
+    "object": "Runner-up"
+  },
+  {
+    "subject": "Zinedine Zidane",
+    "predicate": "UEFA European Championship | 2000",
+    "object": "Winner"
+  }
+]

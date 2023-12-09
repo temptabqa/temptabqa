@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Chamber of Deputies of the Nation | Cámara de Diputados de la Nación",
+    "predicate": "category",
+    "object": "legislature"
+  },
+  {
+    "subject": "Chamber of Deputies of the Nation | Cámara de Diputados de la Nación",
+    "predicate": "period",
+    "object": "2021-2023 period"
+  },
+  {
+    "subject": "Chamber of Deputies of the Nation | Cámara de Diputados de la Nación",
+    "predicate": "description",
+    "object": "Coat of arms or logo"
+  },
+  {
+    "subject": "Type",
+    "predicate": "Type",
+    "object": "Lower house | of the National Congress of Argentina"
+  },
+  {
+    "subject": "Type",
+    "predicate": "Term limits",
+    "object": "None"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "President",
+    "object": "Sergio Massa, FdT | since 10 December 2019"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "1st Vice President",
+    "object": "Omar De Marchi, PRO-JxC | since 09 December 2020"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "First Minority Leader",
+    "object": "Germán Martínez, FdT | since 1 February 2022"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Second Minority Leader",
+    "object": "Cristian Ritondo, PRO-JxC | since 10 December 2019"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Seats",
+    "object": "257 | (List)"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Political groups",
+    "object": "Government (118) | Frente de Todos (118) | Independents (15) | Federal (8) | United Provinces (5) | SER (2) | Opposition (124) | JxC (116) | FIT-U (4) | Avanza Libertad (2) | Libertad Avanza (2)"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Length of term",
+    "object": "4 years"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Structure",
+    "object": "Cámara de Diputados de la Nación Argentina (2021-2023).svg"
+  },
+  {
+    "subject": "Elections",
+    "predicate": "Voting system",
+    "object": "Party-list proportional representation | D'Hondt method"
+  },
+  {
+    "subject": "Elections",
+    "predicate": "Last election",
+    "object": "14 November 2021 | (127 seats)"
+  },
+  {
+    "subject": "Meeting place",
+    "predicate": "Meeting place",
+    "object": "Sesión Diputados 20-11-2019.jpg"
+  },
+  {
+    "subject": "Meeting place",
+    "predicate": "Location",
+    "object": "Chamber of Deputies, Congress Palace, | Buenos Aires, Argentina"
+  },
+  {
+    "subject": "Website",
+    "predicate": "Website",
+    "object": "hcdn.gob.ar"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Shane Gould",
+    "predicate": "type",
+    "object": "athelete"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "image",
+    "object": "Shane Gould.jpg"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "full_name",
+    "object": "Shane Elizabeth Gould"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "national_team",
+    "object": "Australia"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "born",
+    "object": "23 November 1956"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "birth_place",
+    "object": "Sydney, New South Wales, Australia"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "height",
+    "object": "1.71 m (5 ft 7 in)"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "weight",
+    "object": "59 kg (130 lb)"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "sport",
+    "object": "Swimming"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "strokes",
+    "object": "Freestyle, medley"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "Olympic Games",
+    "object": "1972 Munich"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "Olympic_medal_Gold_200m_freestyle",
+    "object": "1972 Munich"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "Olympic_medal_Gold_400m_freestyle",
+    "object": "1972 Munich"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "Olympic_medal_Gold_200m_medley",
+    "object": "1972 Munich"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "Olympic_medal_Silver_800m_freestyle",
+    "object": "1972 Munich"
+  },
+  {
+    "subject": "Shane Gould",
+    "predicate": "Olympic_medal_Bronze_100m_freestyle",
+    "object": "1972 Munich"
+  }
+]

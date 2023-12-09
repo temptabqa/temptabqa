@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "category",
+    "object": "painter"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Born",
+    "object": "Vincent Willem van Gogh | ( | 1853-03-30 | ) | 30 March 1853 | Zundert, Netherlands"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Died",
+    "object": "29 July 1890 | (1890-07-29) | (aged 37) | Auvers-sur-Oise, France"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Cause of death",
+    "object": "Suicide by gunshot"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Resting place",
+    "object": "Cimetière d'Auvers-sur-Oise, France | .mw-parser-output .geo-dec,.mw-parser-output .geo-default,.mw-parser-output .geo-dms{display:inline}.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-nondefault{display:none}.mw-parser-output .latitude,.mw-parser-output .longitude{white-space:nowrap} | 49°04′31″N | 2°10′44″E |  / | 49.07531°N 2.17894°E |  / | 49.07531; 2.17894"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Nationality",
+    "object": "Dutch"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Education",
+    "object": "Anton Mauve"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Known for",
+    "object": "Painting, drawing still life, portraits and landscapes"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Notable work",
+    "object": "The Potato Eaters | (1885) | Sunflowers | (1887) | Bedroom in Arles | (1888) | The Starry Night | (1889) | Portrait of Dr. Gachet | (1890) | Wheatfield with Crows | (1890) | The Siesta | (1890) | Church at Auvers | (1890)"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Movement",
+    "object": "Post-Impressionism"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Family",
+    "object": "Theodorus van Gogh (brother)"
+  },
+  {
+    "subject": "Vincent van Gogh",
+    "predicate": "Artwork",
+    "object": "Self-Portrait, 1887, Art Institute of Chicago"
+  }
+]

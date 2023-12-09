@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "category",
+    "object": "company"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "logo",
+    "object": "Warner Music Group logo (2021).svg"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "formerly",
+    "object": "Warner Bros. Records (1958-1967, 1970-1971) | Warner Bros.-Seven Arts (1967-1970) | Warner-Elektra-Atlantic (1971-1991) | Warner Music (1991-2001)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "type",
+    "object": "Public"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "traded as",
+    "object": "Nasdaq: WMG | Nasdaq-100 component"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "ISIN",
+    "object": "US9345502036"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "industry",
+    "object": "Music | Entertainment"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "founded",
+    "object": "April 6, 1958 | ; 64 years ago | ( | 1958-04-06 | )"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "founder",
+    "object": "Warner Bros."
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "headquarters",
+    "object": "1633 Broadway, New York City, New York | , | U.S."
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "area served",
+    "object": "Worldwide"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "key people",
+    "object": "Michael Lynton (Chairman) | Len Blavatnik (Vice chairman) | Stephen Cooper (CEO)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "revenue",
+    "object": "Increase | US$5.301 billion (2021)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "operating income",
+    "object": "Decrease | US$0.609 billion (2021)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "net income",
+    "object": "Decrease | US$0.307 billion (2021)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "total assets",
+    "object": "Increase | US$7.211 billion (2021)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "total equity",
+    "object": "Increase | US$0.046 billion (2021)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "owners",
+    "object": "Access Industries (86.3% equity interest, 99.2% voting power) | Tencent (1.6%)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "number of employees",
+    "object": "5,900 (2021)"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "divisions",
+    "object": "List of Warner Music Group labels"
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "subsidiaries",
+    "object": "Arts Music, Inc."
+  },
+  {
+    "subject": "Warner Music Group Corporation",
+    "predicate": "website",
+    "object": "Official website"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "category",
+    "object": "concert"
+  },
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "caption",
+    "object": "Aftershock Tour"
+  },
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "by",
+    "object": "Motörhead"
+  },
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "Associated album",
+    "object": "Aftershock"
+  },
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "Start date",
+    "object": "11 April 2014"
+  },
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "End date",
+    "object": "26 July 2015"
+  },
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "Legs",
+    "object": "3 in Europe | 1 in North America | 1 in South America | 1 in Asia | 6 total"
+  },
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "Number of shows",
+    "object": "36 in Europe | 6 in North America | 4 in South America | 2 in Asia | 49 played, 28 cancelled"
+  },
+  {
+    "subject": "Motörhead concert chronology",
+    "predicate": "",
+    "object": ""
+  },
+  {
+    "subject": "Kings of the Road Tour",
+    "predicate": "timeline",
+    "object": "2012-2013"
+  },
+  {
+    "subject": "Aftershock Tour",
+    "predicate": "timeline",
+    "object": "2014-2015"
+  },
+  {
+    "subject": "40th Anniversary Tour",
+    "predicate": "timeline",
+    "object": "2015"
+  }
+]

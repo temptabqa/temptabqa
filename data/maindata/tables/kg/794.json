@@ -1,0 +1,18 @@
+[
+  {"subject": "Kelly Ryan", "predicate": "category", "object": "body builder"},
+  {"subject": {"Kelly Ryan": ["Bodybuilder"]}, "predicate": "is", "object": "Kelly Ryan"},
+  {"subject": "Kelly Ryan", "predicate": "Nickname", "object": "Flyin Ryan"},
+  {"subject": "Kelly Ryan", "predicate": "Full name", "object": "Kelly Ann Ryan"},
+  {"subject": "Kelly Ryan", "predicate": "Born", "object": "July 10, 1972 (age 50) Minneapolis, Minnesota, U.S."},
+  {"subject": "Kelly Ryan", "predicate": "Height", "object": "5 ft 3 in (160 cm)"},
+  {"subject": "Kelly Ryan", "predicate": "Weight", "object": "in season) 110-113 lb (50-51 kg) | (off-season) 119-125 lb (54-57 kg)"},
+  {"subject": "Kelly Ryan", "predicate": "Pro-debut", "object": "NPC Team Universe Fitness Championships 1998"},
+  {"subject": "Kelly Ryan", "predicate": "Best win", "object": "IFBB Fitness International Champion 2000"},
+  {"subject": "Kelly Ryan", "predicate": "Predecessor", "object": "Susie Curry"},
+  {"subject": "Kelly Ryan", "predicate": "Successor", "object": "Jenny Worth"},
+  {"subject": "Kelly Ryan", "predicate": "Active", "object": "Retired 2005"},
+  {"subject": "Kelly Ryan", "predicate": "Criminal status", "object": "Previously incarcerated at Florence McClure Women's Correctional Center in North Las Vegas, Nevada Released on parole, 24 October 2017"},
+  {"subject": "Kelly Ryan", "predicate": "Spouse", "object": "Craig Titus (2003-2009)"},
+  {"subject": "Kelly Ryan", "predicate": "Conviction(s)", "object": "Pled guilty to arson and entered a no-contest plea to battery with a deadly weapon and assault, along with husband Craig Titus"},
+  {"subject": "Kelly Ryan", "predicate": "Criminal penalty", "object": "Two consecutive terms of 3-13 years each in state prison"}
+]

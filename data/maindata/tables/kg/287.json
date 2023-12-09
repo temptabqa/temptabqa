@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "David Nedohin",
+    "predicate": "category",
+    "object": "curling"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "description",
+    "object": "Curler | male"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "image",
+    "object": "Team Ferbey.jpg | Nedohin with the \"Ferbey Four\" in 2010"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Curling club",
+    "object": "Saville Sports Centre, | Edmonton, AB"
+  },
+  {
+    "subject": "Team",
+    "predicate": "Mixed doubles | partner",
+    "object": "Alyssa Nedohin"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Member Association",
+    "object": "Alberta"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Brier appearances",
+    "object": "5 (2001, 2002, 2003, 2004, 2005)"
+  },
+  {
+    "subject": "Career",
+    "predicate": "World Championship | appearances",
+    "object": "4 (2001, 2002, 2003, 2005)"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Top CTRS ranking",
+    "object": "2nd (2004-05 & 2005-06)"
+  },
+  {
+    "subject": "Career",
+    "predicate": "Grand Slam victories",
+    "object": "4: World Cup/Masters (Feb 2006); | Players (2006, 2009, 2014)"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "representing | Canada",
+    "object": "Men’s curling"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "World Championships",
+    "object": "Gold medal - first place | 2002 Bismarck"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "World Championships",
+    "object": "Gold medal - first place | 2003 Winnipeg"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "World Championships",
+    "object": "Gold medal - first place | 2005 Victoria"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "representing | Alberta",
+    "object": ""
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "Canadian Olympic Curling Trials",
+    "object": "Bronze medal - third place | 2013 Winnipeg"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "Brier",
+    "object": "Gold medal - first place | 2001 Ottawa"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "Brier",
+    "object": "Gold medal - first place | 2002 Calgary"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "Brier",
+    "object": "Gold medal - first place | 2003 Halifax"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "Brier",
+    "object": "Gold medal - first place | 2005 Edmonton"
+  },
+  {
+    "subject": "David Nedohin",
+    "predicate": "Brier",
+    "object": "Silver medal - second place | 2004 Saskatoon"
+  }
+]

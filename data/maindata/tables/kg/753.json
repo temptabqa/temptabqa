@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "London Eye",
+    "predicate": "category",
+    "object": "monument"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Alternative names",
+    "object": "Millennium Wheel"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Status",
+    "object": "Operating"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Type",
+    "object": "Observation wheel"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Location",
+    "object": "Lambeth, London"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Address",
+    "object": "Riverside Building, County Hall, Westminster Bridge Road"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Coordinates",
+    "object": "51°30′12″N 0°07′10″W"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Completed",
+    "object": "March 2000"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Opened",
+    "object": "31 December 1999 (ceremonial, without passengers) | 1 February 2000 (first passengers carried) | 9 March 2000 (opened to general public)"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Cost",
+    "object": "£70 million"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Owner",
+    "object": "Merlin Entertainments"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Height",
+    "object": "135 metres (443 ft)"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Diameter",
+    "object": "120 metres (394 ft)"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Architect",
+    "object": "Frank Anatole | Joanna Bailey | Nic Bailey | Julia Barfield | Steven Chilton | Malcolm Cook | David Marks | Mark Sparrowhawk"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Architecture firm",
+    "object": "Marks Barfield"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Structural engineer",
+    "object": "Arup"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Other designers",
+    "object": "Babtie Allott & Lomax (checking engineer) | Tony Gee (foundations)"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Awards and prizes",
+    "object": "Institution of Structural Engineers Special Award 2001"
+  },
+  {
+    "subject": "London Eye",
+    "predicate": "Website",
+    "object": "londoneye | .com"
+  }
+]

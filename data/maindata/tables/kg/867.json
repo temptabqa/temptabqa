@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Atul Gawande",
+    "predicate": "category",
+    "object": "scientist"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "image",
+    "object": "Atul-Gawande (cropped).jpg"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "position",
+    "object": "Assistant Administrator of the United States Agency for International Development for Global Health"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "status",
+    "object": "Incumbent"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "assumed_office",
+    "object": "January 4, 2022"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "president",
+    "object": "Joe Biden"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "office_preceded_by",
+    "object": "Alma Golden"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "position",
+    "object": "Member of the COVID-19 Advisory Board"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "in_office",
+    "object": "November 9, 2020 - January 20, 2021"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "co_chairs",
+    "object": "David A. Kessler, Vivek Murthy and Marcella Nunez-Smith"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "covid_advisory_board_preceded_by",
+    "object": "Position established"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "covid_advisory_board_succeeded_by",
+    "object": "Position abolished"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "date_of_birth",
+    "object": "November 5, 1965"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "place_of_birth",
+    "object": "New York City, New York, U.S."
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "age",
+    "object": "56"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "education",
+    "object": "Stanford University (BA, BS), Balliol College, Oxford (MA), Harvard University (MD, MPH)"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "awards",
+    "object": "Rhodes Scholarship, MacArthur Fellow (2006)"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "fields",
+    "object": "Surgery, Journalism, Public health, Healthcare"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "institutions",
+    "object": "Haven Healthcare, CEO, Harvard Medical School, Brigham and Women's Hospital"
+  },
+  {
+    "subject": "Atul Gawande",
+    "predicate": "website",
+    "object": "www.atulgawande.com, www.hsph.harvard.edu/atul-gawande"
+  }
+]

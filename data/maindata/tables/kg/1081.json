@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "category",
+    "object": "show"
+  },
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "Genre",
+    "object": "Sitcom"
+  },
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "Developed by",
+    "object": "Televisió de Catalunya"
+  },
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "Directed by",
+    "object": "Jesús Font"
+  },
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "Starring",
+    "object": "Joan Pera | Roger Pera | Carmen Balagué | Lluís Marco | Alicia González Laá | Eva de Luis"
+  },
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "Country of origin",
+    "object": "Spain"
+  },
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "Original language",
+    "object": "Catalan"
+  },
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "Number of seasons",
+    "object": "2"
+  },
+  {
+    "subject": "13 anys i un dia",
+    "predicate": "Number of episodes",
+    "object": "24"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Camera setup",
+    "object": "Multi-camera"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Running time",
+    "object": "25-30 minutes approx."
+  },
+  {
+    "subject": "Release",
+    "predicate": "Original network",
+    "object": "TV3"
+  },
+  {
+    "subject": "Release",
+    "predicate": "Original release",
+    "object": "January 15, 2008 |  ( | 2008-01-15 | ) |  - | March 19, 2009 |  ( | 2009-03-19 | )"
+  },
+  {
+    "subject": "External links",
+    "predicate": "External links",
+    "object": "Website"
+  }
+]

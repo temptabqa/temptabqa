@@ -1,0 +1,84 @@
+[
+  {
+    "subject": "Adam Małysz",
+    "predicate": "category",
+    "object": "skier"
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "Country",
+    "object": "Poland"
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "Full name",
+    "object": "Adam Henryk Małysz"
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "Born",
+    "object": "( | 1977-12-03 | ) | 3 December 1977 | (age 44) | Wisła, Poland"
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "Height",
+    "object": "1.70 m (5 ft 7 in)"
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "Personal best",
+    "object": "230.5 m (756 ft) | Vikersund, 13 February 2011"
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "image",
+    "object": "Adam Małysz at the 2010 Vancouver Winter Olympics.jpg | Małysz at the 2010 Winter Olympics"
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "World Cup career",
+    "object": {
+      "Seasons": "1995-2011",
+      "Individual wins": "39",
+      "Individual podiums": "92",
+      "Team podiums": "4",
+      "Overall titles": "4 (2001, 2002, 2003, 2007)",
+      "Four Hills titles": "1 (2001)",
+      "Nordic titles": "3 (2001, 2003, 2007)"
+    }
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "Representing | Poland",
+    "object": {
+      "Event | 1 | st | 2 | nd | 3 | rd": "",
+      "Olympic Games | 0 | 3 | 1": "",
+      "Nordic World Championships | 4 | 1 | 1": "",
+      "Ski Flying World Championships | 0 | 0 | 0": "",
+      "Total | 4 | 4 | 2": ""
+    }
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "Olympic Games",
+    "object": {
+      "Silver medal - second place | 2002 Salt Lake City | Individual LH": "",
+      "Silver medal - second place | 2010 Vancouver | Individual NH": "",
+      "Silver medal - second place | 2010 Vancouver | Individual LH": "",
+      "Bronze medal - third place | 2002 Salt Lake City | Individual NH": ""
+    }
+  },
+  {
+    "subject": "Adam Małysz",
+    "predicate": "Nordic World Championships",
+    "object": {
+      "Gold medal - first place | 2001 Lahti | Individual NH": "",
+      "Gold medal - first place | 2003 Val di Fiemme | Individual LH": "",
+      "Gold medal - first place | 2003 Val di Fiemme | Individual NH": "",
+      "Gold medal - first place | 2007 Sapporo | Individual NH": "",
+      "Silver medal - second place | 2001 Lahti | Individual LH": "",
+      "Bronze medal - third place | 2011 Oslo | Individual NH": "",
+      "Updated on 30 Mar 2015.": ""
+    }
+  }
+]

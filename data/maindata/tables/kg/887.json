@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Melania Trump",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "image",
+    "object": "Melania Trump official portrait.jpg | Trump in 2017"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "role",
+    "object": "First Lady of the United States"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "in role",
+    "object": "January 20, 2017 - January 20, 2021"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "President",
+    "object": "Donald Trump"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Preceded by",
+    "object": "Michelle Obama"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Succeeded by",
+    "object": "Jill Biden"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Born",
+    "object": "Melanija Knavs | ( | 1970-04-26 | ) | April 26, 1970 | (age 51) | Novo Mesto, SR Slovenia, SFR Yugoslavia | (present day Slovenia)"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Citizenship",
+    "object": "Yugoslavia (1970-1991) | Slovenia (1991-present) | United States (2006-present)"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Political party",
+    "object": "Republican"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Spouse(s)",
+    "object": "Donald Trump | ( | married | 2005 | )"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Children",
+    "object": "Barron Trump"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Parent(s)",
+    "object": "Viktor Knavs | Amalija Ulčnik"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Residence",
+    "object": "Mar-a-Lago"
+  },
+  {
+    "subject": "Melania Trump",
+    "predicate": "Signature",
+    "object": ""
+  }
+]

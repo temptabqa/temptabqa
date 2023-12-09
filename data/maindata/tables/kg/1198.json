@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Zendo",
+    "predicate": "category",
+    "object": "game"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "caption",
+    "object": "The Game of Inductive Logic"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Designers",
+    "object": "Kory Heath"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Publishers",
+    "object": "Looney Labs"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Publication",
+    "object": "December 31, 1999"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Genres",
+    "object": "Guessing game"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Players",
+    "object": "2-6"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Setup time",
+    "object": "< 5 minutes"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Playing time",
+    "object": "15-60 minutes"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Random chance",
+    "object": "Low"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Skills required",
+    "object": "Inductive reasoning, Pattern recognition"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Materials required",
+    "object": "Icehouse pieces for the first edition or custom plastic blocks for later editions; rule cards; black, white, and green stones"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Ages",
+    "object": "12 and up"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "Website",
+    "object": "Designer | publisher"
+  },
+  {
+    "subject": "Zendo",
+    "predicate": "The Game of Inductive Logic",
+    "object": "Zendo game.jpg"
+  }
+]

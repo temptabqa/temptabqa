@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "category",
+    "object": "office holder"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "position",
+    "object": "Commander of the Egyptian Air Defense Command"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "in office",
+    "object": "April 1996 - 19 July 2001"
+  },
+  {
+    "subject": "April 1996 - 19 July 2001",
+    "predicate": "President",
+    "object": "Hosni Mubarak"
+  },
+  {
+    "subject": "April 1996 - 19 July 2001",
+    "predicate": "Preceded by",
+    "object": "Ahmed Abou Talib"
+  },
+  {
+    "subject": "April 1996 - 19 July 2001",
+    "predicate": "Succeeded by",
+    "object": "Sami Hafez Anan"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "born",
+    "object": "February 1, 1941 (age 81)"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "military allegiance",
+    "object": "Egypt"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "military branch/service",
+    "object": "Air Defense Forces"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "years of service",
+    "object": "1962-2001"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "military rank",
+    "object": "Lieutenant General"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "unit",
+    "object": "3rd SPAAG Battalion, 2nd Air Defense Brigade"
+  },
+  {
+    "subject": "Mohammed Elshahat",
+    "predicate": "commands",
+    "object": "ZSU-23-2 and ZSU-23-4 Platoon Commander (1962-1966) | SA-2 Battery Commander (1966-69) | SA-2 and SA-3 Battalion Second-in-Command (1969-1973) | Chief of Operations and Planning, 4th AD Missile Brigade(1973-75) | Commander, SA-6 Battalion (1975-76) | Deputy Director of Air Defence Training School (1976-1980) | Commander, 3rd SAM brigade(1980-84) | Military Attache to Iraq (1984-87) | Commander, 1st SAM Division (1987-1993) | Director of AD Operations (1993-1996)"
+  }
+]

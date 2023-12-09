@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "Eminem",
+    "predicate": "category",
+    "object": "musician"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Born",
+    "object": "Marshall Bruce Mathers III | ( | 1972-10-17 | ) | October 17, 1972 | (age 49) | St. Joseph, Missouri, U.S."
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Other names",
+    "object": "Slim Shady | Double M | M&M"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Occupation",
+    "object": "Rapper | songwriter | record producer | record executive | actor"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Years active",
+    "object": "1988-present"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Agent",
+    "object": "Paul Rosenberg"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Spouse(s)",
+    "object": "Kimberly Anne Scott | ( | married | 1999; | divorced | 2001) | ( | married | 2006; | divorced | 2006)"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Children",
+    "object": "3"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Awards",
+    "object": "Full list"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Musical career",
+    "object": "Origin"
+  },
+  {
+    "subject": "Eminem's musical career",
+    "predicate": "Origin",
+    "object": "Detroit, Michigan, U.S."
+  },
+  {
+    "subject": "Eminem's musical career",
+    "predicate": "Genres",
+    "object": "Hip hop"
+  },
+  {
+    "subject": "Eminem's musical career",
+    "predicate": "Labels",
+    "object": "Aftermath | Shady | Interscope | Web"
+  },
+  {
+    "subject": "Eminem's musical career",
+    "predicate": "Associated acts",
+    "object": "Bad Meets Evil | D12 | Outsidaz | Soul Intent | 50 Cent | The Alchemist | Dina Rae | Dr. Dre | Lil Wayne | Liz Rodrigues | Nate Dogg | Obie Trice | Rihanna | Skylar Grey | Trick Trick | Yelawolf | Westside Gunn | Conway the Machine"
+  },
+  {
+    "subject": "Eminem's musical career",
+    "predicate": "Website",
+    "object": "eminem | .com | shadyrecords | .com"
+  },
+  {
+    "subject": "Eminem",
+    "predicate": "Signature",
+    "object": "Eminem's signature.svg"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Alvin Morman",
+    "predicate": "category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "position",
+    "object": "Pitcher"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "date of birth",
+    "object": "January 6, 1969"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "age",
+    "object": "53"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "place of birth",
+    "object": "Rockingham, North Carolina"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "batted",
+    "object": "Left"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "threw",
+    "object": "Left"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "MLB debut",
+    "object": "April 2, 1996, for the Houston Astros"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "Last MLB appearance",
+    "object": "October 2, 1999, for the Kansas City Royals"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "Win-loss record",
+    "object": "6-7"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "Earned run average",
+    "object": "4.79"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "Strikeouts",
+    "object": "98"
+  },
+  {
+    "subject": "Alvin Morman",
+    "predicate": "Teams",
+    "object": "Houston Astros (1996), Cleveland Indians (1997-1998), San Francisco Giants (1998), Kansas City Royals (1999)"
+  }
+]

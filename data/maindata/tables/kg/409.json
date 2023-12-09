@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "image",
+    "object": "Ed Cogswell.jpg"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "position",
+    "object": "First baseman"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "born",
+    "object": "February 25, 1854, England"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "died",
+    "object": "July 27, 1888, Fitchburg, Massachusetts"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "batted",
+    "object": "Right"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "MLB debut",
+    "object": "July 11, 1879, for the Boston Red Stockings"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "last MLB appearance",
+    "object": "May 30, 1882, for the Worcester Worcesters"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "batting average",
+    "object": ".294"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "on-base percentage",
+    "object": ".328"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "slugging percentage",
+    "object": ".349"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "teams",
+    "object": "Boston Red Stockings (1879), Troy Trojans (1880), Worcester Worcesters (1882)"
+  },
+  {
+    "subject": "Ed Cogswell",
+    "predicate": "career highlight",
+    "object": "Sixth in the National League in batting average (1879)"
+  }
+]

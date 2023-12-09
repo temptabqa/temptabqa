@@ -1,0 +1,102 @@
+[
+  {
+    "subject": "Demone Harris",
+    "predicate": "category",
+    "object": "nfl"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "infobox-image",
+    "object": "Harris at Caserma Ederle in 2019"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "team",
+    "object": "Houston Texans"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "number",
+    "object": "94"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "position",
+    "object": "Defensive end"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "born",
+    "object": "December 30, 1995"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "birth place",
+    "object": "Buffalo, New York"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "age",
+    "object": "26"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "height",
+    "object": "6 ft 4 in (1.93 m)"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "weight",
+    "object": "272 lb (123 kg)"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "high school",
+    "object": "Bishop Timon - St. Jude High School"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "college",
+    "object": "Buffalo"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "career status",
+    "object": "undrafted 2018"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "career history",
+    "object": "Tampa Bay Buccaneers (2018-2019), Baltimore Ravens (2019)*, Kansas City Chiefs (2019-2021), Houston Texans (2021-present)*"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "roster status",
+    "object": "active"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "practice squad member",
+    "object": "offseason"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "career highlight and award",
+    "object": "Super Bowl champion (LIV)"
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "career NFL statistics as of 2021",
+    "object": {
+      "total tackles": "7",
+      "sacks": "0.0",
+      "forced fumbles": "0",
+      "fumble recoveries": "0"
+    }
+  },
+  {
+    "subject": "Demone Harris",
+    "predicate": "player stats at",
+    "object": "NFL.com"
+  }
+]

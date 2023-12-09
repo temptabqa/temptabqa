@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Women's singles at the 2003 IBF World Championships",
+    "predicate": "category",
+    "object": "sports event"
+  },
+  {
+    "subject": "Women's singles at the 2003 IBF World Championships",
+    "predicate": "Venue",
+    "object": "National Indoor Arena"
+  },
+  {
+    "subject": "Women's singles at the 2003 IBF World Championships",
+    "predicate": "Location",
+    "object": "Birmingham, United Kingdom"
+  },
+  {
+    "subject": "Women's singles at the 2003 IBF World Championships",
+    "predicate": "Dates",
+    "object": "July 28, 2003 - August 3, 2003"
+  },
+  {
+    "subject": "Zhang Ning",
+    "predicate": "won",
+    "object": "gold medal"
+  },
+  {
+    "subject": "Zhang Ning",
+    "predicate": "represented",
+    "object": "China"
+  },
+  {
+    "subject": "Gong Ruina",
+    "predicate": "won",
+    "object": "silver medal"
+  },
+  {
+    "subject": "Gong Ruina",
+    "predicate": "represented",
+    "object": "China"
+  },
+  {
+    "subject": "Zhou Mi",
+    "predicate": "won",
+    "object": "bronze medal"
+  },
+  {
+    "subject": "Zhou Mi",
+    "predicate": "represented",
+    "object": "China"
+  },
+  {
+    "subject": "Mia Audina",
+    "predicate": "won",
+    "object": "bronze medal"
+  },
+  {
+    "subject": "Mia Audina",
+    "predicate": "represented",
+    "object": "Netherlands"
+  },
+  {
+    "subject": "2001 IBF World Championships",
+    "predicate": "held in",
+    "object": "Seville"
+  },
+  {
+    "subject": "2005 IBF World Championships",
+    "predicate": "held in",
+    "object": "Anaheim"
+  }
+]

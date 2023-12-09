@@ -1,0 +1,137 @@
+[
+  {
+    "subject": "Chen Yufei",
+    "predicate": "category",
+    "object": "badminton"
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Personal information",
+    "object": {
+      "Country": "China",
+      "Height": "1.71 m (5 ft 7 in)",
+      "Years active": "2013-present",
+      "Handedness": "Right",
+      "Coach": "Luo Yigang"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Women's singles",
+    "object": {
+      "Career record": "255 wins, 82 losses",
+      "Highest ranking": "1 (17 December 2019)",
+      "Current ranking": "4 (17 May 2022)"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Representing China",
+    "object": {}
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Olympic Games",
+    "object": {
+      "Gold medal - first place": "2020 Tokyo | Women's singles"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "World Championships",
+    "object": {
+      "Bronze medal - third place": [
+        "2017 Glasgow | Women's singles",
+        "2019 Basel | Women's singles"
+      ]
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Sudirman Cup",
+    "object": {
+      "Gold medal - first place": [
+        "2019 Nanning | Mixed team",
+        "2021 Vantaa | Mixed team"
+      ],
+      "Silver medal - second place": "2017 Gold Coast | Mixed team"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Uber Cup",
+    "object": {
+      "Gold medal - first place": "2020 Aarhus | Women's team",
+      "Silver medal - second place": "2022 Bangkok | Women's team",
+      "Bronze medal - third place": "2018 Bangkok | Women's team"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Asian Games",
+    "object": {
+      "Silver medal - second place": "2018 Jakarta-Palembang | Women's team"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Asian Championships",
+    "object": {
+      "Silver medal - second place": "2018 Wuhan | Women's singles",
+      "Bronze medal - third place": "2019 Wuhan | Women's singles"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Asia Mixed Team Championships",
+    "object": {
+      "Bronze medal - third place": "2017 Ho Chi Minh | Mixed team"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Asian Team Championships",
+    "object": {
+      "Gold medal - first place": [
+        "2016 Hyderabad | Women's team",
+        "2018 Alor Setar | Women's team"
+      ],
+      "Silver medal - second place": "2018 Alor Setar | Women's team"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "World Junior Championships",
+    "object": {
+      "Gold medal - first place": [
+        "2014 Alor Setar | Mixed team",
+        "2015 Lima | Mixed team",
+        "2016 Bilbao | Girls' singles",
+        "2016 Bilbao | Mixed team"
+      ],
+      "Bronze medal - third place": "2013 Bangkok | Mixed team"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Asian Youth Games",
+    "object": {
+      "Bronze medal - third place": "2013 Nanjing | Mixed doubles"
+    }
+  },
+  {
+    "subject": "Chen Yufei",
+    "predicate": "Asian Junior Championships",
+    "object": {
+      "Gold medal - first place": [
+        "2013 Kota Kinabalu | Mixed team",
+        "2014 Taipei | Mixed team",
+        "2015 Bangkok | Mixed team",
+        "2016 Bangkok | Girls' singles",
+        "2016 Bangkok | Mixed team"
+      ],
+      "Silver medal - second place": "2014 Taipei | Girls' singles",
+      "BWF profile": ""
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {"subject": "1960 Agadir earthquake", "predicate": "category", "object": "earthquake"},
+  {"subject": "1960 Agadir earthquake", "predicate": "caption", "object": "1960 Agadir earthquake"},
+  {"subject": "1960 Agadir earthquake", "predicate": "location", "object": "Morocco"},
+  {"subject": "1960 Agadir earthquake", "predicate": "UTC time", "object": "1960-02-29 23:40:18"},
+  {"subject": "1960 Agadir earthquake", "predicate": "ISC event", "object": "878424"},
+  {"subject": "1960 Agadir earthquake", "predicate": "USGS-ANSS", "object": "ComCat"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Local date", "object": "29 February 1960"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Local time", "object": "23:40:18 WET (UTC±00:00)"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Duration", "object": "< 15 seconds"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Magnitude", "object": "5.8 Mw"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Depth", "object": "15 km"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Epicenter", "object": "30°21′N 9°41′W / 30.35°N 9.69°W / 30.35; -9.69"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Areas affected", "object": "Morocco"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Maximum intensity", "object": "X (Extreme)"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Foreshocks", "object": "23 February III (Weak) | 29 February VI (Strong)"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Aftershocks", "object": "22 March VI (Strong) | 17 April VI (Strong)"},
+  {"subject": "1960 Agadir earthquake", "predicate": "Casualties", "object": "~ 12,000-15,000 dead | ~ 12,000 injured"}
+]

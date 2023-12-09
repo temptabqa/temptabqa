@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Darwin Barney",
+    "predicate": "category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "image",
+    "object": "Darwin Barney Blue Jays.jpg | Barney with the Toronto Blue Jays in 2015"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "position",
+    "object": "Second baseman"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Born",
+    "object": "November 8, 1985 (age 36) in Portland, Oregon"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Batted",
+    "object": "Right"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "MLB debut",
+    "object": "August 12, 2010, for the Chicago Cubs"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Last MLB appearance",
+    "object": "October 1, 2017, for the Toronto Blue Jays"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Batting average",
+    "object": ".246"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Home runs",
+    "object": "31"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Runs batted in",
+    "object": "201"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Teams",
+    "object": "Chicago Cubs (2010-2014) | Los Angeles Dodgers (2014-2015) | Toronto Blue Jays (2015-2017)"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Career highlight",
+    "object": "Gold Glove Award (2012)"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "Men's baseball",
+    "object": "Representing United States"
+  },
+  {
+    "subject": "Darwin Barney",
+    "predicate": "World University Championship",
+    "object": "Gold medal - first place | 2006 Havana | Team"
+  }
+]

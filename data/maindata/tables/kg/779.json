@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Bill Pearl",
+    "predicate": "category",
+    "object": "body builder"
+  },
+  {
+    "subject": "Bill Pearl",
+    "predicate": "description",
+    "object": ["Bodybuilder", "Bill Pearl 1956.jpg | Pearl after winning the 1956 Mr. U.S.A."]
+  },
+  {
+    "subject": "Bill Pearl",
+    "predicate": "Born",
+    "object": "( | 1930-10-31 | ) | October 31, 1930 | Prineville, Oregon, U.S."
+  },
+  {
+    "subject": "Bill Pearl",
+    "predicate": "Died",
+    "object": "September 14, 2022 | (2022-09-14) | (aged 91) | Phoenix, Oregon, U.S."
+  },
+  {
+    "subject": "Bill Pearl",
+    "predicate": "Height",
+    "object": "5 ft 9 in (1.75 m) - | 5 ft 10 in (1.78 m)"
+  },
+  {
+    "subject": "Bill Pearl",
+    "predicate": "Weight",
+    "object": "201 lb (91 kg) - | 242 lb (110 kg)"
+  },
+  {
+    "subject": "Bill Pearl",
+    "predicate": "Pro-debut",
+    "object": ".mw-parser-output ul.cslist,.mw-parser-output ul.sslist{margin:0;padding:0;display:inline-block;list-style:none}.mw-parser-output ul.cslist-embedded{display:inline}.mw-parser-output .cslist li,.mw-parser-output .sslist li{margin:0;padding:0 .25em 0 0;display:inline-block}.mw-parser-output .cslist li:after{content:', '}.mw-parser-output .sslist li:after{content:'; '}.mw-parser-output .cslist li:last-child:after,.mw-parser-output .sslist li:last-child:after{content:none} | Mr. Universe, Amateur | 1953"
+  },
+  {
+    "subject": "Bill Pearl",
+    "predicate": "Best win",
+    "object": "Mr. Universe, Professional | 1956, 1961, 1967, 1971"
+  },
+  {
+    "subject": "Bill Pearl",
+    "predicate": "Active",
+    "object": "Retired from competition after Mr Universe victory in 1971. Retired from guest posing in 1989. Continued Bodybuilding training at age 90+."
+  }
+]

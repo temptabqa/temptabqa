@@ -1,0 +1,112 @@
+[
+  {
+    "subject": "Valderøy Church",
+    "predicate": "category",
+    "object": "church"
+  },
+  {
+    "subject": "Valderøy kyrkje",
+    "predicate": "Location",
+    "object": "Giske Municipality, Møre og Romsdal"
+  },
+  {
+    "subject": "Valderøy kyrkje",
+    "predicate": "Country",
+    "object": "Norway"
+  },
+  {
+    "subject": "Valderøy kyrkje",
+    "predicate": "Denomination",
+    "object": "Church of Norway"
+  },
+  {
+    "subject": "Valderøy kyrkje",
+    "predicate": "Churchmanship",
+    "object": "Evangelical Lutheran"
+  },
+  {
+    "subject": "Valderøy kyrkje",
+    "predicate": "Image",
+    "object": "Valderøy kirke fra RA.jpg | View of the church"
+  },
+  {
+    "subject": "Valderøy kyrkje",
+    "predicate": "Coordinates",
+    "object": "62°30′12″N 6°07′49″E"
+  },
+  {
+    "subject": "History",
+    "predicate": "Status",
+    "object": "Parish church"
+  },
+  {
+    "subject": "History",
+    "predicate": "Founded",
+    "object": "1961"
+  },
+  {
+    "subject": "History",
+    "predicate": "Consecrated",
+    "object": "29 July 1961"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Functional status",
+    "object": "Active"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Architect(s)",
+    "object": "Øyvind Grimnes"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Architectural type",
+    "object": "Long church"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Completed",
+    "object": "1961"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Capacity",
+    "object": "530"
+  },
+  {
+    "subject": "Specifications",
+    "predicate": "Materials",
+    "object": "Stone/brick"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Diocese",
+    "object": "Møre bispedømme"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Deanery",
+    "object": "Nordre Sunnmøre prosti"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Parish",
+    "object": "Valderøy"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "Type",
+    "object": "Church"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "Status",
+    "object": "Not protected"
+  },
+  {
+    "subject": "Norwegian Cultural Heritage Site",
+    "predicate": "ID",
+    "object": "85743"
+  }
+]

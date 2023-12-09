@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Hungary",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Hungary at the Olympics",
+    "predicate": "IOC code",
+    "object": "HUN"
+  },
+  {
+    "subject": "Hungary at the Olympics",
+    "predicate": "NOC",
+    "object": "Hungarian Olympic Committee"
+  },
+  {
+    "subject": "Hungary at the Olympics",
+    "predicate": "Website",
+    "object": "www.olimpia.hu (in Hungarian and English)"
+  },
+  {
+    "subject": "Hungary at the Olympics",
+    "predicate": "Medals Ranked 13th",
+    "object": "Gold: 182, Silver: 156, Bronze: 180, Total: 518"
+  },
+  {
+    "subject": "Hungary at the Olympics",
+    "predicate": "Flag",
+    "object": "Flag of Hungary.svg"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "Summer appearances",
+    "object": "1896, 1900, 1904, 1908, 1912, 1920, 1924, 1928, 1932, 1936, 1948, 1952, 1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1996, 2000, 2004, 2008, 2012, 2016, 2020"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "Winter appearances",
+    "object": "1924, 1928, 1932, 1936, 1948, 1952, 1956, 1960, 1964, 1968, 1972, 1976, 1980, 1984, 1988, 1992, 1994, 1998, 2002, 2006, 2010, 2014, 2018, 2022"
+  },
+  {
+    "subject": "Hungary",
+    "predicate": "Other related appearances",
+    "object": "1906 Intercalated Games"
+  }
+]

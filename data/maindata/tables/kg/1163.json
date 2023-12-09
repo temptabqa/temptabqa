@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "Atlantis",
+    "predicate": "category",
+    "object": "board game"
+  },
+  {
+    "subject": "Atlantis",
+    "predicate": "caption",
+    "object": "Atlantis"
+  },
+  {
+    "subject": "Atlantis",
+    "predicate": "infobox-image",
+    "object": "ArcanumRPGCover.jpg | The Arcanum | , 1st book of | The Atlantean Trilogy"
+  },
+  {
+    "subject": "Atlantis",
+    "predicate": "Designers",
+    "object": "Stephan Michael Sechi, Vernie Taylor, Steven Cordovano, J. Andrew Keith"
+  },
+  {
+    "subject": "Atlantis",
+    "predicate": "Publishers",
+    "object": "Bard Games | Death's Edge Games | ZiLa Games | Khepera Publishing"
+  },
+  {
+    "subject": "Atlantis",
+    "predicate": "Publication",
+    "object": "1984 (1st edition) | 1985 (2nd edition) | 1996 (3rd edition) | 2014 (Second Age) | 2019 (30th Anniversary Edition)"
+  },
+  {
+    "subject": "Atlantis",
+    "predicate": "Genres",
+    "object": "Historical fantasy | Sword and Sorcery"
+  },
+  {
+    "subject": "Atlantis",
+    "predicate": "Systems",
+    "object": "Custom, Omni System"
+  }
+]

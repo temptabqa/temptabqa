@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "Deadlands",
+    "predicate": "is a",
+    "object": "game"
+  },
+  {
+    "subject": "Deadlands",
+    "predicate": "has caption",
+    "object": "Deadlands"
+  },
+  {
+    "subject": "Deadlands",
+    "predicate": "has infobox-image",
+    "object": "Deadlands.jpg | First edition cover art by Gerald Brom"
+  },
+  {
+    "subject": "Deadlands",
+    "predicate": "has Designer",
+    "object": "Shane Lacy Hensley"
+  },
+  {
+    "subject": "Deadlands",
+    "predicate": "has Publisher",
+    "object": "Pinnacle Entertainment Group"
+  },
+  {
+    "subject": "Deadlands",
+    "predicate": "has Publication",
+    "object": "1996 (1st edition) | 1999 (2nd edition) | 2006 ( | Deadlands: Reloaded | )"
+  },
+  {
+    "subject": "Deadlands",
+    "predicate": "has Genre",
+    "object": "Alternate history, Western, Horror, Steampunk, Fantasy, Weird West"
+  },
+  {
+    "subject": "Deadlands",
+    "predicate": "has System",
+    "object": "d20 System, GURPS, Savage Worlds"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "Mung Chiang",
+    "predicate": "category",
+    "object": "scientist"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "image",
+    "object": "Mung Chiang Speaking at the NSF Waterman Award Ceremony in 2013.jpg | Chiang in 2013"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "position",
+    "object": "13th President of the Purdue University System"
+  },
+  {
+    "subject": "13th President of the Purdue University System",
+    "predicate": "assuming office",
+    "object": "January 1, 2023"
+  },
+  {
+    "subject": "13th President of the Purdue University System",
+    "predicate": "succeeding",
+    "object": "Mitch Daniels"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "position",
+    "object": "Executive Vice President, Purdue University"
+  },
+  {
+    "subject": "Executive Vice President, Purdue University",
+    "predicate": "Incumbent",
+    "object": ""
+  },
+  {
+    "subject": "Executive Vice President, Purdue University",
+    "predicate": "assumed office",
+    "object": "April 23, 2021"
+  },
+  {
+    "subject": "Executive Vice President, Purdue University",
+    "predicate": "preceded by",
+    "object": "Christopher A. Ruh"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "position",
+    "object": "10th Dean of Purdue University College of Engineering"
+  },
+  {
+    "subject": "10th Dean of Purdue University College of Engineering",
+    "predicate": "assumed office",
+    "object": "July 1, 2017"
+  },
+  {
+    "subject": "10th Dean of Purdue University College of Engineering",
+    "predicate": "preceded by",
+    "object": "Leah Jamieson"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "position",
+    "object": "6th Office of the Science and Technology Adviser to the Secretary of State"
+  },
+  {
+    "subject": "6th Office of the Science and Technology Adviser to the Secretary of State",
+    "predicate": "in office",
+    "object": "December 16, 2019 - December 15, 2020"
+  },
+  {
+    "subject": "6th Office of the Science and Technology Adviser to the Secretary of State",
+    "predicate": "president",
+    "object": "Donald Trump"
+  },
+  {
+    "subject": "6th Office of the Science and Technology Adviser to the Secretary of State",
+    "predicate": "preceded by",
+    "object": "Vaughan Turekian"
+  },
+  {
+    "subject": "6th Office of the Science and Technology Adviser to the Secretary of State",
+    "predicate": "succeeded by",
+    "object": "Matt Chessen (acting)"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "born",
+    "object": "1977 | [ | citation needed | ] | Tianjin, China"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "nationality",
+    "object": "U.S. | [ | citation needed | ]"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "alma mater",
+    "object": "Queen's College, Hong Kong | Stanford University"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "known for",
+    "object": "Communication networks"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "awards",
+    "object": "IEEE Kiyo Tomiyasu Award (2012) | Alan T. Waterman Award (2013) | Guggenheim Fellow (2014) | U.S. National Academy of Inventors (2020) | Royal Swedish Academy of Engineering Sciences (International fellow) (2020)"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "scientific career: fields",
+    "object": "Electrical engineering | Computer science"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "scientific career: institutions",
+    "object": "Purdue University | Princeton University"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "scientific career: thesis",
+    "object": "Solving nonlinear problems in communication systems using geometric programming and dualities | (2003)"
+  },
+  {
+    "subject": "Mung Chiang",
+    "predicate": "scientific career: doctoral advisor",
+    "object": "Stephen P. Boyd | Thomas M. Cover"
+  }
+]

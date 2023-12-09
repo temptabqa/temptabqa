@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Han campaigns against Minyue",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "Han campaigns against Minyue",
+    "predicate": "Date",
+    "object": "138 BC, 135 BC, and 111 BC"
+  },
+  {
+    "subject": "Han campaigns against Minyue",
+    "predicate": "Location",
+    "object": "Minyue (modern Fujian)"
+  },
+  {
+    "subject": "Han campaigns against Minyue",
+    "predicate": "Result",
+    "object": "138 BC | Minyue surrender and withdrawal from Eastern Ou | 135 BC | Minyue defeated and partitioned into Minyue and Dongyue | 111 BC | Cultural assimilation and displacement of the Dongyue by the Han Empire | Dongyue annexed by the Han Empire"
+  },
+  {
+    "subject": "Han campaigns against Minyue",
+    "predicate": "Part of",
+    "object": "the southward expansion of the Han dynasty"
+  },
+  {
+    "subject": "Han campaigns against Minyue",
+    "predicate": "Map",
+    "object": "Han Expansion.png | Map showing the expansion of Han dynasty in the 2nd century BC"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "",
+    "object": "Han dynasty | Minyue"
+  },
+  {
+    "subject": "138 BC",
+    "predicate": "Commander",
+    "object": "Zhuang Zhu"
+  },
+  {
+    "subject": "135 BC",
+    "predicate": "Commanders",
+    "object": "Wang Hui | Han Anguo"
+  },
+  {
+    "subject": "111 BC",
+    "predicate": "Commanders",
+    "object": "Han Yue | Yang Pu | Wang Wenshu | Two marquises of Yue"
+  },
+  {
+    "subject": "135 BC",
+    "predicate": "Minyue Leader",
+    "object": "Zou Ying"
+  },
+  {
+    "subject": "111 BC",
+    "predicate": "Minyue Leader",
+    "object": "Zou Yushan"
+  }
+]

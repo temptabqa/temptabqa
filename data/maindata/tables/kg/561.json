@@ -1,0 +1,80 @@
+[
+{
+"subject": "Abdul Jeelani",
+"predicate": "category",
+"object": "ice hockey"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Born",
+"object": "February 10, 1954 in Bells, Tennessee"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Died",
+"object": "August 3, 2016 in Racine, Wisconsin (aged 62)"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Nationality",
+"object": "American"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Listed height",
+"object": "6 ft 8 in (2.03 m)"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Listed weight",
+"object": "210 lb (95 kg)"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "High school",
+"object": "Washington Park (Racine, Wisconsin)"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "College",
+"object": "Wisconsin-Parkside (1972-1976)"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "NBA draft",
+"object": "1976 / Round: 3 / Pick: 50th overall"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Playing career",
+"object": "1976-1989"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Position",
+"object": "Small forward"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Number",
+"object": "11"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Career information",
+"object": "Selected by the Cleveland Cavaliers"
+},
+{
+"subject": "Abdul Jeelani",
+"predicate": "Career history",
+"object": [
+  {"1976-1979": "Lazio"},
+  {"1979-1980": "Portland Trail Blazers"},
+  {"1980-1981": "Dallas Mavericks"},
+  {"1981-1985": "Libertas Livorno"},
+  {"1985-1987": "Saski Baskonia"},
+  {"1987-1988": "Askatuak SBT"},
+  {"1988-1989": "CB Sevilla"}
+ ]
+}
+]

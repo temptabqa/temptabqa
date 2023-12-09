@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "1991 Yugoslav campaign in Croatia",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "1991 Yugoslav campaign in Croatia",
+    "predicate": "Date",
+    "object": "20 September 1991 - 3 January 1992"
+  },
+  {
+    "subject": "1991 Yugoslav campaign in Croatia",
+    "predicate": "Location",
+    "object": "Croatia"
+  },
+  {
+    "subject": "1991 Yugoslav campaign in Croatia",
+    "predicate": "Result",
+    "object": "Stalemate"
+  },
+  {
+    "subject": "1991 Yugoslav campaign in Croatia",
+    "predicate": "is part of",
+    "object": "Croatian War of Independence"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "involved",
+    "object": "Socialist Federal Republic of Yugoslavia, Yugoslavia, SAO Krajina, SAO Eastern Slavonia, Baranja and Western Syrmia, SAO Western Slavonia, Croatia"
+  },
+  {
+    "subject": "Commanders and leaders",
+    "predicate": "involved",
+    "object": "Socialist Federal Republic of Yugoslavia - Veljko Kadijević, Blagoje Adžić; Slobodan Milošević; Croatia - Franjo Tuđman, Gojko Šušak, Martin Špegelj, Anton Tus"
+  },
+  {
+    "subject": "Units involved",
+    "predicate": "involved",
+    "object": "Socialist Federal Republic of Yugoslavia - Yugoslav Ground Forces, Yugoslav Air Force, Yugoslav Navy, Republic of Serbia Territorial Defense, Republic of Montenegro Territorial Defense, Serbian Guard, Serb Volunteer Guard, White Eagles; Croatian National Guard (until November 1991), Croatian Army (from November 1991), Croatian Police, Croatian Navy, Croatian Defence Forces"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Socialist Federal Republic of Yugoslavia",
+    "object": "September 1991 - 145,000 troops, 1,100 tanks, 700 APCs, 1,980 artillery pieces"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Croatia",
+    "object": "September 1991 - 58,000 troops; January 1992 - 155,772 troops, 216 tanks, 127 APCs, 1,108 artillery pieces"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "Military",
+    "object": "1,279 killed, 3,761 killed"
+  },
+  {
+    "subject": "1991 Yugoslav campaign in Croatia",
+    "predicate": "Civilian casualties",
+    "object": "See the Aftermath section"
+  }
+]

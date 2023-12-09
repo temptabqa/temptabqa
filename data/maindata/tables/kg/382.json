@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "Jack the Ripper",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Jack the Ripper",
+    "predicate": "Born",
+    "object": "Unknown"
+  },
+  {
+    "subject": "Jack the Ripper",
+    "predicate": "Other names",
+    "object": "\"The Whitechapel Murderer\" | \"Leather Apron\""
+  },
+  {
+    "subject": "Jack the Ripper",
+    "predicate": "Motive",
+    "object": "Unknown. Possible sexual sadism and/or rage"
+  },
+  {
+    "subject": "Jack the Ripper",
+    "predicate": "Visual Representation",
+    "object": "Drawing of a man with a pulled-up collar and pulled-down hat walking alone on a street watched by a group of well-dressed men behind him | \"With the Vigilance Committee in the East End: A Suspicious Character\" from | The Illustrated London News | , | 13 October | 1888"
+  },
+  {
+    "subject": "Details",
+    "predicate": "Victims",
+    "object": "Unknown (5 canonical)"
+  },
+  {
+    "subject": "Details",
+    "predicate": "Date",
+    "object": "1888-1891(?) | (1888: 5 canonical)"
+  },
+  {
+    "subject": "Details",
+    "predicate": "Location(s)",
+    "object": "Whitechapel and Spitalfields, London, England (5 canonical)"
+  }
+]

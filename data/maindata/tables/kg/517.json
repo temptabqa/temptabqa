@@ -1,0 +1,127 @@
+[
+  {
+    "subject": "Davy Jones",
+    "predicate": "category",
+    "object": "racing"
+  },
+  {
+    "subject": "Davy Jones",
+    "predicate": "Nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Davy Jones",
+    "predicate": "Born",
+    "object": "( | 1964-06-01 | ) | June 1, 1964 | (age 58) | Chicago, Illinois"
+  },
+  {
+    "subject": "Davy Jones",
+    "predicate": "image",
+    "object": "DavyJonesSVRA2016 (cropped).jpg | Jones in 2016"
+  },
+  {
+    "subject": "Davy Jones",
+    "predicate": "last updated on",
+    "object": "September 17, 2014 | NASCAR driver"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Best finish in the championship",
+    "object": "46th (1995)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "First race",
+    "object": "1995 Daytona 500 (Daytona)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "Last race",
+    "object": "1995 Save Mart Supermarkets 300 (Sears Point)"
+  },
+  {
+    "subject": "NASCAR Cup Series career",
+    "predicate": "career stats",
+    "object": "7 races run over 1 year, Wins | Top tens | Poles: 0 | 0 | 0"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Best finish in the championship",
+    "object": "95th (1995)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "First race",
+    "object": "1995 Heartland Tailgate 175 (Topeka)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "Last race",
+    "object": "1996 Lund Look 225 (Topeka)"
+  },
+  {
+    "subject": "NASCAR Camping World Truck Series career",
+    "predicate": "career stats",
+    "object": "2 races run over 2 years, Wins | Top tens | Poles: 0 | 0 | 0"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "Best finish in the championship",
+    "object": "2nd (1996)"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "First race",
+    "object": "1996 Indianapolis 500 (Indianapolis Motor Speedway)"
+  },
+  {
+    "subject": "IndyCar Series career",
+    "predicate": "career stats",
+    "object": "1 race run over 1 year, Wins | Podiums | Poles: 0 | 1 | 0"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "Best finish in the championship",
+    "object": "22nd (1989)"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "First race",
+    "object": "1987 Indianapolis 500 (Indianapolis)"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "Last race",
+    "object": "1996 Monterey Grand Prix (Laguna Seca)"
+  },
+  {
+    "subject": "Champ Car career",
+    "predicate": "career stats",
+    "object": "16 races run over 6 years, Wins | Podiums | Poles: 0 | 0 | 0"
+  },
+  {
+    "subject": "24 Hours of Le Mans career",
+    "predicate": "Participating years",
+    "object": "1988-1991, 1996"
+  },
+  {
+    "subject": "24 Hours of Le Mans career",
+    "predicate": "Teams",
+    "object": "Silk Cut Jaguar, Joest Racing"
+  },
+  {
+    "subject": "24 Hours of Le Mans career",
+    "predicate": "Best finish",
+    "object": "1st (1996)"
+  },
+  {
+    "subject": "24 Hours of Le Mans career",
+    "predicate": "Class wins",
+    "object": "1 (1996)"
+  },
+  {
+    "subject": "24 Hours of Le Mans career",
+    "predicate": "career stats",
+    "object": "."
+  }
+]

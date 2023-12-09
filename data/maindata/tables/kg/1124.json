@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "A310",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "A310",
+    "predicate": "Role",
+    "object": "Wide-body aircraft | Type of aircraft"
+  },
+  {
+    "subject": "A310",
+    "predicate": "National origin",
+    "object": "Multinational"
+  },
+  {
+    "subject": "A310",
+    "predicate": "Manufacturer",
+    "object": "Airbus Industrie"
+  },
+  {
+    "subject": "A310",
+    "predicate": "Designer",
+    "object": "Airbus Industrie"
+  },
+  {
+    "subject": "A310",
+    "predicate": "First flight",
+    "object": "3 April 1982 | ; 40 years ago | ( | 1982-04-03 | )"
+  },
+  {
+    "subject": "A310",
+    "predicate": "Introduction",
+    "object": "April 1983 with Swissair"
+  },
+  {
+    "subject": "A310",
+    "predicate": "Status",
+    "object": "In limited service"
+  },
+  {
+    "subject": "A310",
+    "predicate": "Primary users",
+    "object": "Mahan Air | ULS Airlines Cargo | Iran Air"
+  },
+  {
+    "subject": "A310",
+    "predicate": "Produced",
+    "object": "1981-1998" 
+  },
+  {
+    "subject": "A310",
+    "predicate": "Number built",
+    "object": "255"
+  },
+  {
+      "subject": "A310",
+      "predicate": "Developed from",
+      "object": "Airbus A300"
+  },
+  {
+      "subject": "A310",
+      "predicate": "Variants",
+      "object": "Airbus A310 MRTT | Airbus CC-150 Polaris"
+  },
+  {
+      "subject": "A310",
+      "predicate": "Image",
+      "object": "Air Transat A310 (C-GTSF) @ LHR, Aug 2009.jpg"
+  },
+  {
+      "subject": "A310",
+      "predicate": "Image description",
+      "object": "An A310, landing gear and flaps extended, from Air Transat, formerly one of its largest operators"
+  }
+]

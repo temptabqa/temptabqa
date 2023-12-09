@@ -1,0 +1,77 @@
+[
+  {
+    "subject": "Bad Habits",
+    "predicate": "category",
+    "object": "album"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "cover art",
+    "object": "Nav - Bad Habits.png"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "deluxe edition cover art",
+    "object": "green tint instead of red and yellow, deluxe written on both sides"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "studio album",
+    "object": "Nav"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "released",
+    "object": "March 22, 2019"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "recorded",
+    "object": "2017-19"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "genre",
+    "object": "Hip hop, trap"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "length",
+    "object": "47, 34"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "label",
+    "object": "XO, Republic"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "producer",
+    "object": "Nav Goraya, AlexOnWeed, ATL Jacob, Austin Powerz, Cubeatz, DaHeala, DannyBoyStyles, Derek Wise, Frost, Khemasis, London on da Track, Mixx, Money Musik, OZ, Pro Logic, Rasta Papii, Rex Kudo, Tay Keith, Trouble Trouble, Westen Weiss, Wheezy, WondaGurl"
+  },
+  {
+    "subject": "Nav chronology",
+    "predicate": "sequence",
+    "object": "Reckless (2018), Bad Habits (2019), Good Intentions (2020)"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "single",
+    "object": "Know Me"
+  },
+  {
+    "subject": "Know Me",
+    "predicate": "released",
+    "object": "November 2, 2018"
+  },
+  {
+    "subject": "Bad Habits",
+    "predicate": "single",
+    "object": "Tap"
+  },
+  {
+    "subject": "Tap",
+    "predicate": "released",
+    "object": "May 7, 2019"
+  }
+]

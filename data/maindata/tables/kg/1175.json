@@ -1,0 +1,37 @@
+[
+  {
+    "subject": "FATE",
+    "predicate": "is a",
+    "object": "game"
+  },
+  {
+    "subject": "FATE",
+    "predicate": "has caption",
+    "object": "FATE"
+  },
+  {
+    "subject": "FATE",
+    "predicate": "has infobox-image",
+    "object": "Fate Core Cover (2013).jpg | Fate Core | (4th ed.) cover page"
+  },
+  {
+    "subject": "FATE",
+    "predicate": "has designers",
+    "object": "Leonard Balsera, Fred Hicks, Rob Donoghue"
+  },
+  {
+    "subject": "FATE",
+    "predicate": "has publishers",
+    "object": "Evil Hat Productions"
+  },
+  {
+    "subject": "FATE",
+    "predicate": "has publication",
+    "object": "2003 (1.0), 2003 (2.0), 2006 (3.0/Spirit of the Century) 2013 (4.0)"
+  },
+  {
+    "subject": "FATE",
+    "predicate": "belongs to genres",
+    "object": "Tabletop role-playing game, Universal setting"
+  }
+]

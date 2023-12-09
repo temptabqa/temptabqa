@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "category",
+    "object": "painter"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Born",
+    "object": "Pierre Auguste Cot | ( | 1837-02-17 | ) | 17 February 1837 | Bédarieux, Hérault, France"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Died",
+    "object": "2 August 1883 | (1883-08-02) | (aged 46) | Paris, France"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Resting place",
+    "object": "Père Lachaise Cemetery"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Nationality",
+    "object": "French"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Known for",
+    "object": "Painting"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Notable work",
+    "object": "Springtime | (1873) | The Storm | (1880)"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Movement",
+    "object": "Academic Classicism"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Awards",
+    "object": "Chevalier of the Legion of Honour"
+  },
+  {
+    "subject": "Pierre Auguste Cot",
+    "predicate": "Pierre Auguste Cot",
+    "object": "Bedarieux Monument de Pierre Auguste Cot par Antonin Mercié 1891.jpg | A bust of Cot at Pierre Auguste Cot Memorial, Bédarieux"
+  }
+]

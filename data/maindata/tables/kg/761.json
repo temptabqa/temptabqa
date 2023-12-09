@@ -1,0 +1,67 @@
+[
+{
+"subject": "Augustus",
+"predicate": "is",
+"object": "Princeps Civitatis"
+},
+{
+"subject": "Augustus",
+"predicate": "has",
+"object": "Statue of Augustus | Augustus of Prima Porta, 1st century"
+},
+{
+"subject": "Roman emperor",
+"predicate": "Reign",
+"object": "16 January 27 BC - | 19 August AD 14"
+},
+{
+"subject": "Roman emperor",
+"predicate": "Successor",
+"object": "Tiberius"
+},
+{
+"subject": "Roman emperor",
+"predicate": "Born",
+"object": "Gaius Octavius | 23 September 63 BC | Rome, Italy, Roman Republic"
+},
+{
+"subject": "Roman emperor",
+"predicate": "Died",
+"object": "19 August AD 14 (aged 75) | Nola, Italy, Roman Empire"
+},
+{
+"subject": "Roman emperor",
+"predicate": "Burial",
+"object": "Mausoleum of Augustus, Rome"
+},
+{
+"subject": "Roman emperor",
+"predicate": "Spouse",
+"object": "Claudia (42-40 BC; divorce) | Scribonia (40-38 BC; divorce) | Livia (37 BC-AD 14; his death)"
+},
+{
+"subject": "Roman emperor",
+"predicate": "Issue",
+"object": "Julia the Elder | Gaius Caesar (adopted) | Lucius Caesar (adopted) | Agrippa Postumus (adopted) | Tiberius (adopted)"
+},
+{
+"subject": "Regnal name",
+"predicate": "Dynasty",
+"object": "Julio-Claudian"
+},
+{
+"subject": "Regnal name",
+"predicate": "Father",
+"object": "Gaius Octavius | Julius Caesar (adoptive)"
+},
+{
+"subject": "Regnal name",
+"predicate": "Mother",
+"object": "Atia"
+},
+{
+"subject": "Regnal name",
+"predicate": "is",
+"object": "Imperator Caesar Augustus"
+}
+]

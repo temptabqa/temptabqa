@@ -1,0 +1,108 @@
+[
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "category",
+    "object": "swimming"
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "infobox-image",
+    "object": "Medallistas de los 100m mariposa femenino en Londres 2012-2 (Alicia Coutts cropped).jpg | Coutts at the 2012 Summer Olympics"
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Full name",
+    "object": "Alicia Jayne Coutts"
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Nickname(s)",
+    "object": "\"Couttsy\", \"Leshy\""
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "National team",
+    "object": "Australia"
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Born",
+    "object": "14 September 1987 | (age 34) | Brisbane, Queensland"
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Height",
+    "object": "1.76 m (5 ft 9 in)"
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Weight",
+    "object": "70 kg (154 lb)"
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Sport",
+    "object": {
+      "Event": [
+        "1 | st | 2 | nd | 3 | rd", "Olympic Games | 1 | 3 | 1", 
+        "World Championships (LC) | 0 | 7 | 1", "Pan Pacific Championships | 2 | 3 | 1", 
+        "Commonwealth Games | 8 | 1 | 0", "Total | 11 | 14 | 3"
+      ],
+      "Strokes": "Butterfly, freestyle, medley",
+      "Club": "Redlands Swim Club",
+      "Coach": "John Fowlie"
+    }
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Olympic Games",
+    "object": [
+      "Gold medal - first place | 2012 London | 4×100 m freestyle",
+      "Silver medal - second place | 2012 London | 200 m medley",
+      "Silver medal - second place | 2012 London | 4×200 m freestyle",
+      "Silver medal - second place | 2012 London | 4×100 m medley",
+      "Bronze medal - third place | 2012 London | 100 m butterfly"
+    ]
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "World Championships (LC)",
+    "object": [
+      "Silver medal - second place | 2011 Shanghai | 100 m butterfly",
+      "Silver medal - second place | 2011 Shanghai | 200 m medley",
+      "Silver medal - second place | 2013 Barcelona | 100 m butterfly",
+      "Silver medal - second place | 2013 Barcelona | 200 m medley",
+      "Silver medal - second place | 2013 Barcelona | 4×100 m freestyle",
+      "Silver medal - second place | 2013 Barcelona | 4×200 m freestyle",
+      "Silver medal - second place | 2013 Barcelona | 4×100 m medley",
+      "Bronze medal - third place | 2011 Shanghai | 4×100 m medley"
+    ]
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Pan Pacific Championships",
+    "object": [
+      "Gold medal - first place | 2014 Gold Coast | 100 m butterfly",
+      "Gold medal - first place | 2014 Gold Coast | 4×100 m medley",
+      "Silver medal - second place | 2010 Irvine | 4×100 m freestyle",
+      "Silver medal - second place | 2010 Irvine | 4×100 m medley",
+      "Silver medal - second place | 2014 Gold Coast | 200 m medley",
+      "Bronze medal - third place | 2010 Irvine | 100 m butterfly"
+    ]
+  },
+  {
+    "subject": "Alicia Coutts",
+    "predicate": "Commonwealth Games",
+    "object": [
+      "Gold medal - first place | 2010 Delhi | 100 m freestyle",
+      "Gold medal - first place | 2010 Delhi | 100 m butterfly",
+      "Gold medal - first place | 2010 Delhi | 200 m medley",
+      "Gold medal - first place | 2010 Delhi | 4×100 m freestyle",
+      "Gold medal - first place | 2010 Delhi | 4×100 m medley",
+      "Gold medal - first place | 2014 Glasgow | 4×100 m freestyle",
+      "Gold medal - first place | 2014 Glasgow | 4×200 m freestyle",
+      "Gold medal - first place | 2014 Glasgow | 4×100 m medley",
+      "Silver medal - second place | 2014 Glasgow | 200 m medley"
+    ]
+  }
+]

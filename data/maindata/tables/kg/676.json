@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "type",
+    "object": "athelete"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "image",
+    "object": "Hannes Kolehmainen 1920 crop.jpg"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "born",
+    "object": "9 December 1889, Kuopio, Finland"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "died",
+    "object": "11 January 1966 (aged 76), Helsinki, Finland"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "height",
+    "object": "1.68 m (5 ft 6 in)"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "weight",
+    "object": "57 kg (126 lb)"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "sport",
+    "object": "running"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "club",
+    "object": "Helsingin Jyry, FAAC, New York"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "representing",
+    "object": "Finland"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "Olympic Games achievement",
+    "object": "Gold medal - first place, 1912 Stockholm, 5000 metres"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "Olympic Games achievement",
+    "object": "Gold medal - first place, 1912 Stockholm, 10000 metres"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "Olympic Games achievement",
+    "object": "Gold medal - first place, 1912 Stockholm, Individual cross country"
+  },
+  {
+    "subject": "Hannes Kolehmainen",
+    "predicate": "Olympic Games achievement",
+    "object": "Gold medal - first place, 1920 Antwerp, Marathon"
+  },
+  {
+        "subject": "Hannes Kolehmainen",
+    "predicate": "Olympic Games achievement",
+    "object": "Silver medal - second place, 1912 Stockholm, Team cross country"
+  }
+]

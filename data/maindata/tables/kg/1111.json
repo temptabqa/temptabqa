@@ -1,0 +1,26 @@
+[
+  {"subject": "Maori", "predicate": "category", "object": "ship"},
+  {"subject": "Maori", "predicate": "namesake", "object": "Māori people"},
+  {"subject": "Maori", "predicate": "ordered", "object": "10 March 1936"},
+  {"subject": "Maori", "predicate": "builder", "object": "Fairfield Shipbuilding and Engineering Company, Govan"},
+  {"subject": "Maori", "predicate": "cost", "object": "£340,622"},
+  {"subject": "Maori", "predicate": "laid down", "object": "6 July 1936"},
+  {"subject": "Maori", "predicate": "launched", "object": "2 September 1937"},
+  {"subject": "Maori", "predicate": "completed", "object": "30 November 1938"},
+  {"subject": "Maori", "predicate": "commissioned", "object": "5 December 1938"},
+  {"subject": "Maori", "predicate": "identification", "object": "Pennant numbers: L24/F24/G24"},
+  {"subject": "Maori", "predicate": "fate", "object": "Sunk by aircraft, 12 February 1942"},
+
+  {"subject": "Maori", "predicate": "class and type", "object": "Tribal-class destroyer"},
+  {"subject": "Maori", "predicate": "displacement", "object": "1,891 long tons (1,921 t) (standard) | 2,519 long tons (2,559 t) (deep load)"},
+  {"subject": "Maori", "predicate": "length", "object": "377 ft (114.9 m) (o/a)"},
+  {"subject": "Maori", "predicate": "beam", "object": "36 ft 6 in (11.13 m)"},
+  {"subject": "Maori", "predicate": "draught", "object": "11 ft 3 in (3.43 m)"},
+  {"subject": "Maori", "predicate": "installed power", "object": "3 × Admiralty 3-drum boilers | 44,000 shp (33,000 kW)"},
+  {"subject": "Maori", "predicate": "propulsion", "object": "2 × shafts; 2 × geared steam turbines"},
+  {"subject": "Maori", "predicate": "speed", "object": "36 knots (67 km/h; 41 mph)"},
+  {"subject": "Maori", "predicate": "range", "object": "5,700 nmi (10,600 km; 6,600 mi) at 15 knots (28 km/h; 17 mph)"},
+  {"subject": "Maori", "predicate": "complement", "object": "190"},
+  {"subject": "Maori", "predicate": "sensors and processing systems", "object": "ASDIC"},
+  {"subject": "Maori", "predicate": "armament", "object": "4 × twin 4.7 in (120 mm) guns | 1 × quadruple 2-pdr (40 mm (1.6 in)) AA guns | 2 × quadruple 0.5 in (12.7 mm) anti-aircraft machineguns | 1 × quadruple 21 in (533 mm) torpedo tubes | 20 × depth charges, 1 × rack, 2 × throwers"}
+]

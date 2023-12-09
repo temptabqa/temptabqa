@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "category",
+    "object": "painter"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Born",
+    "object": "Thomas Cowperthwait Eakins | ( | 1844-07-25 | ) | July 25, 1844 | Philadelphia, Pennsylvania, United States"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Died",
+    "object": "June 25, 1916 | (1916-06-25) | (aged 71) | Philadelphia, Pennsylvania, United States"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Nationality",
+    "object": "American"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Education",
+    "object": "Pennsylvania Academy of the Fine Arts, École des Beaux-Arts"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Known for",
+    "object": "Painting, sculpture"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Notable work",
+    "object": "Max Schmitt in a Single Scull | , 1871 | The Gross Clinic | , 1875 | The Agnew Clinic | , 1889 | William Rush and His Model | , 1908"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Movement",
+    "object": "Realism"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Awards",
+    "object": "National Academician"
+  },
+  {
+    "subject": "Thomas Eakins",
+    "predicate": "Self portrait",
+    "object": "Eakins selfportrait.jpg | Self portrait | (1902) | National Academy of Design, New York"
+  }
+]

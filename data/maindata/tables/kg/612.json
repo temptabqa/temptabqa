@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "category",
+    "object": "university"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "infobox-image",
+    "object": "Logo EPFL.svg"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Other name",
+    "object": "Swiss Federal Institute of Technology in Lausanne, French | le Poly | (colloquially)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Type",
+    "object": "Public"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Established",
+    "object": "1853 | ; 169 years ago | ( | 1853 | ) | (École spéciale de Lausanne) | 1969 (Federal status)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Budget",
+    "object": "1,063 million CHF (2020)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "President",
+    "object": "Martin Vetterli"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Academic staff",
+    "object": "3,971 (2016)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Administrative staff",
+    "object": "1,195 (2016)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Students",
+    "object": "11,449 (headcount 2019, 29.4% female, 57.4% foreign nationals)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Undergraduates",
+    "object": "5,736 (2019)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Postgraduates",
+    "object": "5,713 (2019)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Location",
+    "object": "Écublens (near Lausanne) | , | Canton of Vaud | , | Switzerland | .mw-parser-output .geo-dec,.mw-parser-output .geo-default,.mw-parser-output .geo-dms{display:inline}.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-nondefault{display:none}.mw-parser-output .latitude,.mw-parser-output .longitude{white-space:nowrap} | 46°31′13″N | 6°33′56″E | / | 46.52028°N 6.56556°E | / | 46.52028; 6.56556 | Coordinates | 46°31′13″N | 6°33′56″E | / | 46.52028°N 6.56556°E | / | 46.52028; 6.56556"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Campus",
+    "object": "Urban"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Language",
+    "object": "French, English (only Masters and upwards)"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Nationalities",
+    "object": "125+"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Colours",
+    "object": ".mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid #000;background-color:transparent;color:#000} | Swiss red"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Affiliations",
+    "object": "AUF, EUA, EuroTech, CLUSTER, RESCIF and TIME"
+  },
+  {
+    "subject": "École polytechnique fédérale de Lausanne",
+    "predicate": "Website",
+    "object": "www.epfl.ch"
+  }
+]

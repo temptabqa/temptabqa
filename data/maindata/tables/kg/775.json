@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "category",
+    "object": "skier"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "Country",
+    "object": "Germany"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "Born",
+    "object": "( | 1955-08-08 | ) | 8 August 1955 | (age 66) | Hammerunterwiesenthal, East Germany"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "Ski club",
+    "object": "SC Traktor Oberwiesenthal"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "event",
+    "object": "Women's cross-country skiing"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "representing",
+    "object": "East Germany"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "Olympic Games achievement",
+    "object": "Gold medal - first place | 1980 Lake Placid | 10 km"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "Olympic Games achievement",
+    "object": "Gold medal - first place | 1980 Lake Placid | 4 × 5 km relay"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "Olympic Games achievement",
+    "object": "Bronze medal - third place | 1976 Innsbruck | 4 × 5 km relay"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "World Championships achievement",
+    "object": "Silver medal - second place | 1974 Falun | 10 km"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "World Championships achievement",
+    "object": "Silver medal - second place | 1974 Falun | 4 × 5 km relay"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "World Championships achievement",
+    "object": "Silver medal - second place | 1978 Lahti | 4 × 5 km relay"
+  },
+  {
+    "subject": "Barbara Petzold",
+    "predicate": "World Championships achievement",
+    "object": "Bronze medal - third place | 1982 Oslo | 4 × 5 km relay"
+  }
+]

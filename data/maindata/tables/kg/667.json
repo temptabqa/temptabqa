@@ -1,0 +1,59 @@
+[
+  {
+    "subject": "Carl Osburn",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Carl Osburn",
+    "predicate": "caption",
+    "object": "Carl Osburn"
+  },
+  {
+    "subject": "Carl Osburn",
+    "predicate": "infobox-image",
+    "object": "Carl Osburn.jpg"
+  },
+  {
+    "subject": "Carl Osburn",
+    "predicate": "Born",
+    "object": "November 5, 1884, Jacksontown, Ohio, United States"
+  },
+  {
+    "subject": "Carl Osburn",
+    "predicate": "Died",
+    "object": "December 28, 1966, St. Helena, California, United States"
+  },
+  {
+    "subject": "Carl Osburn",
+    "predicate": "Height",
+    "object": "1.80 m (5 ft 11 in)"
+  },
+  {
+    "subject": "Carl Osburn",
+    "predicate": "Sport",
+    "object": "Sport shooting"
+  },
+  {
+    "subject": "Carl Osburn",
+    "predicate": "Representing",
+    "object": "United States"
+  },
+  {
+    "subject": "Carl Osburn",
+    "predicate": "Olympic Games",
+    "object": [
+      "Gold medal - first place | 1912 Stockholm | Team rifle",
+      "Gold medal - first place | 1920 Antwerp | 300 m military rifle, standing",
+      "Gold medal - first place | 1920 Antwerp | 300 m team military rifle, prone",
+      "Gold medal - first place | 1920 Antwerp | 300 + 600 m team military rifle, prone",
+      "Gold medal - first place | 1920 Antwerp | Team free rifle",
+      "Silver medal - second place | 1912 Stockholm | 600 m free rifle",
+      "Silver medal - second place | 1912 Stockholm | 300 m military rifle, three positions",
+      "Silver medal - second place | 1920 Antwerp | 300 m team military rifle, standing",
+      "Silver medal - second place | 1924 Paris | 600 m free rifle",
+      "Bronze medal - third place | 1912 Stockholm | 50 m team small-bore rifle",
+      "Bronze medal - third place | 1920 Antwerp | 100 m team running deer, single shots"
+    ]
+  }
+]

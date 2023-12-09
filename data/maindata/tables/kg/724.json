@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "category",
+    "object": "monument"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "image",
+    "object": "Panama Canal Map EN.png | A schematic of the Panama Canal, illustrating the sequence of locks and passages"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "length",
+    "object": "82 km (51 miles)"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "maximum boat length",
+    "object": "366 m (1,200 ft 9 in)"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "maximum boat beam",
+    "object": "49 m (160 ft 9 in) | (originally 28.5 m or 93 ft 6 in)"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "maximum boat draft",
+    "object": "15.2 m (50 ft)"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "locks",
+    "object": "3 locks up, 3 down per transit; all three lanes | (3 lanes of locks)"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "status",
+    "object": "Open, expansion opened June 26, 2016"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "navigation authority",
+    "object": "Panama Canal Authority"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "original owner",
+    "object": "Société internationale du Canal"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "principal engineer",
+    "object": "John Findley Wallace (1904-1905), John Frank Stevens (1905-1907), George Washington Goethals (1907-1914)"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "construction began",
+    "object": "May 4, 1904 | ; 117 years ago | ( | 1904-05-04 | )"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "date completed",
+    "object": "August 15, 1914 | ; 107 years ago | ( | 1914-08-15 | )"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "date extended",
+    "object": "June 26, 2016 | ; 5 years ago | ( | 2016-06-26 | )"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "start point",
+    "object": "Atlantic Ocean"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "end point",
+    "object": "Pacific Ocean"
+  },
+  {
+    "subject": "Panama Canal | Canal de Panamá",
+    "predicate": "connects to",
+    "object": "Pacific Ocean from Atlantic Ocean and vice versa"
+  }
+]

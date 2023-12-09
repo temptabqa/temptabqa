@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "category",
+    "predicate": "is",
+    "object": "music"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "image",
+    "object": "DJ Drama - 5000 Ones.jpg"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "type",
+    "object": "Single by DJ Drama featuring Nelly, T.I., Diddy, Yung Joc, Willie the Kid, Young Jeezy and Twista"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "from the album",
+    "object": "Gangsta Grillz: The Album"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "Released",
+    "object": "October 20, 2007"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "Recorded",
+    "object": "2007"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "Genre",
+    "object": "Hip hop"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "Length",
+    "object": "5 | 03 | (album version) | 4:47 (radio edit)"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "Label",
+    "object": "Grand Hustle, Atlantic"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "Songwriter(s)",
+    "object": "Gary White | Cornell Haynes Jr. | Clifford Harris | Jasiel Robinson | Willie the Kid | Jay Jenkins | Carl Mitchell | Phalon Alexander | David Oddsson"
+  },
+  {
+    "subject": "5000 Ones",
+    "predicate": "Producer(s)",
+    "object": "Jazze Pha"
+  },
+  {
+    "subject": "DJ Drama singles chronology",
+    "predicate": "has order",
+    "object": "Last Baby | (2006) | 5000 Ones | (2007) | Day Dreaming | (2009)"
+  },
+  {
+    "subject": "Nelly singles chronology",
+    "predicate": "has order",
+    "object": "Wadsyaname | (2007) | 5000 Ones | (2007) | Party People | (2008)"
+  },
+  {
+    "subject": "T.I. singles chronology",
+    "predicate": "has order",
+    "object": "Hurt | (2007) | 5000 Ones | (2007) | For a Minute | (2007)"
+  },
+  {
+    "subject": "Yung Joc singles chronology",
+    "predicate": "has order",
+    "object": "Bottle Poppin' | (2007) | 5000 Ones | (2007) | Portrait of Love | (2007)"
+  },
+  {
+    "subject": "Willie the Kid singles chronology",
+    "predicate": "has order",
+    "object": "Takin' Pictures | (2007) | 5000 Ones | (2007) | Love for Money | (2008)"
+  },
+  {
+    "subject": "Young Jeezy singles chronology",
+    "predicate": "has order",
+    "object": "Diamonds | (2007) | 5000 Ones | (2007) | 100 Million | (2007)"
+  },
+  {
+    "subject": "Twista singles chronology",
+    "predicate": "has order",
+    "object": "Spit Your Game | (2006) | 5000 Ones | (2007) | Give It Up | (2007)"
+  }
+]

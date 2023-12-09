@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Avro 504",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "Role",
+    "object": "Trainer, Fighter, Bomber | Type of aircraft"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "Manufacturer",
+    "object": "Avro"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "First flight",
+    "object": "18 September 1913"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "Introduction",
+    "object": "1913"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "Retired",
+    "object": "1934"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "Primary users",
+    "object": "Royal Flying Corps | Royal Naval Air Service"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "Produced",
+    "object": "1913-1932"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "Number built",
+    "object": "11,303 including Japanese, Soviet and other foreign production"
+  },
+  {
+    "subject": "Avro 504",
+    "predicate": "Related image",
+    "object": "Avro 504K - Shuttleworth Uncovered 2015 (23172958672).jpg"
+  }
+]

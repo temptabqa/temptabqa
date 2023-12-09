@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "category",
+    "object": "company"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Type",
+    "object": "Public"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Traded as",
+    "object": "NYSE: ALK | DJTA component | S&P 500 component"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Industry",
+    "object": "Transportation"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Founded",
+    "object": "1985"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Headquarters",
+    "object": "SeaTac, Washington"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Area served",
+    "object": "United States"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Key people",
+    "object": "Ben Minicucci (CEO), Brad Tilden (Chairman)"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Services",
+    "object": "Airline Services"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Revenue",
+    "object": "US$8.264 billion (2018)"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Operating income",
+    "object": "US$643 million (2018)"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Net income",
+    "object": "US$437 million (2018)"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Total assets",
+    "object": "US$10.91 billion (2018)"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Total equity",
+    "object": "US$3.751 billion (2018)"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Number of employees",
+    "object": "23,376 (2018)"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Subsidiaries",
+    "object": "Alaska Airlines, Horizon Air"
+  },
+  {
+    "subject": "Alaska Air Group, Inc.",
+    "predicate": "Website",
+    "object": "alaskaair.com"
+  }
+]

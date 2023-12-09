@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Insurgency in Khyber Pakhtunkhwa",
+    "predicate": "is part of",
+    "object": "the war on terror and the spillover of the War in Afghanistan (2001-2021)"
+  },
+  {
+    "subject": "Insurgency in Khyber Pakhtunkhwa",
+    "predicate": "Date",
+    "object": "16 March 2004 - present | (18 years, 3 months and 2 weeks)"
+  },
+  {
+    "subject": "Insurgency in Khyber Pakhtunkhwa",
+    "predicate": "Location",
+    "object": "Khyber Pakhtunkhwa province (including the former Federally Administered Tribal Areas), Pakistan"
+  },
+  {
+    "subject": "Insurgency in Khyber Pakhtunkhwa",
+    "predicate": "Status",
+    "object": "Ongoing (Low-level insurgency)"
+  },
+  {
+    "subject": "Pakistan Armed Forces",
+    "predicate": "is a belligerent in",
+    "object": "Insurgency in Khyber Pakhtunkhwa"
+  },
+  {
+    "subject": "Insurgents",
+    "predicate": "is a belligerent in",
+    "object": "Insurgency in Khyber Pakhtunkhwa"
+  },
+  {
+    "subject": "Shehbaz Sharif",
+    "predicate": "is a Commander and leader of",
+    "object": "Pakistan"
+  },
+  {
+    "subject": "Noor Wali Mehsud",
+    "predicate": "is a Commander and leader of",
+    "object": "Insurgents"
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "Strength",
+    "object": "200,000 Pakistani troops"
+  },
+  {
+    "subject": "Insurgents",
+    "predicate": "Strength",
+    "object": "~25,000 TTP militia"
+  },
+  {
+    "subject": "Pakistan",
+    "predicate": "Casualties and losses",
+    "object": "4,631 soldiers and LEAs killed (per SATP)"
+  },
+  {
+    "subject": "Insurgents",
+    "predicate": "Casualties and losses",
+    "object": "29,398 militants killed (per SATP)"
+  },
+  {
+    "subject": "Civilian",
+    "predicate": "Casualties and losses",
+    "object": "9,394 civilians and 1,946 unidentified killed (per SATP)"
+  }
+]

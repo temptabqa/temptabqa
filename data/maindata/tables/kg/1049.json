@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "category",
+    "object": "concert"
+  },
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "caption",
+    "object": "21st Century Breakdown World Tour"
+  },
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "Location",
+    "object": "Asia, Europe, North America, Oceania, South America"
+  },
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "Associated album",
+    "object": "21st Century Breakdown"
+  },
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "Start date",
+    "object": "July 3, 2009"
+  },
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "End date",
+    "object": "October 29, 2010"
+  },
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "Legs",
+    "object": "7"
+  },
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "Number of shows",
+    "object": "132"
+  },
+  {
+    "subject": "Green Day",
+    "predicate": "performed",
+    "object": "Susquehanna Bank Center in Camden, New Jersey, U.S. on August 3, 2010"
+  },
+  {
+    "subject": "Green Day concert chronology",
+    "predicate": "",
+    "object": ""
+  },
+  {
+    "subject": "American Idiot World Tour",
+    "predicate": "followed by",
+    "object": "21st Century Breakdown World Tour"
+  },
+  {
+    "subject": "21st Century Breakdown World Tour",
+    "predicate": "followed by",
+    "object": "99 Revolutions Tour"
+  }
+]

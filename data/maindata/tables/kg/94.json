@@ -1,0 +1,90 @@
+[
+  {
+    "subject": "Ida Álvares",
+    "predicate": "category",
+    "object": "volleyball"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "full name",
+    "object": "Ana Margarida Vieira Álvares"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "nickname",
+    "object": "Ida Álvares"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "nationality",
+    "object": "Brazilian"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "born",
+    "object": "22 January 1965 (age 57) São Paulo, Brazil"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "height",
+    "object": "1.78 m (5 ft 10 in)"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "weight",
+    "object": "64 kg (141 lb)"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "spike",
+    "object": "300 cm (118 in)"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "block",
+    "object": "282 cm (111 in)"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "position",
+    "object": "Middle blocker"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "national team",
+    "object": "Brazil"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "Olympic Games accomplishment",
+    "object": "Bronze medal - third place | 1996 Atlanta | Team"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "World Championship accomplishment",
+    "object": "Silver medal - second place | 1994 São Paulo | Team"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "World Cup accomplishment",
+    "object": "Silver medal - second place | 1995 Japan | Team"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "World Grand Champions Cup accomplishment",
+    "object": "Bronze medal - third place | 1997 Japan | Team"
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "World Grand Prix accomplishments",
+    "object": [
+      "Gold medal - first place | 1994 Shanghai | Team",
+      "Silver medal - second place | 1995 Beijing | Team"
+    ]
+  },
+  {
+    "subject": "Ida Álvares",
+    "predicate": "Pan American Games accomplishment",
+    "object": "Silver medal - second place | 1991 Havana | Team"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "subject": "athelete",
+    "predicate": "category",
+    "object": "United States at the 2020 Summer Olympics"
+  },
+  {
+    "subject": "United States at the 2020 Summer Olympics",
+    "predicate": "IOC code",
+    "object": "USA"
+  },
+  {
+    "subject": "United States at the 2020 Summer Olympics",
+    "predicate": "NOC",
+    "object": "United States Olympic & Paralympic Committee"
+  },
+  {
+    "subject": "United States at the 2020 Summer Olympics",
+    "predicate": "Website",
+    "object": "www.teamusa.org"
+  },
+  {
+    "subject": "United States at the 2020 Summer Olympics",
+    "predicate": "Flag",
+    "object": "Flag of the United States.svg | Flag of the United States"
+  },
+  {
+    "subject": "United States at the 2020 Summer Olympics",
+    "predicate": "Location",
+    "object": "Tokyo, Japan"
+  },
+  {
+    "subject": "Tokyo, Japan",
+    "predicate": "Competitors",
+    "object": "613 (285 men and 330 women) in 35 sports"
+  },
+  {
+    "subject": "Tokyo, Japan",
+    "predicate": "Flag bearers",
+    "object": "Eddy Alvarez | Sue Bird (opening) | Kara Winger (closing)"
+  },
+  {
+    "subject": "Tokyo, Japan",
+    "predicate": "Medals | Ranked 1st",
+    "object": "Gold | 39 | Silver | 41 | Bronze | 33 | Total | 113"
+  },
+  {
+    "subject": "United States",
+    "predicate": "Summer Olympics appearances (overview)",
+    "object": "1896 | 1900 | 1904 | 1908 | 1912 | 1920 | 1924 | 1928 | 1932 | 1936 | 1948 | 1952 | 1956 | 1960 | 1964 | 1968 | 1972 | 1976 | 1980 | 1984 | 1988 | 1992 | 1996 | 2000 | 2004 | 2008 | 2012 | 2016 | 2020"
+  },
+  {
+    "subject": "United States",
+    "predicate": "Other related appearances",
+    "object": "1906 Intercalated Games"
+  }
+]

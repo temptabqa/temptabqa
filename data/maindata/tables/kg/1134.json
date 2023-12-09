@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "Viking",
+    "predicate": "category",
+    "object": "space program"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "caption",
+    "object": "Viking"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "infobox-image",
+    "object": "Viking Orbiter releasing the lander.jpg | Artist impression of a Viking orbiter releasing a lander descent capsule"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Manufacturer",
+    "object": "Jet Propulsion Laboratory / Martin Marietta"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Country of origin",
+    "object": "United States"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Operator",
+    "object": "NASA / JPL"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Applications",
+    "object": "Mars orbiter/lander"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Specifications.Launch mass",
+    "object": "3,527 kilograms (7,776 lb)"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Specifications.Power",
+    "object": "Orbiters: 620 watts (solar array) | Lander: 70 watts (two RTG units)"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Specifications.Regime",
+    "object": "Areocentric"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Specifications.Design life",
+    "object": "Orbiters: 4 years at Mars | Landers: 4-6 years at Mars"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Production.Status",
+    "object": "Retired"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Production.Built",
+    "object": "2"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Production.Launched",
+    "object": "2"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Production.Retired",
+    "object": "Viking 1 | orbiter | August 17, 1980 | Viking 1 | lander | July 20, 1976 (landing) to November 13, 1982 | Viking 2 | orbiter | July 25, 1978 | Viking 2 | lander | September 3, 1976 (landing) to April 11, 1980"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Production.Maiden launch",
+    "object": "Viking 1 | August 20, 1975"
+  },
+  {
+    "subject": "Viking",
+    "predicate": "Production.Last launch",
+    "object": "Viking 2 | September 9, 1975"
+  }
+]

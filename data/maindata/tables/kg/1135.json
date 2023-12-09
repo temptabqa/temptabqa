@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_picture",
+    "object": "Woodside railway station 06.JPG"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_station",
+    "object": "Woodside railway station"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_status",
+    "object": "Open for passengers and freight"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_owner",
+    "object": "KiwiRail (infrastructure) | New Zealand Railways Corporation (land)"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "is_in_locale",
+    "object": "Wellington Region | Manawatū-Whanganui"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_termini",
+    "object": "Wellington | Woodville"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_stations",
+    "object": "27 current"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "is_type",
+    "object": "Secondary line"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_route_number",
+    "object": "WRL"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_operator",
+    "object": "Transdev Wellington, KiwiRail"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_rolling_stock",
+    "object": "DFT class locomotives | FP/FT class \"Matangi\" EMU | SW/SE class carriage"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_daily_ridership",
+    "object": "679,455 trips annually (2009)"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "opened",
+    "object": "14 April 1874 (to Lower Hutt) | 15 December 1875 (to Silverstream Bridge) | 1 February 1876 (to Upper Hutt) | 1 January 1878 (to Kaitoke) | 12 October 1878 (to Summit) | 16 October 1878 (to Featherston) | 14 May 1880 (to Woodside Junction) | 1 November 1880 (to Masterton) | 14 June 1886 (to Mauriceville) | 10 January 1887 (to Mangamahoe) | 8 April 1889 (to Eketāhuna) | 18 March 1896 (to Newman) | 3 May 1897 (to Pahiatua) | 11 December 1897 (to Woodville Junction)"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "closed",
+    "object": "28 February 1954 (Melling to Manor Park deviated) | 21 November 1954 (Haywards to Silverstream deviated) | 30 October 1955 (Upper Hutt to Featherston deviated)"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_line_length",
+    "object": "Currently 171.5 kilometres (106.6 mi) | Originally 186 kilometres (116 mi)"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_number_of_tracks",
+    "object": "Double (Wellington-Trentham) | Single (Trentham-Woodville)"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_character",
+    "object": "Urban, provincial, rural"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_track_gauge",
+    "object": "3 ft 6 in | ( | 1,067 mm | )"
+  },
+  {
+    "subject": "Wairarapa Line",
+    "predicate": "has_electrification",
+    "object": "1500 V DC Overhead | 14 September 1953 (Wellington to Taita) | 23 November 1953 (Petone to Lower Hutt) | 24 July 1955 (Taita to Upper Hutt)"
+  }
+]

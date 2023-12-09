@@ -1,0 +1,14 @@
+[
+  {"subject": "Pau Quemada", "predicate": "category", "object": "hockey"},
+  {"subject": "Pau Quemada", "predicate": "full_name", "object": "Pau Quemada Cadafalc"},
+  {"subject": "Pau Quemada", "predicate": "height", "object": "1.73 m (5 ft 8 in)"},
+  {"subject": "Pau Quemada", "predicate": "weight", "object": "69 kg (152 lb)"},
+  {"subject": "Pau Quemada", "predicate": "playing_position", "object": "Forward"},
+  {"subject": "Pau Quemada", "predicate": "current_club", "object": "Leuven"},
+  {"subject": "Pau Quemada", "predicate": "youth_career", "object": "Club Egara"},
+  {"subject": "Pau Quemada", "predicate": "senior_career", "object": {"Years": "Team", "0000 | -2005": "Club Egara", "2005-2006": "Laren", "2006-2009": "Leuven", "2009-2011": "Real Club de Polo", "2011-2016": "Leuven", "2016-2021": "Club Egara", "2021-present": "Leuven"}},
+  {"subject": "Pau Quemada", "predicate": "national_team", "object": {"Years | Team | Apps | (Gls)": "2003-2021 | Spain | 293 | (119)"}},
+  {"subject": "Pau Quemada", "predicate": "World_Cup", "object": "Bronze medal - third place | 2006 Mönchengladbach"},
+  {"subject": "Pau Quemada", "predicate": "EuroHockey_Championship", "object": "Silver medal - second place | 2019 Antwerp"},
+  {"subject": "Pau Quemada", "predicate": "Champions_Trophy", "object": "Silver medal - second place | 2011 Auckland"}  
+]

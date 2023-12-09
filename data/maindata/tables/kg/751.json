@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "category",
+    "object": "monument"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Address",
+    "object": "2100 Richard Arrington Jr. Blvd N | Birmingham, AL 35203-1102"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Location",
+    "object": "Druid Hills"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Owner",
+    "object": "Birmingham-Jefferson Civic Center Authority"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Operator",
+    "object": "Birmingham-Jefferson Civic Center Authority"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Inaugurated",
+    "object": "1976"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Opened",
+    "object": "January 1972"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Renovated",
+    "object": "2009, 2019-21"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Expanded",
+    "object": "2019-21"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Construction cost",
+    "object": "$104 million | ($768 million in 2021 dollars)"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Former names",
+    "object": "Birmingham-Jefferson Civic Center | (1976-98)"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Classroom-style | seating",
+    "object": "51 | (Medical Forum Classroom E)"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Banquet/ballroom",
+    "object": "2,900 | (Sheraton Ballroom) | 1,780 | (East Ballroom)"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Theatre seating",
+    "object": "47,100 | (Stadium) | 19,000 | (Arena) | 2,835 | (Concert hall) | 1,000 | (Theater) | 275 | (Forum Theater)"
+  },
+  {
+    "subject": "Birmingham-Jefferson Convention Complex",
+    "predicate": "Birmingham-Jefferson Convention Complex",
+    "object": ["BJCC Arena Nov 2011.jpg | Exterior view of the complex (c.2011)"]
+  },
+  {
+    "subject": "Enclosed space",
+    "predicate": "Exhibit hall floor",
+    "object": "220,000 square feet (20,000 m | 2 | )"
+  },
+  {
+    "subject": "Enclosed space",
+    "predicate": "Breakout/meeting",
+    "object": "100,000 square feet (9,300 m | 2 | )"
+  },
+  {
+    "subject": "Enclosed space",
+    "predicate": "Ballroom",
+    "object": "40,522 square feet (3,800 m | 2 | )"
+  },
+  {
+    "subject": "Website",
+    "predicate": "Website",
+    "object": ["Venue Website"]
+  }
+]

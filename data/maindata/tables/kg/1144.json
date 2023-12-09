@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "category",
+    "object": "agency"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "formed",
+    "object": "1982"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "preceding department",
+    "object": "Waterworks Office"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "jurisdiction",
+    "object": "Hong Kong"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "headquarters",
+    "object": "Immigration Tower, 7 Gloucester Road, Wan Chai, Hong Kong"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "coordinates",
+    "object": "22.280157, 114.172898"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "employees",
+    "object": "4,465 (March 2018)"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "annual budget",
+    "object": "HK$8,404.0m (2018-19)"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "minister responsible",
+    "object": "Michael Wong Wai-lun, Secretary for Development"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "deputy minister responsible",
+    "object": "Liu Chun-san, Under Secretary for Development"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "department executive",
+    "object": "Wong Chung-leung, Director of Water Supplies"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "parent department",
+    "object": "Development Bureau"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "key document",
+    "object": "Waterworks Ordinance (Cap. 102)"
+  },
+  {
+    "subject": "Water Supplies Department",
+    "predicate": "website",
+    "object": "Official website"
+  }
+]

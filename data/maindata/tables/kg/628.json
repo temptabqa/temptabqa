@@ -1,0 +1,79 @@
+[
+  {
+    "subject": "Satish Dhawan Space Centre (SDSC)",
+    "predicate": "category",
+    "object": "launchpad"
+  },
+  {
+    "subject": "Satish Dhawan Space Centre (SDSC)",
+    "predicate": "Location",
+    "object": "Sriharikota, Tirupati district, Andhra Pradesh, India"
+  },
+  {
+    "subject": "Satish Dhawan Space Centre (SDSC)",
+    "predicate": "Coordinates",
+    "object": "13.72°N 80.23°E"
+  },
+  {
+    "subject": "SDSC",
+    "predicate": "Short name",
+    "object": "Satish Dhawan Space Centre"
+  },
+  {
+    "subject": "Satish Dhawan Space Centre (SDSC)",
+    "predicate": "Operator",
+    "object": "ISRO, www.shar.gov.in"
+  },
+  {
+    "subject": "Satish Dhawan Space Centre (SDSC)",
+    "predicate": "Total launches",
+    "object": "83"
+  },
+  {
+    "subject": "Satish Dhawan Space Centre (SDSC)",
+    "predicate": "Launch pad(s)",
+    "object": "Three"
+  },
+  {
+    "subject": "Satish Dhawan Space Centre (SDSC)",
+    "predicate": "Launch history",
+    "object": {
+      "Status": "Active",
+      "First launch": "SLV / Rohini RS-1, 9 August 1979",
+      "Last launch": "LVM3 / OneWeb L14, 22 October 2022"
+    }
+  },
+  {
+    "subject": "SLV LP",
+    "predicate": "launch history",
+    "object": {
+      "Status": "Retired",
+      "Launches": "8",
+      "First launch": "9 August 1979 | SLV / Rohini RS-1",
+      "Last launch": "3 May 1994 | ASLV / SROSS-C2",
+      "Associated rockets": "SLV (retired) | ASLV (retired)"
+    }
+  },
+  {
+    "subject": "First Launch Pad",
+    "predicate": "launch history",
+    "object": {
+      "Status": "Active",
+      "Launches": "44",
+      "First launch": "20 September 1993 | PSLV-G / IRS-P1",
+      "Last launch": "7 August 2022 | SSLV / EOS-02",
+      "Associated rockets": "PSLV | GSLV | SSLV"
+    }
+  },
+  {
+    "subject": "Second Launch Pad",
+    "predicate": "launch history",
+    "object": {
+      "Status": "Active",
+      "Launches": "31",
+      "First launch": "5 May 2005 | PSLV-G / Cartosat-1",
+      "Last launch": "22 October 2022 | LVM3 / OneWeb L14",
+      "Associated rockets": "PSLV | GSLV | GSLV Mk III"
+    }
+  }
+]

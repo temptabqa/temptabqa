@@ -1,0 +1,137 @@
+[
+  {
+    "subject": "Geneva",
+    "predicate": "category",
+    "object": "country"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "description",
+    "object": "Municipality in Switzerland"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "image",
+    "object": "A view over Geneva and the lake"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "flag",
+    "object": "Flag of Geneva"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "coat_of_arms",
+    "object": "Coat of arms of Geneva"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "location",
+    "object": "Switzerland"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "location",
+    "object": "Canton of Geneva"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "country",
+    "object": "Switzerland"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "canton",
+    "object": "Geneva"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "district",
+    "object": "N/A"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "coordinates",
+    "object": "46°12′06″N 06°08′49″E"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "government_executive",
+    "object": "Conseil administratif with 5 members"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "mayor",
+    "object": "Frédérique Perler"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "government_parliament",
+    "object": "Conseil municipal with 80 members"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "area_total",
+    "object": "15.92 km2 (6.15 sq mi)"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "elevation",
+    "object": "375 m (1,230 ft)"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "highest_elevation",
+    "object": "457 m (1,499 ft)"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "lowest_elevation",
+    "object": "370 m (1,210 ft)"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "population",
+    "object": "201,818"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "population_density",
+    "object": "13,000/km2 (33,000/sq mi)"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "demonym",
+    "object": "Genevan or Genevese"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "time_zone",
+    "object": "UTC+01:00 (Central European Time)"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "time_zone_summer_DST",
+    "object": "UTC+02:00 (Central European Summer Time)"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "postal_codes",
+    "object": "1200, or 1201-09 Genève, 1213 Petit-Lancy, 1227 Les Acacias"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "SFOS_number",
+    "object": "6621"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "surrounded_by",
+    "object": "Carouge, Chêne-Bougeries, Cologny, Lancy, Grand-Saconnex, Pregny-Chambésy, Vernier, Veyrier"
+  },
+  {
+    "subject": "Geneva",
+    "predicate": "website",
+    "object": "geneve.ch"
+  }
+]

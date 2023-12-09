@@ -1,0 +1,80 @@
+[
+  {
+    "subject": "Péter Kovács",
+    "predicate": "category",
+    "object": "handball"
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "born",
+    "object": "8 April 1955 (age 67) in Budapest, Hungary"
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "nationality",
+    "object": "Hungarian"
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "height",
+    "object": "2.04 m (6 ft 8 in)"
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "playing position",
+    "object": "Left Back"
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "current club",
+    "object": "-"
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "senior club",
+    "object": {
+      "1970-1984": "Budapest Honvéd SE",
+      "1984-1988": "OSC Dortmund",
+      "1988-1990": "TV Grosswallstadt",
+      "1990-1991": "TUSEM Essen"
+    }
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "national team",
+    "object": {
+      "years": "1973-1995",
+      "team": "Hungary",
+      "appearances": 323,
+      "goals": 1797
+    }
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "teams managed",
+    "object": {
+      "Klagenfurt": "",
+      "1998": "Százhalombattai KE",
+      "1998-2003": "Hungary Women Junior",
+      "2003-2006": "SC Pick Szeged",
+      "2006-2007": "Dunaferr SE",
+      "2007": "Óbudai Goldberger SE",
+      "2007-2010": "Turkey Women",
+      "2010-2011": "CS Oltchim Rm. Vâlcea",
+      "2011-2012": "Békéscsabai Előre NKSE",
+      "2016": "Kisvárdai KC",
+      "2017-2018": "Vasas SC",
+      "2018-": "Szent István SE (junior team)"
+    }
+  },
+  {
+    "subject": "Péter Kovács",
+    "predicate": "World Championship performance",
+    "object": {
+      "type": "Silver medal - second place",
+      "year": 1986,
+      "country": "Switzerland",
+      "team": "Team"
+    }
+  }
+]

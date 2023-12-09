@@ -1,0 +1,21 @@
+[
+  {"subject": "Jacobs University Bremen", "predicate": "category", "object": "university"},
+  {"subject": "Jacobs University Bremen", "predicate": "Other name", "object": "JU Bremen, JUB or JU"},
+  {"subject": "Jacobs University Bremen", "predicate": "Former name", "object": "International University Bremen (IUB)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Motto", "object": "Inspiration is a Place"},
+  {"subject": "Jacobs University Bremen", "predicate": "Type", "object": "Private, Research, Coeducational higher education institution"},
+  {"subject": "Jacobs University Bremen", "predicate": "Established", "object": "2001"},
+  {"subject": "Jacobs University Bremen", "predicate": "Chairman", "object": "Tim Cordßen"},
+  {"subject": "Jacobs University Bremen", "predicate": "President", "object": "Thomas Auf der Heyde / Andrea Herzig-Erler"},
+  {"subject": "Jacobs University Bremen", "predicate": "Academic staff", "object": "250 (of which 62 are Professors)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Administrative staff", "object": "413 (2020)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Students", "object": "1550 (2020)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Undergraduates", "object": "1092 (2020)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Postgraduates", "object": "194 (2020)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Doctoral students", "object": "235 (2020)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Other students", "object": "35 (2020)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Location", "object": "Bremen, State of Bremen, Germany"},
+  {"subject": "Jacobs University Bremen", "predicate": "Campus", "object": "Suburban 80 acres (320,000 m2)"},
+  {"subject": "Jacobs University Bremen", "predicate": "Medium of Instruction", "object": "English"},
+  {"subject": "Jacobs University Bremen", "predicate": "Website", "object": "jacobs-university.de"}
+]

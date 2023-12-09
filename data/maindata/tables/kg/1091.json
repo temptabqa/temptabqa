@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "2005 Atlantic hurricane season",
+    "predicate": "category",
+    "object": "cyclone"
+  },
+  {
+    "subject": "2005 Atlantic hurricane season",
+    "predicate": "description",
+    "object": "Tracks of about 28 tropical storms, including 15 hurricanes, cluster in the Caribbean and Gulf of Mexico, with some scattered in the Atlantic. Seven hurricanes are major, and most of them make landfall on the U.S. Gulf coast."
+  },
+  {
+    "subject": "2005 Atlantic hurricane season",
+    "predicate": "season summary map",
+    "object": "Season summary map"
+  },
+  {
+    "subject": "Seasonal boundaries",
+    "predicate": "first system formed",
+    "object": "June 8, 2005"
+  },
+  {
+    "subject": "Seasonal boundaries",
+    "predicate": "last system dissipated",
+    "object": "January 6, 2006 | (record latest, tied with 1954)"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "name",
+    "object": "Wilma | (Most intense hurricane in the Atlantic basin)"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "maximum winds",
+    "object": "185 mph (295 km/h) | ( | 1-minute sustained | )"
+  },
+  {
+    "subject": "Strongest storm",
+    "predicate": "lowest pressure",
+    "object": "882 mbar (hPa; 26.05 inHg)"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "total depressions",
+    "object": "31 (record high, tied with 2020)"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "total storms",
+    "object": "28"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "hurricanes",
+    "object": "15 (record high)"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "major hurricanes | (Cat. 3+)",
+    "object": "7 (record high, tied with 2020)"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "total fatalities",
+    "object": "3,912 total"
+  },
+  {
+    "subject": "Seasonal statistics",
+    "predicate": "total damage",
+    "object": "$172.297 billion (2005 USD) | (Second-costliest tropical cyclone season on record)"
+  },
+  {
+    "subject": "Related articles",
+    "predicate": "related articles",
+    "object": "Timeline of the 2005 Atlantic hurricane season | 2005 Pacific hurricane season | 2005 Pacific typhoon season | 2005 North Indian Ocean cyclone season"
+  },
+  {
+    "subject": "Atlantic hurricane seasons | 2003, 2004, | 2005 | , 2006, 2007",
+    "predicate": "is part of",
+    "object": "2005 Atlantic hurricane season"
+  }
+]

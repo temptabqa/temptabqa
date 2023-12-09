@@ -1,0 +1,62 @@
+[
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "category",
+    "object": "cyclone"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "caption",
+    "object": "Hurricane Gaston"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Formed",
+    "object": "August 27, 2004"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Dissipated",
+    "object": "September 3, 2004"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Highest winds",
+    "object": "1-minute sustained | 75 mph (120 km/h)"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Lowest pressure",
+    "object": "985 mbar (hPa); 29.09 inHg"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Fatalities",
+    "object": "8 direct, 1 indirect"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Damage",
+    "object": "$130 million (2004 USD)"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Areas affected",
+    "object": "South Carolina, North Carolina, Virginia, Maryland, Delaware, Massachusetts"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Category 1 hurricane (SSHWS/NWS) image",
+    "object": "Gaston 2004-08-29 0710Z.jpg | Hurricane Gaston shortly after moving ashore on August 29"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Extratropical",
+    "object": "after September 1"
+  },
+  {
+    "subject": "Hurricane Gaston",
+    "predicate": "Part of",
+    "object": "2004 Atlantic hurricane season"
+  }
+]

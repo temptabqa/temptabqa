@@ -1,0 +1,55 @@
+[
+  {
+    "subject": "MB.150",
+    "predicate": "category",
+    "object": "aircraft"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "Role",
+    "object": "single seat Interceptor Fighter | Type of aircraft"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "Manufacturer",
+    "object": "SNCASO"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "Designer",
+    "object": "Maurice Roussel"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "First flight",
+    "object": "29 September 1937"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "Introduction",
+    "object": "1939"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "Status",
+    "object": "Retired"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "Primary users",
+    "object": "Armée de l'Air | Aéronavale | Armée de l'Air de l'Armistice | Royal Hellenic Air Force"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "Number built",
+    "object": "circa | \u2009663"
+  },
+  {
+    "subject": "MB.150",
+    "predicate": "MB.150",
+    "object": [
+      "Bloch MB.151 in flight 1938.jpg",
+      "MB.151 in flight, 1938"
+    ]
+  }
+]

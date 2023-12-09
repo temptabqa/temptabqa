@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "has_legislature",
+    "object": "2019-2024 legislature"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "has_Coat_of_arms_or_logo",
+    "object": "True"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Type",
+    "object": "Unicameral"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Term_limits",
+    "object": "None"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Speaker",
+    "object": "Liesbeth Homans, N-VA | since 2 October 2019"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Group_leaders_majority",
+    "object": "Wilfried Vandaele, N-VA | since 4 October 2019"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Group_leaders",
+    "object": "Chris Janssens, Vlaams Belang | since 25 June 2014"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Group_leaders_opposition",
+    "object": "Conner Rousseau, Forward | since 18 June 2019"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Seats",
+    "object": "124 | 118 from the Flemish Region | 6 from the Brussels-Capital Region"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Political_groups",
+    "object": "Government (69) | N-VA (35) | CD&V (19) | Open Vld (15) | Opposition (55) | Vlaams Belang (23) | Groen (14) | Forward (13) | PVDA (4) | Independent (1)"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Length_of_term",
+    "object": "5 years"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "related_structure",
+    "object": "Belgium Flanders Flemish Government 2019"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Voting_system",
+    "object": "Open list proportional representation (using D'Hondt method) within six constituencies, with 5% constituency electoral threshold"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Last_election",
+    "object": "26 May 2019"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Next_election",
+    "object": "2024"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Meeting_place_image",
+    "object": "Brussels - Vlaams Parlement.jpg"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Meeting_place",
+    "object": "Koepelzaal | , Flemish Parliament building, Brussels"
+  },
+  {
+    "subject": "Flemish Parliament",
+    "predicate": "Website",
+    "object": "http://www.vlaamsparlement.be/"
+  }
+]

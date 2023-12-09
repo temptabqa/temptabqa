@@ -1,0 +1,92 @@
+[
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "category",
+    "object": "earthquake"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "UTC time",
+    "object": "1965-03-28 16:33:16"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "ISC event",
+    "object": "858940"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "USGS-ANSS",
+    "object": "ComCat"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Local date",
+    "object": "March 28, 1965"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Local time",
+    "object": "12:33 pm CLST (UTC-03:00)"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Magnitude",
+    "object": "7.4-7.6 Mw 7.5 Ms"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Depth",
+    "object": "70.0 km"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Epicenter",
+    "object": "32.522°S 71.233°W"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Type",
+    "object": "Normal (Intraplate)"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Areas affected",
+    "object": "Chile"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Total damage",
+    "object": "$125 million USD (1965 rate)"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Maximum intensity",
+    "object": "IX (Violent)"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Tsunami",
+    "object": "None"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Landslides",
+    "object": "Yes"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Foreshocks",
+    "object": "Mw 6.2-6.4"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Aftershocks",
+    "object": "Yes"
+  },
+  {
+    "subject": "1965 Valparaíso earthquake",
+    "predicate": "Casualties",
+    "object": "400-500 dead"
+  }
+]

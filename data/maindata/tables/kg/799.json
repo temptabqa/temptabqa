@@ -1,0 +1,67 @@
+[
+  {
+    "subject": "Larry Scott",
+    "predicate": "category",
+    "object": "body builder"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "is",
+    "object": "Bodybuilder"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "image",
+    "object": "Bodybuilder Larry Scott.jpg"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Nickname",
+    "object": "The Legend, The Golden Boy"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Born",
+    "object": "October 12, 1938 in Blackfoot, Idaho, U.S."
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Died",
+    "object": "March 8, 2014 in Salt Lake City, Utah, U.S. at age 75"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Height",
+    "object": "5 ft 7 in (170 cm)"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Weight",
+    "object": "Contest: 205 lb (93 kg); Off season: 215 lb (98 kg)"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Pro-debut",
+    "object": "1959 Mr. Idaho in 1959"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Best win",
+    "object": "IFBB Mr. Olympia 1965-1967, two consecutive times"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Predecessor",
+    "object": "None"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Successor",
+    "object": "Sergio Oliva"
+  },
+  {
+    "subject": "Larry Scott",
+    "predicate": "Active",
+    "object": "1959-1966, 1979-1980"
+  }
+]

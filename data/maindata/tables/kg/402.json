@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "Barney Schultz",
+    "predicate": "category",
+    "object": "baseball"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "image",
+    "object": "Barney Schultz 1971.JPG | Schultz in 1971"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "born",
+    "object": "August 15, 1926, Beverly, New Jersey"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "died",
+    "object": "September 6, 2015, Willingboro, New Jersey (aged 89)"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "batted",
+    "object": "Right"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "threw",
+    "object": "Right"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "MLB debut",
+    "object": "April 12, 1955, for the St. Louis Cardinals"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "Last MLB appearance",
+    "object": "September 6, 1965, for the St. Louis Cardinals"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "Win-loss record",
+    "object": "20-20"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "Earned run average",
+    "object": "3.63"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "Saves",
+    "object": "35"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "teams as player",
+    "object": "St. Louis Cardinals (1955), Detroit Tigers (1959), Chicago Cubs (1961-1963), St. Louis Cardinals (1963-1965)"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "teams as coach",
+    "object": "St. Louis Cardinals (1971-1975), Chicago Cubs (1977), Nankai Hawks (1981-1982)"
+  },
+  {
+    "subject": "Barney Schultz",
+    "predicate": "career highlights and awards",
+    "object": "1.64 earned run average and 14 saves for 1964 Cardinals, Appeared in four games of 1964 World Series"
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "subject": "Don Schollander",
+    "predicate": "category",
+    "object": "swimming"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "infobox-image",
+    "object": "Don Schollander 1964.jpg | Schollander at the 1964 Olympics"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "full_name",
+    "object": "Donald Arthur Schollander"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "nickname",
+    "object": "Don"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "national_team",
+    "object": "United States"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "born",
+    "object": "April 30, 1946 (age 76) | Charlotte, North Carolina"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "height",
+    "object": "5 ft 11 in (1.80 m)"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "weight",
+    "object": "174 lb (79 kg)"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "sport",
+    "object": "Swimming"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "strokes",
+    "object": "Freestyle"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "club",
+    "object": "Santa Clara Swim Club"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "college_team",
+    "object": "Yale College"
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "OlympicGames",
+    "object": [
+      "Gold medal - first place | 1964 Tokyo | 100 m freestyle",
+      "Gold medal - first place | 1964 Tokyo | 400 m freestyle",
+      "Gold medal - first place | 1964 Tokyo | 4×100 m freestyle",
+      "Gold medal - first place | 1964 Tokyo | 4×200 m freestyle",
+      "Gold medal - first place | 1968 Mexico City | 4×200 m freestyle",
+      "Silver medal - second place | 1968 Mexico City | 200 m freestyle"
+    ]
+  },
+  {
+    "subject": "Don Schollander",
+    "predicate": "PanAmericanGames",
+    "object": [
+      "Gold medal - first place | 1967 Winnipeg | 200 m freestyle",
+      "Gold medal - first place | 1967 Winnipeg | 4×100 m freestyle",
+      "Gold medal - first place | 1967 Winnipeg | 4×200 m freestyle",
+      "Silver medal - second place | 1963 São Paulo | 400 m freestyle"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {"subject": "Tommy Armour", "predicate": "category", "object": "golf"},
+  {"subject": "Tommy Armour", "predicate": "image", "object": "TommyArmour1927.jpg | Armour in 1927"},
+  {"subject": "Tommy Armour", "predicate": "Full name", "object": "Thomas Dickson Armour"},
+  {"subject": "Tommy Armour", "predicate": "Nickname", "object": "The Silver Scot"},
+  {"subject": "Tommy Armour", "predicate": "Born", "object": "( | 1896-09-24 | ) | 24 September 1896 | Edinburgh, Scotland"},
+  {"subject": "Tommy Armour", "predicate": "Died", "object": "11 September 1968 | (1968-09-11) | (aged 71) | Larchmont, New York"},
+  {"subject": "Tommy Armour", "predicate": "Sporting nationality", "object": "Scotland | United States"},
+  {"subject": "Tommy Armour", "predicate": "College", "object": "University of Edinburgh"},
+  {"subject": "Tommy Armour", "predicate": "Turned professional", "object": "1924"},
+  {"subject": "Tommy Armour", "predicate": "Former tour(s)", "object": "PGA Tour"},
+  {"subject": "Tommy Armour", "predicate": "Professional wins", "object": "27"},
+  {"subject": "Tommy Armour", "predicate": "PGA Tour wins", "object": "25"},
+  {"subject": "Tommy Armour", "predicate": "Other wins", "object": "2"},
+  {"subject": "Tommy Armour", "predicate": "Masters Tournament", "object": "T8: 1937"},
+  {"subject": "Tommy Armour", "predicate": "PGA Championship", "object": "Won | : 1930"},
+  {"subject": "Tommy Armour", "predicate": "U.S. Open", "object": "Won | : 1927"},
+  {"subject": "Tommy Armour", "predicate": "The Open Championship", "object": "Won | : 1931"},
+  {"subject": "Tommy Armour", "predicate": "U.S. Amateur", "object": "T5: 1920"},
+  {"subject": "Tommy Armour", "predicate": "British Amateur", "object": "T33: 1920, 1921"},
+  {"subject": "Tommy Armour", "predicate": "World Golf Hall of Fame", "object": "1976 | (member page)"}
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "subject": "Mountain Time Zone",
+    "predicate": "category",
+    "object": "time zone"
+  },
+  {
+    "subject": "Mountain Time Zone",
+    "predicate": "type",
+    "object": "Time zone"
+  },
+  {
+    "subject": "Mountain Time Zone",
+    "predicate": "image",
+    "object": "Timezoneswest.PNG"
+  },
+  {
+    "subject": "MST",
+    "predicate": "UTC offset",
+    "object": "UTC-07:00"
+  },
+  {
+    "subject": "MDT",
+    "predicate": "UTC offset",
+    "object": "UTC-06:00"
+  },
+  {
+    "subject": "Current time",
+    "predicate": "MST",
+    "object": "05:33, June 28, 2022"
+  },
+  {
+    "subject": "Current time",
+    "predicate": "MDT",
+    "object": "06:33, June 28, 2022"
+  },
+  {
+    "subject": "Observance of DST",
+    "predicate": "status",
+    "object": "DST is observed in some of this time zone."
+  }
+]

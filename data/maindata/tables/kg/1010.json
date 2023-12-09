@@ -1,0 +1,87 @@
+[
+  {
+    "subject": "War of the Sixth Coalition",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "War of the Sixth Coalition",
+    "predicate": "Date",
+    "object": "3 March 1813 - 30 May 1814 | (1 year, 2 months, 3 weeks and 6 days)"
+  },
+  {
+    "subject": "War of the Sixth Coalition",
+    "predicate": "Location",
+    "object": "Central and Eastern Europe, the Low Countries, France"
+  },
+  {
+    "subject": "War of the Sixth Coalition",
+    "predicate": "Result",
+    "object": "Coalition victory | See section Aftermath"
+  },
+  {
+    "subject": "War of the Sixth Coalition",
+    "predicate": "Part of",
+    "object": "the Napoleonic Wars and the Coalition Wars"
+  },
+  {
+      "subject": "Belligerents",
+      "predicate": "Original coalition",
+      "object": "Russia | Prussia | United Kingdom | Mecklenburg-Schwerin | Portugal | Sardinia | Sicily | Spain | Spain | Sweden"
+  },
+  {
+      "subject": "Belligerents",
+      "predicate": "After the Armistice of Pläswitz",
+      "object": "Austria | Bavaria"
+  },
+  {
+      "subject": "Belligerents",
+      "predicate": "After the Battle of Leipzig",
+      "object": "Baden | Liechtenstein | Netherlands | Netherlands | Württemberg"
+  },
+  {
+      "subject": "Belligerents",
+      "predicate": "After November 20 1813",
+      "object": "Netherlands | Netherlands"
+  },
+  {
+      "subject": "Belligerents",
+      "predicate": "After January 1814",
+      "object": "Denmark | Denmark"
+  },
+  {
+      "subject": "Belligerents",
+      "predicate": "France",
+      "object": "Duchy of Warsaw | Italy | Naples | Until January 1814 | Confederation of the Rhine (many member states defected after Battle of Leipzig) | Denmark | Denmark-Norway | Co-belligerent | United States (War of 1812)"
+  },
+  {
+      "subject": "Commanders and leaders",
+      "predicate": "Coalition",
+      "object": "Russian Empire | Alexander I | Kingdom of Prussia | Frederick William III | Austrian Empire | Francis I | Kingdom of Bavaria | Maximilian I Joseph | Grand Duchy of Mecklenburg-Schwerin | Frederick Francis I | Frederick Augustus | Württemberg Frederick I | Netherlands | William I of Orange-Nassau | Sweden | Crown Prince Charles John | Spain | Ferdinand VII | United Kingdom of Great Britain and Ireland | Lord Robert Jenkinson | United Kingdom of Great Britain and Ireland | The Duke of Wellington"
+  },
+  {
+      "subject": "Commanders and leaders",
+      "predicate": "France",
+      "object": "First French Empire | Napoleon Bonaparte | Kingdom of Naples | Joachim Murat | Kingdom of Italy (Napoleonic) | Eugène de Beauharnais | Józef Poniatowski | †"
+  },
+  {
+      "subject": "Strength",
+      "predicate": "Coalition",
+      "object": "1813: 1,070,000"
+  },
+  {
+      "subject": "Strength",
+      "predicate": "France",
+      "object": "1813: 850,000"
+  },
+  {
+      "subject": "Casualties and losses",
+      "predicate": "Coalition",
+      "object": "526,000 | 391,000 killed and wounded | 135,000 captured and missing"
+  },
+  {
+      "subject": "Casualties and losses",
+      "predicate": "France",
+      "object": "668,900 | 103,300 killed | 320,600 wounded | 245,000 captured and missing"
+  }
+]

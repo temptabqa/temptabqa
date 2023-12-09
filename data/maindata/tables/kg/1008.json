@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "War of the Pacific",
+    "predicate": "category",
+    "object": "military conflict"
+  },
+  {
+    "subject": "War of the Pacific",
+    "predicate": "Date",
+    "object": "April 5, 1879 - October 20, 1883 (Chile-Peru Peace) Bolivia-Chile armistice in 1884; peace with Bolivia signed October 20, 1904"
+  },
+  {
+    "subject": "War of the Pacific",
+    "predicate": "Location",
+    "object": "Peru and Bolivia in Pacific coast of South America"
+  },
+  {
+    "subject": "War of the Pacific",
+    "predicate": "Result",
+    "object": "Chilean victory | Bolivia becomes a landlocked country."
+  },
+  {
+    "subject": "War of the Pacific",
+    "predicate": "Territorial | changes",
+    "object": "Litoral Department (Antofagasta) ceded by Bolivia to Chile in 1904. | Tarapacá Department ceded by Peru to Chile in 1884. | Puna de Atacama ceded by Bolivia to Chile and Argentina in 1889 and 1899 | Tacna Region occupied by Chile in 1885, returned to Peru in 1925. | Arica Province and Tacna Province occupied by Chile in"
+  },
+  {
+    "subject": "War of the Pacific",
+    "predicate": "Map",
+    "object": "Map of the War of the Pacific.en2.svg | Map showing changes of territory caused by the War of the Pacific. Earlier maps (1879) show different lines of the border between Bolivia-Peru and Bolivia-Argentina."
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Belligerents",
+    "object": "Bolivia | Peru | Chile"
+  },
+  {
+    "subject": "Presidents of Bolivia | H. Daza (1876-1879) | P.J.D. de Guerra (1879) | N. Campero (1879-1884) | Presidents of Peru | M.I. Prado (1876-1879) | L. La Puerta (1879) | N. de Piérola (1879-1881) | F. García C. (1881) | L. Montero F. (1881-1883) | M. Iglesias (1882-1885)",
+    "predicate": "Commanders and leaders",
+    "object": "Presidents of Chile | A. Pinto (1876-1881) | D. Santa María (1881-1886)"
+  },
+  {
+    "subject": "Bolivia | 1879 | (prewar) | Bolivian Army | 1,687 | Peru | Peruvian Army | 5,557 | Peruvian Navy | 4 ironclads | 7 wooden ships | 2 torpedo boats | 1880 | Peruvian Army | 25,000-35,000 men | (Army of Lima) | Peruvian Navy | 3 ironclads | 7 wooden ships | 2 torpedo boats",
+    "predicate": "Strength",
+    "object": "Chile | 1879 | (prewar) | Chilean Army | 2,440 men | Chilean Navy | 2 ironclads | 9 wooden ships | 4 torpedo boats | 1880 | Chilean Army | 27,000 ( | Ante | Lima) | 8,000 | (Occupation Force) | 6,000 | (Mainland) | Chilean Navy | 3 ironclads | 8 wooden ships | 10 torpedo boats"
+  },
+  {
+    "subject": "Killed and wounded | About 25,000 | Captured | About 9,000",
+    "predicate": "Casualties and losses",
+    "object": "Killed | 2,791-2,825 | Wounded | 7,193-7,347"
+  }
+]

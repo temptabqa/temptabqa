@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "90210",
+    "predicate": "category",
+    "object": "show"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Genre",
+    "object": "Teen drama"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Based on",
+    "object": "Beverly Hills, 90210 | by Darren Star"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Developed by",
+    "object": "Rob Thomas | Gabe Sachs | Jeff Judah"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Starring",
+    "object": "Rob Estes | Shenae Grimes | Tristan Wilds | AnnaLynne McCord | Dustin Milligan | Ryan Eggold | Jessica Stroup | Michael Steger | Lori Loughlin | Jessica Walter | Jessica Lowndes | Matt Lanter | Trevor Donovan | Gillian Zinser"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Theme music composer",
+    "object": "Liz Phair | Marc Dauer | Evan Frankfort"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Country of origin",
+    "object": "United States"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Original language",
+    "object": "English"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Number of seasons",
+    "object": "5"
+  },
+  {
+    "subject": "90210",
+    "predicate": "Number of episodes",
+    "object": "114 | (list of episodes)"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Executive producers",
+    "object": "Gabe Sachs | Jeff Judah | Rebecca Sinclair | Patricia Carr | Lara Olsen | David S. Rosenthal | Rob Thomas | Mark Piznarski"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Producers",
+    "object": "Shana Stein | Michael Pendell | Marjorie David | Tod Hammel | Wendey Stanzler | Paul Sciarrotta | Robert M. Rolsky | Sean Reycraft | D. Howard Grisby | Scott Weinger | Bob Roisky"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Production locations",
+    "object": "Beverly Hills, California | Mount St. Mary's College | Raleigh Manhattan Beach Studios | Tropicana Bar"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Running time",
+    "object": "the data shift"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Production companies",
+    "object": "Sachs/Judah Productions | (2008-2009) | (season 1) | CBS Productions | (2008-2012) | (seasons 1-4) | CBS Television Studios | (2012-2013) | (season 5)"
+  },
+  {
+    "subject": "Production",
+    "predicate": "Distributor",
+    "object": "CBS Television Distribution"
+  },
+  {
+    "subject": "Release",
+    "predicate": "Original network",
+    "object": "The CW"
+  },
+  {
+    "subject": "Release",
+    "predicate": "Picture format",
+    "object": "1080i (HDTV)"
+  },
+  {
+    "subject": "Release",
+    "predicate": "Original release",
+    "object": "September 2, 2008 |  (2008-09-02) | - | May 13, 2013 |  (2013-05-13)"
+  },
+  {
+    "subject": "Chronology",
+    "predicate": "Preceded by",
+    "object": "Beverly Hills, 90210 | Melrose Place | Models Inc."
+  },
+  {
+    "subject": "Chronology",
+    "predicate": "Followed by",
+    "object": "Melrose Place"
+  }
+]

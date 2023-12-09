@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Western Sahara conflict",
+    "predicate": "category",
+    "object": "war/conflict"
+  },
+  {
+    "subject": "Western Sahara conflict",
+    "predicate": "Date",
+    "object": "17 June 1970 - present | (52 years, 1 week and 3 days)"
+  },
+  {
+    "subject": "Western Sahara conflict",
+    "predicate": "Location",
+    "object": "Western Sahara"
+  },
+  {
+    "subject": "Western Sahara conflict",
+    "predicate": "Result",
+    "object": "Ongoing | Annexation of Western Sahara by the Morocco and Mauritania | Western Sahara War (1975-1991) | Mauritania's withdrawal of Western Sahara (1979) | First Sahrawi Intifada (1999-2004) | Second Sahrawi Intifada (2005) | Moroccan Western Sahara Wall sand wall built by the Morocco | Protests erupt against the Morocco in Western Sahara (2011) | Western Saharan clashes (2020-present) end ceasefire"
+  },
+  {
+    "subject": "Western Sahara conflict",
+    "predicate": "photo",
+    "object": "Polisario troops.jpg | Gathering of Sahrawi troops, near Tifariti (Western Sahara), celebrating the 32nd anniversary to the Polisario Front (2005)"
+  },
+  {
+    "subject": "Francoist Spain | Spain | (1970-1975) | Morocco | Mauritania | (1975-79) | Supported by | France | (1977-78) | United States | Saudi Arabia",
+    "predicate": "Belligerents",
+    "object": "Sahrawi Arab Democratic Republic | Sahrawi Republic | Supported by | Algeria | (1976-) | Libya | (1976-1984)"
+  },
+  {
+    "subject": "Spain | Francisco Franco # | (1970-75) | Morocco | Mohammed VI | (1999-present) | Morocco | Hassan II # | (1970-99) | Morocco | Ahmed Dlimi # | (1970-83) | Morocco | Abdelaziz Bennani | (1983-2014) | Morocco | Bouchaib Arroub | (2014-17) | Morocco | Abdelfattah Louarak | (2017-present) | Mauritania | Mokhtar Ould Daddah | (1970-78) | Mauritania | Mustafa Ould Salek | (1978-79) | France | Valéry Giscard d'Estaing | (1977-78)",
+    "predicate": "Commanders and leaders",
+    "object": "Sahrawi Arab Democratic Republic | Brahim Ghali | (2016-present) | Sahrawi Arab Democratic Republic | Mohamed Abdelaziz # | (1976-2016) | Sahrawi Arab Democratic Republic | El-Ouali Mustapha Sayed | † | (1976) | Sahrawi Arab Democratic Republic | Lahbib Ayoub | Algeria | Houari Boumediène # | (1970-78)"
+  },
+  {
+    "subject": "Strength",
+    "predicate": "Spain | 3,000 troops | (1973) | Morocco | 30,000 | (1976) | 150,000 | (1988) | Mauritania | 3,000-5,000 | (1976) | 18,000 | (1978) | 5,000 | (1976)",
+    "object": "Strength"
+  },
+  {
+    "subject": "Casualties and losses",
+    "predicate": "unknown | 2,155-2,300 captured | Mauritania | 2,000 soldiers killed | unknown",
+    "object": "Casualties and losses"
+  },
+  {
+    "subject": "Total | 14,000-21,000 killed overall | 40,000 | (1976) | ; 80,000 | (1977) | refugees",
+    "predicate": "",
+    "object": ""
+  }
+]

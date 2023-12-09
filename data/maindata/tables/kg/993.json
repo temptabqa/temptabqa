@@ -1,0 +1,51 @@
+[
+  {
+    "subject": "Israeli-Palestinian conflict",
+    "predicate": "category",
+    "object": "current war"
+  },
+  {
+    "subject": "Israeli-Palestinian conflict",
+    "predicate": "Date",
+    "object": "Mid-20th century - present | Main phase: 1964-1993"
+  },
+  {
+    "subject": "Israeli-Palestinian conflict",
+    "predicate": "Location",
+    "object": "Middle East | Primarily in Israel, West Bank, Gaza Strip and Lebanon"
+  },
+  {
+    "subject": "Israeli-Palestinian conflict",
+    "predicate": "Status",
+    "object": "Ongoing | Israeli-Palestinian peace process | low-level fighting, mainly between Israel and Gaza"
+  },
+  {
+    "subject": "Israeli-Palestinian conflict",
+    "predicate": "Territorial | changes",
+    "object": "Establishment and dissolution of Palestinian administration (1948-1959) in Gaza | Jordanian annexation of the West Bank (1948-1967) | Occupation of West Bank and Gaza by Israel in 1967 | Transition of \"A\" and \"B\" areas from Israeli Civil Administration to the Palestinian National Authority in 1994-1995 | Israeli disengagement from Gaza in 2005"
+  },
+  {
+    "subject": "Israeli-Palestinian conflict",
+    "predicate": "part of",
+    "object": ["Arab-Israeli conflict", "Iran-Israel proxy conflict"]
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "Supported by | United States (1967-) | France (1953-1967) | Lebanon | Free Lebanon State (1979-1984) | Forces Libanaises Flag.svg |  Lebanese Forces (1975-1990)",
+    "object": "Supported by | Arab League | Soviet Union (1965-1991) | Iran (1979-) | Pakistan (1947-)"
+  },
+  {
+    "subject": "Belligerents",
+    "predicate": "involved",
+    "object": [
+      "Israel",
+      "State of Palestine",
+      "All-Palestine (1948-1959)",
+      "Palestine Liberation Organization (1964-1993)",
+      "Palestinian National Authority (2000-2004)",
+      "Gaza Strip (2006-present)",
+      "Hamas (1987-present)",
+      "Islamic Jihad (1987-present)"
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "subject": "Gunde Svan",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Gunde Svan",
+    "predicate": "Country",
+    "object": "Sweden"
+  },
+  {
+    "subject": "Gunde Svan",
+    "predicate": "Full name",
+    "object": "Gunde Anders Svan"
+  },
+  {
+    "subject": "Gunde Svan",
+    "predicate": "Born",
+    "object": "12 January 1962 (age 59) in Dala-Järna, Sweden"
+  },
+  {
+    "subject": "Gunde Svan",
+    "predicate": "Spouse(s)",
+    "object": "Marie Svan"
+  },
+  {
+    "subject": "Gunde Svan",
+    "predicate": "Ski club",
+    "object": "Dala-Järna IK"
+  },
+  {
+    "subject": "Gunde Svan",
+    "predicate": "Gunde Svan",
+    "object": "20190225 Seefeld 3347 Gunde Svan.jpg | Gunde Svan in 2019"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Seasons",
+    "object": "10 - (1982-1991)"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Individual wins",
+    "object": "30"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Team wins",
+    "object": "9"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Individual podiums",
+    "object": "46"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Team podiums",
+    "object": "14"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Individual starts",
+    "object": "71"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Team starts",
+    "object": "14"
+  },
+  {
+    "subject": "World Cup career",
+    "predicate": "Overall titles",
+    "object": "5 - (1984-1986, 1988, 1989)"
+  },
+  {
+    "subject": "International nordic ski competitions",
+    "predicate": "Event",
+    "object": "1st, 2nd, 3rd"
+  },
+  {
+    "subject": "International nordic ski competitions",
+    "predicate": "Olympic Games",
+    "object": "4, 1, 1"
+  },
+  {
+    "subject": "International nordic ski competitions",
+    "predicate": "World Championships",
+    "object": "7, 3, 1"
+  },
+  {
+    "subject": "International nordic ski competitions",
+    "predicate": "Total",
+    "object": "11, 4, 2"
+  },
+  {
+    "subject": "Olympic Games",
+    "predicate": "Gold medal",
+    "object": "1984 Sarajevo 15 km, 1984 Sarajevo 4 × 10 km relay, 1988 Calgary 50 km freestyle, 1988 Calgary 4 × 10 km relay"
+  },
+  {
+    "subject": "Olympic Games",
+    "predicate": "Silver medal",
+    "object": "1984 Sarajevo 50 km"
+  },
+  {
+    "subject": "Olympic Games",
+    "predicate": "Bronze medal",
+    "object": "1984 Sarajevo 30 km"
+  },
+  {
+    "subject": "World Championships",
+    "predicate": "Gold medal",
+    "object": "1985 Seefeld 30 km, 1985 Seefeld 50 km, 1987 Oberstdorf 4 × 10 km relay, 1989 Lahti 15 km freestyle, 1989 Lahti 50 km freestyle, 1989 Lahti 4 × 10 km relay, 1991 Val di Fiemme 30 km classical"
+  },
+  {
+    "subject": "World Championships",
+    "predicate": "Silver medal",
+    "object": "1991 Val di Fiemme 15 km freestyle, 1991 Val di Fiemme 50 km freestyle, 1991 Val di Fiemme 4 × 10 km relay"
+  },
+  {
+    "subject": "World Championships",
+    "predicate": "Bronze medal",
+    "object": "1985 Seefeld 4 × 10 km relay"
+  },
+  {
+    "subject": "Junior World Championships",
+    "predicate": "Gold medal",
+    "object": "1982 Murau 3 × 5 km relay"
+  },
+  {
+    "subject": "Junior World Championships",
+    "predicate": "Silver medal",
+    "object": "1980 Örnsköldsvik 3 × 5 km relay, 1981 Schonach 3 × 5 km relay"
+  },
+  {
+    "subject": "Junior World Championships",
+    "predicate": "Bronze medal",
+    "object": "1981 Schonach 15 km"
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "subject": "German Bundestag | Deutscher Bundestag",
+    "predicate": "category",
+    "object": "legislature"
+  },
+  {
+    "subject": "German Bundestag | Deutscher Bundestag",
+    "predicate": "session",
+    "object": "20th Bundestag"
+  },
+  {
+    "subject": "German Bundestag | Deutscher Bundestag",
+    "predicate": "symbol",
+    "object": "Coat of arms or logo"
+  },
+  {
+    "subject": "History",
+    "predicate": "Established",
+    "object": "7 September 1949 | ; 72 years ago |  ( | 1949-09-07 | )"
+  },
+  {
+    "subject": "History",
+    "predicate": "Preceded by",
+    "object": "Reichstag (Nazi Germany, 1933-1945)"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "President of the Bundestag",
+    "object": "Bärbel Bas, SPD | since 26 October 2021"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Vice presidents of the Bundestag",
+    "object": "Aydan Özoğuz, SPD | since 26 October 2021"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Unnamed position",
+    "object": "Vacant | , AfD"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Father of the House",
+    "object": "Wolfgang Schäuble, CDU/CSU | since 26 October 2021"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Chancellor",
+    "object": "Olaf Scholz, SPD | since 8 December 2021"
+  },
+  {
+    "subject": "Leadership",
+    "predicate": "Leader of the Opposition",
+    "object": "Friedrich Merz, CDU/CSU | since 15 February 2022"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Seats",
+    "object": "736"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Political groups",
+    "object": "Government (416) | .mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid #000;background-color:transparent;color:#000} | SPD (206) | The Greens (118) | FDP (92) | Opposition (320) | Union (197) | CDU (152) | CSU (45) | AfD (80) | The Left (39) | Non-attached (4) | SSW (1) | AfD (1) | Centre (1) | Ind. (1)"
+  },
+  {
+    "subject": "Structure",
+    "predicate": "Structure illustration",
+    "object": "20thBundestagV2.svg"
+  },
+  {
+    "subject": "Elections",
+    "predicate": "Voting system",
+    "object": "Mixed-member proportional representation (MMP)"
+  },
+  {
+    "subject": "Elections",
+    "predicate": "Last election",
+    "object": "26 September 2021"
+  },
+  {
+    "subject": "Elections",
+    "predicate": "Next election",
+    "object": "On or before 26 October 2025"
+  },
+  {
+    "subject": "Meeting place",
+    "predicate": "Meeting place photo",
+    "object": "Deutscher Bundestag Plenarsaal Seitenansicht.jpg"
+  },
+  {
+    "subject": "Meeting place",
+    "predicate": "Meeting place address",
+    "object": "Reichstag building | Mitte, Berlin, Germany"
+  },
+  {
+    "subject": "Website",
+    "predicate": "Website",
+    "object": "www | .bundestag | .de | /en | Edit this at Wikidata"
+  },
+  {
+    "subject": "Rules",
+    "predicate": "Rules",
+    "object": "Rules of Procedure of the German Bundestag and Mediation Committee (English)"
+  }
+]

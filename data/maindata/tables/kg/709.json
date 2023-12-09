@@ -1,0 +1,97 @@
+[
+  {
+    "subject": "Tamara Press",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "caption",
+    "object": "Tamara Press"
+  },
+  {
+   "subject": "Tamara Press",
+   "predicate": "infobox-image",
+   "object": "Tamara Press 1964.jpg | Tamara Press at the 1964 Olympics"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Born",
+    "object": "10 May 1937 | Kharkiv, Ukrainian SSR, Soviet Union"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Died",
+    "object": "26 April 2021 | Moscow, Russia"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Height",
+    "object": "1.80 m (5 ft 11 in)"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Weight",
+    "object": "102 kg (225 lb)"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Sport",
+    "object": "Shot put, discus throw"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Club",
+    "object": "Trud Leningrad"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Olympic Games",
+    "object": "Gold medal - first place |  1960 Rome | Shot put"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Olympic Games",
+    "object": "Gold medal - first place |  1964 Tokyo | Shot put"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Olympic Games",
+    "object": "Gold medal - first place |  1964 Tokyo | Discus throw"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Olympic Games",
+    "object": "Silver medal - second place |  1960 Rome | Discus throw"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "European Championships",
+    "object": "Gold medal - first place |  1958 Stockholm | Discus throw"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "European Championships",
+    "object": "Gold medal - first place |  1962 Belgrade | Shot put"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "European Championships",
+    "object": "Gold medal - first place |  1962 Belgrade | Discus throw"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "European Championships",
+    "object": "Bronze medal - third place |  1958 Stockholm | Shot put"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Universiade",
+    "object": "Gold medal - first place |  1961 Sofia | Discus throw"
+  },
+  {
+    "subject": "Tamara Press",
+    "predicate": "Universiade",
+    "object": "Gold medal - first place |  1963 Porto Alegre | Discus throw"
+  }
+]

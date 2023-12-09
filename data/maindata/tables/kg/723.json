@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "All Saints' Church, Matlock Bank",
+    "predicate": "category",
+    "object": "church"
+  },
+  {
+    "subject": "All Saints' Church, Matlock Bank",
+    "predicate": "Location",
+    "object": "Matlock, Derbyshire"
+  },
+  {
+    "subject": "All Saints' Church, Matlock Bank",
+    "predicate": "Country",
+    "object": "England"
+  },
+  {
+    "subject": "All Saints' Church, Matlock Bank",
+    "predicate": "Denomination",
+    "object": "Church of England"
+  },
+  {
+    "subject": "All Saints' Church, Matlock Bank",
+    "predicate": "Website",
+    "object": "allsaintsmatlock.org.uk"
+  },
+  {
+    "subject": "History",
+    "predicate": "Dedication",
+    "object": "All Saints"
+  },
+  {
+    "subject": "History",
+    "predicate": "Consecrated",
+    "object": "17 September 1884"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Heritage designation",
+    "object": "Grade II listed"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Architect(s)",
+    "object": "Thomas Henry Healey"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Groundbreaking",
+    "object": "31 August 1882"
+  },
+  {
+    "subject": "Architecture",
+    "predicate": "Completed",
+    "object": "15 April 1884"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Province",
+    "object": "Canterbury"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Diocese",
+    "object": "Derby"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Archdeaconry",
+    "object": "Chesterfield"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Deanery",
+    "object": "Carsington"
+  },
+  {
+    "subject": "Administration",
+    "predicate": "Parish",
+    "object": "Matlock"
+  }
+]

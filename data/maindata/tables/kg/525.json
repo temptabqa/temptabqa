@@ -1,0 +1,39 @@
+[
+  {
+    "subject": "Spartacus",
+    "predicate": "category",
+    "object": "person"
+  },
+  {
+    "subject": "Spartacus",
+    "predicate": "Born",
+    "object": "c. 111 BC | Near the Strymon river in present-day Bulgaria"
+  },
+  {
+    "subject": "Spartacus",
+    "predicate": "Died",
+    "object": "71 BC (aged 39-40) | Near Sele River in Lucania, Italy"
+  },
+  {
+    "subject": "Spartacus",
+    "predicate": "Years of service",
+    "object": "73-71 BC"
+  },
+  {
+    "subject": "Spartacus",
+    "predicate": "Commands held",
+    "object": "Rebel slave army"
+  },
+  {
+    "subject": "Spartacus",
+    "predicate": "Battles/wars",
+    "object": "Third Servile War"
+  },
+  {
+    "subject": "Spartacus",
+    "predicate": "Spartacus",
+    "object": [
+      "Tod des Spartacus by Hermann Vogel.jpg | The Death of Spartacus | by Hermann Vogel (1882)"
+    ]
+  }
+]

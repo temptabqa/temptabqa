@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "has_image",
+    "object": "black and white portrait photograph of Edgar Adrian, wearing a shirt, tie and jacket"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "position",
+    "object": "49th President of the Royal Society"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "in_office",
+    "object": "1950-1955"
+  },
+  {
+    "subject": "In office | 1950-1955",
+    "predicate": "preceded_by",
+    "object": "Sir Robert Robinson"
+  },
+  {
+    "subject": "In office | 1950-1955",
+    "predicate": "succeeded_by",
+    "object": "Sir Cyril Norman Hinshelwood"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "born",
+    "object": "30 November 1889 | Hampstead, London, England"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "died",
+    "object": "4 August 1977 | (1977-08-04) | (aged 87) | Cambridge, England"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "nationality",
+    "object": "British"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "spouse",
+    "object": "Hester Adrian (m. 1923)"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "children",
+    "object": "Anne Keynes | Richard Adrian (1927-1995) | Jennet Campbell (b. 1927)"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "alma_mater",
+    "object": "Trinity College, Cambridge"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "awards",
+    "object": "Fellow of the Royal Society | Nobel Prize in Physiology or Medicine 1932 | Royal Medal (1934) | Copley Medal (1946) | Albert Medal (1953)"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "scientific_career_field",
+    "object": "Biology (electrophysiology)"
+  },
+  {
+    "subject": "The Right Honourable | The Lord Adrian | OM PRS",
+    "predicate": "scientific_career_institution",
+    "object": "University of Cambridge"
+  }
+]

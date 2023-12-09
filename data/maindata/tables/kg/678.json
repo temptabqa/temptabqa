@@ -1,0 +1,84 @@
+[
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "caption",
+    "object": "Ian Ferguson | MBE"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "infobox-image",
+    "object": "Ian ferguson.jpg"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Full name",
+    "object": "Ian Gordon Ferguson"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Nickname(s)",
+    "object": "Ferg"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Born",
+    "object": "20 June 1952 | Taumarunui, New Zealand"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Relatives",
+    "object": "Steven Ferguson (son)"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Country",
+    "object": "New Zealand"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Sport",
+    "object": "Canoe racing"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Event(s)",
+    "object": "canoe sprint"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Partner",
+    "object": "Paul MacDonald"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Olympic finals",
+    "object": "1980, 1984, 1988, 1992"
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "Olympic Games",
+    "object": [
+      "Gold medal - first place | 1984 Los Angeles | K-1 500 m",
+      "Gold medal - first place | 1984 Los Angeles | K-2 500 m",
+      "Gold medal - first place | 1984 Los Angeles | K-4 1000 m",
+      "Gold medal - first place | 1988 Seoul | K-2 500 m",
+      "Silver medal - second place | 1988 Seoul | K-2 1000 m"
+    ]
+  },
+  {
+    "subject": "Ian Ferguson",
+    "predicate": "World Championships",
+    "object": [
+      "Gold medal - first place | 1985 Mechelen | K-2 500 m",
+      "Gold medal - first place | 1987 Duisburg | K-2 1000 m",
+      "Silver medal - second place | 1983 Tampere | K-1 500 m",
+      "Silver medal - second place | 1987 Duisburg | K-2 500 m",
+      "Silver medal - second place | 1990 Poznań | K-2 10000 m"
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "subject": "Mars Express",
+    "predicate": "is a",
+    "object": "space probe"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "mission type",
+    "object": "Mars orbiter"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "operator",
+    "object": "ESA"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "COSPAR ID",
+    "object": "2003-022A"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "SATCAT number",
+    "object": "27816"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "website",
+    "object": "exploration.esa.int/mars"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "mission duration",
+    "object": "19 years and 1 month since launch; 18 years, 6 months and 7 days at Mars"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "launch mass",
+    "object": "1,120 kg (2,470 lb)"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "dry mass",
+    "object": "666 kg (1,468 lb)"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "power",
+    "object": "460 watts"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "launch date",
+    "object": "June 2, 2003, 17:45 UTC"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "rocket",
+    "object": "Soyuz-FG/Fregat"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "launch site",
+    "object": "Baikonur 31/6"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "contractor",
+    "object": "Starsem"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "orbital reference system",
+    "object": "Areocentric"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "eccentricity",
+    "object": "0.571"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "periareion altitude",
+    "object": "298 km (185 mi)"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "apoareion altitude",
+    "object": "10,107 km (6,280 mi)"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "inclination",
+    "object": "86.3 degrees"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "orbital period",
+    "object": "7.5 hours"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "spacecraft component",
+    "object": "Mars Express"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "orbital insertion",
+    "object": "December 25, 2003, 03:00 UTC"
+  },
+  {
+    "subject": "Beagle 2",
+    "predicate": "is a",
+    "object": "Mars lander"
+  },
+  {
+    "subject": "Beagle 2",
+    "predicate": "spacecraft component",
+    "object": "Mars Express"
+  },
+  {
+    "subject": "Beagle 2",
+    "predicate": "landing date",
+    "object": "December 25, 2003, 02:54 UTC"
+  },
+  {
+    "subject": "Mars Express",
+    "predicate": "mission insignia",
+    "object": "ESA Solar System insignia for the Mars Express mission"
+  }
+]

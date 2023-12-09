@@ -1,0 +1,32 @@
+[
+  {
+    "subject": "Paul Masson",
+    "predicate": "category",
+    "object": "athelete"
+  },
+  {
+    "subject": "Paul Masson",
+    "predicate": "Representing",
+    "object": "France"
+  },
+  {
+    "subject": "Paul Masson",
+    "predicate": "Olympic Games",
+    "object": "Gold medal - first place | 1896 Athens | Time trial"
+  },
+  {
+    "subject": "Paul Masson",
+    "predicate": "Olympic Games",
+    "object": "Gold medal - first place | 1896 Athens | 2 kilometres sprint"
+  },
+  {
+    "subject": "Paul Masson",
+    "predicate": "Olympic Games",
+    "object": "Gold medal - first place | 1896 Athens | 10 kilometres"
+  },
+  {
+    "subject": "Paul Masson",
+    "predicate": "World Championships",
+    "object": "Bronze medal - third place | 1897 Glasgow | Sprint"
+  }
+]
